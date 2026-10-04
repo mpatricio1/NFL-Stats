@@ -1,0 +1,693 @@
+game_id,week,team,side,type,yds,first_down,jersey,gsis_id,pos,name,grp
+2026_01_ARI_LAC,1,ARI,off,Offensive Holding,10,False,72,00-0035258,OL,Hjalte Froholdt,OL
+2026_01_ARI_LAC,1,ARI,off,False Start,4,False,89,00-0037004,TE,Hunter Long,WR
+2026_01_ARI_LAC,1,ARI,off,False Start,5,False,65,00-0033676,OL,Elijah Wilkinson,OL
+2026_01_ARI_LAC,1,LAC,off,Illegal Block Above the Waist,10,False,70,00-0037009,OL,Rashawn Slater,OL
+2026_01_ARI_LAC,1,ARI,def,Defensive Pass Interference,24,True,29,00-0040195,CB,Denzel Burke,DB
+2026_01_ARI_LAC,1,LAC,def,Defensive Pass Interference,24,True,26,00-0034356,CB,Donte Jackson,DB
+2026_01_ARI_LAC,1,ARI,off,Face Mask,15,False,70,00-0038540,OL,Paris Johnson Jr.,OL
+2026_01_ARI_LAC,1,LAC,off,False Start,5,False,76,00-0039897,OL,Joe Alt,OL
+2026_01_ARI_LAC,1,ARI,st,Kickoff Out of Bounds,0,False,38,00-0038567,K/P/LS,Chad Ryland,ST
+2026_01_ARI_LAC,1,ARI,def,Defensive Pass Interference,48,True,16,00-0039807,CB,Max Melton,DB
+2026_01_ARI_LAC,1,ARI,off,False Start,5,False,70,00-0038540,OL,Paris Johnson Jr.,OL
+2026_01_ARI_LAC,1,LAC,off,False Start,5,False,88,00-0038046,TE,Charlie Kolar,WR
+2026_01_ARI_LAC,1,LAC,off,False Start,5,False,66,00-0041392,OL,Jake Slaughter,OL
+2026_01_ARI_LAC,1,LAC,off,False Start,5,False,1,00-0038544,WR,Quentin Johnston,WR
+2026_01_ARI_LAC,1,LAC,off,Offensive Holding,10,False,66,00-0041392,OL,Jake Slaughter,OL
+2026_01_ATL_PIT,1,ATL,off,Offensive Holding,10,False,65,00-0039048,OL,Matthew Bergeron,OL
+2026_01_ATL_PIT,1,ATL,def,Defensive Holding,5,True,24,00-0036285,CB,A.J. Terrell,DB
+2026_01_ATL_PIT,1,ATL,def,Defensive Pass Interference,37,True,24,00-0036285,CB,A.J. Terrell,DB
+2026_01_ATL_PIT,1,ATL,st,Offensive Holding,10,False,42,00-0034801,LB,Josh Woods,ST
+2026_01_ATL_PIT,1,PIT,off,Face Mask,8,False,60,00-0037480,OL,Dylan Cook,OL
+2026_01_ATL_PIT,1,PIT,off,Delay of Game,4,False,,,,,TEAM
+2026_01_ATL_PIT,1,ATL,off,Offensive Holding,10,False,63,00-0035630,OL,Chris Lindstrom,OL
+2026_01_ATL_PIT,1,PIT,off,Offensive Pass Interference,10,False,4,00-0035640,WR,DK Metcalf,WR
+2026_01_ATL_PIT,1,ATL,off,Offensive Holding,10,False,70,00-0031279,OL,Jake Matthews,OL
+2026_01_ATL_PIT,1,ATL,st,Delay of Game,5,False,,,,,ST
+2026_01_ATL_PIT,1,PIT,def,Defensive Holding,5,True,94,00-0040188,DL,Yahya Black,FRONT
+2026_01_ATL_PIT,1,ATL,st,Illegal Block Above the Waist,9,False,29,00-0039002,S,Sydney Brown,ST
+2026_01_ATL_PIT,1,PIT,def,Defensive Holding,5,True,99,00-0040678,DL,Derrick Harmon,FRONT
+2026_01_ATL_PIT,1,PIT,def,Unnecessary Roughness,15,True,22,00-0036617,CB,Asante Samuel Jr.,DB
+2026_01_ATL_PIT,1,PIT,off,False Start,5,False,11,00-0036252,WR,Michael Pittman,WR
+2026_01_ATL_PIT,1,ATL,st,Kickoff Short of Landing Zone,0,False,16,00-0035280,K/P/LS,Jake Bailey,ST
+2026_01_BAL_IND,1,BAL,off,False Start,5,False,89,00-0034753,TE,Mark Andrews,WR
+2026_01_BAL_IND,1,BAL,off,Chop Block,15,False,79,00-0032965,OL,Ronnie Stanley,OL
+2026_01_BAL_IND,1,IND,st,Offensive Holding,10,False,95,00-0039031,DL,Adetomiwa Adebawore,ST
+2026_01_BAL_IND,1,BAL,off,False Start,5,False,79,00-0032965,OL,Ronnie Stanley,OL
+2026_01_BAL_IND,1,BAL,off,Offensive Holding,10,False,54,00-0038629,OL,Jovaughn Gwyn,OL
+2026_01_BAL_IND,1,BAL,off,Offensive Holding,10,False,71,00-0040866,OL,Olaivavega Ioane,OL
+2026_01_BAL_IND,1,IND,st,Offensive Holding,10,False,13,00-0032951,WR,Laquon Treadwell,ST
+2026_01_BAL_IND,1,BAL,off,Offensive Holding,10,False,71,00-0040866,OL,Olaivavega Ioane,OL
+2026_01_BAL_IND,1,BAL,off,Illegal Shift,5,False,,,,,TEAM
+2026_01_BAL_IND,1,BAL,st,Illegal Block Above the Waist,10,False,97,00-0040978,LB,Ethan Burke,ST
+2026_01_BAL_IND,1,BAL,off,False Start,5,False,43,00-0034975,RB,Justice Hill,RB
+2026_01_BAL_IND,1,IND,st,Offensive Holding,4,False,33,00-0041320,CB,Kenneth Harris,ST
+2026_01_BAL_IND,1,BAL,def,Defensive Pass Interference,11,True,24,00-0040688,S,Malaki Starks,DB
+2026_01_BAL_IND,1,IND,off,Delay of Game,5,False,,,,,TEAM
+2026_01_BUF_HOU,1,HOU,off,False Start,5,False,79,00-0040745,OL,Aireontae Ersery,OL
+2026_01_BUF_HOU,1,BUF,off,Offensive Too Many Men on Field,5,False,,,,,TEAM
+2026_01_BUF_HOU,1,BUF,off,Ineligible Downfield Pass,5,False,64,00-0038548,OL,O'Cyrus Torrence,OL
+2026_01_BUF_HOU,1,BUF,def,Defensive Holding,5,True,23,00-0037034,CB,Dee Alford,DB
+2026_01_BUF_HOU,1,BUF,def,Defensive Holding,5,True,3,00-0036888,S,Damar Hamlin,DB
+2026_01_BUF_HOU,1,HOU,def,Defensive Pass Interference,46,True,3,00-0039343,CB,Kamari Lassiter,DB
+2026_01_BUF_HOU,1,BUF,def,Defensive Holding,5,True,21,00-0041391,CB,Davison Igbinosun,DB
+2026_01_BUF_HOU,1,HOU,st,Offensive Holding,10,False,36,00-0034091,S,George Odum,ST
+2026_01_BUF_HOU,1,BUF,def,Defensive Pass Interference,21,True,47,00-0037288,CB,Christian Benford,DB
+2026_01_BUF_HOU,1,BUF,st,Offensive Holding,10,False,44,00-0039763,LB,Joe Andreessen,ST
+2026_01_BUF_HOU,1,HOU,off,Chop Block,15,False,32,00-0035685,RB,David Montgomery,RB
+2026_01_BUF_HOU,1,BUF,st,Illegal Blindside Block,14,False,28,00-0036037,S,Sam Franklin Jr.,ST
+2026_01_BUF_HOU,1,BUF,off,Offensive Holding,10,False,70,00-0037428,OL,Alec Anderson,OL
+2026_01_BUF_HOU,1,HOU,def,Roughing the Passer,15,True,97,00-0032265,DL,Mario Edwards,FRONT
+2026_01_BUF_HOU,1,HOU,off,Offensive Holding,10,False,79,00-0040745,OL,Aireontae Ersery,OL
+2026_01_BUF_HOU,1,BUF,def,Defensive Holding,5,True,96,00-0040710,DL,Deone Walker,FRONT
+2026_01_BUF_HOU,1,HOU,off,False Start,5,False,77,00-0032071,OL,Trent Brown,OL
+2026_01_CHI_CAR,1,CHI,off,Offensive Holding,10,False,15,00-0039919,WR,Rome Odunze,WR
+2026_01_CHI_CAR,1,CHI,def,Roughing the Passer,1,True,55,00-0036480,DL,Dayo Odeyingbo,FRONT
+2026_01_CHI_CAR,1,CHI,def,Defensive Offside,0,False,98,00-0035647,DL,Montez Sweat,FRONT
+2026_01_CHI_CAR,1,CAR,off,Offensive Pass Interference,9,False,88,00-0031610,TE,Darren Waller,WR
+2026_01_CHI_CAR,1,CHI,off,Offensive Holding,9,False,67,00-0035588,OL,Garrett Bradbury,OL
+2026_01_CHI_CAR,1,CHI,st,Kickoff Short of Landing Zone,0,False,8,00-0031203,K/P/LS,Cairo Santos,ST
+2026_01_CHI_CAR,1,CAR,st,Offensive Holding,10,False,27,00-0036356,S,Isaiah Simmons,ST
+2026_01_CHI_CAR,1,CAR,off,False Start,5,False,57,00-0041034,OL,Monroe Freeling,OL
+2026_01_CHI_CAR,1,CAR,st,Unnecessary Roughness,15,False,84,00-0040187,TE,Mitchell Evans,ST
+2026_01_CHI_CAR,1,CHI,st,Illegal Block Above the Waist,10,False,38,00-0041175,S,Skyler Thomas,ST
+2026_01_CHI_CAR,1,CHI,def,Illegal Use of Hands,2,True,55,00-0036480,DL,Dayo Odeyingbo,FRONT
+2026_01_CHI_CAR,1,CAR,off,Illegal Shift,5,False,,,,,TEAM
+2026_01_CHI_CAR,1,CHI,def,Defensive Offside,5,False,97,00-0036337,DL,James Lynch,FRONT
+2026_01_CHI_CAR,1,CAR,off,Offensive Holding,10,False,50,00-0036325,OL,Robert Hunt,OL
+2026_01_CHI_CAR,1,CHI,off,Delay of Game,5,False,,,,,TEAM
+2026_01_CHI_CAR,1,CHI,off,Offensive Holding,10,False,84,00-0040126,TE,Colston Loveland,WR
+2026_01_CHI_CAR,1,CAR,def,Roughing the Passer,10,True,95,00-0036220,DL,Derrick Brown,FRONT
+2026_01_CHI_CAR,1,CHI,st,Kickoff Short of Landing Zone,0,False,8,00-0031203,K/P/LS,Cairo Santos,ST
+2026_01_CHI_CAR,1,CAR,off,False Start,5,False,63,00-0037196,OL,Rasheed Walker,OL
+2026_01_CHI_CAR,1,CHI,off,Illegal Formation,5,False,,,,,TEAM
+2026_01_CHI_CAR,1,CAR,def,Defensive Offside,0,False,95,00-0036220,DL,Derrick Brown,FRONT
+2026_01_CHI_CAR,1,CAR,off,Offensive Pass Interference,10,False,18,00-0039491,WR,Jalen Coker,WR
+2026_01_CHI_CAR,1,CAR,def,Neutral Zone Infraction,5,True,52,00-0036305,LB,Trevis Gipson,FRONT
+2026_01_CLE_JAX,1,CLE,st,Offensive Holding,10,False,28,00-0041471,S,Emmanuel McNeil-Warren,ST
+2026_01_CLE_JAX,1,CLE,def,Neutral Zone Infraction,5,True,54,00-0037665,DL,Sam Williams,FRONT
+2026_01_CLE_JAX,1,JAX,off,False Start,5,False,73,00-0036985,OL,Robert Hainsey,OL
+2026_01_CLE_JAX,1,JAX,off,Illegal Forward Pass,5,False,16,00-0036971,QB,Trevor Lawrence,QB
+2026_01_CLE_JAX,1,CLE,off,Offensive Holding,10,False,77,00-0037818,OL,Zion Johnson,OL
+2026_01_CLE_JAX,1,CLE,off,False Start,5,False,71,00-0035234,OL,Tytus Howard,OL
+2026_01_CLE_JAX,1,CLE,off,Delay of Game,5,False,,,,,TEAM
+2026_01_CLE_JAX,1,CLE,off,Offensive Holding,10,False,77,00-0037818,OL,Zion Johnson,OL
+2026_01_CLE_JAX,1,CLE,def,Neutral Zone Infraction,5,False,94,00-0040685,DL,Mason Graham,FRONT
+2026_01_CLE_JAX,1,JAX,off,False Start,5,False,85,00-0038935,TE,Brenton Strange,WR
+2026_01_CLE_JAX,1,CLE,off,Delay of Game,5,False,,,,,TEAM
+2026_01_CLE_JAX,1,JAX,off,Offensive Holding,10,False,87,00-0041503,TE,Nate Boerkircher,WR
+2026_01_CLE_JAX,1,CLE,st,Offensive Holding,10,False,40,00-0039406,LB,Nathaniel Watson,ST
+2026_01_CLE_JAX,1,CLE,off,False Start,5,False,86,00-0038710,TE,Blake Whiteheart,WR
+2026_01_CLE_JAX,1,CLE,def,Neutral Zone Infraction,5,True,8,00-0039852,DL,Jared Verse,FRONT
+2026_01_DAL_NYG,1,DAL,off,Delay of Game,4,False,,,,,TEAM
+2026_01_DAL_NYG,1,DAL,def,Defensive Offside,5,True,92,00-0035718,DL,Quinnen Williams,FRONT
+2026_01_DAL_NYG,1,DAL,def,Unnecessary Roughness,15,True,0,00-0038556,LB,DeMarvion Overshown,FRONT
+2026_01_DAL_NYG,1,DAL,st,Low Block,11,False,18,00-0039062,WR,Jonathan Mingo,ST
+2026_01_DAL_NYG,1,DAL,def,Neutral Zone Infraction,5,True,55,00-0040872,LB,Jaishawn Barham,FRONT
+2026_01_DAL_NYG,1,NYG,off,False Start,5,False,76,00-0036246,OL,Jon Runyan,OL
+2026_01_DAL_NYG,1,DAL,off,Offensive Holding,10,False,86,00-0038547,TE,Luke Schoonmaker,WR
+2026_01_DAL_NYG,1,NYG,def,Defensive Pass Interference,38,True,20,00-0036996,CB,Greg Newsome II,DB
+2026_01_DAL_NYG,1,DAL,off,Illegal Use of Hands,10,False,78,00-0036036,OL,Terence Steele,OL
+2026_01_DAL_NYG,1,NYG,def,Defensive Pass Interference,19,True,22,00-0039821,CB,Andru Phillips,DB
+2026_01_DAL_NYG,1,NYG,st,Offensive Holding,10,False,28,00-0034248,S,Elijah Campbell,ST
+2026_01_DAL_NYG,1,NYG,off,False Start,5,False,76,00-0036246,OL,Jon Runyan,OL
+2026_01_DAL_NYG,1,NYG,def,Defensive Pass Interference,11,True,22,00-0039821,CB,Andru Phillips,DB
+2026_01_DAL_NYG,1,NYG,def,Defensive Pass Interference,1,True,22,00-0039821,CB,Andru Phillips,DB
+2026_01_DAL_NYG,1,NYG,off,Delay of Game,5,False,,,,,TEAM
+2026_01_DAL_NYG,1,NYG,def,Unnecessary Roughness,15,True,8,00-0036998,S,Jevon Holland,DB
+2026_01_DAL_NYG,1,DAL,off,Taunting,15,False,33,00-0036997,RB,Javonte Williams,RB
+2026_01_DAL_NYG,1,NYG,off,False Start,5,False,72,00-0033290,OL,Jermaine Eluemunor,OL
+2026_01_DAL_NYG,1,DAL,def,Face Mask,15,True,6,00-0040725,LB,Donovan Ezeiruaku,FRONT
+2026_01_DEN_KC,1,KC,off,Offensive Holding,10,False,70,00-0041019,OL,Kahlil Benson,OL
+2026_01_DEN_KC,1,KC,def,Defensive Offside,5,True,38,00-0036374,CB,L'Jarius Sneed,DB
+2026_01_DEN_KC,1,DEN,off,Offensive Holding,10,False,13,00-0040134,WR,Pat Bryant,WR
+2026_01_DEN_KC,1,KC,st,Offensive Holding,10,False,43,00-0037208,LB,Jack Cochrane,ST
+2026_01_DEN_KC,1,KC,st,Offensive Holding,9,False,22,00-0041497,CB,Jadon Canady,ST
+2026_01_DEN_KC,1,DEN,off,Delay of Game,5,False,,,,,TEAM
+2026_01_DEN_KC,1,DEN,st,Delay of Game,5,False,,,,,ST
+2026_01_DEN_KC,1,KC,st,Illegal Formation,5,False,11,00-0040646,WR,Jalen Royals,ST
+2026_01_DEN_KC,1,DEN,off,Offensive Holding,10,False,13,00-0040134,WR,Pat Bryant,WR
+2026_01_DEN_KC,1,DEN,off,Offensive Pass Interference,10,False,11,00-0039868,WR,Troy Franklin,WR
+2026_01_DEN_KC,1,DEN,def,Unnecessary Roughness,2,True,49,00-0031898,LB,Alex Singleton,FRONT
+2026_01_DEN_KC,1,KC,st,Unnecessary Roughness,6,False,13,00-0040890,WR,Cyrus Allen,ST
+2026_01_DEN_KC,1,KC,off,Chop Block,15,False,65,00-0036660,OL,Trey Smith,OL
+2026_01_DEN_KC,1,DEN,st,Offensive Holding,10,False,6,00-0037752,S,Tycen Anderson,ST
+2026_01_GB_MIN,1,GB,off,False Start,5,False,77,00-0039904,OL,Jordan Morgan,OL
+2026_01_GB_MIN,1,MIN,off,False Start,5,False,75,00-0034158,OL,Brian O'Neill,OL
+2026_01_GB_MIN,1,MIN,off,False Start,5,False,64,00-0036347,OL,Blake Brandel,OL
+2026_01_GB_MIN,1,GB,def,Unnecessary Roughness,15,True,7,00-0039867,S,Javon Bullard,DB
+2026_01_GB_MIN,1,GB,off,False Start,5,False,10,00-0036264,QB,Jordan Love,QB
+2026_01_GB_MIN,1,GB,off,False Start,5,False,67,00-0039272,OL,Donovan Jennings,OL
+2026_01_GB_MIN,1,GB,off,Offensive Holding,10,False,75,00-0037076,OL,Sean Rhyan,OL
+2026_01_GB_MIN,1,GB,def,Neutral Zone Infraction,5,False,57,00-0038463,LB,Brenton Cox Jr.,FRONT
+2026_01_GB_MIN,1,GB,def,Unnecessary Roughness,15,True,33,00-0039813,S,Evan Williams,DB
+2026_01_GB_MIN,1,GB,st,Offensive Holding,10,False,51,00-0040877,LB,Dani Dennis-Sutton,ST
+2026_01_GB_MIN,1,MIN,st,Defensive Offside,5,False,15,00-0039924,LB,Dallas Turner,ST
+2026_01_GB_MIN,1,GB,def,Encroachment,5,False,96,00-0037094,DL,Jonathan Ford,FRONT
+2026_01_GB_MIN,1,GB,def,Illegal Contact,5,True,7,00-0039867,S,Javon Bullard,DB
+2026_01_GB_MIN,1,GB,def,Roughing the Passer,15,True,55,00-0040869,DL,Chris McClellan,FRONT
+2026_01_GB_MIN,1,GB,def,Defensive Holding,3,True,29,00-0036388,S,Xavier McKinney,DB
+2026_01_MIA_LV,1,MIA,off,Delay of Game,5,False,,,,,TEAM
+2026_01_MIA_LV,1,MIA,def,Taunting,15,True,8,00-0039156,CB,Julius Brents,DB
+2026_01_MIA_LV,1,LV,def,Defensive Too Many Men on Field,5,False,,,,,TEAM
+2026_01_MIA_LV,1,MIA,off,Offensive Holding,10,False,52,00-0039899,OL,Patrick Paul,OL
+2026_01_MIA_LV,1,MIA,off,Offensive Holding,10,False,55,00-0036171,OL,Aaron Brewer,OL
+2026_01_MIA_LV,1,MIA,off,False Start,5,False,74,00-0041521,OL,Kadyn Proctor,OL
+2026_01_MIA_LV,1,LV,st,Offensive Offside,5,False,76,00-0040150,OL,Caleb Rogers,ST
+2026_01_MIA_LV,1,LV,off,False Start,5,False,81,00-0037093,WR,Dareke Young,WR
+2026_01_MIA_LV,1,MIA,def,Illegal Contact,5,True,8,00-0039156,CB,Julius Brents,DB
+2026_01_MIA_LV,1,LV,def,Defensive Pass Interference,4,True,7,00-0037074,LB,Quay Walker,FRONT
+2026_01_MIA_LV,1,MIA,off,Delay of Game,5,False,,,,,TEAM
+2026_01_MIA_LV,1,LV,st,False Start,5,False,47,00-0038360,K/P/LS,Alex Ward,ST
+2026_01_MIA_LV,1,LV,def,Illegal Use of Hands,5,True,35,00-0040889,CB,Hezekiah Masses,DB
+2026_01_MIA_LV,1,MIA,off,Illegal Use of Hands,6,False,73,00-0036248,OL,Austin Jackson,OL
+2026_01_NE_SEA,1,SEA,off,False Start,5,False,81,00-0033576,TE,Eric Saubert,WR
+2026_01_NE_SEA,1,SEA,def,Unnecessary Roughness,15,True,58,00-0039047,LB,Derick Hall,FRONT
+2026_01_NE_SEA,1,SEA,def,Defensive Pass Interference,34,True,29,00-0037137,CB,Josh Jobe,DB
+2026_01_NE_SEA,1,SEA,off,False Start,5,False,72,00-0037812,OL,Abraham Lucas,OL
+2026_01_NE_SEA,1,SEA,off,False Start,5,False,88,00-0039793,TE,AJ Barner,WR
+2026_01_NE_SEA,1,SEA,off,Offensive Offside,4,False,75,00-0039020,OL,Anthony Bradford,OL
+2026_01_NE_SEA,1,SEA,st,Roughing the Kicker,15,False,44,00-0037003,LB,Chazz Surratt,ST
+2026_01_NE_SEA,1,NE,def,Encroachment,5,False,97,00-0036916,DL,Milton Williams,FRONT
+2026_01_NE_SEA,1,NE,st,Delay of Game,5,False,,,,,ST
+2026_01_NE_SEA,1,SEA,off,Illegal Shift,5,False,,,,,TEAM
+2026_01_NE_SEA,1,NE,off,False Start,5,False,76,00-0031330,OL,Morgan Moses,OL
+2026_01_NE_SEA,1,NE,off,Illegal Block Above the Waist,10,False,66,00-0040699,OL,Will Campbell,OL
+2026_01_NE_SEA,1,NE,st,Illegal Block Above the Waist,10,False,50,00-0041569,LB,Gabe Jacas,ST
+2026_01_NE_SEA,1,SEA,off,False Start,5,False,75,00-0039020,OL,Anthony Bradford,OL
+2026_01_NE_SEA,1,SEA,off,Delay of Game,5,False,,,,,TEAM
+2026_01_NE_SEA,1,NE,off,Offensive Holding,10,False,66,00-0040699,OL,Will Campbell,OL
+2026_01_NE_SEA,1,NE,off,Ineligible Downfield Pass,5,False,75,00-0036979,OL,Alijah Vera-Tucker,OL
+2026_01_NO_DET,1,DET,off,False Start,5,False,58,00-0036880,OL,Penei Sewell,OL
+2026_01_NO_DET,1,DET,off,Offensive Holding,10,False,69,00-0040728,OL,Tate Ratledge,OL
+2026_01_NO_DET,1,NO,def,Defensive Holding,5,True,52,00-0041390,DL,Christen Miller,FRONT
+2026_01_NO_DET,1,NO,off,Intentional Grounding,13,False,6,00-0040743,QB,Tyler Shough,QB
+2026_01_NO_DET,1,DET,off,Delay of Game,5,False,,,,,TEAM
+2026_01_NO_DET,1,DET,def,Illegal Contact,5,True,23,00-0035637,CB,Rock Ya-Sin,DB
+2026_01_NO_DET,1,DET,st,Kickoff Short of Landing Zone,0,False,39,00-0039172,K/P/LS,Jake Bates,ST
+2026_01_NO_DET,1,DET,def,Defensive Pass Interference,21,True,23,00-0035637,CB,Rock Ya-Sin,DB
+2026_01_NO_DET,1,NO,off,Delay of Game,5,False,,,,,TEAM
+2026_01_NO_DET,1,NO,st,Face Mask,15,False,98,00-0038541,LB,Tyree Wilson,ST
+2026_01_NO_DET,1,NO,def,Low Block,14,True,29,00-0040166,CB,Quincy Riley,DB
+2026_01_NO_DET,1,NO,def,Defensive Offside,1,False,99,00-0036321,LB,Chase Young,FRONT
+2026_01_NO_DET,1,DET,off,Offensive Holding,10,False,78,00-0036272,OL,Ben Bartch,OL
+2026_01_NO_DET,1,DET,def,Illegal Use of Hands,5,True,6,00-0041445,CB,Keith Abney II,DB
+2026_01_NYJ_TEN,1,TEN,st,Kickoff Out of Bounds,0,False,6,00-0035192,K/P/LS,Joey Slye,ST
+2026_01_NYJ_TEN,1,TEN,def,Defensive Pass Interference,10,True,24,00-0038121,CB,Alontae Taylor,DB
+2026_01_NYJ_TEN,1,NYJ,off,Delay of Game,5,False,,,,,TEAM
+2026_01_NYJ_TEN,1,TEN,off,Offensive Holding,10,False,55,00-0039731,OL,JC Latham,OL
+2026_01_NYJ_TEN,1,NYJ,def,Neutral Zone Infraction,5,True,31,00-0041026,LB,David Bailey,FRONT
+2026_01_NYJ_TEN,1,NYJ,off,False Start,4,False,85,00-0040736,TE,Mason Taylor,WR
+2026_01_NYJ_TEN,1,NYJ,off,False Start,5,False,5,00-0037740,WR,Garrett Wilson,WR
+2026_01_NYJ_TEN,1,NYJ,off,Offensive Holding,10,False,16,00-0041032,TE,Kenyon Sadiq,WR
+2026_01_NYJ_TEN,1,NYJ,off,Illegal Formation,5,False,74,00-0039790,OL,Olumuyiwa Fashanu,OL
+2026_01_NYJ_TEN,1,NYJ,off,Offensive Holding,9,False,71,00-0036622,OL,Josh Myers,OL
+2026_01_NYJ_TEN,1,TEN,off,False Start,5,False,55,00-0039731,OL,JC Latham,OL
+2026_01_NYJ_TEN,1,NYJ,off,Delay of Game,5,False,,,,,TEAM
+2026_01_SF_LA,1,LA,off,Offensive Holding,10,False,71,00-0039077,OL,Warren McClendon Jr.,OL
+2026_01_SF_LA,1,LA,def,Roughing the Passer,15,True,90,00-0039749,DL,Tyler Davis,FRONT
+2026_01_SF_LA,1,SF,def,Illegal Contact,5,True,2,00-0036563,CB,Deommodore Lenoir,DB
+2026_01_SF_LA,1,LA,off,False Start,5,False,69,00-0036339,OL,Kevin Dotson,OL
+2026_01_SF_LA,1,LA,off,Chop Block,13,False,77,00-0036603,OL,Alaric Jackson,OL
+2026_01_SF_LA,1,SF,def,Defensive Pass Interference,16,True,0,00-0039345,CB,Renardo Green,DB
+2026_01_TB_CIN,1,CIN,def,Defensive Offside,5,False,92,00-0034800,DL,B.J. Hill,FRONT
+2026_01_TB_CIN,1,TB,off,False Start,5,False,88,00-0038129,TE,Cade Otton,WR
+2026_01_TB_CIN,1,CIN,def,Defensive Pass Interference,12,True,20,00-0041464,CB,Tacario Davis,DB
+2026_01_TB_CIN,1,CIN,def,Defensive Offside,5,False,93,00-0033523,DL,Jonathan Allen,FRONT
+2026_01_TB_CIN,1,CIN,def,Defensive Offside,5,False,98,00-0036642,DL,Tedarrell Slaton,FRONT
+2026_01_TB_CIN,1,TB,def,Unnecessary Roughness,4,True,23,00-0039846,S,Tykee Smith,DB
+2026_01_TB_CIN,1,CIN,def,Defensive Offside,5,True,93,00-0033523,DL,Jonathan Allen,FRONT
+2026_01_TB_CIN,1,CIN,st,Illegal Block Above the Waist,10,False,29,00-0036231,S,Kyle Dugger,ST
+2026_01_TB_CIN,1,TB,def,Defensive Holding,5,True,98,00-0035254,LB,Anthony Nelson,FRONT
+2026_01_TB_CIN,1,TB,off,False Start,5,False,78,00-0036406,OL,Tristan Wirfs,OL
+2026_01_TB_CIN,1,TB,off,Delay of Game,5,False,,,,,TEAM
+2026_01_TB_CIN,1,CIN,off,Delay of Game,5,False,,,,,TEAM
+2026_01_TB_CIN,1,TB,off,False Start,5,False,78,00-0036406,OL,Tristan Wirfs,OL
+2026_01_TB_CIN,1,TB,off,False Start,5,False,69,00-0039157,OL,Cody Mauch,OL
+2026_01_TB_CIN,1,TB,def,Neutral Zone Infraction,5,False,95,00-0040183,DL,Elijah Roberts,FRONT
+2026_01_WAS_PHI,1,PHI,off,Offensive Holding,10,False,51,00-0038112,OL,Cam Jurgens,OL
+2026_01_WAS_PHI,1,PHI,off,Offensive Holding,10,False,51,00-0038112,OL,Cam Jurgens,OL
+2026_01_WAS_PHI,1,WAS,off,Offensive Holding,10,False,22,00-0040242,RB,Jacory Croskey-Merritt,RB
+2026_01_WAS_PHI,1,WAS,off,Delay of Game,5,False,,,,,TEAM
+2026_01_WAS_PHI,1,WAS,off,Delay of Game,5,False,,,,,TEAM
+2026_01_WAS_PHI,1,PHI,def,Illegal Contact,5,True,33,00-0039841,CB,Cooper DeJean,DB
+2026_01_WAS_PHI,1,WAS,off,False Start,5,False,74,00-0039913,OL,Brandon Coleman,OL
+2026_01_WAS_PHI,1,PHI,off,Offensive Holding,10,False,69,00-0037002,OL,Landon Dickerson,OL
+2026_01_WAS_PHI,1,WAS,off,False Start,5,False,72,00-0040686,OL,Josh Conerly Jr.,OL
+2026_01_WAS_PHI,1,WAS,off,Unsportsmanlike Conduct,15,False,3,00-0031588,WR,Stefon Diggs,WR
+2026_01_WAS_PHI,1,PHI,off,False Start,5,False,68,00-0034429,OL,Jordan Mailata,OL
+2026_02_CAR_ATL,2,CAR,off,False Start,5,False,50,00-0036325,OL,Robert Hunt,OL
+2026_02_CAR_ATL,2,CAR,off,Illegal Use of Hands,10,False,50,00-0036325,OL,Robert Hunt,OL
+2026_02_CAR_ATL,2,ATL,def,Roughing the Passer,3,True,95,00-0039070,DL,Gervon Dexter Sr.,FRONT
+2026_02_CAR_ATL,2,CAR,off,False Start,5,False,63,00-0037196,OL,Rasheed Walker,OL
+2026_02_CAR_ATL,2,CAR,off,False Start,5,False,50,00-0036325,OL,Robert Hunt,OL
+2026_02_CAR_ATL,2,ATL,st,Illegal Formation,5,False,56,00-0041112,LB,Harold Perkins Jr.,ST
+2026_02_CAR_ATL,2,CAR,off,Offensive Holding,10,False,77,00-0037814,OL,Luke Fortner,OL
+2026_02_CAR_ATL,2,ATL,st,Offensive Holding,10,False,53,00-0041066,LB,Kendal Daniels,ST
+2026_02_CAR_ATL,2,ATL,off,Face Mask,6,False,70,00-0031279,OL,Jake Matthews,OL
+2026_02_CAR_ATL,2,ATL,off,False Start,5,False,8,00-0036970,TE,Kyle Pitts,WR
+2026_02_CAR_ATL,2,CAR,off,Offensive Holding,10,False,82,00-0037005,TE,Tommy Tremble,WR
+2026_02_CAR_ATL,2,CAR,off,Illegal Shift,5,False,,,,,TEAM
+2026_02_CAR_ATL,2,CAR,off,Offensive Holding,9,False,82,00-0037005,TE,Tommy Tremble,WR
+2026_02_CAR_ATL,2,CAR,off,Illegal Shift,4,False,,,,,TEAM
+2026_02_CAR_ATL,2,ATL,off,Offensive Holding,10,False,72,00-0039842,OL,Michael Jerrell,OL
+2026_02_CIN_HOU,2,CIN,off,False Start,5,False,1,00-0036900,WR,Ja'Marr Chase,WR
+2026_02_CIN_HOU,2,CIN,off,Offensive Holding,10,False,63,00-0040140,OL,Dylan Fairchild,OL
+2026_02_CIN_HOU,2,CIN,st,False Start,5,False,66,00-0035702,OL,Dalton Risner,ST
+2026_02_CIN_HOU,2,HOU,off,Offensive Holding,10,False,77,00-0032071,OL,Trent Brown,OL
+2026_02_CIN_HOU,2,CIN,off,False Start,5,False,64,00-0032445,OL,Ted Karras,OL
+2026_02_CIN_HOU,2,CIN,off,False Start,5,False,75,00-0034752,OL,Orlando Brown,OL
+2026_02_CIN_HOU,2,CIN,def,Defensive Holding,5,True,23,00-0037743,CB,Daxton Hill,DB
+2026_02_CIN_HOU,2,CIN,st,Offensive Holding,10,False,52,00-0039752,DL,Cedric Johnson,ST
+2026_02_CIN_HOU,2,CIN,def,Illegal Contact,5,True,20,00-0041464,CB,Tacario Davis,DB
+2026_02_CIN_HOU,2,HOU,st,Lowering the Head to Make Forcible Contact,15,False,87,00-0034981,TE,Foster Moreau,ST
+2026_02_CIN_HOU,2,HOU,off,False Start,5,False,66,00-0041532,OL,Keylan Rutledge,OL
+2026_02_CIN_HOU,2,CIN,off,False Start,5,False,75,00-0034752,OL,Orlando Brown,OL
+2026_02_CIN_HOU,2,CIN,def,Defensive Holding,5,True,49,00-0040157,LB,Barrett Carter,FRONT
+2026_02_CIN_HOU,2,HOU,off,False Start,5,False,77,00-0032071,OL,Trent Brown,OL
+2026_02_CIN_HOU,2,HOU,st,Unnecessary Roughness,15,False,66,00-0041532,OL,Keylan Rutledge,ST
+2026_02_CIN_HOU,2,HOU,off,Intentional Grounding,13,False,7,00-0039163,QB,C.J. Stroud,QB
+2026_02_CIN_HOU,2,HOU,off,False Start,5,False,77,00-0032071,OL,Trent Brown,OL
+2026_02_CIN_HOU,2,HOU,st,Ineligible Downfield Kick,5,False,56,00-0039395,LB,Jamal Hill,ST
+2026_02_CIN_HOU,2,HOU,st,Illegal Block Above the Waist,10,False,17,00-0038728,WR,Jared Wayne,ST
+2026_02_CIN_HOU,2,CIN,def,Neutral Zone Infraction,5,False,99,00-0038546,DL,Myles Murphy,FRONT
+2026_02_CIN_HOU,2,CIN,def,Face Mask,13,True,0,00-0038549,CB,DJ Turner II,DB
+2026_02_CLE_TB,2,CLE,st,Face Mask,15,False,54,00-0037665,DL,Sam Williams,ST
+2026_02_CLE_TB,2,CLE,def,Encroachment,5,False,96,00-0033131,DL,Maliek Collins,FRONT
+2026_02_CLE_TB,2,CLE,off,False Start,5,False,71,00-0035234,OL,Tytus Howard,OL
+2026_02_CLE_TB,2,CLE,def,Defensive Holding,5,True,21,00-0034856,CB,Denzel Ward,DB
+2026_02_CLE_TB,2,TB,def,Unnecessary Roughness,12,True,34,00-0033914,LB,Alex Anzalone,FRONT
+2026_02_CLE_TB,2,CLE,off,Offensive Holding,10,False,58,00-0041049,OL,Austin Barber,OL
+2026_02_CLE_TB,2,TB,st,Encroachment,5,False,94,00-0039063,DL,Calijah Kancey,ST
+2026_02_CLE_TB,2,TB,off,Offensive Holding,10,False,68,00-0036132,OL,Ben Bredeson,OL
+2026_02_CLE_TB,2,CLE,off,Offensive Holding,10,False,86,00-0038710,TE,Blake Whiteheart,WR
+2026_02_CLE_TB,2,TB,off,Offensive Holding,10,False,62,00-0039905,OL,Graham Barton,OL
+2026_02_CLE_TB,2,TB,def,Face Mask,15,True,0,00-0039068,LB,Yaya Diaby,FRONT
+2026_02_CLE_TB,2,TB,off,Offensive Holding,10,False,62,00-0039905,OL,Graham Barton,OL
+2026_02_DET_BUF,2,BUF,st,Offensive Holding,10,False,28,00-0036037,S,Sam Franklin Jr.,ST
+2026_02_DET_BUF,2,DET,def,Defensive Holding,5,True,4,00-0034384,CB,D.J. Reed,DB
+2026_02_DET_BUF,2,DET,def,Defensive Holding,5,True,21,00-0038125,CB,Roger McCreary,DB
+2026_02_DET_BUF,2,DET,def,Defensive Holding,2,True,46,00-0039018,LB,Jack Campbell,FRONT
+2026_02_DET_BUF,2,DET,off,Offensive Holding,10,False,79,00-0036905,OL,Larry Borom,OL
+2026_02_DET_BUF,2,BUF,off,Offensive Holding,10,False,88,00-0035689,TE,Dawson Knox,WR
+2026_02_DET_BUF,2,DET,off,False Start,4,False,70,00-0038936,OL,Juice Scruggs,OL
+2026_02_DET_BUF,2,DET,def,Defensive Offside,5,False,23,00-0035637,CB,Rock Ya-Sin,DB
+2026_02_DET_BUF,2,DET,off,False Start,5,False,79,00-0036905,OL,Larry Borom,OL
+2026_02_DET_BUF,2,BUF,def,Tripping,13,True,94,00-0040132,DL,Landon Jackson,FRONT
+2026_02_DET_BUF,2,DET,def,Face Mask,2,True,45,00-0035707,LB,Devin White,FRONT
+2026_02_DET_BUF,2,DET,off,False Start,5,False,79,00-0036905,OL,Larry Borom,OL
+2026_02_DET_BUF,2,BUF,def,Defensive Holding,5,True,21,00-0041391,CB,Davison Igbinosun,DB
+2026_02_DET_BUF,2,BUF,def,Defensive Pass Interference,8,True,47,00-0037288,CB,Christian Benford,DB
+2026_02_DET_BUF,2,DET,def,Face Mask,15,True,93,00-0038940,DL,Tyler Lacy,FRONT
+2026_02_GB_NYJ,2,GB,def,Neutral Zone Infraction,5,True,94,00-0038398,DL,Karl Brooks,FRONT
+2026_02_GB_NYJ,2,NYJ,off,Offensive Holding,10,False,18,00-0039451,WR,Isaiah Williams,WR
+2026_02_GB_NYJ,2,GB,def,Unsportsmanlike Conduct,15,True,7,00-0039867,S,Javon Bullard,DB
+2026_02_GB_NYJ,2,GB,st,Offensive Holding,7,False,36,00-0039831,CB,Kamal Hadden,ST
+2026_02_GB_NYJ,2,GB,off,Offensive Holding,4,False,9,00-0038124,WR,Christian Watson,WR
+2026_02_GB_NYJ,2,NYJ,st,Illegal Block Above the Waist,10,False,37,00-0039789,CB,Qwan'tez Stiggers,ST
+2026_02_GB_NYJ,2,NYJ,st,Invalid Fair Catch Signal,5,False,18,00-0039451,WR,Isaiah Williams,ST
+2026_02_GB_NYJ,2,GB,off,Offensive Holding,10,False,62,00-0039817,OL,Jacob Monk,OL
+2026_02_GB_NYJ,2,GB,def,Defensive Pass Interference,34,True,25,00-0035133,CB,Keisean Nixon,DB
+2026_02_GB_NYJ,2,NYJ,st,Offensive Holding,10,False,55,00-0039284,LB,Braiden McGregor,ST
+2026_02_GB_NYJ,2,GB,st,Unnecessary Roughness,3,False,51,00-0040877,LB,Dani Dennis-Sutton,ST
+2026_02_GB_NYJ,2,NYJ,def,Defensive Pass Interference,23,True,21,00-0036987,CB,Brandon Stephens,DB
+2026_02_GB_NYJ,2,GB,off,Offensive Holding,10,False,85,00-0038996,TE,Tucker Kraft,WR
+2026_02_GB_NYJ,2,GB,off,False Start,5,False,77,00-0039904,OL,Jordan Morgan,OL
+2026_02_GB_NYJ,2,NYJ,def,Illegal Use of Hands,5,True,31,00-0041026,LB,David Bailey,FRONT
+2026_02_GB_NYJ,2,GB,def,Roughing the Passer,6,True,90,00-0039112,LB,Lukas Van Ness,FRONT
+2026_02_GB_NYJ,2,NYJ,off,Unsportsmanlike Conduct,15,False,7,00-0030565,QB,Geno Smith,QB
+2026_02_GB_NYJ,2,NYJ,off,False Start,5,False,66,00-0039145,OL,Joe Tippmann,OL
+2026_02_GB_NYJ,2,GB,st,Unnecessary Roughness,14,False,55,00-0040869,DL,Chris McClellan,ST
+2026_02_GB_NYJ,2,NYJ,off,Delay of Game,5,False,,,,,TEAM
+2026_02_GB_NYJ,2,GB,off,Offensive Holding,10,False,71,00-0040726,OL,Anthony Belton,OL
+2026_02_GB_NYJ,2,GB,off,Illegal Formation,5,False,,,,,TEAM
+2026_02_GB_NYJ,2,NYJ,def,Defensive Pass Interference,38,True,1,00-0040133,CB,Azareye'h Thomas,DB
+2026_02_GB_NYJ,2,NYJ,st,Offensive Holding,10,False,32,00-0039798,RB,Isaiah Davis,ST
+2026_02_GB_NYJ,2,GB,off,Delay of Game,5,False,,,,,TEAM
+2026_02_GB_NYJ,2,NYJ,off,False Start,5,False,18,00-0039451,WR,Isaiah Williams,WR
+2026_02_GB_NYJ,2,NYJ,def,Unnecessary Roughness,15,True,2,00-0039372,CB,Jarvis Brownlee Jr.,DB
+2026_02_IND_KC,2,IND,off,False Start,5,False,28,00-0036223,RB,Jonathan Taylor,RB
+2026_02_IND_KC,2,KC,def,Roughing the Passer,2,True,21,00-0039825,S,Jaden Hicks,DB
+2026_02_IND_KC,2,IND,st,Illegal Block Above the Waist,10,False,91,00-0040744,DL,Jaylahn Tuimoloau,ST
+2026_02_IND_KC,2,KC,st,Illegal Formation,5,False,30,00-0039324,S,Christian Roland-Wallace,ST
+2026_02_IND_KC,2,KC,def,Defensive Pass Interference,26,True,8,00-0036416,CB,Kristian Fulton,DB
+2026_02_IND_KC,2,IND,off,Delay of Game,5,False,,,,,TEAM
+2026_02_IND_KC,2,IND,off,False Start,5,False,13,00-0032951,WR,Laquon Treadwell,WR
+2026_02_IND_KC,2,KC,off,Offensive Holding,10,False,76,00-0039844,OL,Kingsley Suamataia,OL
+2026_02_IND_KC,2,KC,def,Defensive Pass Interference,23,True,8,00-0036416,CB,Kristian Fulton,DB
+2026_02_IND_KC,2,KC,off,Offensive Holding,10,False,70,00-0041019,OL,Kahlil Benson,OL
+2026_02_IND_KC,2,KC,def,Neutral Zone Infraction,5,False,56,00-0037192,DL,George Karlaftis,FRONT
+2026_02_IND_KC,2,KC,off,False Start,5,False,77,00-0036557,OL,Jaylon Moore,OL
+2026_02_IND_KC,2,IND,off,Delay of Game,5,False,,,,,TEAM
+2026_02_JAX_DEN,2,DEN,off,False Start,5,False,17,00-0036613,WR,Jaylen Waddle,WR
+2026_02_JAX_DEN,2,DEN,def,Illegal Contact,5,True,21,00-0038552,CB,Riley Moss,DB
+2026_02_JAX_DEN,2,DEN,off,Offensive Holding,10,False,13,00-0040134,WR,Pat Bryant,WR
+2026_02_JAX_DEN,2,JAX,off,Illegal Shift,5,False,11,00-0038606,WR,Parker Washington,WR
+2026_02_JAX_DEN,2,DEN,off,Illegal Formation,5,False,69,00-0034847,OL,Mike McGlinchey,OL
+2026_02_JAX_DEN,2,DEN,st,Neutral Zone Infraction,5,False,34,00-0038605,S,JL Skinner,ST
+2026_02_JAX_DEN,2,JAX,off,Illegal Block Above the Waist,10,False,73,00-0036985,OL,Robert Hainsey,OL
+2026_02_JAX_DEN,2,DEN,def,Defensive Delay of Game,5,True,9,00-0036564,S,Talanoa Hufanga,DB
+2026_02_JAX_DEN,2,DEN,def,Unnecessary Roughness,3,True,49,00-0031898,LB,Alex Singleton,FRONT
+2026_02_JAX_DEN,2,DEN,off,Delay of Game,5,False,,,,,TEAM
+2026_02_JAX_DEN,2,DEN,def,Defensive Offside,5,False,15,00-0037249,LB,Nik Bonitto,FRONT
+2026_02_JAX_DEN,2,JAX,def,Defensive Pass Interference,22,True,12,00-0040718,WR,Travis Hunter,DB
+2026_02_JAX_DEN,2,JAX,def,Unsportsmanlike Conduct,3,True,,,,,TEAM
+2026_02_JAX_DEN,2,DEN,def,Illegal Contact,5,True,2,00-0036874,CB,Pat Surtain II,DB
+2026_02_LV_LAC,2,LV,off,Offensive Holding,10,False,70,00-0037829,OL,Spencer Burford,OL
+2026_02_LV_LAC,2,LAC,off,False Start,3,False,76,00-0039897,OL,Joe Alt,OL
+2026_02_LV_LAC,2,LAC,off,False Start,1,False,76,00-0039897,OL,Joe Alt,OL
+2026_02_LV_LAC,2,LV,off,False Start,5,False,87,00-0039066,TE,Michael Mayer,WR
+2026_02_LV_LAC,2,LAC,off,Offensive Holding,10,False,74,00-0036736,OL,Kayode Awosika,OL
+2026_02_LV_LAC,2,LV,off,Offensive Holding,10,False,71,00-0039349,OL,DJ Glaze,OL
+2026_02_LV_LAC,2,LV,off,False Start,5,False,65,00-0037825,OL,Tyler Linderbaum,OL
+2026_02_LV_LAC,2,LAC,def,Illegal Use of Hands,5,True,20,00-0039369,CB,Cam Hart,DB
+2026_02_LV_LAC,2,LAC,off,Offensive Holding,10,False,70,00-0037009,OL,Rashawn Slater,OL
+2026_02_LV_LAC,2,LV,def,Defensive Pass Interference,6,True,35,00-0040889,CB,Hezekiah Masses,DB
+2026_02_LV_LAC,2,LAC,off,False Start,5,False,76,00-0039897,OL,Joe Alt,OL
+2026_02_LV_LAC,2,LV,def,Defensive Too Many Men on Field,6,True,,,,,TEAM
+2026_02_LV_LAC,2,LAC,off,Illegal Formation,5,False,,,,,TEAM
+2026_02_LV_LAC,2,LAC,off,Offensive Holding,6,False,76,00-0039897,OL,Joe Alt,OL
+2026_02_MIA_SF,2,MIA,off,False Start,5,False,73,00-0036248,OL,Austin Jackson,OL
+2026_02_MIA_SF,2,MIA,off,Illegal Formation,5,False,,,,,TEAM
+2026_02_MIA_SF,2,MIA,def,Defensive Holding,5,True,8,00-0039156,CB,Julius Brents,DB
+2026_02_MIA_SF,2,SF,def,Roughing the Passer,15,True,56,00-0039148,DL,Keion White,FRONT
+2026_02_MIA_SF,2,MIA,off,False Start,5,False,74,00-0041521,OL,Kadyn Proctor,OL
+2026_02_MIA_SF,2,MIA,off,Offensive Holding,10,False,74,00-0041521,OL,Kadyn Proctor,OL
+2026_02_MIA_SF,2,SF,off,False Start,5,False,85,00-0033288,TE,George Kittle,WR
+2026_02_MIA_SF,2,MIA,off,Offensive Holding,10,False,73,00-0036248,OL,Austin Jackson,OL
+2026_02_MIA_SF,2,SF,st,Offensive Holding,10,False,33,00-0034391,S,Siran Neal,ST
+2026_02_MIA_SF,2,SF,off,Offensive Holding,10,False,71,00-0027857,OL,Trent Williams,OL
+2026_02_MIA_SF,2,SF,off,Offensive Holding,10,False,89,00-0036887,TE,Luke Farrell,WR
+2026_02_MIA_SF,2,SF,off,Intentional Grounding,18,False,13,00-0037834,QB,Brock Purdy,QB
+2026_02_MIA_SF,2,MIA,off,Offensive Holding,10,False,55,00-0036171,OL,Aaron Brewer,OL
+2026_02_MIA_SF,2,SF,off,Offensive Holding,10,False,76,00-0037287,OL,Vederian Lowe,OL
+2026_02_MIN_CHI,2,CHI,off,Offensive Holding,10,False,70,00-0037081,OL,Braxton Jones,OL
+2026_02_MIN_CHI,2,CHI,off,False Start,5,False,67,00-0035588,OL,Garrett Bradbury,OL
+2026_02_MIN_CHI,2,MIN,def,Defensive Offside,5,False,43,00-0035272,LB,Andrew Van Ginkel,FRONT
+2026_02_MIN_CHI,2,CHI,off,Delay of Game,5,False,,,,,TEAM
+2026_02_MIN_CHI,2,MIN,def,Roughing the Passer,15,True,15,00-0039924,LB,Dallas Turner,FRONT
+2026_02_MIN_CHI,2,CHI,off,Illegal Shift,5,False,87,00-0041558,TE,Sam Roush,WR
+2026_02_MIN_CHI,2,CHI,off,Offensive Holding,10,False,67,00-0035588,OL,Garrett Bradbury,OL
+2026_02_MIN_CHI,2,CHI,off,Intentional Grounding,13,False,18,00-0039918,QB,Caleb Williams,QB
+2026_02_MIN_CHI,2,CHI,off,False Start,5,False,67,00-0035588,OL,Garrett Bradbury,OL
+2026_02_MIN_CHI,2,MIN,off,False Start,5,False,84,00-0035249,TE,Josh Oliver,WR
+2026_02_MIN_CHI,2,CHI,def,Defensive Holding,5,True,29,00-0039071,CB,Tyrique Stevenson,DB
+2026_02_NO_BAL,2,BAL,off,Illegal Shift,5,False,10,00-0040075,WR,LaJohntay Wester,WR
+2026_02_NO_BAL,2,NO,off,False Start,5,False,71,00-0040125,OL,Kelvin Banks Jr.,OL
+2026_02_NO_BAL,2,NO,off,Unsportsmanlike Conduct,15,False,12,00-0037239,WR,Chris Olave,WR
+2026_02_NO_BAL,2,NO,off,Offensive Offside,5,False,18,00-0041067,WR,Bryce Lance,WR
+2026_02_NO_BAL,2,BAL,def,Defensive Offside,5,True,95,00-0038505,LB,Tavius Robinson,FRONT
+2026_02_NO_BAL,2,BAL,off,Offensive Holding,10,False,17,00-0032398,WR,Chris Moore,WR
+2026_02_NO_BAL,2,BAL,off,Ineligible Downfield Pass,5,False,70,00-0039233,OL,Roger Rosengarten,OL
+2026_02_NO_BAL,2,NO,off,False Start,5,False,71,00-0040125,OL,Kelvin Banks Jr.,OL
+2026_02_NO_BAL,2,BAL,off,False Start,5,False,17,00-0032398,WR,Chris Moore,WR
+2026_02_NO_BAL,2,BAL,def,Defensive Holding,1,False,21,00-0036302,S,Jaylinn Hawkins,DB
+2026_02_NO_BAL,2,BAL,def,Roughing the Passer,3,True,91,00-0033935,LB,Trey Hendrickson,FRONT
+2026_02_NO_BAL,2,NO,off,False Start,5,False,87,00-0035644,TE,Noah Fant,WR
+2026_02_NYG_LA,2,LA,def,Defensive Pass Interference,5,True,30,00-0039772,CB,Josh Wallace,DB
+2026_02_NYG_LA,2,NYG,off,Offensive Holding,10,False,76,00-0036246,OL,Jon Runyan,OL
+2026_02_NYG_LA,2,LA,off,Offensive Holding,10,False,84,00-0036244,TE,Colby Parkinson,WR
+2026_02_NYG_LA,2,LA,off,Offensive Holding,10,False,4,00-0040590,WR,Konata Mumpfield,WR
+2026_02_NYG_LA,2,LA,def,Defensive Offside,5,False,55,00-0039734,DL,Braden Fiske,FRONT
+2026_02_NYG_LA,2,NYG,off,False Start,5,False,84,00-0039847,TE,Theo Johnson,WR
+2026_02_NYG_LA,2,LA,st,Unnecessary Roughness,15,False,34,00-0038366,S,Tanner Ingle,ST
+2026_02_NYG_LA,2,LA,off,Delay of Game,5,False,,,,,TEAM
+2026_02_NYG_LA,2,NYG,off,False Start,5,False,65,00-0041505,OL,Francis Mauigoa,OL
+2026_02_PHI_TEN,2,TEN,def,Defensive Offside,5,True,57,00-0034163,DL,Jacob Martin,FRONT
+2026_02_PHI_TEN,2,TEN,off,Unnecessary Roughness,15,False,0,00-0034837,WR,Calvin Ridley,WR
+2026_02_PHI_TEN,2,TEN,def,Illegal Use of Hands,5,True,33,00-0039858,LB,Cedric Gray,FRONT
+2026_02_PHI_TEN,2,PHI,off,Offensive Holding,10,False,51,00-0038112,OL,Cam Jurgens,OL
+2026_02_PHI_TEN,2,TEN,off,False Start,5,False,55,00-0039731,OL,JC Latham,OL
+2026_02_PHI_TEN,2,TEN,st,Kickoff Short of Landing Zone,0,False,6,00-0035192,K/P/LS,Joey Slye,ST
+2026_02_PHI_TEN,2,PHI,off,Offensive Holding,10,False,56,00-0039001,OL,Tyler Steen,OL
+2026_02_PHI_TEN,2,PHI,off,Illegal Formation,5,False,65,00-0030561,OL,Lane Johnson,OL
+2026_02_PHI_TEN,2,PHI,off,Offensive Holding,10,False,83,00-0033246,TE,Johnny Mundt,WR
+2026_02_PHI_TEN,2,TEN,off,Offensive Holding,10,False,51,00-0034112,OL,Austin Schlottmann,OL
+2026_02_PHI_TEN,2,TEN,off,Illegal Formation,5,False,55,00-0039731,OL,JC Latham,OL
+2026_02_PIT_NE,2,PIT,def,Taunting,15,False,5,00-0033055,CB,Jalen Ramsey,DB
+2026_02_PIT_NE,2,PIT,def,Defensive Offside,4,False,56,00-0036333,LB,Alex Highsmith,FRONT
+2026_02_PIT_NE,2,NE,off,False Start,5,False,76,00-0031330,OL,Morgan Moses,OL
+2026_02_PIT_NE,2,NE,st,Offensive Holding,6,False,86,00-0040563,WR,Efton Chism III,ST
+2026_02_PIT_NE,2,PIT,def,Roughing the Passer,15,True,95,00-0039110,DL,Keeanu Benton,FRONT
+2026_02_PIT_NE,2,NE,def,Defensive Pass Interference,5,True,31,00-0033132,S,Kevin Byard,DB
+2026_02_PIT_NE,2,NE,def,Delay of Game,5,False,,,,,TEAM
+2026_02_PIT_NE,2,NE,def,Illegal Use of Hands,5,True,14,00-0034720,LB,Robert Spillane,FRONT
+2026_02_PIT_NE,2,NE,off,Delay of Game,5,False,,,,,TEAM
+2026_02_PIT_NE,2,PIT,off,Offensive Holding,10,False,74,00-0038645,OL,Spencer Anderson,OL
+2026_02_PIT_NE,2,PIT,def,Face Mask,15,True,41,00-0039741,LB,Payton Wilson,FRONT
+2026_02_SEA_ARI,2,ARI,off,Illegal Shift,5,False,,,,,TEAM
+2026_02_SEA_ARI,2,SEA,def,Defensive Pass Interference,8,True,24,00-0037323,S,Rodney Thomas,DB
+2026_02_SEA_ARI,2,SEA,off,False Start,5,False,72,00-0037812,OL,Abraham Lucas,OL
+2026_02_SEA_ARI,2,ARI,st,Illegal Block Above the Waist,3,False,31,00-0041370,S,Wydett Williams Jr.,ST
+2026_02_SEA_ARI,2,ARI,st,Unnecessary Roughness,15,False,43,00-0041093,LB,Karson Sharar,ST
+2026_02_SEA_ARI,2,SEA,def,Defensive Pass Interference,13,True,28,00-0039795,CB,Nehemiah Pritchett,DB
+2026_02_SEA_ARI,2,ARI,def,Encroachment,5,False,10,00-0034381,LB,Josh Sweat,FRONT
+2026_02_SEA_ARI,2,ARI,def,Defensive Pass Interference,16,True,29,00-0040195,CB,Denzel Burke,DB
+2026_02_SEA_ARI,2,ARI,def,Unnecessary Roughness,4,True,13,00-0038984,CB,Kei'Trel Clark,DB
+2026_02_WAS_DAL,2,WAS,def,Defensive Offside,5,False,90,00-0035279,DL,Charles Omenihu,FRONT
+2026_02_WAS_DAL,2,WAS,off,Offensive Pass Interference,9,False,17,00-0035659,WR,Terry McLaurin,WR
+2026_02_WAS_DAL,2,WAS,def,Unnecessary Roughness,9,True,39,00-0034465,S,Jeremy Reaves,DB
+2026_02_WAS_DAL,2,DAL,def,Lowering the Head to Make Forcible Contact,7,True,34,00-0035705,S,Jalen Thompson,DB
+2026_02_WAS_DAL,2,DAL,st,Kickoff Short of Landing Zone,0,False,17,00-0037692,K/P/LS,Brandon Aubrey,ST
+2026_02_WAS_DAL,2,DAL,def,Defensive Holding,5,True,26,00-0037275,CB,DaRon Bland,DB
+2026_02_WAS_DAL,2,WAS,off,Ineligible Downfield Pass,5,False,74,00-0039913,OL,Brandon Coleman,OL
+2026_02_WAS_DAL,2,WAS,off,Offensive Holding,10,False,72,00-0040686,OL,Josh Conerly Jr.,OL
+2026_02_WAS_DAL,2,DAL,st,Offensive Holding,10,False,42,00-0036728,LB,Curtis Robinson,ST
+2026_02_WAS_DAL,2,DAL,off,Offensive Holding,10,False,3,00-0037247,WR,George Pickens,WR
+2026_03_ARI_SF,3,ARI,off,Offensive Holding,10,False,84,00-0039041,TE,Elijah Higgins,WR
+2026_03_ARI_SF,3,SF,off,False Start,5,False,68,00-0036256,OL,Colton McKivitz,OL
+2026_03_ARI_SF,3,ARI,off,Offensive Holding,10,False,70,00-0038540,OL,Paris Johnson Jr.,OL
+2026_03_ARI_SF,3,ARI,def,Defensive Pass Interference,5,True,50,00-0037596,LB,Jack Gibbens,FRONT
+2026_03_ARI_SF,3,ARI,off,Offensive Pass Interference,10,False,85,00-0037744,TE,Trey McBride,WR
+2026_03_ARI_SF,3,SF,def,Defensive Too Many Men on Field,5,True,,,,,TEAM
+2026_03_ARI_SF,3,ARI,off,False Start,5,False,74,00-0039808,OL,Isaiah Adams,OL
+2026_03_ARI_SF,3,ARI,off,Illegal Shift,5,False,,,,,TEAM
+2026_03_ARI_SF,3,ARI,off,False Start,5,False,65,00-0033676,OL,Elijah Wilkinson,OL
+2026_03_ARI_SF,3,SF,def,Unnecessary Roughness,15,True,54,00-0034815,LB,Fred Warner,FRONT
+2026_03_ARI_SF,3,ARI,st,Unnecessary Roughness,15,False,56,00-0039854,DL,Darius Robinson,ST
+2026_03_ARI_SF,3,ARI,st,Face Mask,15,False,80,00-0036646,WR,Simi Fehoko,ST
+2026_03_ARI_SF,3,SF,off,Offensive Holding,10,False,75,00-0040245,OL,Connor Colby,OL
+2026_03_ARI_SF,3,SF,def,Defensive Pass Interference,19,True,2,00-0036563,CB,Deommodore Lenoir,DB
+2026_03_ARI_SF,3,ARI,def,Roughing the Passer,6,True,10,00-0034381,LB,Josh Sweat,FRONT
+2026_03_ARI_SF,3,SF,off,Illegal Formation,5,False,,,,,TEAM
+2026_03_ARI_SF,3,SF,off,Offensive Holding,10,False,85,00-0033288,TE,George Kittle,WR
+2026_03_ATL_GB,3,GB,off,False Start,5,False,52,00-0040884,OL,Jager Burton,OL
+2026_03_ATL_GB,3,GB,off,Offensive Holding,10,False,9,00-0038124,WR,Christian Watson,WR
+2026_03_ATL_GB,3,ATL,def,Unnecessary Roughness,15,True,56,00-0041112,LB,Harold Perkins Jr.,FRONT
+2026_03_ATL_GB,3,ATL,st,Offensive Holding,10,False,42,00-0034801,LB,Josh Woods,ST
+2026_03_ATL_GB,3,ATL,off,Intentional Grounding,10,False,9,00-0039917,QB,Michael Penix Jr.,QB
+2026_03_ATL_GB,3,GB,def,Roughing the Passer,15,True,57,00-0038463,LB,Brenton Cox Jr.,FRONT
+2026_03_ATL_GB,3,ATL,def,Defensive Pass Interference,34,True,21,00-0034843,CB,Mike Hughes,DB
+2026_03_ATL_GB,3,GB,def,Illegal Contact,5,True,2,00-0041470,CB,Brandon Cisse,DB
+2026_03_ATL_GB,3,GB,st,Delay of Game,5,False,,,,,ST
+2026_03_ATL_GB,3,ATL,off,Offensive Holding,4,False,64,00-0036833,OL,Ryan Neuzil,OL
+2026_03_ATL_GB,3,ATL,off,Offensive Holding,10,False,71,00-0035237,OL,Jawaan Taylor,OL
+2026_03_ATL_GB,3,GB,off,Illegal Formation,5,False,,,,,TEAM
+2026_03_BAL_DAL,3,BAL,def,Face Mask,13,True,32,00-0038504,LB,Trenton Simpson,FRONT
+2026_03_BAL_DAL,3,DAL,st,Kickoff Out of Bounds,0,False,17,00-0037692,K/P/LS,Brandon Aubrey,ST
+2026_03_BAL_DAL,3,BAL,off,False Start,5,False,74,00-0036369,OL,John Simpson,OL
+2026_03_BAL_DAL,3,DAL,def,Defensive Pass Interference,19,True,26,00-0037275,CB,DaRon Bland,DB
+2026_03_BAL_DAL,3,BAL,off,Ineligible Downfield Pass,5,False,54,00-0038629,OL,Jovaughn Gwyn,OL
+2026_03_BAL_DAL,3,DAL,def,Defensive Pass Interference,49,True,14,00-0037561,S,Markquese Bell,DB
+2026_03_BAL_DAL,3,BAL,off,Ineligible Downfield Pass,5,False,54,00-0038629,OL,Jovaughn Gwyn,OL
+2026_03_BAL_DAL,3,DAL,off,Offensive Holding,10,False,78,00-0036036,OL,Terence Steele,OL
+2026_03_BAL_DAL,3,BAL,off,False Start,5,False,74,00-0036369,OL,John Simpson,OL
+2026_03_BAL_DAL,3,BAL,def,Roughing the Passer,15,True,92,00-0036130,DL,Nnamdi Madubuike,FRONT
+2026_03_BAL_DAL,3,DAL,st,Kickoff Out of Bounds,0,False,17,00-0037692,K/P/LS,Brandon Aubrey,ST
+2026_03_BAL_DAL,3,BAL,off,Illegal Formation,5,False,76,00-0040070,OL,Carson Vinson,OL
+2026_03_BAL_DAL,3,BAL,off,False Start,5,False,74,00-0036369,OL,John Simpson,OL
+2026_03_BAL_DAL,3,DAL,def,Defensive Pass Interference,5,True,14,00-0037561,S,Markquese Bell,DB
+2026_03_BAL_DAL,3,BAL,def,Defensive Pass Interference,20,True,2,00-0039232,CB,Nate Wiggins,DB
+2026_03_BAL_DAL,3,DAL,off,False Start,5,False,86,00-0038547,TE,Luke Schoonmaker,WR
+2026_03_CAR_CLE,3,CAR,off,False Start,5,False,63,00-0037196,OL,Rasheed Walker,OL
+2026_03_CAR_CLE,3,CAR,off,Intentional Grounding,10,False,9,00-0039150,QB,Bryce Young,QB
+2026_03_CAR_CLE,3,CLE,st,Illegal Block Above the Waist,8,False,35,00-0041115,CB,Toriano Pride Jr.,ST
+2026_03_CAR_CLE,3,CLE,off,Illegal Formation,4,False,,,,,TEAM
+2026_03_CAR_CLE,3,CAR,def,Defensive Pass Interference,17,True,2,00-0035277,CB,Mike Jackson,DB
+2026_03_CAR_CLE,3,CLE,off,False Start,5,False,58,00-0041049,OL,Austin Barber,OL
+2026_03_CAR_CLE,3,CLE,off,False Start,5,False,71,00-0035234,OL,Tytus Howard,OL
+2026_03_CAR_CLE,3,CLE,off,Offensive Holding,10,False,55,00-0041030,OL,Spencer Fano,OL
+2026_03_CAR_CLE,3,CAR,def,Defensive Holding,5,True,24,00-0041063,CB,Will Lee III,DB
+2026_03_CAR_CLE,3,CLE,off,False Start,5,False,71,00-0035234,OL,Tytus Howard,OL
+2026_03_CAR_CLE,3,CLE,def,Roughing the Passer,15,True,51,00-0039895,DL,Mike Hall Jr.,FRONT
+2026_03_CAR_CLE,3,CLE,def,Roughing the Passer,8,True,54,00-0037665,DL,Sam Williams,FRONT
+2026_03_CAR_CLE,3,CLE,def,Defensive Holding,4,True,29,00-0038565,CB,Mekhi Blackmon,DB
+2026_03_CAR_CLE,3,CLE,st,Offensive Holding,10,False,48,00-0041131,TE,Carsen Ryan,ST
+2026_03_CAR_CLE,3,CAR,st,Illegal Formation,5,False,48,00-0038791,LB,Thomas Incoom,ST
+2026_03_CAR_CLE,3,CLE,off,False Start,5,False,71,00-0035234,OL,Tytus Howard,OL
+2026_03_CAR_CLE,3,CLE,off,Illegal Shift,5,False,11,00-0039920,WR,Malachi Corley,WR
+2026_03_CAR_CLE,3,CAR,def,Roughing the Passer,15,True,58,00-0035687,LB,Bobby Okereke,FRONT
+2026_03_CAR_CLE,3,CAR,off,False Start,6,False,57,00-0041034,OL,Monroe Freeling,OL
+2026_03_CIN_PIT,3,CIN,off,False Start,5,False,81,00-0040785,WR,Dohnte Meyers,WR
+2026_03_CIN_PIT,3,PIT,st,Offensive Holding,10,False,28,00-0041401,S,Robert Spears-Jennings,ST
+2026_03_CIN_PIT,3,CIN,off,Illegal Formation,5,False,71,00-0039925,OL,Amarius Mims,OL
+2026_03_CIN_PIT,3,PIT,off,Offensive Holding,10,False,4,00-0035640,WR,DK Metcalf,WR
+2026_03_CIN_PIT,3,PIT,off,False Start,5,False,11,00-0036252,WR,Michael Pittman,WR
+2026_03_CIN_PIT,3,CIN,def,Defensive Holding,5,True,20,00-0041464,CB,Tacario Davis,DB
+2026_03_CIN_PIT,3,CIN,off,False Start,5,False,64,00-0032445,OL,Ted Karras,OL
+2026_03_CIN_PIT,3,CIN,off,False Start,5,False,71,00-0039925,OL,Amarius Mims,OL
+2026_03_CIN_PIT,3,CIN,st,Roughing the Kicker,15,False,52,00-0039752,DL,Cedric Johnson,ST
+2026_03_CIN_PIT,3,PIT,off,Offensive Holding,7,False,4,00-0035640,WR,DK Metcalf,WR
+2026_03_CIN_PIT,3,PIT,off,Ineligible Downfield Pass,5,False,76,00-0039871,OL,Troy Fautanu,OL
+2026_03_HOU_IND,3,IND,off,False Start,5,False,10,00-0030279,WR,Keenan Allen,WR
+2026_03_HOU_IND,3,IND,def,Defensive Offside,5,False,91,00-0040744,DL,Jaylahn Tuimoloau,FRONT
+2026_03_HOU_IND,3,HOU,off,Offensive Holding,10,False,63,00-0034495,OL,Evan Brown,OL
+2026_03_HOU_IND,3,IND,def,Face Mask,9,True,7,00-0034573,CB,Charvarius Ward,DB
+2026_03_HOU_IND,3,IND,def,Defensive Pass Interference,7,True,1,00-0037190,CB,Sauce Gardner,DB
+2026_03_HOU_IND,3,IND,def,Encroachment,5,False,95,00-0039031,DL,Adetomiwa Adebawore,FRONT
+2026_03_HOU_IND,3,IND,off,Offensive Holding,10,False,13,00-0032951,WR,Laquon Treadwell,WR
+2026_03_HOU_IND,3,HOU,st,Delay of Game,4,False,,,,,ST
+2026_03_KC_MIA,3,MIA,st,Illegal Block Above the Waist,9,False,84,00-0038824,WR,Ryan Miller,ST
+2026_03_KC_MIA,3,MIA,off,Offensive Holding,10,False,89,00-0041524,TE,Will Kacmarek,WR
+2026_03_KC_MIA,3,KC,def,Illegal Use of Hands,5,True,20,00-0040670,CB,Nohl Williams,DB
+2026_03_KC_MIA,3,MIA,off,Ineligible Downfield Pass,5,False,73,00-0036248,OL,Austin Jackson,OL
+2026_03_KC_MIA,3,MIA,def,Illegal Contact,5,True,16,00-0041528,S,Michael Taaffe,DB
+2026_03_KC_MIA,3,KC,def,Defensive Holding,5,True,38,00-0036374,CB,L'Jarius Sneed,DB
+2026_03_KC_MIA,3,KC,def,Defensive Offside,5,False,51,00-0041501,DL,R Mason Thomas,FRONT
+2026_03_KC_MIA,3,MIA,off,Delay of Game,5,False,,,,,TEAM
+2026_03_KC_MIA,3,KC,off,Offensive Holding,6,False,4,00-0039067,WR,Rashee Rice,WR
+2026_03_KC_MIA,3,MIA,off,Illegal Shift,5,False,,,,,TEAM
+2026_03_KC_MIA,3,KC,off,Illegal Use of Hands,10,False,65,00-0036660,OL,Trey Smith,OL
+2026_03_KC_MIA,3,KC,st,Offensive Holding,4,False,20,00-0040670,CB,Nohl Williams,ST
+2026_03_KC_MIA,3,MIA,def,Roughing the Passer,15,True,44,00-0039911,LB,Chop Robinson,FRONT
+2026_03_KC_MIA,3,MIA,st,Offensive Holding,10,False,34,00-0041436,RB,DJ Herman,ST
+2026_03_KC_MIA,3,KC,off,Illegal Block Above the Waist,10,False,52,00-0036623,OL,Creed Humphrey,OL
+2026_03_KC_MIA,3,KC,def,Illegal Use of Hands,5,True,56,00-0037192,DL,George Karlaftis,FRONT
+2026_03_LAC_BUF,3,BUF,def,Roughing the Passer,15,True,9,00-0034832,LB,Bradley Chubb,FRONT
+2026_03_LAC_BUF,3,BUF,off,Offensive Holding,10,False,70,00-0037428,OL,Alec Anderson,OL
+2026_03_LAC_BUF,3,BUF,def,Roughing the Passer,15,True,15,00-0036914,LB,Greg Rousseau,FRONT
+2026_03_LAC_BUF,3,BUF,off,False Start,5,False,73,00-0033904,OL,Dion Dawkins,OL
+2026_03_LAC_BUF,3,LAC,off,Illegal Block Above the Waist,10,False,86,00-0040189,TE,Oronde Gadsden II,WR
+2026_03_LAC_BUF,3,LAC,off,Offensive Holding,10,False,76,00-0039897,OL,Joe Alt,OL
+2026_03_LAC_BUF,3,BUF,def,Defensive Holding,3,True,47,00-0037288,CB,Christian Benford,DB
+2026_03_LAC_BUF,3,LAC,off,False Start,5,False,40,00-0039489,TE,Hayden Rucci,WR
+2026_03_LAC_BUF,3,LAC,off,False Start,5,False,69,00-0038103,OL,Cole Strange,OL
+2026_03_LAC_BUF,3,BUF,off,False Start,5,False,79,00-0036976,OL,Spencer Brown,OL
+2026_03_LAC_BUF,3,LAC,off,False Start,5,False,69,00-0038103,OL,Cole Strange,OL
+2026_03_LAC_BUF,3,BUF,off,Offensive Holding,10,False,88,00-0035689,TE,Dawson Knox,WR
+2026_03_LAC_BUF,3,BUF,off,Offensive Holding,10,False,73,00-0033904,OL,Dion Dawkins,OL
+2026_03_LAC_BUF,3,BUF,off,Offensive Holding,10,False,70,00-0037428,OL,Alec Anderson,OL
+2026_03_LAC_BUF,3,LAC,def,Defensive Holding,5,True,24,00-0041381,CB,Rodney Shelley,DB
+2026_03_LAC_BUF,3,BUF,def,Defensive Offside,5,False,22,00-0035253,S,C.J. Gardner-Johnson,DB
+2026_03_LAC_BUF,3,LAC,st,Offensive Holding,10,False,40,00-0039489,TE,Hayden Rucci,ST
+2026_03_LA_DEN,3,LA,def,Defensive Pass Interference,15,True,1,00-0039151,CB,Emmanuel Forbes,DB
+2026_03_LA_DEN,3,LA,off,Offensive Holding,10,False,73,00-0039058,OL,Steve Avila,OL
+2026_03_LA_DEN,3,DEN,def,Defensive Pass Interference,13,True,21,00-0038552,CB,Riley Moss,DB
+2026_03_LA_DEN,3,LA,off,Delay of Game,5,False,,,,,TEAM
+2026_03_LA_DEN,3,LA,off,Offensive Pass Interference,10,False,17,00-0031381,WR,Davante Adams,WR
+2026_03_LA_DEN,3,DEN,off,Illegal Formation,5,False,72,00-0033538,OL,Garett Bolles,OL
+2026_03_LA_DEN,3,DEN,st,False Start,5,False,48,00-0036943,K/P/LS,Mitchell Fraboni,ST
+2026_03_LA_DEN,3,LA,off,Delay of Game,5,False,,,,,TEAM
+2026_03_LA_DEN,3,LA,def,Face Mask,6,True,37,00-0037841,S,Quentin Lake,DB
+2026_03_LA_DEN,3,LA,off,Offensive Holding,10,False,71,00-0039077,OL,Warren McClendon Jr.,OL
+2026_03_LA_DEN,3,LA,st,Unsportsmanlike Conduct,13,False,1,00-0039151,CB,Emmanuel Forbes,ST
+2026_03_LA_DEN,3,DEN,off,False Start,5,False,60,00-0037278,OL,Luke Wattenberg,OL
+2026_03_LA_DEN,3,DEN,off,Offensive Holding,10,False,72,00-0033538,OL,Garett Bolles,OL
+2026_03_LA_DEN,3,LA,def,Defensive Pass Interference,4,True,30,00-0039772,CB,Josh Wallace,DB
+2026_03_LA_DEN,3,LA,def,Illegal Use of Hands,3,True,37,00-0037841,S,Quentin Lake,DB
+2026_03_LA_DEN,3,LA,def,Encroachment,0,False,91,00-0039138,DL,Kobie Turner,FRONT
+2026_03_LA_DEN,3,LA,st,Defensive Offside,5,False,22,00-0037191,CB,Trent McDuffie,ST
+2026_03_LA_DEN,3,LA,off,False Start,5,False,77,00-0036603,OL,Alaric Jackson,OL
+2026_03_LV_NO,3,LV,off,Offensive Holding,10,False,1,00-0038563,WR,Tre Tucker,WR
+2026_03_LV_NO,3,NO,off,Illegal Shift,5,False,,,,,TEAM
+2026_03_LV_NO,3,NO,st,Kickoff Short of Landing Zone,0,False,10,00-0034161,K/P/LS,Daniel Carlson,ST
+2026_03_LV_NO,3,LV,off,Offensive Offside,4,False,65,00-0037825,OL,Tyler Linderbaum,OL
+2026_03_LV_NO,3,NO,off,False Start,5,False,51,00-0036408,OL,Cesar Ruiz,OL
+2026_03_LV_NO,3,NO,def,Defensive Pass Interference,7,True,7,00-0040643,S,Jonas Sanker,DB
+2026_03_LV_NO,3,NO,def,Roughing the Passer,2,True,28,00-0040155,LB,Danny Stutsman,FRONT
+2026_03_LV_NO,3,NO,def,Illegal Contact,5,True,29,00-0040166,CB,Quincy Riley,DB
+2026_03_LV_NO,3,NO,def,Unnecessary Roughness,7,True,21,00-0034361,S,Justin Reid,DB
+2026_03_LV_NO,3,LV,def,Neutral Zone Infraction,0,False,99,00-0037262,DL,Thomas Booker,FRONT
+2026_03_LV_NO,3,LV,st,Kickoff Out of Bounds,0,False,14,00-0035269,K/P/LS,Matt Gay,ST
+2026_03_LV_NO,3,NO,st,Delay of Game,5,False,,,,,ST
+2026_03_LV_NO,3,LV,def,Illegal Contact,5,True,11,00-0036293,S,Jeremy Chinn,DB
+2026_03_MIN_TB,3,MIN,off,Offensive Holding,10,False,74,00-0040661,OL,Donovan Jackson,OL
+2026_03_MIN_TB,3,MIN,st,Unsportsmanlike Conduct,15,False,,,,,ST
+2026_03_MIN_TB,3,MIN,def,Face Mask,15,True,15,00-0039924,LB,Dallas Turner,FRONT
+2026_03_MIN_TB,3,MIN,off,Offensive Holding,11,False,84,00-0035249,TE,Josh Oliver,WR
+2026_03_MIN_TB,3,MIN,st,Delay of Game,5,False,,,,,ST
+2026_03_MIN_TB,3,TB,off,Offensive Holding,10,False,69,00-0039157,OL,Cody Mauch,OL
+2026_03_MIN_TB,3,TB,off,Offensive Holding,10,False,62,00-0039905,OL,Graham Barton,OL
+2026_03_MIN_TB,3,TB,st,Offensive Holding,10,False,29,00-0032399,S,Miles Killebrew,ST
+2026_03_MIN_TB,3,MIN,off,Delay of Game,5,False,,,,,TEAM
+2026_03_MIN_TB,3,TB,off,Chop Block,14,False,7,00-0039361,RB,Bucky Irving,RB
+2026_03_MIN_TB,3,TB,off,Offensive Holding,7,False,67,00-0037835,OL,Luke Goedeke,OL
+2026_03_MIN_TB,3,TB,def,Defensive Offside,5,False,34,00-0033914,LB,Alex Anzalone,FRONT
+2026_03_MIN_TB,3,TB,off,Offensive Holding,10,False,87,00-0039050,TE,Payne Durham,WR
+2026_03_MIN_TB,3,MIN,def,Unnecessary Roughness,15,True,44,00-0036348,S,Josh Metellus,DB
+2026_03_MIN_TB,3,TB,st,Unnecessary Roughness,15,False,38,00-0040089,S,Kevin Knowles,ST
+2026_03_MIN_TB,3,MIN,off,Offensive Holding,9,False,76,00-0036483,OL,Will Fries,OL
+2026_03_MIN_TB,3,MIN,off,Illegal Block Above the Waist,10,False,74,00-0040661,OL,Donovan Jackson,OL
+2026_03_NE_JAX,3,JAX,st,Illegal Block Above the Waist,10,False,31,00-0035240,LB,Jahlani Tavai,ST
+2026_03_NE_JAX,3,JAX,off,Chop Block,6,False,87,00-0041503,TE,Nate Boerkircher,WR
+2026_03_NE_JAX,3,NE,st,Illegal Block Above the Waist,10,False,36,00-0038564,TE,Cameron Latu,ST
+2026_03_NE_JAX,3,NE,off,Offensive Holding,10,False,76,00-0031330,OL,Morgan Moses,OL
+2026_03_NE_JAX,3,NE,off,Offensive Pass Interference,10,False,87,00-0037816,WR,Romeo Doubs,WR
+2026_03_NE_JAX,3,JAX,def,Defensive Holding,5,True,4,00-0039353,CB,Jarrian Jones,DB
+2026_03_NE_JAX,3,JAX,def,Neutral Zone Infraction,5,True,93,00-0034657,DL,Matt Dickerson,FRONT
+2026_03_NE_JAX,3,NE,def,Neutral Zone Infraction,5,False,50,00-0041569,LB,Gabe Jacas,FRONT
+2026_03_NE_JAX,3,NE,def,Neutral Zone Infraction,5,True,91,00-0040574,LB,Elijah Ponder,FRONT
+2026_03_NE_JAX,3,JAX,def,Unnecessary Roughness,15,True,6,00-0038596,S,Antonio Johnson,DB
+2026_03_NE_JAX,3,NE,off,False Start,5,False,36,00-0038564,TE,Cameron Latu,WR
+2026_03_NE_JAX,3,NE,def,Neutral Zone Infraction,5,True,97,00-0036916,DL,Milton Williams,FRONT
+2026_03_NE_JAX,3,NE,def,Face Mask,3,True,7,00-0034778,CB,Carlton Davis III,DB
+2026_03_NE_JAX,3,JAX,off,False Start,5,False,75,00-0041050,OL,Emmanuel Pregnon,OL
+2026_03_NE_JAX,3,JAX,off,Illegal Use of Hands,10,False,70,00-0036655,OL,Cole Van Lanen,OL
+2026_03_NE_JAX,3,NE,off,Taunting,15,False,13,00-0033555,WR,Mack Hollins,WR
+2026_03_NYJ_DET,3,NYJ,off,Delay of Game,5,False,,,,,TEAM
+2026_03_NYJ_DET,3,NYJ,off,Offensive Holding,10,False,64,00-0037255,OL,Dylan Parham,OL
+2026_03_NYJ_DET,3,NYJ,off,Offensive Pass Interference,10,False,84,00-0041267,WR,Malik McClain,WR
+2026_03_NYJ_DET,3,DET,st,Offensive Holding,10,False,53,00-0038660,LB,Trevor Nowaske,ST
+2026_03_NYJ_DET,3,DET,off,False Start,5,False,76,00-0041439,OL,Blake Miller,OL
+2026_03_NYJ_DET,3,NYJ,def,Illegal Use of Hands,5,True,1,00-0040133,CB,Azareye'h Thomas,DB
+2026_03_NYJ_DET,3,DET,off,Offensive Holding,10,False,58,00-0036880,OL,Penei Sewell,OL
+2026_03_NYJ_DET,3,DET,def,Defensive Pass Interference,16,True,4,00-0034384,CB,D.J. Reed,DB
+2026_03_PHI_CHI,3,PHI,off,Intentional Grounding,10,False,1,00-0036389,QB,Jalen Hurts,QB
+2026_03_PHI_CHI,3,PHI,def,Defensive Holding,5,True,2,00-0037079,CB,Riq Woolen,DB
+2026_03_PHI_CHI,3,PHI,off,Offensive Holding,10,False,56,00-0039001,OL,Tyler Steen,OL
+2026_03_PHI_CHI,3,CHI,off,False Start,5,False,4,00-0036275,RB,D'Andre Swift,RB
+2026_03_PHI_CHI,3,PHI,def,Illegal Contact,5,True,2,00-0037079,CB,Riq Woolen,DB
+2026_03_PHI_CHI,3,PHI,off,False Start,1,False,66,00-0040587,OL,Drew Kendall,OL
+2026_03_PHI_CHI,3,CHI,def,Defensive Pass Interference,21,True,21,00-0035357,S,Cam Lewis,DB
+2026_03_PHI_CHI,3,CHI,st,Kickoff Short of Landing Zone,0,False,8,00-0031203,K/P/LS,Cairo Santos,ST
+2026_03_PHI_CHI,3,PHI,off,Delay of Game,5,False,,,,,TEAM
+2026_03_PHI_CHI,3,PHI,st,Offensive Holding,10,False,7,00-0039140,CB,Kelee Ringo,ST
+2026_03_PHI_CHI,3,PHI,def,Neutral Zone Infraction,5,True,97,00-0038412,DL,Moro Ojomo,FRONT
+2026_03_PHI_CHI,3,CHI,off,False Start,4,False,15,00-0039919,WR,Rome Odunze,WR
+2026_03_PHI_CHI,3,PHI,def,Defensive Holding,5,True,24,00-0040749,S,Andrew Mukuba,DB
+2026_03_PHI_CHI,3,CHI,st,Unnecessary Roughness,15,False,73,00-0036258,OL,Jonah Jackson,ST
+2026_03_PHI_CHI,3,PHI,off,False Start,5,False,84,00-0038498,TE,E.J. Jenkins,WR
+2026_03_SEA_WAS,3,SEA,off,Delay of Game,5,False,,,,,TEAM
+2026_03_SEA_WAS,3,WAS,off,False Start,5,False,72,00-0040686,OL,Josh Conerly Jr.,OL
+2026_03_SEA_WAS,3,SEA,def,Defensive Pass Interference,14,True,29,00-0037137,CB,Josh Jobe,DB
+2026_03_SEA_WAS,3,WAS,off,Illegal Formation,5,False,,,,,TEAM
+2026_03_SEA_WAS,3,WAS,def,Defensive Pass Interference,2,True,20,00-0039149,S,Quan Martin,DB
+2026_03_SEA_WAS,3,WAS,off,False Start,5,False,87,00-0036628,TE,John Bates,WR
+2026_03_SEA_WAS,3,SEA,off,False Start,5,False,88,00-0039793,TE,AJ Barner,WR
+2026_03_SEA_WAS,3,SEA,off,False Start,5,False,11,00-0038543,WR,Jaxon Smith-Njigba,WR
+2026_03_SEA_WAS,3,WAS,st,Kickoff Out of Bounds,0,False,19,00-0041182,K/P/LS,Drew Stevens,ST
+2026_03_SEA_WAS,3,WAS,def,Defensive Holding,5,True,0,00-0039898,CB,Mike Sainristil,DB
+2026_03_SEA_WAS,3,WAS,off,Illegal Shift,5,False,,,,,TEAM
+2026_03_SEA_WAS,3,SEA,off,False Start,4,False,11,00-0038543,WR,Jaxon Smith-Njigba,WR
+2026_03_SEA_WAS,3,WAS,def,Unnecessary Roughness,15,True,45,00-0036286,LB,K'Lavon Chaisson,FRONT
+2026_03_SEA_WAS,3,SEA,st,Kickoff Short of Landing Zone,0,False,5,00-0031492,K/P/LS,Jason Myers,ST
+2026_03_SEA_WAS,3,SEA,def,Unnecessary Roughness,15,True,30,00-0038866,S,AJ Finley,DB
+2026_03_SEA_WAS,3,SEA,off,Illegal Formation,5,False,,,,,TEAM
+2026_03_SEA_WAS,3,WAS,def,Unsportsmanlike Conduct,15,False,,,,,TEAM
+2026_03_TEN_NYG,3,NYG,off,Offensive Holding,10,False,61,00-0039019,OL,John Michael Schmitz,OL
+2026_03_TEN_NYG,3,TEN,def,Defensive Offside,5,False,57,00-0034163,DL,Jacob Martin,FRONT
+2026_03_TEN_NYG,3,TEN,st,Offensive Holding,9,False,21,00-0040020,CB,Micah Robinson,ST
+2026_03_TEN_NYG,3,TEN,def,Defensive Offside,5,True,98,00-0035643,DL,Jeffery Simmons,FRONT
+2026_03_TEN_NYG,3,TEN,off,Offensive Pass Interference,10,False,82,00-0038115,TE,Daniel Bellinger,WR
+2026_03_TEN_NYG,3,NYG,off,Offensive Holding,7,False,72,00-0033290,OL,Jermaine Eluemunor,OL
+2026_03_TEN_NYG,3,TEN,off,Offensive Pass Interference,10,False,5,00-0040170,WR,Elic Ayomanor,WR
+2026_03_TEN_NYG,3,NYG,off,False Start,5,False,76,00-0036246,OL,Jon Runyan,OL
+2026_03_TEN_NYG,3,NYG,off,Illegal Shift,5,False,,,,,TEAM
+2026_03_TEN_NYG,3,NYG,off,Offensive Holding,10,False,72,00-0033290,OL,Jermaine Eluemunor,OL
+2026_03_TEN_NYG,3,TEN,st,Offensive Holding,9,False,41,00-0038620,CB,Erick Hallett,ST
+2026_03_TEN_NYG,3,NYG,def,Face Mask,15,True,93,00-0031270,DL,Shelby Harris,FRONT
+2026_03_TEN_NYG,3,TEN,st,Face Mask,15,False,52,00-0039430,LB,James Williams,ST
+2026_03_TEN_NYG,3,NYG,off,Delay of Game,5,False,,,,,TEAM
+2026_03_TEN_NYG,3,NYG,st,Fair Catch Interference,15,False,28,00-0034248,S,Elijah Campbell,ST
+2026_03_TEN_NYG,3,NYG,def,Encroachment,6,True,49,00-0034673,LB,Tremaine Edmunds,FRONT
+2026_03_TEN_NYG,3,NYG,def,Unsportsmanlike Conduct,10,False,3,00-0040677,LB,Abdul Carter,FRONT
