@@ -1,0 +1,237 @@
+team,lane,n,epa,ypc,sr
+ARI,left end,9,0.334,4.556,0.667
+ARI,left guard,5,0.326,4.8,0.8
+ARI,left tackle,9,-0.665,1.889,0.222
+ARI,middle,31,-0.202,2.742,0.323
+ARI,right end,6,0.307,7.5,0.667
+ARI,right guard,7,0.002,4.0,0.571
+ARI,right tackle,6,0.056,4.0,0.5
+ATL,left end,13,0.013,8.462,0.538
+ATL,left guard,18,0.09,3.944,0.5
+ATL,left tackle,20,0.097,4.5,0.5
+ATL,middle,20,-0.141,3.05,0.4
+ATL,right end,9,0.641,11.0,0.889
+ATL,right guard,10,-0.28,2.6,0.2
+ATL,right tackle,8,0.058,3.5,0.625
+BAL,left end,10,0.459,5.3,0.6
+BAL,left guard,12,-0.297,2.917,0.583
+BAL,left tackle,17,-0.134,5.176,0.353
+BAL,middle,10,-0.447,3.6,0.2
+BAL,right end,18,0.339,5.611,0.722
+BAL,right guard,9,0.024,4.556,0.556
+BAL,right tackle,9,0.358,6.778,0.444
+BUF,? ?,1,-1.13,0.0,0.0
+BUF,left end,2,-2.591,-1.5,0.0
+BUF,left guard,22,0.436,5.591,0.636
+BUF,left tackle,8,0.215,4.875,0.5
+BUF,middle,21,-0.023,5.619,0.667
+BUF,right end,3,0.55,6.0,1.0
+BUF,right guard,13,-0.208,4.385,0.154
+BUF,right tackle,8,0.198,5.0,0.5
+CAR,left end,10,0.032,5.3,0.6
+CAR,left guard,14,0.099,5.071,0.429
+CAR,left tackle,7,0.079,6.286,0.571
+CAR,middle,16,-0.301,3.5,0.375
+CAR,right end,3,-0.81,-0.333,0.0
+CAR,right guard,4,0.031,4.75,0.5
+CAR,right tackle,8,-0.457,1.625,0.0
+CHI,? ?,1,1.153,17.0,1.0
+CHI,left end,4,0.106,4.0,0.75
+CHI,left guard,12,-0.167,3.5,0.333
+CHI,left tackle,16,0.195,5.688,0.5
+CHI,middle,8,0.699,10.0,0.75
+CHI,right end,12,0.119,4.917,0.583
+CHI,right guard,19,0.105,4.105,0.263
+CHI,right tackle,20,-0.566,3.95,0.2
+CIN,left end,4,-0.178,5.25,0.5
+CIN,left guard,12,0.056,3.667,0.5
+CIN,left tackle,7,-0.291,2.714,0.429
+CIN,middle,24,0.063,4.458,0.375
+CIN,right end,4,0.167,5.5,0.75
+CIN,right guard,9,-0.064,4.667,0.333
+CIN,right tackle,3,-0.829,0.667,0.0
+CLE,left end,12,-0.703,0.917,0.25
+CLE,left guard,7,-0.215,3.429,0.571
+CLE,left tackle,6,-0.287,3.167,0.167
+CLE,middle,18,-0.394,2.611,0.222
+CLE,right end,5,0.607,7.4,0.8
+CLE,right guard,8,-0.642,2.875,0.125
+CLE,right tackle,4,0.394,6.75,0.5
+DAL,left end,5,0.121,3.8,0.4
+DAL,left guard,8,-0.296,3.375,0.25
+DAL,left tackle,8,0.499,9.0,0.625
+DAL,middle,19,-0.049,3.474,0.368
+DAL,right end,2,-0.981,0.5,0.0
+DAL,right guard,9,0.04,3.333,0.556
+DAL,right tackle,9,-0.458,1.333,0.444
+DEN,? ?,1,-1.073,0.0,0.0
+DEN,left end,14,-0.033,4.714,0.429
+DEN,left guard,6,-0.067,4.667,0.5
+DEN,left tackle,5,-0.266,4.2,0.2
+DEN,middle,19,0.032,3.0,0.368
+DEN,right end,7,0.019,4.286,0.286
+DEN,right guard,6,-0.035,4.0,0.333
+DEN,right tackle,5,0.141,3.6,0.6
+DET,? ?,2,-1.522,0.0,0.0
+DET,left end,5,-0.09,3.6,0.4
+DET,left guard,9,-0.001,4.556,0.444
+DET,left tackle,9,-0.574,4.444,0.556
+DET,middle,24,0.169,4.25,0.625
+DET,right end,7,0.254,7.143,0.429
+DET,right guard,7,-0.168,3.429,0.286
+DET,right tackle,13,0.033,5.538,0.462
+GB,? ?,1,-0.353,0.0,0.0
+GB,left end,7,-0.218,4.857,0.429
+GB,left guard,8,-0.013,4.375,0.375
+GB,left tackle,9,-0.639,3.778,0.222
+GB,middle,9,-0.481,0.889,0.444
+GB,right end,2,-0.67,0.0,0.0
+GB,right guard,7,-0.71,3.286,0.429
+GB,right tackle,5,-0.258,2.4,0.2
+HOU,left end,3,-0.351,1.667,0.0
+HOU,left guard,13,-0.379,2.769,0.154
+HOU,left tackle,7,0.084,3.857,0.571
+HOU,middle,10,0.285,5.2,0.4
+HOU,right end,7,0.219,4.714,0.429
+HOU,right guard,11,-0.534,1.636,0.273
+HOU,right tackle,15,-0.5,2.067,0.333
+IND,? ?,1,-0.139,4.0,0.0
+IND,left end,6,0.11,3.167,0.5
+IND,left guard,10,0.133,3.1,0.6
+IND,left tackle,7,0.02,5.429,0.429
+IND,middle,16,0.149,3.438,0.5
+IND,right end,14,0.084,4.357,0.429
+IND,right guard,6,-0.202,3.167,0.167
+IND,right tackle,19,0.038,3.737,0.368
+JAX,left end,15,0.221,6.267,0.467
+JAX,left guard,5,-0.27,1.8,0.2
+JAX,left tackle,9,0.172,4.778,0.556
+JAX,middle,20,0.14,4.0,0.65
+JAX,right end,13,0.302,4.692,0.615
+JAX,right guard,9,-0.096,4.0,0.333
+JAX,right tackle,10,-0.228,3.0,0.4
+KC,left end,10,0.736,12.2,0.6
+KC,left guard,12,0.191,4.833,0.667
+KC,left tackle,8,0.248,6.0,0.625
+KC,middle,35,-0.024,3.429,0.457
+KC,right end,6,-0.218,2.833,0.167
+KC,right guard,7,-0.122,4.143,0.429
+KC,right tackle,4,-0.151,6.25,0.25
+LA,left end,5,-0.595,5.2,0.4
+LA,left guard,8,-0.24,3.375,0.25
+LA,left tackle,4,0.28,7.0,0.75
+LA,middle,27,0.054,6.296,0.593
+LA,right end,9,0.302,6.556,0.556
+LA,right guard,14,-0.48,4.214,0.286
+LA,right tackle,6,0.041,2.5,0.333
+LAC,? ?,2,-1.925,0.0,0.0
+LAC,left end,11,-0.218,6.0,0.636
+LAC,left guard,6,0.424,5.667,0.833
+LAC,left tackle,8,-0.289,2.25,0.125
+LAC,middle,23,-0.333,4.348,0.435
+LAC,right end,12,-0.257,3.167,0.417
+LAC,right guard,7,-0.316,3.714,0.429
+LAC,right tackle,4,-0.097,4.25,0.25
+LV,left end,7,-0.274,2.0,0.429
+LV,left guard,7,-0.023,5.857,0.571
+LV,left tackle,8,-0.346,2.625,0.125
+LV,middle,32,-0.266,3.062,0.312
+LV,right end,10,-0.352,3.2,0.2
+LV,right guard,12,0.036,4.833,0.333
+LV,right tackle,6,-0.007,5.833,0.333
+MIA,? ?,1,-3.22,0.0,0.0
+MIA,left end,9,-0.139,3.444,0.111
+MIA,left guard,6,-0.29,4.167,0.333
+MIA,left tackle,7,0.056,3.143,0.429
+MIA,middle,28,-0.166,3.5,0.393
+MIA,right end,3,-0.165,4.0,0.0
+MIA,right guard,9,-0.497,2.889,0.333
+MIA,right tackle,3,-0.919,-1.667,0.0
+MIN,? ?,1,-3.456,0.0,0.0
+MIN,left end,11,-0.199,5.273,0.182
+MIN,left guard,7,0.155,2.857,0.714
+MIN,left tackle,8,-0.187,3.25,0.25
+MIN,middle,16,-0.211,2.5,0.25
+MIN,right end,5,-0.014,4.8,0.4
+MIN,right guard,20,-0.119,3.05,0.25
+MIN,right tackle,8,0.016,5.875,0.375
+NE,left end,5,-0.241,2.8,0.2
+NE,left guard,6,0.075,8.167,0.333
+NE,left tackle,8,-0.056,2.75,0.375
+NE,middle,33,-0.161,3.273,0.303
+NE,right end,3,-0.497,1.0,0.0
+NE,right guard,10,-0.479,2.0,0.2
+NE,right tackle,7,-0.046,4.571,0.429
+NO,? ?,2,-1.414,0.0,0.0
+NO,left end,4,0.292,4.75,0.5
+NO,left guard,9,0.14,5.111,0.667
+NO,left tackle,7,-0.196,2.571,0.286
+NO,middle,30,0.12,3.667,0.533
+NO,right end,5,-0.198,2.2,0.2
+NO,right guard,6,-0.035,3.333,0.333
+NO,right tackle,11,-0.332,2.636,0.091
+NYG,left end,13,0.317,7.769,0.615
+NYG,left guard,12,0.022,5.083,0.5
+NYG,left tackle,11,0.027,4.091,0.455
+NYG,middle,26,-0.353,2.269,0.269
+NYG,right end,8,0.043,2.0,0.5
+NYG,right guard,9,0.143,4.556,0.444
+NYG,right tackle,5,-0.62,2.6,0.0
+NYJ,? ?,2,-2.387,0.0,0.0
+NYJ,left end,9,0.341,4.889,0.556
+NYJ,left guard,8,-0.251,2.5,0.25
+NYJ,left tackle,9,-0.371,1.778,0.222
+NYJ,middle,20,-0.176,3.1,0.25
+NYJ,right end,9,-0.106,3.889,0.333
+NYJ,right guard,12,-0.318,3.5,0.5
+NYJ,right tackle,5,-0.014,4.4,0.6
+PHI,left end,10,-0.153,3.8,0.4
+PHI,left guard,3,-0.237,2.667,0.333
+PHI,left tackle,10,-0.004,5.3,0.4
+PHI,middle,11,0.346,2.909,0.545
+PHI,right end,5,0.54,6.0,0.8
+PHI,right guard,11,-0.159,4.818,0.182
+PHI,right tackle,14,-0.272,2.643,0.214
+PIT,left end,12,0.051,6.833,0.333
+PIT,left guard,8,-0.061,5.875,0.25
+PIT,left tackle,7,-0.421,2.0,0.143
+PIT,middle,18,0.075,4.278,0.5
+PIT,right end,5,-0.245,4.4,0.2
+PIT,right guard,3,-0.354,0.333,0.0
+PIT,right tackle,6,0.057,4.833,0.5
+SEA,left end,9,-0.746,3.333,0.444
+SEA,left guard,10,-0.196,3.0,0.2
+SEA,left tackle,6,0.576,5.333,0.667
+SEA,middle,23,-0.512,2.739,0.391
+SEA,right end,15,-0.046,4.4,0.333
+SEA,right guard,7,-0.348,2.714,0.286
+SEA,right tackle,7,0.056,6.429,0.429
+SF,left end,8,-0.038,4.875,0.5
+SF,left guard,7,-0.049,5.0,0.429
+SF,left tackle,7,-0.233,3.286,0.286
+SF,middle,23,0.008,4.261,0.522
+SF,right end,6,0.226,6.5,0.5
+SF,right guard,14,-0.14,4.0,0.357
+SF,right tackle,6,0.102,5.167,0.667
+TB,left end,11,0.302,7.091,0.455
+TB,left guard,12,-0.043,4.333,0.333
+TB,left tackle,6,-0.281,2.833,0.333
+TB,middle,8,-0.317,1.375,0.375
+TB,right end,4,-0.432,2.0,0.25
+TB,right guard,9,-0.291,2.333,0.111
+TB,right tackle,5,0.415,5.0,0.6
+TEN,left end,4,1.276,14.75,1.0
+TEN,left guard,6,-0.038,4.167,0.5
+TEN,left tackle,14,-0.344,2.571,0.143
+TEN,middle,16,0.04,2.875,0.375
+TEN,right end,2,-0.641,0.0,0.0
+TEN,right guard,7,0.125,5.857,0.571
+TEN,right tackle,9,-0.068,4.222,0.444
+WAS,? ?,1,-2.174,0.0,0.0
+WAS,left end,6,-0.121,3.667,0.333
+WAS,left guard,13,0.004,3.462,0.462
+WAS,left tackle,10,-0.305,4.1,0.4
+WAS,middle,23,-0.085,3.609,0.391
+WAS,right end,4,0.55,7.75,0.5
+WAS,right guard,16,-0.261,2.062,0.375
+WAS,right tackle,9,-0.142,4.222,0.333

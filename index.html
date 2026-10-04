@@ -4,9 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="description" content="Advanced stats for all 32 NFL teams in 2026: EPA, Next Gen Stats, DVOA, FTN charting, pressure, coverage and broken tackles.">
-<style>body{margin:0;padding:0}[hidden]{display:none!important}</style>
+<link rel="alternate" type="application/json" href="data/data.json" title="Stat sheet data (JSON)">
+<link rel="alternate" type="text/csv" href="data/team_summary.csv" title="Team summary (CSV)">
+<style>body{margin:0;padding:0}[hidden]{display:none!important}.data-note{max-width:1200px;margin:0 auto;padding:12px 16px 32px;font:13px/1.5 system-ui,sans-serif;opacity:.75}.data-note a{color:inherit}</style>
 </head>
 <body>
+<noscript><p>This page draws its charts with JavaScript. The same data, readable without it, is at <a href="data/">data/</a> (all 32 teams in one table, plus CSV and JSON downloads).</p></noscript>
 <title>NFL 2026 Stat Sheet</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
@@ -775,5 +778,6 @@ let start='NE';const h=location.hash.slice(1).toUpperCase();
 if(D.teams[h])start=h;else{try{const s=localStorage.getItem('team');if(D.teams[s])start=s}catch(e){}}
 pick(start,false);
 </script>
+<p class="data-note">Data for this page as plain files (no JavaScript needed): <a href="data/">data index</a> · <a href="data/team_summary.csv">team_summary.csv</a> · <a href="data/data.json">data.json</a> · <a href="llms.txt">llms.txt</a></p>
 </body>
 </html>

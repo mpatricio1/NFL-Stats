@@ -1,0 +1,867 @@
+# NFL 2026 Stat Sheet: team write-ups through Week 3
+
+Hand-written summaries shown at the top of each section of https://mpatricio1.github.io/NFL-Stats/ . Numbers come from data.json.
+
+
+## Arizona Cardinals (ARI)
+
+**Team efficiency.** An efficient, low-risk offense paired with a pass defense that can't get off the field. Arizona ranks 13th in offensive EPA per play and 8th in success rate with only one giveaway, but 28th on defense and 30th against the pass. The run defense (7th) is fine; the 36 points and 438 yards allowed at San Francisco in Week 3 are the pass defense problem in one game.
+
+**DVOA.** DVOA sees the same split. Arizona is 19th overall, with an above-average offense (11th) and special teams (6th) offset by the 31st-ranked defense.
+
+**Personnel & fronts.** A one-back offense (84% of snaps) that uses play action less than all but one team. The two-back looks it does use have cost −0.25 EPA per play. The defense plays fewer defensive backs than all but three teams and rarely blitzes (22%, 26th), and neither approach is working against the pass: +0.31 EPA per dropback with four rushers (league +0.09) and +0.69 when it sends more.
+
+**Quarterbacks.** Jacoby Brissett has been steady, not explosive: +0.11 EPA per dropback, completions 4 points above expectation, 4 touchdowns and 1 interception. He throws short (6.1-yard average depth of target) and quickly, which keeps the sack rate at 4.1% (6th). Blitzes have hurt him (−0.12 EPA per dropback against +0.18 without), and play action hasn't helped on the few times Arizona uses it.
+
+**Running backs.** Neither back is beating Next Gen Stats' expectation. Jeremiyah Love averages 3.9 yards per carry (−0.16 over expected) with a 46% success rate, and Tyler Allgeier 2.9 yards per carry (−0.68). The backs get just 2.2 yards before contact per carry (22nd), and Arizona's 8 broken tackles (2.7 per game) are about league average.
+
+**Receivers & TE.** Trey McBride is the offense: 30% of the targets, 26 catches for 211 yards and 2 touchdowns, +0.42 EPA per target and 3 broken tackles after the catch. Michael Wilson draws 42% of the air yards but has averaged 5.3 yards per target. Marvin Harrison Jr. has been a small part of the passing game so far, 4 catches on 9 targets for 73 yards.
+
+**Offensive line.** Pass protection is solid: pressure on 22% of dropbacks (12th lowest) and a 4.1% sack rate (6th). Paris Johnson, Elijah Wilkinson and Hjalte Froholdt have played every snap. The run blocking lags: 31 runs up the middle average 2.7 yards at −0.20 EPA per carry, and runs behind left tackle 1.9 yards.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, a measure that mostly reflects the QB) plus FTN's charting of each sack. There isn't much to assign. Brissett has taken only 5 sacks, turning 19% of his pressures into sacks (league 26%), and FTN charged none to him. Three came against a standard rush and two on extended plays.
+
+**Front seven.** Stout against the run (7th in EPA per rush) but a thin pass rush: 7.0 pressures per game (25th) and a 4.4% sack rate (24th). Walter Nolen leads the line with 4 pressures. Budda Baker has 1.5 sacks from safety, and Jordan Burch and Dante Stills have one each.
+
+**Secondary.** The weak spot of the roster, 30th in EPA per dropback allowed. Budda Baker (146 yards, 2 touchdowns, 139 passer rating) and Denzel Burke (2 touchdowns, 140 rating) have been targeted successfully. Andrew Wingard has been the exception with an interception, a forced fumble, 3 tackles for loss and a 48 rating allowed, and Max Melton has 3 passes defensed.
+
+**Coverage.** PFR's coverage charting tells the same story as EPA. Arizona has allowed a 110.7 passer rating on charted targets (28th; league 94.5): 51 of 89 for 760 yards, 8 touchdowns (27th) and 1 interception. Opponents complete only 57% of those throws (5th lowest), but the catches go for 8.5 yards per target (26th). Linebackers have fared worst (117.9 rating on 24 targets, 27th among linebacker groups), and the safeties have given up 11.7 yards per target.
+
+**Special teams.** A strength (6th in special teams DVOA). Chad Ryland is 7 of 8 on field goals with a long of 49. Blake Gillikin has punted 14 times with 6 inside the 20, and Jalen Brooks (26.3) and Devin Duvernay (27.6) are both averaging over 26 yards per kickoff return.
+
+
+## Atlanta Falcons (ATL)
+
+**Team efficiency.** A sound defense and a strong run game buried by quarterback play. Atlanta ranks 9th in defensive EPA per play and 6th on the ground on offense, but 32nd in passing EPA and 29th overall on offense. Eight giveaways against two takeaways, five of them in the 34–3 loss to Carolina, explain the 1–2 record. Week 3 at Green Bay (35 points, +0.32 EPA per play) is the first look at the offense with Michael Penix Jr.
+
+**DVOA.** DVOA lines up with EPA. Atlanta is 23rd overall, with the 27th-ranked offense, the 10th-ranked defense and special teams down at 27th.
+
+**Personnel & fronts.** A run-first offense (27th in pass rate over expected) that plays a lot of tight ends, about 1.6 on the field per snap, 6th most. The defense rarely blitzes: four rushers on 77% of dropbacks (league 66%) and a blitz rate of 21%, 27th. That has been the right call so far, since four-man rushes allow +0.03 EPA per dropback against +0.11 when Atlanta sends more.
+
+**Quarterbacks.** Three quarterbacks have played, and only one has worked. Cooper Rush posted −0.67 EPA per dropback with a completion rate 16.5 points below expectation (Next Gen Stats) and four interceptions on throws averaging 5.4 intended air yards, and Jack Strand was no better in relief (−0.60 on 19 dropbacks). Penix's Week 3 start was +0.34 EPA per dropback on 25 dropbacks with no sacks. FTN charted six interception-worthy throws as a team (league average about three), and play action (+0.22 EPA per dropback against −0.49 without) has been the one dependable call.
+
+**Running backs.** Bijan Robinson is one of the best backs in the league so far: 5.3 yards per carry, a full yard per carry over Next Gen Stats' expectation, and a 53% success rate. His 10 broken tackles (7 on runs) rank 2nd in the league behind Kenneth Walker (Pro Football Reference charting), and Atlanta is tied for 3rd in broken tackles per game. Brian Robinson has added +0.10 EPA per carry as the change of pace.
+
+**Receivers & TE.** Drake London is carrying the passing game: 15 catches on 19 targets for 274 yards, +0.86 EPA per target and 1.8 yards after the catch above expectation. Jahan Dotson gets the deep shots (13.4-yard average depth of target) but has caught 4 of 10 for −1.52 EPA per target, and Kyle Pitts has 2 catches for 20 yards on 6 targets.
+
+**Offensive line.** The protection numbers look better than the sack total. Atlanta allows pressure on 19% of dropbacks, 3rd lowest in the league, yet its 7.8% sack rate ranks 26th. Four starters (Matthews, Bergeron, Neuzil and Lindstrom) have played nearly every snap, and runs outside the right end have been the best play on the menu (11.0 yards per carry on 9 runs). Runs behind right guard average 2.6 yards.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, a measure that mostly reflects the QB) plus FTN's charting of each sack. Here it points at the quarterbacks more than the line. Atlanta is rarely pressured, but Cooper Rush turned 5 of his 8 pressures into sacks (league 26%), while Penix took none on his two. Of the seven sacks, three came on a standard rush, two on blitzes, one was an extended play and one FTN charged to Rush.
+
+**Front seven.** The run defense is the strength, 5th in EPA per rush allowed and best of all in light boxes (−0.35 EPA per run with six or fewer in the box). The rush gets home without finishing: 12.0 pressures per game ranks 7th, but the 3.7% sack rate ranks 27th. Cameron Thomas leads with 7 pressures and 7 QB hits, and Za'Darius Smith has 2.5 sacks and 4 tackles for loss in part-time work.
+
+**Secondary.** Average against the pass (14th in EPA per dropback), with the touchdowns concentrated in two players. Mike Hughes has allowed 13 catches for 221 yards and 3 touchdowns (137 passer rating), and Jessie Bates III has allowed 4 touchdowns on 12 targets. C.J. Henderson has been the steadiest corner, with 5 passes defensed and an 81 rating allowed on 22 targets. Xavier Watts has the unit's interception and a forced fumble.
+
+**Coverage.** Atlanta has allowed a 98.5 passer rating in coverage (21st; league 94.5), and the problem is touchdowns rather than completions: opponents have completed just 56.8% of charted targets (4th lowest) but scored 9 touchdowns, tied for 2nd most. Safeties have been hit hardest, with a 117.9 rating and 5 of the touchdowns on 30 targets. The corners are at 91.0 on 68 targets, and the linebackers at 81.8, helped by Harold Perkins (5 of 11 for 34 yards).
+
+**Special teams.** A weak spot so far, 27th in special teams DVOA. Nick Folk is 5 of 8 on field goals with a long of 51. Jake Bailey is netting 39.0 yards per punt with 6 of 11 inside the 20, and Zachariah Branch averages 11.6 yards on punt returns.
+
+
+## Baltimore Ravens (BAL)
+
+**Team efficiency.** One of the league's best offenses paired with a middling defense. Baltimore ranks 3rd in offensive EPA per play and 2nd in success rate, scoring 30.7 points per game. The defense is 18th in EPA per play and 27th against the run, which is why the 2–1 record has come with 26 points allowed per game.
+
+**DVOA.** DVOA has Baltimore 5th overall on the strength of the 3rd-ranked offense. The defense is 15th and special teams 22nd.
+
+**Personnel & fronts.** Baltimore runs more than its situations would predict (12 points below expected pass rate, 4th-lowest) and leans on tight ends (3rd most on the field). The defense plays more defensive backs than any team, 5.3 on average, so opponents see a light box on 64% of runs (league 45%). Sending five or more rushers has worked (−0.11 EPA per dropback) better than rushing four (+0.09), and Baltimore blitzes a bit more than average.
+
+**Quarterbacks.** Lamar Jackson ranks 4th of 31 qualified quarterbacks in EPA per dropback (+0.34), with four touchdowns, one interception and completions 6.5 points above expectation. He holds the ball longer than most (3.1 seconds) and makes it pay. Play action is used on 34% of dropbacks (league 25%) and has been slightly better than straight dropbacks, +0.39 vs. +0.31 EPA.
+
+**Running backs.** Derrick Henry has 301 yards on 66 carries (4.6 per carry), half a yard per carry over Next Gen Stats' expectation, and 177 of those yards came after contact. He has four broken tackles on runs (Pro Football Reference charting), and Jackson has three on only 17 carries. Henry's success rate (52%) is strong, but his EPA per carry is about break-even.
+
+**Receivers & TE.** Zay Flowers has been the most explosive receiver in the league after the catch: 6.0 yards of YAC over expectation per reception, the top mark among NGS-tracked receivers, with 234 yards on 12 targets and +1.64 EPA per target. Mark Andrews draws the most targets (25%) on short routes, and Rashod Bateman has been efficient downfield at +0.52 EPA per target.
+
+**Offensive line.** A solid, mostly stable group. Baltimore allows pressure on 21% of dropbacks (10th-lowest) and a sack on 5.7% (15th). John Simpson, Olaivavega Ioane and Roger Rosengarten have played every snap, while left tackle has been split between Ronnie Stanley and Carson Vinson. Outside runs have worked best: runs off right end have a 72% success rate.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. There isn't much to explain. Jackson turns pressure into sacks at exactly the league rate (26%), FTN charged none of his five sacks to him, and the five split between two against a standard rush, two against blitzes and one extended play.
+
+**Front seven.** Pass rush volume is below average (7.7 pressures per game, 20th) and the sack rate ranks 23rd. Tavius Robinson has been the most disruptive, with two sacks and six QB hits; Trey Hendrickson has a sack and three hits. Trenton Simpson (five) and Travis Jones (four) lead in tackles for loss, but the run defense still ranks 27th in EPA per rush, which fits a defense that plays light boxes so often.
+
+**Secondary.** Pass defense is 15th in EPA per dropback. Roquan Smith has been excellent in coverage (32 passer rating allowed, with an interception), and Nate Wiggins has held 20 targets to 95 yards. Marlon Humphrey has been the most targeted, allowing 215 yards, and safeties Malaki Starks and Jaylinn Hawkins have each allowed a touchdown and a rating above 130.
+
+**Coverage.** Baltimore has allowed a 94.1 passer rating in coverage, 17th and right at the league's 94.5, with 70 of 110 targets completed for 810 yards. Linebackers have been the strength at 46.5 on 24 targets, led by Roquan Smith's 31.8. Safeties are the weak spot at 118.5 on 30 targets (league 100.3 for safeties), and one interception in coverage ranks 21st.
+
+**Special teams.** Tyler Loop is 5 of 6 on field goals with a long of 57 and perfect on 11 extra points. Chris Moore averages 28.6 yards on eight kick returns. Ryan Eckley nets 40.7 yards per punt.
+
+
+## Buffalo Bills (BUF)
+
+**Team efficiency.** An offense-first 3–0 start. Buffalo ranks 2nd in offensive EPA per play and leads the league at 33.7 points per game, with top-three marks passing and rushing. The defense is the drag: 23rd in EPA per play and 26 points allowed per game. All five giveaways came in the Week 3 win over the Chargers; the offense had none in the first two games.
+
+**DVOA.** DVOA rates Buffalo 3rd overall, driven by the 2nd-ranked offense. The defense is 22nd, and special teams are a modest plus at 9th.
+
+**Personnel & fronts.** Buffalo uses more tight ends than any team (1.9 on the field on average, league 1.4) and fewer wide receivers than all but one. One-back sets have been the engine at +0.34 EPA per play; empty sets are used twice as often as the league (11% vs. 6%) and have lost EPA (−0.20). On defense, the four-man rush has held up, but sending five or more has been hit for +0.41 EPA per dropback, and runs into an eight-man box have still gained +0.33 EPA per carry.
+
+**Quarterbacks.** Josh Allen ranks 3rd of 31 qualified quarterbacks in EPA per dropback (+0.35), with five touchdowns, two interceptions and a completion rate above expectation. The surprise is play action: Buffalo uses it more than most (31% of dropbacks, league 25%) but has been better without it (+0.41 vs. +0.17 EPA). Allen is also a real part of the run game, with a 69% success rate on his carries.
+
+**Running backs.** James Cook is one of the league's most efficient backs: 346 yards on 58 carries (6.0 per carry), 1.1 yards per carry over Next Gen Stats' expectation, and five broken tackles on the ground (Pro Football Reference charting). He has help: Buffalo leads the league in yards before contact per carry (3.7, league 2.4).
+
+**Receivers & TE.** Dalton Kincaid has been the most dangerous target, catching 14 of 17 for 263 yards with +0.77 EPA per target and 2.7 yards of YAC over expectation. DJ Moore is the deep option, drawing 33% of the team's air yards on a 15.8-yard average depth of target. Khalil Shakir gets the most separation (3.5 yards) but has produced little after the catch.
+
+**Offensive line.** The same five linemen have played every snap. Run blocking is the league's best by yards before contact, and runs behind left guard average 5.6 yards at +0.44 EPA. Pass protection is more mixed: pressure rate is about average (20th), but 8 sacks on 101 dropbacks is a 7.9% rate that ranks 27th.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. The blame splits. Allen turns pressure into sacks more often than average (33% vs. 26%), and FTN charged two of his eight sacks to him, with one more on an extended play. The other five came in the pocket, four against a standard rush, which points at protection.
+
+**Front seven.** The pass rush is producing volume: 12.3 pressures per game ranks 4th (league 9.3) and the sack rate is 9th. Gregory Rousseau has been the engine: 6 of the team's 9 sacks, 12 QB hits, 14 pressures, eight tackles for loss and three forced fumbles. Bradley Chubb adds six QB hits and 1.5 sacks. Second-year lineman Deone Walker has four QB hits and four batted or defensed passes. The run defense ranks 24th in EPA per rush.
+
+**Secondary.** Pass defense ranks 20th in EPA per dropback. Christian Benford has been targeted the most, allowing 12 catches for 147 yards and two touchdowns (116 passer rating). C.J. Gardner-Johnson has been the bright spot at safety, with an interception and a 37 rating allowed. Opponents have made six interception-worthy throws (league average 3.2), and Buffalo has caught only one.
+
+**Coverage.** Buffalo has allowed a 107.3 passer rating in coverage (26th; league 94.5): 72 of 109 for 852 yards, seven touchdowns and one interception. Cornerbacks see 55% of the targets (league 47%) and allow a 102.8 rating. Linebackers have been the weak spot at 125.7 on 24 targets, third worst among linebacker groups, with Dorian Williams allowing two touchdowns on eight. Safeties are the best group at 91.3, led by C.J. Gardner-Johnson's 36.9.
+
+**Special teams.** Tyler Bass is 4 for 4 on field goals with a long of 46, and 11 of 12 on extra points. Greg Dortch averages 28.1 yards on eight kick returns. Tommy Doman Jr. has punted only five times, netting 45.8 yards per punt.
+
+
+## Carolina Panthers (CAR)
+
+**Team efficiency.** A 1–2 record with a positive point differential. Carolina ranks 10th in offensive EPA per play and 5th in points per game (29.7), but has allowed 27.7 per game (26th), mostly from a 59–37 loss to Chicago in which it gave up 552 yards. The 34–3 win over Atlanta came with five takeaways, and Carolina is +3 in turnovers for the season.
+
+**DVOA.** DVOA has Carolina as a middle-of-the-pack team, 13th overall. The offense is 14th and the defense 18th, and special teams (4th) are the best unit.
+
+**Personnel & fronts.** A three-receiver offense (2.56 wideouts per snap, 9th most) that throws more than expected (6th in pass rate over expected). Empty backfields (8% of plays, 6th most) have produced +0.58 EPA per play, and the two-back looks it uses on only 12% of snaps (league 21%) are at +0.20. The defense plays plenty of extra defensive backs (4.8 per snap, 10th most) and blitzes on 38% of dropbacks, 6th most, with nearly the same result either way (−0.01 EPA per dropback with four rushers, −0.03 with five or more).
+
+**Quarterbacks.** Bryce Young has been efficient and careful: +0.14 EPA per dropback, completions 4 points above expectation, 7 touchdowns, 2 interceptions and just one interception-worthy throw by FTN's charting (league average about three). He holds the ball 3.0 seconds per throw, among the longest in the league, and is far better when opponents don't blitz (+0.19 EPA per dropback against +0.03).
+
+**Running backs.** Chuba Hubbard is running 0.56 yards per carry over Next Gen Stats' expectation, and his 7 broken tackles (5 on runs) are tied for 4th in the league. He has also caught all 9 of his targets for two touchdowns and +1.13 EPA per target. The backups have struggled: AJ Dillon and Jonathon Brooks are a combined 21 carries at −0.36 EPA per carry. Carolina is tied for 3rd in broken tackles per game.
+
+**Receivers & TE.** Jalen Coker has been the most productive receiver, with 18 catches on 22 targets for 222 yards, two touchdowns and +0.58 EPA per target. Tetairoa McMillan draws the deep looks (13.5-yard average depth of target and 29% of the air yards) but has caught 12 of 23 for slightly negative EPA. Darren Waller has two touchdowns and 4.1 yards of separation, the most of any Panther.
+
+**Offensive line.** A split verdict. Carolina's quarterback is pressured on 34% of dropbacks, the highest rate in the league, but the 5.3% sack rate ranks 13th and the backs gain 3.0 yards before contact per carry, 5th best. Runs to the left side average 5 to 6.3 yards a carry. Runs behind right tackle (1.6 yards on 8 carries) and up the middle (−0.30 EPA per carry) are where the ground game stalls.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, a measure that mostly reflects the QB) plus FTN's charting of each sack. It splits the blame. Young turns pressure into sacks far less often than average (16% vs. 26%), so he is escaping most of it, and FTN charged none of his 7 sacks to him. But 5 of the 7 came against a standard rush, which points at the line, and his long time to throw helps explain the high pressure rate.
+
+**Front seven.** The pass rush creates plenty, 12.3 pressures per game (4th), but the 6.1% sack rate is only 19th. Jaelan Phillips has 8 pressures and 2 sacks, and Princely Umanmielen has 7 pressures and 2 sacks in under half the snaps. Run defense is 20th in EPA per rush, and runs against light boxes (+0.17 EPA) have hurt.
+
+**Secondary.** 12th against the pass, steadier than the Week 1 total suggests. Tre'von Moehrig has played 95% of the snaps and allowed 29 yards on 7 targets, Lathan Ransom has allowed 1 catch on 8 targets, and Will Lee has 4 passes defensed. Jaycee Horn has allowed a touchdown and a 108 passer rating. Devin Lloyd leads the defense with two interceptions from linebacker.
+
+**Coverage.** One of the better coverage units: an 81.8 passer rating allowed (7th; league 94.5) and 6.6 yards per target (5th), with 3 interceptions. The linebackers have been the surprise, holding passers to a 75.4 rating on 30 targets, with both of Devin Lloyd's interceptions and one from Bobby Okereke. Will Lee has drawn the most targets (19) and allowed a 77.7 rating; the corners as a group are at 88.3.
+
+**Special teams.** One of the league's better units (4th in special teams DVOA). Ryan Fitzgerald is 7 for 7 on field goals with a long of 53. Sam Martin nets 42.8 yards per punt with 6 of 10 inside the 20.
+
+
+## Chicago Bears (CHI)
+
+**Team efficiency.** Chicago is 2–1 with a +36 point differential and is good on both sides of the ball: 8th in offensive EPA per play, 10th on defense and 5th in scoring at 29.7 points per game. The one loss was a 9–3 grind against Minnesota. The run defense (25th in EPA per rush) is the clear soft spot.
+
+**DVOA.** DVOA rates Chicago a little lower than the point differential suggests. The Bears are 11th overall, with the 8th-ranked offense, a league-average defense (17th) and 18th-ranked special teams.
+
+**Personnel & fronts.** Chicago uses more tight ends than most teams, with Colston Loveland (84% of snaps) and Cole Kmet (62%) often on the field together. The few empty-backfield snaps have been very productive (+0.72 EPA per play on 13). On defense, the Bears blitz on 42% of dropbacks, fourth-most in the league, and both the four-man rush (−0.08 EPA per dropback) and the blitz (−0.12) have worked.
+
+**Quarterbacks.** Caleb Williams started the first two games at +0.31 EPA per dropback (5th among qualified passers) with completions 3.3 points above expectation, two touchdowns and one interception. He holds the ball 3.42 seconds on average, the longest of any qualified passer. Case Keenum started Week 3 and was nearly as efficient (+0.18) while getting the ball out a full second faster. Unusually, the offense has been better when blitzed (+0.38 EPA per dropback) than when not (+0.08).
+
+**Running backs.** A productive two-back split. D'Andre Swift leads with 54 carries at 4.7 yards per carry, right at Next Gen Stats' expectation, and has six broken tackles. Kyle Monangai has been the more efficient runner: 5.9 yards per carry, 1.7 yards per carry over expectation and positive EPA. Chicago is 2nd in broken tackles per game and 6th in yards before contact (Pro Football Reference charting).
+
+**Receivers & TE.** Kalif Raymond has been the most efficient target: 19 catches on 21 targets for 214 yards, +0.89 EPA per target and 4.2 yards of separation. Luther Burden III leads with 23 targets and adds yards after the catch (three broken tackles), but sits at −0.14 EPA per target. Rome Odunze is the deep threat, with a 17.2-yard average depth of target and a third of the air yards, but he's winning contested throws (1.5 yards of separation) and has two drops.
+
+**Offensive line.** Four starters have played every snap (Darnell Wright, Garrett Bradbury, Joe Thuney and Jonah Jackson), with Braxton Jones and Theo Benedet splitting left tackle. Pressure comes on 26% of dropbacks (27th), but the sack rate is a respectable 5.3% (12th). Runs behind right tackle, the most-used lane, average 4.0 yards but succeed only 20% of the time (−0.57 EPA per carry).
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Williams has been pressured on 34% of his dropbacks (league 23%) but turned only 21% of that pressure into sacks (league 26%), and FTN charged none of the six sacks to a quarterback. The line is allowing pressure; his long hold times likely add to it.
+
+**Front seven.** A productive pass rush: 10.7 pressures per game (10th) and a 7.1% sack rate (10th). Dayo Odeyingbo leads with eight pressures and two sacks, and Montez Sweat has six pressures and two sacks. The run defense is the problem at 25th in EPA per rush.
+
+**Secondary.** 8th in pass defense EPA, with three interceptions. Rookie safety Dillon Thieneman has allowed 4 of 11 for a 13.4 passer rating with an interception, and Malik Muhammad has allowed half his targets with an interception and a sack. Jaylon Johnson is the one being targeted: 14 of 17 for 233 yards against him.
+
+**Coverage.** Chicago has allowed an 84.4 passer rating in coverage (9th; league 94.5), with three interceptions and only three touchdowns (tied for 4th fewest), though opponents still average 8.4 yards per target (25th). The linebackers (50.1 rating on 21 targets, 2nd in the league) and safeties (72.7, 7th) have been the strength, led by Dillon Thieneman at 4 of 11 with an interception. The cornerbacks are the soft spot at a 107.1 rating: Jaylon Johnson has allowed 14 of 17 for 233 yards, and Tyrique Stevenson has given up two touchdowns on nine targets.
+
+**Special teams.** Cairo Santos is 4 of 5 on field goals with a long of 50 and 11 for 11 on extra points. Tory Taylor has punted only eight times (43.3-yard net). Kalif Raymond averages 11.3 yards per punt return.
+
+
+## Cincinnati Bengals (CIN)
+
+**Team efficiency.** A 2–1 team built on its defense more than its quarterback this time. Cincinnati ranks 5th in defensive EPA per play and 7th against the pass, while the offense is 9th. Five takeaways against three giveaways have helped, including four takeaways in the Week 1 win over Tampa Bay.
+
+**DVOA.** DVOA has Cincinnati 7th overall and balanced: the offense is 10th, the defense 11th and special teams 7th.
+
+**Personnel & fronts.** Cincinnati passes more than its situations would predict (6 points over expected pass rate, 2nd highest) and plays slightly more receivers than average. The defense almost never blitzes: it sends extra rushers on 14% of dropbacks, the lowest rate in the league (average 31%). When it does send five or more, it has been very effective (−0.66 EPA per dropback), but the four-man rush has carried the load at +0.08.
+
+**Quarterbacks.** Joe Burrow is running a quick, short game: 2.5 seconds to throw (2nd fastest among qualified passers) and a 6.4-yard average depth of target. It has produced six touchdowns, one interception and +0.12 EPA per dropback (14th of 31). Blitzes and play action both hurt: −0.31 EPA per dropback when blitzed against +0.32 when not, and −0.29 on play action, which Cincinnati uses less than most.
+
+**Running backs.** Chase Brown handles most of the work but is running slightly below Next Gen Stats' expectation (−0.2 yards per carry) at 4.0 yards per carry and −0.08 EPA. He has three broken tackles on the ground (Pro Football Reference charting), and the team ranks 20th in broken tackles per game. Brown is also used heavily as a receiver (13 targets) without much success, at 2.5 yards per target.
+
+**Receivers & TE.** The two stars split the work differently. Ja'Marr Chase has the most targets (25) and three touchdowns, mostly on shorter routes (9.0-yard average depth). Tee Higgins is the downfield option, drawing 46% of the team's air yards and producing 244 yards at +0.77 EPA per target. Mike Gesicki has been efficient on fewer looks, with two touchdowns on 10 targets.
+
+**Offensive line.** An average line with a stable lineup: all five starters have played essentially every snap. Pressure (24% of dropbacks, 22nd) and sack rate (6.2%, 18th) are both near the middle, helped by Burrow's quick release. Run blocking is also average (14th in yards before contact), with runs to the right tackle side the least productive.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Burrow converts pressure to sacks at the league rate (26%). FTN charged two of his seven sacks to him, and four came against a standard rush in the pocket, so the rest leans toward protection.
+
+**Front seven.** A four-man rush that gets home. Cincinnati averages 13.0 pressures per game (3rd; league 9.3) and ranks 7th in sack rate without blitzing. Dexter Lawrence and Jonathan Allen each have two sacks, four QB hits and four tackles for loss, and rookie Cashius Howell leads with seven pressures in part-time snaps. The run defense ranks 10th in EPA per rush.
+
+**Secondary.** 7th in pass defense EPA. Daxton Hill has been the most targeted corner (22 targets) and has held up, allowing a 67 passer rating with five passes defensed. Jordan Battle has an interception. The soft spot is linebacker coverage: Demetrius Knight and Barrett Carter have allowed 342 yards between them.
+
+**Coverage.** Opponents throw at Cincinnati more than almost anyone (131 charted targets, tied for 2nd most), so the 1,032 yards allowed are 2nd most even though only 55% of targets are completed (2nd lowest). The 85.2 passer rating allowed ranks 10th. Corners have held up (81.7 on 63 targets, Daxton Hill 66.9 on 22) and safeties allow 70.7, while linebackers are the soft spot at 98.8 on 38 targets and 9.0 yards per target.
+
+**Special teams.** Evan McPherson is 8 for 8 on field goals with a long of 58. Ryan Rehkow has put 6 of 11 punts inside the 20 with a 39.1-yard net. Dohnte Meyers averages 26.1 yards on kick returns.
+
+
+## Cleveland Browns (CLE)
+
+**Team efficiency.** A 2–1 record that the underlying numbers don't support. Cleveland has been outscored by 17, almost all of it in a 34–10 opening loss at Jacksonville, and ranks 22nd in offensive EPA per play. The run game is 31st in EPA per carry. The defense sits right in the middle at 17th.
+
+**DVOA.** DVOA is much less kind than the record. Cleveland is 27th overall, with the 29th-ranked offense, the 19th-ranked defense and 8th-ranked special teams doing what they can.
+
+**Personnel & fronts.** Cleveland passes more than any team relative to its situations (7 points over expected pass rate, 1st). It plays more backs and receivers and fewer tight ends than average, and two-back sets have been costly at −0.29 EPA per play. The defense rarely blitzes (20% of dropbacks, 2nd lowest) and plays light boxes against 65% of runs, with the four-man rush holding near break-even.
+
+**Quarterbacks.** Deshaun Watson has five touchdowns and one interception, but the efficiency is middling: +0.09 EPA per dropback (17th of 31) and completions below expectation. It's a very short passing game, with his average throw landing more than three yards short of the sticks. Opponents blitz him often (38% of dropbacks, league 31%), and it has worked for them: −0.04 EPA per dropback when blitzed against +0.17 when not.
+
+**Running backs.** Quinshon Judkins is breaking tackles but not finding room. His five broken tackles put him among the league leaders (Pro Football Reference charting), but he averages 3.0 yards per carry, half a yard below Next Gen Stats' expectation, with a 26% success rate. Cleveland ranks 27th in yards before contact per carry, so most of the problem is up front.
+
+**Receivers & TE.** The targets and the production don't line up. KC Concepcion leads the team with 20 targets but has 80 yards and −0.17 EPA per target. Rookie Denzel Boston is the big-play threat: 45% of the team's air yards, 195 yards and two touchdowns, and 5.7 yards of YAC over expectation (2nd among NGS-tracked receivers). Harold Fannin Jr. gets 5.4 yards of separation, the most of any tracked receiver.
+
+**Offensive line.** The same five linemen have taken virtually every snap, and both phases have struggled. Cleveland allows a sack on 8.7% of dropbacks (30th) and pressure on 24% (24th). The run game averages 1.9 yards before contact (27th), and runs off left end have averaged 0.9 yards.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. This leans toward the quarterback and the plan. Watson turns 36% of pressures into sacks (6th highest; league 26%), FTN charged three of his nine sacks to him and one more came on an extended play, and three came against blitzes. Only two were a standard rush beating the line, and five of the nine came in Week 1.
+
+**Front seven.** Mason Graham has been the standout: four sacks, five QB hits and six tackles for loss. Beyond him, the rush is quiet, with 7.3 pressures per game (23rd) and a sack rate that ranks 18th. The run defense ranks 19th in EPA per rush.
+
+**Secondary.** Pass defense is 17th in EPA per dropback. Denzel Ward has allowed only 6 catches on 18 targets with two forced fumbles, though two of those catches were touchdowns. Mekhi Blackmon has held 16 targets to a 61 passer rating. Ronnie Hickman has an interception but has also allowed two touchdowns, and Carson Schwesinger has allowed a 154 rating in coverage.
+
+**Coverage.** Cleveland's coverage ranks 12th by passer rating allowed (90.3; league 94.5), and opponents complete only 57% of targets (6th lowest). Touchdowns are the problem: six allowed ranks 22nd. Corners (86.0 on 61 targets) and safeties (85.7 on 29) have been nearly identical, while linebackers have allowed 16 of 20 for a 111 rating.
+
+**Special teams.** A real strength, 8th in DVOA. Andre Szmyt is 6 for 6 on field goals with a long of 50. Corey Bojorquez nets 45.7 yards per punt with six of 12 inside the 20, and Raheim Sanders averages 32.4 yards per kick return.
+
+
+## Dallas Cowboys (DAL)
+
+**Team efficiency.** A shootout team with a 1–2 record and a positive point differential. Dallas ranks 6th in offensive EPA per play and 7th in scoring at 29.3 points per game, but last in defensive EPA per play and defensive success rate. Turnovers are even at two each, so the losses come down to a defense that can't get off the field.
+
+**DVOA.** DVOA lines up with EPA. Dallas is 12th overall, with the 5th-ranked offense, the 27th-ranked defense and solid special teams (10th).
+
+**Personnel & fronts.** Dallas is a three-receiver offense: one back on 80% of snaps (league 74%), fewer tight ends on the field than average, and +0.18 EPA per play in those looks. The defense rushes four on 71% of dropbacks and that has been a disaster, +0.64 EPA per dropback against a league average of +0.09. Sending five or more has worked (−0.12), but Dallas blitzes less than average.
+
+**Quarterbacks.** Dak Prescott is playing at a high level: +0.30 EPA per dropback, completions 5.9 points above expectation, seven touchdowns against one interception, and Dallas's 2.6% sack rate is 2nd in the league. His Week 2 game against Washington was the peak, 26 of 31 with four touchdowns. Two oddities: he's been far less effective against the blitz (+0.05 EPA per dropback vs. +0.45 without), and play action has been flat (+0.01).
+
+**Running backs.** Javonte Williams is the clear lead back (43 carries; no other back has more than six) and is beating Next Gen Stats' expected yardage by 0.3 yards per carry, yet still sits at −0.08 EPA per carry. The line is giving him room: Dallas averages 2.8 yards before contact, 8th in the league. He has two broken tackles on runs, and the team has seven in all, 16th per game (Pro Football Reference charting).
+
+**Receivers & TE.** CeeDee Lamb is the most efficient high-volume receiver on the page: 20 catches on 25 targets for 309 yards and three touchdowns, +1.12 EPA per target, 3.1 yards of separation and 41% of the team's air yards. George Pickens has matched his 25 targets but turned them into 150 yards, with three drops. Jake Ferguson has three touchdowns on nine catches, mostly short, wide-open looks (4.1 yards of separation).
+
+**Offensive line.** The same five linemen have played all but one snap, and the protection numbers are strong: pressure on 22% of dropbacks (14th) and a sack rate of 2.6% (2nd). The run game is lopsided. Runs behind left tackle average 9.0 yards and +0.50 EPA, while runs behind right tackle average 1.3 yards and −0.46 EPA.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. For Dallas both point at the quarterback, and it's a small problem. Only 3 of Prescott's 26 pressures became sacks (12% vs. a 26% league rate), and FTN charged all three to him.
+
+**Front seven.** The pass rush is the root of the defensive problem. Dallas generates 7.0 pressure credits per game (25th; league 9.3) and has two sacks, a 2.1% sack rate that ranks 30th. Quinnen Williams and Donovan Ezeiruaku lead with four pressures each. The run defense is middling at 18th in EPA per rush, with Jaishawn Barham making four tackles for loss.
+
+**Secondary.** 31st in pass defense EPA, and the coverage leaks are spread out. DaRon Bland has allowed 9 of 13 for a touchdown and a 108.8 rating, and linebackers Jaishawn Barham (10 of 10) and Dee Winters (9 of 10 for 95 yards) are getting picked on underneath. Shavon Revel has been the best of the corners at 7 of 15 allowed, and Caleb Downs has two forced fumbles and a sack from safety.
+
+**Coverage.** Dallas has allowed a 121.3 passer rating in PFR's coverage charting (30th), with 61 of 84 targets completed (72.6%, 31st) and no interceptions. The cornerbacks have held up best, an 87.6 rating on 36 targets against a league 93.9. The damage comes from the middle of the field: linebackers have allowed 26 of 27 for a 124.1 rating, and safeties a 150.5 rating with three touchdowns on 19 targets.
+
+**Special teams.** Brandon Aubrey is 6 of 7 on field goals with a long of 60, though he has missed an extra point. KaVontae Turpin averages 27.5 yards on 10 kickoff returns. Bryan Anger has punted only five times.
+
+
+## Denver Broncos (DEN)
+
+**Team efficiency.** A 2–1 record with a −10 point differential. Denver lost 10–31 at Kansas City, then won two close games at home, including 30–26 over the Rams while allowing 482 yards. The offense ranks 23rd in EPA per play and the defense 21st; the pass defense is solid (11th), but the run defense is last in EPA per rush.
+
+**DVOA.** DVOA calls this an average team. Denver is 16th overall, with the 18th-ranked offense, the 12th-ranked defense and special teams at 14th.
+
+**Personnel & fronts.** The offense is a one-back team (81% of snaps), and its two-back looks (15%) haven't helped at −0.09 EPA per play. The defense is built around pressure from linebacker-listed edge rushers and blitzes on 38% of dropbacks (league 31%). It works: five or more rushers have held offenses to −0.13 EPA per dropback on 46 plays, against +0.03 with four.
+
+**Quarterbacks.** Bo Nix is at −0.09 EPA per dropback (24th of 31 qualifiers) and completing 3.9% below expectation by Next Gen Stats (29th). His average target is 6.9 yards downfield, 2.2 yards short of the sticks, and FTN has charted 7 interception-worthy throws (league average 3.2) to go with 3 interceptions. Play action helps (+0.14 EPA per dropback against −0.13), but the blitz hurts: −0.40 when blitzed.
+
+**Running backs.** J.K. Dobbins leads with 35 carries, but at 3.5 yards per carry, −0.18 EPA per carry and 0.48 yards below Next Gen Stats' expectation (36th of 43). Denver's running backs have no broken tackles on the ground through Week 3; the team's only rushing broken tackle belongs to Jaylen Waddle (Pro Football Reference). RJ Harvey has been more useful as a receiver, catching 10 of 11 targets.
+
+**Receivers & TE.** Jaylen Waddle leads with 20 targets (23% share) and 44% of the team's air yards, catching 11 for 150 yards with 3.4 yards of separation, but also two drops. Courtland Sutton has caught 8 of 16 for −0.56 EPA per target. Pat Bryant (6 catches, 86 yards, a touchdown) and the tight ends Evan Engram and Nate Adkins (three touchdowns between them) have been the efficient options.
+
+**Offensive line.** The same five linemen (Bolles, Powers, Wattenberg, Meinerz, McGlinchey) have played essentially every snap. Pressure is average (23% of dropbacks, 18th) and the sack rate is good (5.1%, 10th). The run game has no standout lane: every direction except left tackle (−0.27 EPA on 5 carries) is within about a seventh of a point of zero EPA, and 2.0 yards before contact per carry ranks 26th.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. There's no clear culprit. Nix converts pressure to sacks a little less often than average (22% vs. 26%), and FTN charted his 5 sacks as 2 standard rushes, 1 blitz, 1 extended play and 1 charged to him.
+
+**Front seven.** Zach Allen is the engine: 10 pressures, 3 sacks and 9 QB hits. Nik Bonitto adds 5 pressures and a sack. As a unit Denver is average at getting home (9.3 pressure credits per game, 14th; sack rate 14th), and the run defense is the clear weakness at 32nd in EPA per rush allowed.
+
+**Secondary.** 11th in pass defense EPA, with ball skills in the back end. Talanoa Hufanga has allowed 3 catches on 10 targets for 19 yards with 2 interceptions. Riley Moss is the most-targeted defender (20) and has allowed three touchdowns, but also has an interception and five passes defensed. Patrick Surtain II has allowed 8 catches on 14 targets with no touchdowns.
+
+**Coverage.** Denver has allowed a 78.3 passer rating in coverage (6th; league 94.5), and its 4 interceptions in coverage are tied for the most. The safeties are the reason: Talanoa Hufanga and Brandon Jones have allowed 11 catches on 19 targets with three interceptions and no touchdowns. The cornerbacks see most of the throws, and Riley Moss has allowed three of the four touchdowns. Alex Singleton is the most-targeted linebacker (17 targets, 86.6 rating).
+
+**Special teams.** Wil Lutz is 3 of 4 on field goals with a long of 45. Jeremy Crawshaw averages 49.9 yards per punt (45.3 net) with 5 inside the 20. RJ Harvey and Kolbe Katsis split kickoffs at 27.8 and 26.8 yards per return. DVOA ranks the unit 14th.
+
+
+## Detroit Lions (DET)
+
+**Team efficiency.** Detroit has scored 31 points in every game (3rd in points per game) and allowed 31.7 (32nd). The offense ranks 7th in EPA per play and 4th in success rate; the defense ranks 29th in EPA per play and is 26th or worse against both the pass and the run. A +3 turnover margin is why the record is 2–1 with a −2 point differential.
+
+**DVOA.** DVOA rates it the same way. Detroit is 14th overall, with the 7th-ranked offense and the 28th-ranked defense; special teams are 13th.
+
+**Personnel & fronts.** The offense is built around play action, used on 35% of dropbacks (2nd-most; league 25%), and it works at +0.20 EPA per dropback. One-back sets carry most of the load at +0.18 EPA per play. On defense nothing has worked: +0.19 EPA per dropback with four rushers and +0.21 with five or more, and opponents have dropped back 144 times, the most in the league.
+
+**Quarterbacks.** Jared Goff is having an efficient, mistake-free start: eight touchdowns, no interceptions, +0.25 EPA per dropback, completions 3.7 points above expectation and a 116.1 passer rating. He's working short (6.8-yard average depth of target) and has been better against the blitz (+0.48 EPA per dropback) than without it. His best game was Week 2 at Buffalo: 327 yards and four touchdowns in a loss.
+
+**Running backs.** Jahmyr Gibbs is a true workhorse: 65 carries (no other back has more than nine), 4.7 yards per carry, 0.5 yards per carry over Next Gen Stats' expectation and a 51% success rate, plus 18 catches and two receiving touchdowns. His nine broken tackles are 3rd in the league (Pro Football Reference charting). The line helps, with 3.0 yards before contact per carry (4th).
+
+**Receivers & TE.** Amon-Ra St. Brown is the focal point: 35 targets (32% share), 23 catches and five touchdowns. Sam LaPorta has been the most efficient of the regulars at +0.51 EPA per target with 4.0 yards of separation. Jameson Williams takes the deep shots (13.5-yard average depth of target, 31% of the air yards) but has three drops.
+
+**Offensive line.** Penei Sewell, Juice Scruggs and Tate Ratledge have played every snap; the other two spots have rotated among Blake Miller, Ben Bartch, Larry Borom and Christian Mahogany. Pressure (22%, 15th) and sacks (5.8%, 16th) are both about average. Runs up the middle, the most-used lane, have been the most reliable: 4.3 yards per carry and a 63% success rate.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Goff turns pressure into sacks at exactly the league rate (26%), and the seven sacks are split. Four were charged to him by FTN, all in Week 2 at Buffalo; the other three came on two blitzes and one standard rush.
+
+**Front seven.** The pass rush is the one strength of the defense: 12.0 pressures per game (7th) and 12 sacks, an 8.3% sack rate (5th). Aidan Hutchinson leads with nine pressures, seven QB hits and 3.5 sacks, and Alim McNeill, Derrick Barnes and D.J. Wonnum have two sacks each. The run defense ranks 29th in EPA per rush despite that.
+
+**Secondary.** 27th in pass defense EPA. D.J. Reed has allowed 174 yards on 14 targets, Avonte Maddox 158 yards and two touchdowns on 11, and linebacker Jack Campbell 160 yards and two touchdowns on 20. Chuck Clark has been the bright spot: 4 of 9 allowed for a 32.4 passer rating, with an interception, a sack and a forced fumble.
+
+**Coverage.** Detroit has allowed a 108.6 passer rating in coverage (27th; league 94.5), 9 touchdowns (29th) and 1,148 yards, the most in the league, on 43.7 targets a game (2nd-most). No group has held up: cornerbacks 113.6, safeties 114.4 and linebackers 98.7. Jack Campbell is the most-targeted defender (13 of 20, two touchdowns), and Avonte Maddox and Thomas Harper have allowed 286 yards on 19 targets between them. Derrick Barnes (52.1 rating, interception) and Chuck Clark (32.4) are the exceptions.
+
+**Special teams.** Jake Bates is 3 for 3 on field goals (long of 31) and 12 for 12 on extra points. Jack Fox has a 42.3-yard net on 13 punts. Tom Kennedy (25.9) and Jacob Saylors (27.3) have shared kickoff returns.
+
+
+## Green Bay Packers (GB)
+
+**Team efficiency.** Green Bay is 1–2 and has been outscored by 35, the result of an offense that ranks 25th in EPA per play and a defense that ranks 22nd. The run game is the single biggest problem: last in the league in EPA per rush. The one win came 20–17 over the Jets.
+
+**DVOA.** DVOA is harsher still. Green Bay is 30th overall, with the 28th-ranked offense and 26th-ranked defense; special teams (11th) are the only above-average unit.
+
+**Personnel & fronts.** The Packers are in one-back sets on 82% of snaps (league 73%) and those plays have averaged −0.18 EPA, while the smaller samples of two-back and empty sets have been positive. Play action is used on just 14% of dropbacks, the lowest rate in the league. On defense, neither the four-man rush (+0.19 EPA per dropback) nor the blitz (+0.10) has slowed passers.
+
+**Quarterbacks.** Jordan Love has taken every dropback and is at −0.02 EPA per dropback with six touchdowns and two interceptions. His completion rate is 9.0 points below expectation, second-worst among qualified passers, though his receivers have dropped seven passes, tied for the most in the league, and FTN charted five interception-worthy throws. He's been much worse against the blitz (−0.28 EPA per dropback vs. +0.19 without), and opponents blitz him on 44% of dropbacks.
+
+**Running backs.** Nothing is working on the ground. MarShawn Lloyd leads with 23 carries at 3.0 yards per carry, 1.4 yards per carry below Next Gen Stats' expectation and −0.42 EPA per carry. Kaleb Johnson and Chris Brooks have done a little better on fewer carries. Blocking is a big part of it: 1.8 yards before contact per carry, 29th, and only three broken tackles on runs (Pro Football Reference charting).
+
+**Receivers & TE.** Matthew Golden and Christian Watson split the top role (30 and 29 targets). Watson has been the playmaker, with 284 yards, four touchdowns and 3.5 yards of YAC over expected per catch. Golden draws the deep targets (14.7-yard average depth, 39% of the air yards) but has caught only half of them, with three drops. Tucker Kraft has been quiet at −0.02 EPA per target.
+
+**Offensive line.** A reshuffled line. Only Jordan Morgan and Sean Rhyan have played every snap, with Jacob Monk nearly there and five others rotating through the remaining spots. The pressure rate is 28% (30th), and every run lane has negative EPA; runs up the middle average 0.9 yards.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Love turns pressure into sacks less often than average (22% vs. 26%) while getting pressured often. Half of his eight sacks came on Minnesota blitzes in Week 1, and FTN charged three to him, so the line and the blitz plan are the bigger issue.
+
+**Front seven.** A solid pass rush: 10.0 pressures per game (11th) and a 6.8% sack rate (12th). Lukas Van Ness leads with seven pressures, six QB hits and 2.5 sacks, and Edgerrin Cooper has two sacks and six tackles for loss from linebacker. The run defense is below average at 21st in EPA per rush.
+
+**Secondary.** 23rd in pass defense EPA. Keisean Nixon has held up on heavy volume (14 of 22 for a 65.5 passer rating, with an interception), and Javon Bullard has allowed 38 yards on 13 targets from the slot. Opponents have gone after Brandon Cisse: 8 of 12 for 168 yards and two touchdowns.
+
+**Coverage.** Green Bay has allowed a 96.8 passer rating in coverage (19th; league 94.5), with opponents completing 64.5% of their throws (23rd) for 7.7 yards per target (17th). The safeties have been solid (80.3 rating, 10th), and Keisean Nixon has held up on a team-high 22 targets (65.5 rating, interception). The weak spot is the other cornerback job: Brandon Cisse has allowed 168 yards and two touchdowns on 12 targets, and the cornerbacks as a group rank 28th at 112.4.
+
+**Special teams.** Trey Smack is 5 of 6 on field goals with a long of 59 but has missed an extra point. Daniel Whelan has put 9 of 14 punts inside the 20. Skyy Moore is a weapon on returns: 18.2 yards per punt return and 27.8 per kickoff return.
+
+
+## Houston Texans (HOU)
+
+**Team efficiency.** An 0–3 start that the defense doesn't deserve. Houston ranks 3rd in defensive success rate and 2nd in sack rate, but the offense is 24th in EPA per play and 27th running the ball, scoring 18 points per game. Two of the three losses came by five points or fewer, including 17–19 at Indianapolis.
+
+**DVOA.** DVOA sees a middling team rather than a winless one. Houston is 17th overall, with the 16th-ranked offense, the 14th-ranked defense and special teams at 24th.
+
+**Personnel & fronts.** The offense is a one-back team (81% of snaps, league 73%) and rarely uses a fullback. Its runs into seven-man boxes, more than half of all designed runs, have cost −0.32 EPA each. On defense Houston plays more nickel and dime than most and blitzes on just 23% of dropbacks (league 31%); its four-man rush has allowed +0.15 EPA per dropback, while light-box run defense has been excellent at −0.48 EPA per run.
+
+**Quarterbacks.** C.J. Stroud has taken every snap with no interceptions and only one interception-worthy throw (FTN), completing 3.0% above expectation by Next Gen Stats. The results are only about break-even at −0.01 EPA per dropback (20th of 31 qualifiers), as he holds the ball 2.97 seconds and throws into tight windows 20% of the time (league 14.6%). Play action has helped (+0.17 EPA per dropback against −0.08 without), yet he uses it on only 19% of dropbacks (league 25%).
+
+**Running backs.** The run game is the weakest part of the offense. David Montgomery is averaging 2.8 yards per carry and −0.34 EPA per carry, and both he and Woody Marks are running about 0.4 yards per carry below Next Gen Stats' expectation (32nd and 33rd of 43 qualifiers). Six broken tackles in three games (Montgomery 3 and Marks 2 on runs, Jared Wayne 1 after a catch) rank 20th per game in Pro Football Reference charting.
+
+**Receivers & TE.** Dalton Schultz is the most-targeted player (25 targets, 22% share) and the most reliable: 19 catches for 205 yards, +0.16 EPA per target and nearly 4 yards of separation. Xavier Hutchinson gets the deep looks (28% of air yards) but has caught 9 of 21. Nico Collins has seen only 10 targets with 1.1 yards of separation on average, although he has turned them into 7 catches, a touchdown and +0.49 EPA per target.
+
+**Offensive line.** The line is close to average at preventing pressure (22% of dropbacks, 13th) but worse at preventing sacks (7.5%, 21st). Four starters have played every snap, with right guard split between Wyatt Teller and Ed Ingram. The run blocking problem sits on the right side: 26 runs behind right guard and right tackle have averaged under 2 yards and cost about half a point of EPA each, while runs up the middle average 5.2 yards.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Stroud turns pressure into sacks more often than average (33% vs. 26%), but FTN charged none of his 10 sacks to him: 7 came in the pocket against a standard rush and 3 on extended plays. That points mostly at protection, with his long time to throw as a contributing factor.
+
+**Front seven.** Houston finishes its pressure better than almost anyone. Pressure volume is average (9.0 per game, 16th), yet 11 sacks on 109 dropbacks gives a 10% sack rate, 2nd in the league. Will Anderson leads with 4 sacks, 6 QB hits and 6 tackles for loss; Sheldon Rankins has 2 sacks and Danielle Hunter 1.5. The run defense ranks 8th in EPA per rush.
+
+**Secondary.** The pass defense is 19th in EPA per dropback, a step behind the front. Derek Stingley Jr. has allowed 7 catches on 16 targets but for 141 yards, and Kamari Lassiter has allowed 12 of 16 with a touchdown. Reed Blankenship has been targeted most (21 times, 15 catches, 231 yards, two touchdowns) but also has the unit's only interception.
+
+**Coverage.** The Texans allow a 100.0 passer rating in coverage (23rd; league 94.5) and 8.0 yards per target (24th), with 5 touchdowns and 1 interception on 98 targets. Opponents throw at the safeties far more than usual (45% of targets, league 24%), and Reed Blankenship alone has seen 21. The cornerbacks have allowed a 107.1 rating on 33 targets (league cornerbacks 93.9), with Kamari Lassiter at 115.4.
+
+**Special teams.** Ka'imi Fairbairn is 4 of 5 on field goals with a long of 58. Kai Kroeger is averaging 48.3 yards per punt (44.4 net) with 5 inside the 20. Woody Marks and Jaylin Noel share kickoffs at 24.3 and 25.8 yards per return. DVOA ranks the unit 24th.
+
+
+## Indianapolis Colts (IND)
+
+**Team efficiency.** A good run offense attached to one of the league's worst defenses. Indianapolis ranks 4th in EPA per rush but 29th passing, and the defense is 31st in EPA per play, 31st against the run and 28th against the pass. Baltimore and Kansas City gained more than 500 yards each, and the Colts allow 30.3 points per game (29th).
+
+**DVOA.** DVOA has Indianapolis 24th overall. The offense is 21st and the defense 30th, with special teams (3rd) the one clear strength.
+
+**Personnel & fronts.** The Colts use motion (69% of plays, league 57%) and play action (33%, league 25%) more than most. Two-back looks are only 17% of snaps but have produced +0.30 EPA per play, against −0.14 with one back. On defense, sending five or more rushers has backfired: +0.52 EPA per dropback on 25 plays, worse than the four-man rush (+0.15).
+
+**Quarterbacks.** Daniel Jones is completing 2.1% above expectation by Next Gen Stats, but on very short throws: 6.5 intended air yards, 2.2 yards short of the sticks on average. That has produced −0.15 EPA per dropback (28th of 31 qualifiers), with 3 touchdowns, 3 interceptions and 4 interception-worthy throws (league average 3.2). Play action hasn't changed the result (−0.14 EPA per dropback with it, −0.15 without).
+
+**Running backs.** Jonathan Taylor carries the load with 66 carries for 3.9 yards per carry and a positive +0.03 EPA per carry, but he is running 0.44 yards per carry below Next Gen Stats' expectation (34th of 43). He has just one broken tackle on the ground, and the team's 1.0 broken tackles per game is tied for 28th (Pro Football Reference). The efficiency comes from steady, short gains: a 41% success rate rather than explosive runs.
+
+**Receivers & TE.** Josh Downs is the passing game's best weapon: 24 targets (26% share), 45% of the team's air yards, +0.55 EPA per target and 1.6 yards of YAC over expected. Tyler Warren is second in targets (22) with two touchdowns, but his average target is less than 2 yards downfield and he has three drops. Keenan Allen has 13 catches on 20 targets for −0.12 EPA per target.
+
+**Offensive line.** The same five linemen (Raimann, Nelson, Bortolini, Goncalves, Travis) have played every snap. They allow pressure on 21% of dropbacks (7th) and a 5.6% sack rate (14th). Every running lane except right guard has produced positive EPA, but contact comes early: 1.7 yards before contact per carry ranks 30th (PFR).
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Nothing stands out here. Jones is pressured less than average and converts pressure to sacks at a league-average rate (27% vs. 26%). FTN charted 3 of his 6 sacks as a standard rush winning, 2 against a blitz and 1 on an extended play, with none charged to him.
+
+**Front seven.** The pass rush is thin: 7.0 pressures per game ranks 25th and the sack rate is 17th. DeForest Buckner leads with 3 sacks and 4 QB hits, and Adetomiwa Adebawore has 1.5 sacks in part-time work. The run defense is 31st in EPA per rush and has struggled most against light boxes (+0.22 EPA per run on a third of runs).
+
+**Secondary.** 28th in pass defense EPA, with only one takeaway in three games. Justin Walley has allowed 14 catches on 17 targets for 192 yards and a 133 passer rating, and Camryn Bynum has allowed a 147 rating at safety. Charvarius Ward has been the best of the group (4 of 9 for 79 yards); Sauce Gardner has three passes defensed but has allowed 9 of 13 for 131 yards.
+
+**Coverage.** The Colts allow 10.0 yards per target in coverage, last in the league, and a 119.2 passer rating (29th; league 94.5), with 5 touchdowns and no interceptions on 94 targets. Linebackers have allowed 19 completions on 21 targets for 234 yards, and safeties have given up 3 touchdowns on 20 targets (135.8 rating). The cornerbacks are the steadiest group at 105.8 on 43 targets, still above the league cornerback mark of 93.9.
+
+**Special teams.** A real strength. Spencer Shrader is 8 for 8 on field goals with a long of 58, Seth McGowan averages 31.7 yards on 7 kickoff returns, and Rigoberto Sanchez averages 50.9 yards per punt (44.8 net). DVOA ranks the unit 3rd.
+
+
+## Jacksonville Jaguars (JAX)
+
+**Team efficiency.** One of the most complete teams in the league. Jacksonville is 2–1 with a +46 point differential and allows the fewest points per game (12.0). It ranks 5th in offensive EPA per play, 3rd in success rate and 2nd running the ball, and 4th in defensive EPA. The only loss was 13–20 at Denver; the Week 3 win over New England was 35–6.
+
+**DVOA.** DVOA agrees and ranks Jacksonville 2nd overall, behind only San Francisco. The offense is 6th, the defense 2nd and special teams 19th.
+
+**Personnel & fronts.** Jacksonville uses empty sets more than most (10% of snaps, league 6%) and has been very productive there (+1.00 EPA per play on 16 plays), and its two-back looks (22%) average +0.21. It plays more tight ends than average (1.59 per snap, league 1.43). On defense the blitz is the weapon: five or more rushers have held offenses to −0.75 EPA per dropback on 31 plays, against +0.20 with four.
+
+**Quarterbacks.** Trevor Lawrence is having an efficient start: +0.26 EPA per dropback (7th of 31 qualifiers), completions 7.1% above expectation (4th) by Next Gen Stats, 7 touchdowns and 2 interceptions. He isn't forcing it, throwing into tight windows on 13.6% of attempts (league 14.6%). The one weakness is the blitz: −0.23 EPA per dropback when blitzed against +0.45 when not.
+
+**Running backs.** Bhayshul Tuten has taken over as the lead back: 43 carries at 4.7 yards per carry and 0.50 yards over Next Gen Stats' expectation (12th of 43). He does most of his work after contact, because the team averages only 1.7 yards before contact (31st). Chris Rodriguez Jr. is running below expectation (−0.49). As a team Jacksonville has just 4 broken tackles in three games (24th per game, PFR).
+
+**Receivers & TE.** Parker Washington leads with 23 targets (30% share) and 49% of the team's air yards, turning them into 15 catches, 221 yards, two touchdowns and +0.57 EPA per target. Jakobi Meyers has been the most efficient: 10 catches on 11 targets, two touchdowns and +1.48 EPA per target. Brian Thomas Jr. has 7 catches on 12 targets with two drops; the team's five drops are above the league average of 3.5.
+
+**Offensive line.** Pass protection is good: pressure on 21% of dropbacks (8th) and a 4.7% sack rate (8th). The run game wins outside, with runs to the left end (6.3 yards per carry) and right end (+0.30 EPA) the best lanes; runs behind either guard have been negative. The line has rotated at three spots, and 1.7 yards before contact (31st) means the backs are doing much of the work.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. With only 4 sacks there isn't much to assign. Lawrence turns pressure into sacks less often than average (22% vs. 26%), and FTN charged none of the four to him: two standard rushes, one blitz and one extended play.
+
+**Front seven.** 8 sacks on 98 dropbacks is an 8.2% sack rate (6th), despite average pressure volume (8.3 per game, 17th), because the blitz is getting home. Josh Hines-Allen and Travon Walker have 1.5 sacks each, and Dennis Gardeck adds 3 QB hits in part-time snaps. The run defense is 13th in EPA per rush.
+
+**Secondary.** 4th in pass defense EPA, and opponents keep giving the ball away. FTN charted 8 interception-worthy throws against Jacksonville, against a league average of 3.2. Jarrian Jones, Jourdan Lewis, Travis Hunter and Foyesade Oluokun each have an interception, and Jones has allowed a 54 passer rating on 13 targets. Montaric Brown is the soft spot: 8 catches on 13 targets for 167 yards and a touchdown.
+
+**Coverage.** The Jaguars allow a 76.7 passer rating in coverage (4th; league 94.5), built on few touchdowns and plenty of takeaways: 2 touchdowns allowed (tied for fewest) and 4 interceptions (tied for most) on 94 targets. The catch is yardage, at 8.8 yards per target (29th). Cornerbacks, counting Travis Hunter, see 53% of targets and have allowed a 76.5 rating with three of the four interceptions.
+
+**Special teams.** Cam Little is 4 of 6 on field goals with a long of 47 and perfect on 10 extra points. Logan Cooke averages 48.3 yards per punt (44.9 net). Josh Cameron and Ameer Abdullah handle kickoffs at 27.2 and 28.3 yards per return. DVOA ranks the unit 19th.
+
+
+## Kansas City Chiefs (KC)
+
+**Team efficiency.** 3–0 with a +38 point differential and balance on both sides. Kansas City ranks 4th in offensive EPA per play, 1st in EPA per rush and 6th in success rate. The defense is 6th in EPA per play, 5th against the pass and 4th in success rate, allowing 16.7 points per game (3rd).
+
+**DVOA.** DVOA agrees: Kansas City is 4th overall, with the 4th-ranked offense and 6th-ranked defense. Special teams (20th) are the only middling unit.
+
+**Personnel & fronts.** Kansas City uses play action more than any team (38% of dropbacks, league 25%) and throws screens on 19% of dropbacks, the most in the league (league 8%). Two-back looks (19% of snaps) have been the best part of the offense at +0.39 EPA per play. On defense the four-man rush has been effective, holding offenses to −0.13 EPA per dropback against a league average of +0.09.
+
+**Quarterbacks.** Patrick Mahomes is playing a quick, short game: 2.60 seconds to throw (third-fastest of 31 qualifiers), 5.8 intended air yards and tight-window throws on just 5.1% of attempts (league 14.6%). It's working, at +0.25 EPA per dropback (8th), 7 touchdowns, 2 interceptions and a 108.9 passer rating, with completions right at Next Gen Stats' expectation. Play action lifts the passing game to +0.39 EPA per dropback.
+
+**Running backs.** Kenneth Walker III has been the best runner in the league by Next Gen Stats: 65 carries for 5.5 yards per carry and 2.28 yards over expected per carry, first of 43 qualifiers. He also leads the league with 11 broken tackles (10 on runs) per Pro Football Reference, and has gained 218 of his yards after contact. As a team, Kansas City leads in broken tackles per game (5.7).
+
+**Receivers & TE.** Travis Kelce is the most efficient target: 14 catches on 18 targets for 231 yards, two touchdowns, +0.92 EPA per target and 4.1 yards of YAC over expected. Rashee Rice (13 of 17, 190 yards) gets more than 4 yards of separation. Xavier Worthy is open just as often (4.4 yards) but is averaging 4.2 yards per target and −0.47 EPA per target. Tyquan Thornton has 108 yards on 6 catches as the deep option.
+
+**Offensive line.** Kansas City allows pressure on only 18% of dropbacks (2nd) and a 3.7% sack rate (5th), with the same five starters on the field nearly every snap. Runs to the left side carry the ground game, with left end runs averaging 12.2 yards. Runs to the right side have been negative. Yards before contact (2.0 per carry, 24th) are below average, which makes Walker's production more impressive.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Mahomes is rarely pressured and turns pressure into sacks less often than average (20% vs. 26%). FTN charted all 4 of his sacks as a standard rush winning in the pocket, though with only four sacks there is little to fix.
+
+**Front seven.** The pass rush is the weak spot on paper: 7.0 pressure credits per game (25th) and only 4 sacks (26th in sack rate). George Karlaftis III and R Mason Thomas share the lead with 5 pressures each; Karlaftis has 4 QB hits and an interception, but no sacks. The defense still ranks 5th against the pass, so coverage is doing most of the work. The run defense is 15th.
+
+**Secondary.** Rookie Mansoor Delane has allowed 7 catches on 10 targets for just 34 yards, with an interception and two passes defensed. Kristian Fulton has allowed 13 yards on 6 targets with an interception. L'Jarius Sneed is targeted most often (22) and has allowed 17 catches, 159 yards and a touchdown.
+
+**Coverage.** Kansas City has allowed a 73.9 passer rating in coverage (3rd; league 94.5) and only 2 touchdowns, tied for the fewest. Opponents complete 63% of their throws (19th), but for just 6.0 yards per target (3rd). L'Jarius Sneed is the soft spot at a 111.7 rating on a team-high 22 targets, while Mansoor Delane (35.0) and Kristian Fulton (16.7) have been the hardest to throw on.
+
+**Special teams.** Harrison Butker is 6 of 8 on field goals with a long of 46 and perfect on 10 extra points. Matt Araiza averages 55.6 yards per punt (47.6 net) on 7 punts. Brashard Smith and Nikko Remigio return kickoffs at 26.6 and 28.0 yards. DVOA ranks the unit 20th.
+
+
+## Los Angeles Rams (LA)
+
+**Team efficiency.** Better than 1–2. The Rams rank 8th in defensive EPA per play and 1st against the pass, and outgained Denver 482 to 257 in a four-point Week 3 loss. The offense is average (15th in EPA per play), and two giveaways in every game (6 total against 3 takeaways) have cost them.
+
+**DVOA.** DVOA is much kinder than the record, ranking the Rams 10th with the 9th-ranked offense and 4th-ranked defense. Special teams are the drag, last in the league at −13.0%.
+
+**Personnel & fronts.** One of the heaviest offenses in the league: 1.9 tight ends per snap (2nd most) and the 3rd-fewest wide receivers. It draws eight-man boxes on 19% of runs (league 10%), and those runs average −0.43 EPA. The defense plays a lot of nickel and dime (5.1 defensive backs per snap, 2nd most) and is far better when it sends extra rushers: −0.44 EPA per dropback with five or more against −0.05 with four.
+
+**Quarterbacks.** Matthew Stafford is pushing the ball downfield (9.9-yard average depth of target) for +0.07 EPA per dropback, 6 touchdowns and 4 interceptions, with completions 1.7 points above expectation and a 2.8-second average time to throw (Next Gen Stats). FTN charted 7 interception-worthy throws for the offense, tied for 2nd most. The blitz is his problem: −0.23 EPA per dropback when opponents send extra rushers, against +0.22 when they don't.
+
+**Running backs.** Both backs are running well past Next Gen Stats' expectation: Kyren Williams at +1.58 yards per carry (4th among qualifiers, 5.6 per carry) and Blake Corum at +0.77 (5.3 per carry). That hasn't turned into EPA (Williams is slightly negative per carry). The Rams have only 4 broken tackles in three games, 24th per game, with Williams at one on 49 touches (Pro Football Reference charting).
+
+**Receivers & TE.** Davante Adams is the deep threat: 18 catches for 358 yards and 2 touchdowns on 29 targets, a 15.8-yard average depth of target, 45% of the air yards and 2.3 yards after the catch above expectation. Konata Mumpfield adds 105 yards on 5 catches. The tight ends have been inefficient, with Tyler Higbee and Terrance Ferguson at negative EPA on 25 combined targets, and FTN has charged the offense with 6 drops, 3rd most.
+
+**Offensive line.** One of the better lines so far. All five starters (Alaric Jackson, Steve Avila, Coleman Shelton, Kevin Dotson and Warren McClendon) have played nearly every snap, pressure comes on 21% of dropbacks (6th lowest) and the sack rate is 4.2% (7th). Backs gain 3.3 yards before contact per carry, 3rd best. Runs behind right guard (−0.48 EPA on 14 carries) are the biggest leak.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, a measure that mostly reflects the QB) plus FTN's charting of each sack. There have only been five, and none was charged to Stafford by FTN. Two came against a standard rush, two against blitzes and one on an extended play, and his 21% pressure-to-sack rate is below the 26% average.
+
+**Front seven.** The pass rush hasn't finished: 7.3 pressures per game (23rd), a 2.8% sack rate (29th) and three sacks in three games. Byron Young leads with 8 pressures and has one of the three sacks. The run defense ranks 23rd in EPA per rush, so the 8th-ranked defense is being carried by the coverage.
+
+**Secondary.** The best unit on the team and the best pass defense in the league, 1st in EPA per dropback allowed. Trent McDuffie has allowed 6 catches for 37 yards on 18 targets (a 19 passer rating) with 7 passes defensed and an interception. Quentin Lake also has 7 passes defensed, an interception and a forced fumble, and Josh Wallace has an interception. Jaylen Watson is the soft spot, with 2 touchdowns and a 135 rating allowed.
+
+**Coverage.** The coverage charting backs up the No. 1 EPA ranking. The Rams have allowed a 76.9 passer rating (5th; league 94.5) and 5.4 yards per target (2nd): 56 of 97 for 522 yards, 5 touchdowns and 3 interceptions. The cornerbacks are the strength, at a 66.8 rating with 2 interceptions on 41 targets (4th among cornerback groups), led by McDuffie's 6 of 18 for 37 yards. Safeties see 35% of the targets (2nd most; league 24%), mostly Quentin Lake (21 targets, 45.1 rating).
+
+**Special teams.** Last in special teams DVOA. Harrison Mevis is 4 of 5 on field goals with a long of 48, Ethan Evans nets 39.1 yards per punt, and Xavier Smith averages 20.6 yards per kickoff return.
+
+
+## Los Angeles Chargers (LAC)
+
+**Team efficiency.** 0–3 with a −32 point differential and an offense that has stalled. Los Angeles ranks 31st in offensive EPA per play, 28th passing and 29th rushing, and scores 14.7 points per game (29th). The defense is middle of the pack (19th in EPA per play), with 5 takeaways in the Week 3 loss at Buffalo.
+
+**DVOA.** DVOA ranks the Chargers 31st overall. The offense is 26th, the defense 25th and special teams 29th.
+
+**Personnel & fronts.** The Chargers run the heaviest backfield in the league: two or more backs on 41% of snaps (league 21%), and they also go empty on 12% (league 6%). Neither has worked, at about −0.2 EPA per play in every backfield set. They play fewer tight ends than all but one team, and use motion on 76% of plays (league 57%). On defense they play extra defensive backs more than most (4.9 per snap, 5th; league 4.7).
+
+**Quarterbacks.** Justin Herbert is at −0.13 EPA per dropback (27th of 31 qualifiers), completing 3.8% below Next Gen Stats' expectation, with 3 touchdowns and 4 interceptions. FTN has charted 7 interception-worthy throws (league average 3.2). Play action is the bright spot (+0.20 EPA per dropback against −0.25), and the blitz is the problem (−0.46 when blitzed).
+
+**Running backs.** The backs are breaking tackles but not gaining much. Omarion Hampton has 7 broken tackles on runs (Pro Football Reference) yet is averaging 3.9 yards per carry, −0.32 EPA per carry and 0.38 yards below Next Gen Stats' expectation (31st of 43). Keaton Mitchell has 5 broken tackles on just 21 touches. As a team the Chargers are tied for 3rd in broken tackles per game (4.3).
+
+**Receivers & TE.** Ladd McConkey has been the one efficient target: 12 catches on 15 targets for 183 yards, a touchdown and +1.13 EPA per target on a 13.9-yard average depth. Tre Harris adds 10 catches for 149 yards with 3.8 yards of separation. Quentin Johnston leads in targets (17) but has caught only 6 with two drops.
+
+**Offensive line.** The line is the biggest problem. Herbert is pressured on 30% of dropbacks (31st) and sacked on 7.7% (25th). The tackles, Rashawn Slater and Joe Alt, and center Jake Slaughter have played every snap, while the guard spots have rotated. Only runs behind left guard have produced positive EPA; the 23 runs up the middle have cost −0.33 EPA each.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. It points at protection. Herbert converts pressure to sacks at a league-average rate (26%), but he is pressured far more than most, and FTN charged none of his 8 sacks to him. Four came against a blitz, which suggests blitz pickup is a specific problem.
+
+**Front seven.** The pass rush is about average (9.3 pressure credits per game, 14th; sack rate 11th). Khalil Mack has 7 pressures and 2 sacks, Tuli Tuipulotu 6 pressures, 5 QB hits and 1.5 sacks, and Akheem Mesidor 1.5 sacks in part-time work. The run defense ranks 12th in EPA per rush.
+
+**Secondary.** 24th in pass defense EPA. Genesis Smith has 2 interceptions and 3 passes defensed in part-time snaps. Cam Hart has allowed 10 catches on 14 targets for 167 yards but has an interception and three passes defensed. Derwin James has allowed 7 catches for only 43 yards, with one touchdown.
+
+**Coverage.** The Chargers have allowed a 91.4 passer rating in coverage (14th; league 94.5), but opponents complete 67% of their throws (27th) for 7.9 yards per target (21st). Cam Hart has given up the most yardage (167 yards on 14 targets), and Tony Jefferson has allowed a 121.4 rating with a touchdown. Safety Genesis Smith has 2 of the 3 interceptions in coverage.
+
+**Special teams.** An unusual weak spot: Cameron Dicker is 3 of 5 on field goals with a long of 33. J.K. Scott averages 50.2 yards per punt (45.8 net). Keaton Mitchell returns kickoffs at 24.3 yards. DVOA ranks the unit 29th.
+
+
+## Las Vegas Raiders (LV)
+
+**Team efficiency.** 3–0 with a +34 point differential, built on defense and takeaways. Las Vegas ranks 2nd in defensive EPA per play, 2nd against the pass, 4th against the run and 3rd in sack rate, and has 9 takeaways against 4 giveaways. The offense is average (17th in EPA per play): the passing game ranks 11th, but the run game is 25th.
+
+**DVOA.** DVOA is less impressed than the record. Las Vegas is 9th overall, with an average offense (13th), the 9th-ranked defense and strong special teams (5th).
+
+**Personnel & fronts.** Las Vegas is a fullback team: two or more backs on 36% of snaps (league 21%), with an average of exactly two receivers on the field. Those heavy looks have been better (+0.09 EPA per play) than one-back sets (−0.08). The defense rarely blitzes (21% of dropbacks, league 31%), but when it does it has been devastating: −0.74 EPA per dropback on 24 plays.
+
+**Quarterbacks.** Kirk Cousins has been efficient: +0.17 EPA per dropback (12th of 31 qualifiers), 9 touchdowns, 3 interceptions and completions 3.2% above Next Gen Stats' expectation. He stays in the pocket, leaving it on just 6% of dropbacks, the lowest rate in the league (league 20%). Play action has been a big lever, +0.33 EPA per dropback against +0.09 without.
+
+**Running backs.** Ashton Jeanty has had a tough start: 63 carries at 3.3 yards per carry and −0.31 EPA per carry, 0.25 yards below Next Gen Stats' expectation (26th of 43). He is getting hit almost at the line, because the team averages 1.5 yards before contact, last in the league. He has 4 broken tackles on runs (PFR). Mike Washington Jr. has been more productive in a small role at 6.8 yards per carry.
+
+**Receivers & TE.** Tre Tucker is the big-play target: 11 catches on 15 targets for 189 yards, +0.65 EPA per target and 29% of the team's air yards. The tight ends are productive too. Brock Bowers has 10 catches for 116 yards (+0.66 EPA per target) and Michael Mayer 12 of 14. Jeanty has 16 targets out of the backfield but three drops.
+
+**Offensive line.** Pass protection has been good: pressure on 21% of dropbacks and a 5.0% sack rate, both 9th. The run blocking hasn't been: 1.5 yards before contact per carry is last in the league, and the 32 runs up the middle have averaged 3.1 yards at −0.27 EPA each. The same five starters have played nearly every snap.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. It's a split decision on a small sample. Cousins converts pressure to sacks a little below average (24% vs. 26%), and FTN charted his 5 sacks as 2 standard rushes, 2 charged to him and 1 extended play.
+
+**Front seven.** Las Vegas averages 14.7 pressure credits per game, 2nd in the league (league 9.3). Maxx Crosby leads with 13 pressures and 6 QB hits, though only 1.5 sacks. Malcolm Koonce (2.5), Kwity Paye (2) and Nakobe Dean (1.5) have finished more of them, for 10 sacks and a 3rd-ranked sack rate. The run defense ranks 4th.
+
+**Secondary.** The second-best pass defense in the league by EPA per dropback. Hezekiah Masses has been the story: 3 interceptions and 4 passes defensed, allowing 6 catches on 14 targets and a 19.6 passer rating. Eric Stokes has allowed 8 of 17 for 94 yards. The soft spot is linebacker coverage, where Nakobe Dean has allowed 12 catches on 13 targets.
+
+**Coverage.** Las Vegas has allowed an 83.6 passer rating in coverage (8th; league 94.5), with 4 interceptions, tied for the most. The cornerbacks carry it: a 48.6 rating on 50 targets with 3 interceptions, all by Hezekiah Masses. Offenses have found room against the safeties (124.1 rating, 3 touchdowns on 18 targets) and linebackers (20 of 24 completed). Isaiah Pola-Mao has allowed 2 touchdowns on 7 targets.
+
+**Special teams.** Matt Gay is 6 for 6 on field goals with a long of 59. AJ Cole averages 51.2 yards per punt (47.2 net) with 6 inside the 20. Dylan Laube averages 31.6 yards per kickoff return and Malik Benson 16.0 per punt return. DVOA ranks the unit 5th.
+
+
+## Miami Dolphins (MIA)
+
+**Team efficiency.** An 0–3 start with problems on both sides. Miami ranks 27th in offensive EPA per play, 31st in success rate and tied for last in scoring at 12 points per game. The defense is 30th in EPA per play and last against the pass, and is the only defense in the league without a sack. Its −50 point differential is the league's worst by 15 points.
+
+**DVOA.** DVOA has Miami 32nd overall. The offense is 31st, the defense 32nd and special teams 30th, so there is no unit propping up the rest.
+
+**Personnel & fronts.** Miami is the league's lightest team at tight end (1.1 on the field on average, the fewest of any team) and plays more backs and receivers than most. Two-back looks take 28% of snaps (league 21%) and have been the worst grouping at −0.23 EPA per play. On defense, the rush count hasn't mattered: four rushers allow +0.44 EPA per dropback and five or more allow +0.52.
+
+**Quarterbacks.** Malik Willis ranks 23rd of 31 qualified quarterbacks in EPA per dropback (−0.04), with one touchdown, two interceptions and completions about 3 points below expectation by Next Gen Stats. He is aggressive, throwing into tight windows on 21% of attempts, the third-highest rate among qualified passers. Blitzes have hurt most: −0.26 EPA per dropback when blitzed against +0.06 when not.
+
+**Running backs.** The run game ranks 30th in EPA per carry. De'Von Achane is averaging 3.7 yards per carry, 0.3 below Next Gen Stats' expectation, and Ollie Gordon II is 1.1 yards per carry below it with a 15% success rate. The backs have one broken tackle on a run between them (Pro Football Reference charting), and they aren't getting much room either: Miami's 7th-ranked yards before contact per carry is mostly Willis's scrambles, while Achane (2.4) and Gordon (1.6) are at or below the league's 2.4.
+
+**Receivers & TE.** Malik Washington draws the volume (27% of targets and 32% of air yards) but has produced −0.22 EPA per target. The more efficient options have been rookies on fewer looks: Caleb Douglas gets 4.6 yards of separation and has 113 yards on 10 targets, and Chris Bell is winning deep with 3.8 yards of YAC over expectation on a 17.6-yard average depth of target.
+
+**Offensive line.** The same five linemen have played every snap. Pressure has been a problem: Miami allows pressure on 27% of dropbacks (29th) and a sack on 8.4% (28th). Runs to the right side have been the worst, with right guard runs at 2.9 yards and −0.50 EPA each.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. This one leans toward the quarterback. FTN charged four of Willis's nine sacks to him and two more came on extended plays outside the pocket, leaving three on the line. His pressure-to-sack rate (31% vs. 26%) is above average, and he took no sacks in Week 3.
+
+**Front seven.** The pass rush has not landed a sack in three games, and its 5.0 pressures per game rank 31st (league 9.3). Chop Robinson leads with four pressures; Joshua Uche has three QB hits. The run defense is a relative strength at 9th in EPA per rush, with Zach Sieler and Jacob Rodriguez each making three tackles for loss.
+
+**Secondary.** Last in the league in pass defense EPA, partly because the rush gives quarterbacks time. Chris Johnson has allowed three touchdowns on 17 targets (128 rating), and Michael Taaffe has allowed 154 yards on 11 targets despite an interception. Willie Gay Jr. has allowed all seven targets in coverage for 103 yards.
+
+**Coverage.** Miami has allowed a 122.3 passer rating in coverage (31st) and a 73.5% completion rate, the highest in the league, with nine touchdowns on 83 targets. The cornerbacks' 132.6 rating on 31 targets is the worst of any team's corners (league 93.9), and the linebackers are close behind at 127.6, with Jordyn Brooks allowing 7 of 8 and Willie Gay Jr. 7 of 7. The three interceptions (6th) came from Jacob Rodriguez, Michael Taaffe and Dante Trader.
+
+**Special teams.** Special teams rank 30th in DVOA. Riley Patterson is 5 of 7 on field goals with a long of 41. Jaylen Wright averages 37.0 yards on five kick returns, and Bradley Pinion has put four of his nine punts inside the 20.
+
+
+## Minnesota Vikings (MIN)
+
+**Team efficiency.** A 3–0 start built on the league's best defense. Minnesota ranks 1st in defensive EPA per play, 1st in defensive success rate and 1st in sack rate, and has allowed 13.7 points per game. The offense ranks 26th in EPA per play and last in success rate, so the defense and a +4 turnover margin are carrying the record.
+
+**DVOA.** DVOA tells the same story with sharper edges. Minnesota is 8th overall, with the No. 1 defense and No. 1 special teams covering for the 30th-ranked offense.
+
+**Personnel & fronts.** The offense leans on a fullback: two or more backs are in the backfield on 34% of snaps (league 21%), and those plays have been closer to break-even than the one-back looks. The defense is the league's most aggressive. It sends five or more rushers on 73% of dropbacks, more than twice the league rate of 31%, and holds offenses to about −0.11 EPA per dropback whether it sends four rushers or more.
+
+**Quarterbacks.** Two quarterbacks, two very different results. Carson Wentz took most of the dropbacks in Weeks 1 and 2 and was efficient (+0.08 EPA per dropback, three touchdowns, no interceptions) despite completing passes well below expectation. Kyler Murray took over in Week 3 at Tampa Bay and struggled: −0.30 EPA per dropback with two interceptions on the season. Play action has been the one reliable lever, worth +0.29 EPA per dropback against −0.24 without it.
+
+**Running backs.** Aaron Jones carries the load (52 of the 73 carries by running backs) but is running below Next Gen Stats' expectation, at −0.46 yards per carry. The whole offense is short on missed tackles: three broken tackles in three games, tied for the fewest per game in the league, and Jones has just one on the ground (Pro Football Reference charting).
+
+**Receivers & TE.** Justin Jefferson is the passing game: 13 catches on 17 targets for 179 yards and two touchdowns, +0.92 EPA per target, and more YAC than expected. Jordan Addison draws the deep looks (a 14.8-yard average depth of target and 39% of the team's air yards) but has caught 7 of 16 targets for −0.21 EPA per target. T.J. Hockenson gets the most separation of the three on short routes.
+
+**Offensive line.** The same five linemen have played every offensive snap, and pressure volume is about average, but too much of it ends in a sack: 9 sacks on 88 dropbacks, a 10.2% rate that ranks 31st. On the ground, only runs behind left guard (+0.16 EPA) and, barely, right tackle (+0.02) have produced positive EPA. The most-used gap, right guard, averages 3.1 yards.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. It splits by quarterback. Wentz was pressured less than average, but 6 of his 9 pressures became sacks, and five of those six came in the pocket against a standard rush or a blitz, which points at protection. Murray's three sacks were two extended plays and one FTN charged to him, which points at the quarterback.
+
+**Front seven.** The engine of the season. Minnesota leads the league in pressures per game by a wide margin (about double the league average) and in sack rate, and its run defense ranks 2nd in EPA per rush. Dallas Turner leads with 19 pressures, 12 QB hits and 3.5 sacks; Andrew Van Ginkel and Blake Cashman add three and two and a half sacks.
+
+**Secondary.** Third in pass defense EPA, helped by the pass rush. Isaiah Rodgers has allowed 7 catches on 17 targets with an interception, and James Pierre has three passes defensed and an interception in part-time work. The leaks come at safety: Theo Jackson has allowed all three targets for 98 yards and two touchdowns.
+
+**Coverage.** Minnesota has allowed a 73.5 passer rating in coverage (2nd; league 94.5), with 4 interceptions (tied for the most) and only 3 touchdowns (tied for 4th fewest), and opponents complete just 55.7% of their throws (3rd). The cornerbacks are the strength: a 50.0 rating on 51 targets (2nd in the league), no touchdowns allowed, and interceptions from Byron Murphy, Isaiah Rodgers and James Pierre. All three touchdowns have come against the safeties (125.8 rating, 26th), two of them on Theo Jackson.
+
+**Special teams.** Will Reichard is 7 for 7 on field goals with a long of 56. Myles Price is averaging 29.4 yards per kick return and 21.7 per punt return. Two punters have split the work, Brett Thorson (10 punts) and Johnny Hekker (8).
+
+
+## New England Patriots (NE)
+
+**Team efficiency.** A defense-first team so far. New England ranks 11th in defensive EPA per play and 6th against the pass, but 28th on offense and tied for last in points scored. Eight giveaways against three takeaways, plus a line allowing a sack on 8.5% of dropbacks, explain most of the gap.
+
+**DVOA.** Football Outsiders' DVOA, now published by FTN, agrees with the EPA view and is harsher on the offense. New England is 25th overall, with the league's worst offense (32nd) and the 8th-best defense.
+
+**Personnel & fronts.** New England plays a fullback more than most teams and uses fewer tight ends than all but three. Those two-back looks have been a problem: 28% of snaps (league 21%) at −0.36 EPA per play. On defense, sending five or more rushers has worked (−0.26 EPA per dropback), but the run defense gives up positive EPA against both light and heavy boxes and only breaks even with seven in the box.
+
+**Quarterbacks.** Maye is completing passes a bit above expectation, but six interceptions (most in the league) and eight interception-worthy throws are sinking his EPA. He holds the ball longer than almost anyone, which shows up in a high sack rate, and play action has been a net negative.
+
+**Running backs.** Both backs are beating Next Gen Stats' expected yardage, TreVeyon Henderson by more than half a yard per carry, yet neither is producing positive EPA. They also aren't making defenders miss: through Week 3, no Patriots back has broken a tackle on a run (Pro Football Reference charting). Blocking is the bigger part of the story; see the offensive line.
+
+**Receivers & TE.** Mack Hollins has been the most productive target, with a team-high 16 targets and +0.55 EPA per target. Romeo Doubs is winning deep: 4.2 yards of separation on a 17-yard average depth of target is the most of any NGS-qualified receiver with a 14+ yard average depth.
+
+**Offensive line.** The weak link on offense. The line has allowed a sack on 8.5% of dropbacks (29th) and pressure jumped to 37% against Pittsburgh. Runs behind right guard average 2.0 yards and cost almost half a point of EPA each.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, a measure that mostly reflects the QB) plus FTN's charting of each sack. That points mostly at the line. Maye turns pressure into sacks more often than average (39% vs. 26%), but FTN charged none of his 9 sacks to him, and 6 came in the pocket against a standard four-man (or three-man) rush.
+
+**Front seven.** Pass rush is slightly below average by volume, helped by a blitz-heavy plan, and the pressure is spread around. Gabe Jacas, Elijah Ponder and Dre'Mont Jones have four QB hits each. Run defense is the problem: 30th in EPA per rush allowed.
+
+**Secondary.** The best unit on the roster. Christian Gonzalez has allowed 8 catches for 43 yards on 18 targets with five passes defensed. The soft spot is at safety: Craig Woodson and Kevin Byard have each allowed a touchdown and a passer rating above 140.
+
+**Coverage.** New England allows a 91.6 passer rating in coverage (15th; league 94.5) and 7.0 yards per target (7th). The cornerbacks carry it with a 67.0 rating on 51 targets, 5th best among cornerback groups, and Christian Gonzalez is at 51.6. Safeties have allowed 13 of 18 for 196 yards and three touchdowns, a 147.2 rating that is third worst in the league. Linebackers sit at 110.1 on 24 targets, with Christian Elliss allowing 10 of 14 for 116 yards.
+
+**Special teams.** Andy Borregales is 5 of 7 on field goals with a long of 50. Kyle Williams has handled kickoffs at 24.0 yards per return.
+
+
+## New Orleans Saints (NO)
+
+**Team efficiency.** A competitive offense and a leaky defense. New Orleans is 16th in offensive EPA per play and 9th in success rate, scoring 27 points per game, but the defense ranks 25th in EPA and 31st in success rate allowed. Seven giveaways against three takeaways, four of them in the Week 3 loss to Las Vegas, decided two one-score losses.
+
+**DVOA.** DVOA is harsher than EPA, ranking New Orleans 28th overall. The offense is 19th, the defense 29th and special teams 16th.
+
+**Personnel & fronts.** A spread offense with 2.6 receivers per snap (6th most) and few tight ends (22nd), and it sees light boxes on 70% of runs (league 45%). The defense keeps more linemen on the field than any team. Blitzing has backfired: sending five or more allows +0.29 EPA per dropback, against +0.08 with four rushers and a league rate of 0.00 when blitzing.
+
+**Quarterbacks.** Tyler Shough has been accurate and productive, completing passes 3.5 points above expectation with 8 touchdowns, 3 interceptions and a 99.2 passer rating, but his EPA per dropback is only +0.04. Sacks are a big part of that (10, a 6.8% rate), and so is the blitz: −0.14 EPA per dropback when opponents send extra rushers against +0.11 when they don't. Play action works (+0.16 vs. 0.00) but New Orleans uses it less than all but two teams.
+
+**Running backs.** Travis Etienne leads the backfield but is running half a yard per carry below Next Gen Stats' expectation, at 4.3 yards per carry. Alvin Kamara has been held to 2.8 yards per carry and −0.28 EPA per carry. The backs gain 2.3 yards before contact per carry (18th). New Orleans breaks a fair number of tackles, 4.0 per game (tied for 7th), with Etienne at 4 and tight end Juwan Johnson at 3 after the catch (Pro Football Reference charting).
+
+**Receivers & TE.** Chris Olave is the focal point, with 29% of the targets and 49% of the air yards, and he has turned that into 27 catches for 375 yards and +0.77 EPA per target. Juwan Johnson has been the best efficiency target: 15 catches on 19 targets, 3 touchdowns, 4.1 yards of separation and 2.1 yards after the catch above expectation. Devaughn Vele has 15 catches for 172 yards.
+
+**Offensive line.** Pass protection holds up before the sack. New Orleans allows pressure on just 20% of dropbacks (5th lowest), but its 6.8% sack rate ranks 20th. Four linemen have played every snap, with Kelvin Banks and Asim Richards splitting left tackle. Runs behind right tackle average 2.6 yards with one success in 11 tries, while runs up the middle have been positive.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, a measure that mostly reflects the QB) plus FTN's charting of each sack. It leans toward the quarterback and the blitz pickup. Shough is pressured less than average but 10 of his 29 pressures became sacks (35% vs. 26%). FTN put 4 of the 10 on a standard rush, 3 on blitzes, 2 on Shough and 1 on an extended play.
+
+**Front seven.** The run defense ranks 26th in EPA per rush allowed and the pass rush is middling, 9.7 pressures per game (12th) and a 6.1% sack rate (19th). Chase Young has been the bright spot with 3.5 sacks, 5 QB hits and 3 tackles for loss. Linebacker Kaden Elliss adds 6 pressures and 5 QB hits as a blitzer.
+
+**Secondary.** 22nd against the pass with only three takeaways in three games. Kool-Aid McKinstry has played every snap with 4 passes defensed and a 91 passer rating allowed on 20 targets. The touchdowns have come at safety and the other corner spot: Julian Blackmon has allowed 3 on 7 targets and Quincy Riley 2 on 15. Justin Reid has 4 missed tackles.
+
+**Coverage.** Coverage leaks at the back end: a 102.8 passer rating allowed (24th; league 94.5) and 8 touchdowns, tied for 5th most, against 1 interception. Safeties have allowed 5 of those touchdowns and a 114.7 rating, and they draw 30% of the targets (league 24%). Yards per target are fine (7.0, 8th), and the linebackers have held up at 87.8 on 36 targets.
+
+**Special teams.** Average (16th in special teams DVOA). Daniel Carlson is 4 of 5 on field goals with a long of 51 and has missed an extra point. Ryan Wright nets 39.9 yards per punt, and Barion Brown averages 25.6 yards on kickoff returns.
+
+
+## New York Giants (NYG)
+
+**Team efficiency.** A 2–1 record that the underlying numbers don't support. New York has been outscored by nine, ranks 18th in offensive EPA per play and 27th on defense, and scores 15.3 points per game (28th). The offense was excellent in the Week 1 win over Dallas and has been below average since, and the defense held Tennessee to seven in Week 3.
+
+**DVOA.** DVOA is less kind than the record. New York is 20th overall, with the 25th-ranked offense and 21st-ranked defense; special teams (2nd) are doing a lot of the work.
+
+**Personnel & fronts.** The Giants are one of the most run-heavy, back-heavy teams in the league: 13.7 points below expected pass rate (31st) and two or more backs on 34% of snaps (league 21%), with fullback Patrick Ricard on 45% of snaps. Those heavy looks have been slightly positive (+0.06 EPA) while one-back plays sit at −0.08. On defense, neither a four-man rush (+0.19 EPA per dropback) nor the blitz (+0.28) has slowed opposing passers.
+
+**Quarterbacks.** Two very different quarterbacks. Jaxson Dart started the first two games and was outstanding in Week 1: 230 yards and three touchdowns. Counting five Week 2 dropbacks before Jameis Winston replaced him, he is at +0.55 EPA per dropback with completions 9.9 points above expectation. Winston played the rest of Week 2 and started Week 3, and he is at −0.39 EPA per dropback, completions 9.1 points below expectation and no touchdowns. The offense falls apart against the blitz (−0.62 EPA per dropback vs. +0.28 without), and play action has helped (+0.31).
+
+**Running backs.** Cam Skattebo is the lead back with 50 carries and is running almost exactly at Next Gen Stats' expectation, but at −0.16 EPA per carry. He's doing his work after contact (2.2 yards after contact per carry against 1.3 before), and blocking is the limiting factor: the team gets 2.0 yards before contact per carry, 25th. Skattebo leads with four broken tackles, three on the ground (Pro Football Reference charting).
+
+**Receivers & TE.** Isaiah Likely has been the most reliable option: a team-high 23 targets, 15 catches, two touchdowns and +0.41 EPA per target. Malik Nabers is second with 19 targets but at −0.27 EPA per target, and Malachi Fields' deep role (16.5-yard average depth of target, 30% of air yards) has produced 6 catches on 12 targets. Darnell Mooney has been efficient in a smaller role at +0.95 EPA per target.
+
+**Offensive line.** The five linemen have played every snap, and pressure is about average (24%, 19th), but a 7.5% sack rate ranks 22nd. Runs to the left side work, especially around left end (7.8 yards per carry), while the most-used lane, up the middle, averages 2.3 yards and −0.35 EPA per run.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. The seven sacks are evenly split: two standard rushes won, two blitzes, two charged to the quarterback and one extended play. Winston's pressure-to-sack rate (31%) is a bit above the 26% league rate, and he's been pressured more often than average, so both sides share it.
+
+**Front seven.** Surprisingly quiet for a group with this much talent. New York has one sack in three games, a 1.0% sack rate (31st), and the fewest pressure credits per game in the league (3.7). Brian Burns leads with five pressures; Abdul Carter has the only sack. The run defense is average (17th in EPA per rush).
+
+**Secondary.** Jevon Holland has been the playmaker: three interceptions, four passes defensed and two forced fumbles while allowing 2 of 8 targets. Greg Newsome II has allowed half his 16 targets for a 68.2 rating. The trouble spots are Colton Hood, who has allowed three touchdowns on 13 targets, and linebackers Tremaine Edmunds and Arvell Reese in coverage, who have allowed 18 of 20.
+
+**Coverage.** New York is 20th in passer rating allowed in coverage (97.7) and 26th in completion rate (66.3%), but its three interceptions rank 6th, all by Jevon Holland. The safeties have been the strength, a 58.2 rating on 24 targets against a league 100.3. Cornerbacks have drawn over half the targets at a 107.2 rating, with Colton Hood's three touchdowns allowed the main leak, and linebackers have allowed 20 of 23 (122.8).
+
+**Special teams.** Ranked 2nd in special teams DVOA. Dominic Zvada is 6 for 6 on field goals with a long of 52, and Jordan Stout has put 7 of 13 punts inside the 20 with a 44.2-yard net. Braxton Berrios averages 27.6 yards per kickoff return.
+
+
+## New York Jets (NYJ)
+
+**Team efficiency.** A 1–2 team that has played closer to average. New York ranks 12th in offensive EPA per play and 13th on defense, with a +3 point differential. The passing game (10th) carries an offense whose run game ranks 26th. Turnovers have been rare: one giveaway and two takeaways in three games.
+
+**DVOA.** DVOA puts New York 15th overall, close to dead average. The offense is 12th and the defense 13th; special teams (28th) are the one clear weakness.
+
+**Personnel & fronts.** New York stays in one-back sets more than most teams (83% of snaps, league 74%) and uses tight ends a bit more than average (8th most). The two-back looks it does use have cost −0.14 EPA per play. On defense, the four-man rush has been effective (−0.01 EPA per dropback); sending five or more, which New York does a little more than average, has been worse at +0.10.
+
+**Quarterbacks.** Geno Smith is completing 12.9 points above expectation, the best mark in the league by Next Gen Stats, with four touchdowns, no interceptions and just one interception-worthy throw. It's a short-area game: his average throw lands about two yards short of the sticks. He ranks 10th of 31 in EPA per dropback (+0.20), and play action has been the best lever at +0.42 EPA per dropback.
+
+**Running backs.** The backs are breaking tackles but not getting much room. New York ranks 3rd in broken tackles per game, with Breece Hall at five on the ground and Braelon Allen at four on only 19 carries (Pro Football Reference charting). But Hall averages 3.2 yards per carry, slightly below Next Gen Stats' expectation, and the team is 28th in yards before contact. Hall has been a weapon as a receiver, catching all 10 targets for 102 yards.
+
+**Receivers & TE.** Garrett Wilson is the focal point: 28% of targets, 42% of air yards, 21 catches for 243 yards and two touchdowns at +0.54 EPA per target. Adonai Mitchell is the deep threat on a 15.8-yard average depth of target, though he has two drops. Rookie tight end Kenyon Sadiq averages 5.4 yards of separation, second among all NGS-tracked receivers.
+
+**Offensive line.** Pass protection is a strength by volume: New York allows pressure on only 19% of dropbacks, the 4th-lowest rate. Run blocking is not. The team averages 1.8 yards before contact per carry (28th), and runs behind left tackle average 1.8 yards. Four linemen have played every snap, with Dylan Parham and Jordan Meredith sharing the fifth spot.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. This one is unusual. Smith is pressured rarely, but 39% of his pressures become sacks (tied for 4th highest; league 26%). FTN charged none of his nine sacks to him and all nine came in the pocket, six against a standard rush, which suggests that when protection breaks, it breaks quickly.
+
+**Front seven.** The pass rush finishes well: an average volume of pressure (8.3 per game, 17th) has produced the 8th-best sack rate. Rookie David Bailey has two sacks, three QB hits and three tackles for loss, and Kingsley Enagbare has two sacks. The run defense ranks 11th in EPA per rush.
+
+**Secondary.** The pass defense is 16th in EPA per dropback. Brandon Stephens has been the best cover man, allowing 7 catches on 15 targets (63 passer rating). Azareye'h Thomas has allowed two touchdowns and a 124 rating, and linebacker Jamien Sherwood has given up 138 yards in coverage. The defense has forced four fumbles but has only two takeaways, and opponents have made just one interception-worthy throw.
+
+**Coverage.** The Jets allow a 95.7 passer rating in coverage (18th; league 94.5), with a 59.4% completion rate (12th) and 6.6 yards per target (6th). The gap is takeaways: they are one of four teams without an interception in coverage, on 101 targets. Safeties have been the best group (74.5 rating; Dane Belton 75.0, Andre Cisco 74.2), while cornerbacks have allowed four of the five touchdowns, two each by Azareye'h Thomas and Jarvis Brownlee.
+
+**Special teams.** Special teams rank 28th in DVOA. Jason Sanders is 5 of 6 on field goals with a long of 52. Austin McNamara is busy, with 13 punts, and the gap between his 47.2-yard gross and 38.1-yard net points to coverage problems. Isaiah Williams averages 24.3 yards per kick return.
+
+
+## Philadelphia Eagles (PHI)
+
+**Team efficiency.** Philadelphia is 2–1 but has been outscored by 14, and the efficiency numbers are below average on both sides: 19th in offensive EPA per play (28th in success rate) and 26th on defense. Turnovers are the swing factor. The Eagles have five giveaways and no takeaways, and three of those giveaways came in the 27–7 loss at Chicago.
+
+**DVOA.** DVOA sees a below-average team. Philadelphia is 22nd overall, with the 17th-ranked offense, 20th-ranked defense and 17th-ranked special teams.
+
+**Personnel & fronts.** The Eagles run more than expected (13.2 points below expected pass rate, 30th) but mostly out of three-receiver, one-back sets: one back on 84% of snaps (league 74%). The rare two-back looks have been poor (−0.25 EPA per play). On defense the four-man rush has held up (−0.08 EPA per dropback vs. a league +0.09), while blitzes have been hit hard (+0.66).
+
+**Quarterbacks.** Jalen Hurts has five touchdowns and three interceptions at −0.01 EPA per dropback, with completions right at Next Gen Stats' expectation. He's holding the ball 3.26 seconds on average, second-longest among qualified passers, and is the third-least aggressive thrower into tight windows. Play action has backfired (−0.45 EPA per dropback on 19 plays).
+
+**Running backs.** Saquon Barkley is still the most effective runner here: 5.1 yards per carry and 1.1 yards per carry over Next Gen Stats' expectation, though only break-even by EPA, and he's on the field for just under half the snaps. Tank Bigsby and Will Shipley have combined for 2.8 yards per carry on 23 runs. Philadelphia has three broken tackles in three games, 28th per game (Pro Football Reference charting).
+
+**Receivers & TE.** DeVonta Smith is the volume target: a third of the targets and nearly half the air yards, but only +0.05 EPA per target. Dontayvion Wicks has been the bigger-play option, 179 yards on 15 targets with a 14.8-yard depth of target and a yard of YAC over expected per catch. Dallas Goedert has two touchdowns on five catches.
+
+**Offensive line.** Jordan Mailata, Lane Johnson, Cam Jurgens and Tyler Steen have played every snap, with Drew Kendall and Landon Dickerson splitting the other guard spot. Pressure (24%, 21st) and sacks (7.5%, 23rd) are both below average. The most-used run lane, right tackle, averages 2.6 yards and −0.27 EPA per carry.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Both point at the quarterback. Hurts turns pressure into sacks at 32% (league 26%), FTN charged 6 of his 8 sacks to him, and his long time to throw fits that pattern.
+
+**Front seven.** The pass rush is thin: 5.7 pressure credits per game (30th) and three sacks, a 3.1% sack rate that ranks 28th. Jalyx Hunt leads with five pressures, and Jalen Carter, Jihaad Campbell and Nolan Smith have a sack each. The run defense ranks 28th in EPA per rush, despite four tackles for loss from Zack Baun.
+
+**Secondary.** 25th in pass defense EPA, with no interceptions. Quinyon Mitchell has held up (10 of 16 for an 83.6 rating) and Zack Baun has been good in coverage with three passes defensed. The safeties are the leak: Andrew Mukuba and Marcus Epps have allowed 10 catches for 214 yards on 12 targets, and Cooper DeJean has allowed two touchdowns from the slot.
+
+**Coverage.** Philadelphia ranks 25th in coverage passer rating (106.6) and is one of four teams without an interception, though its four touchdowns allowed are 7th fewest. Linebackers have been the best group (83.9 rating on 25 targets), led by Zack Baun. Cornerbacks sit at 103.9 against a league 93.9, and the safeties have allowed 10 of 12 for 214 yards, 17.8 yards per target.
+
+**Special teams.** Jake Elliott is 2 for 2 on field goals with a long of 58. Braden Mann has put 8 of 13 punts inside the 20 with a 43.2-yard net. Britain Covey averages 10.9 yards per punt return.
+
+
+## Pittsburgh Steelers (PIT)
+
+**Team efficiency.** A 2–1 record carried by the defense. Pittsburgh ranks 30th in offensive EPA per play and 30th passing, and scored three points in the Week 2 loss to New England. The defense ranks 12th in EPA per play, 9th against the pass and 4th in sack rate. The offense finally came alive in the 30–27 win over Cincinnati in Week 3 (+0.20 EPA per play).
+
+**DVOA.** DVOA has Pittsburgh 18th overall. The 7th-ranked defense offsets the 23rd-ranked offense, and special teams (25th) give a little back.
+
+**Personnel & fronts.** Pittsburgh passes more than its situations would predict (3rd highest over expected) and plays slightly more receivers than average. Its one-back sets, used on 77% of snaps, have been the problem at −0.28 EPA per play, while the less common two-back looks have produced +0.25. On defense, the four-man rush has been the better choice (−0.11 EPA per dropback) than sending five or more (+0.18).
+
+**Quarterbacks.** Aaron Rodgers ranks 29th of 31 qualified quarterbacks in EPA per dropback (−0.20), completing passes below expectation with four touchdowns and two interceptions. Play action is the whole story: +0.43 EPA per dropback with it and −0.42 without, the widest gap in the league. His receivers haven't helped, with seven drops, tied for the most of any team.
+
+**Running backs.** Jaylen Warren has been one of the league's best runners by Next Gen Stats: 5.7 yards per carry and 1.8 yards per carry over expectation, 2nd among qualified backs. He has five broken tackles, three on runs and two after catches (Pro Football Reference charting), and more of his yards come after contact than before it. Rico Dowdle has struggled at 2.5 yards per carry and a 13% success rate.
+
+**Receivers & TE.** DK Metcalf draws the most targets (23%) and 38% of the air yards but has caught 11 of 24 for 98 yards, −0.26 EPA per target, with three drops. Pat Freiermuth has been the most reliable option (11 of 14, 3.6 yards of separation and 1.6 yards of YAC over expectation). Roman Wilson sees deep targets on a 12.6-yard average depth and is slightly positive.
+
+**Offensive line.** A shuffled line that has struggled in pass protection. Pressure arrives on 26% of dropbacks (26th), though Rodgers keeps the sack rate near average (6.4%, 19th). Only Zach Frazier, Mason McCormick and Troy Fautanu have played every snap or all but one; the other two spots have rotated among Dylan Cook, Spencer Anderson, Brock Hoffman and Max Iheanachor. Run blocking ranks 21st in yards before contact.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Rodgers turns pressure into sacks at the league rate (26%), and FTN charged just one of his eight sacks to him. Three came against blitzes and two on extended plays, with only two a standard rush beating the line, so the issue is the volume of pressure more than how it ends.
+
+**Front seven.** The pass rush wins on efficiency rather than volume: 7.7 pressures per game ranks 20th, but the sack rate is 4th. T.J. Watt has 3.5 sacks and an interception, Alex Highsmith has three sacks and four tackles for loss, and Cameron Heyward has batted or defensed four passes. The run defense is weaker at 22nd in EPA per rush.
+
+**Secondary.** 9th in pass defense EPA, led by the second level. Linebacker Patrick Queen has allowed a 23 passer rating on 16 targets with an interception, and Jaquan Brisker has an interception and a 38 rating. The corners are the leak: Asante Samuel Jr. has allowed 220 yards and two touchdowns on 16 targets, and Jalen Ramsey has allowed two touchdowns.
+
+**Coverage.** Pittsburgh allows the lowest completion rate in the league (54.5%) but 8.6 yards per target (27th), which nets out to an 87.6 passer rating (11th). The split is stark: corners have allowed a 127.8 rating and all five touchdowns on 51 targets, while linebackers (51.8 on 30 targets) and safeties (57.3 on 16) are far better than the league marks for those groups (93.7 and 100.3). Three interceptions rank 6th.
+
+**Special teams.** Chris Boswell is 6 of 8 on field goals with a long of 56. Cameron Johnston has been busy with 13 punts, netting 41.3 yards with six inside the 20. Kaden Wetjen averages 22.1 yards on kick returns.
+
+
+## Seattle Seahawks (SEA)
+
+**Team efficiency.** A top-three defense and a pass-first offense that can't run. Seattle ranks 3rd in defensive EPA per play, 2nd in success rate allowed and 1st against the run. The offense is 5th in passing EPA but 28th on the ground. A 33–31 loss at Washington with three giveaways is the only blemish in a +25 start.
+
+**DVOA.** DVOA has Seattle 6th overall, led by the No. 3 defense. The offense (15th) and special teams (15th) are average.
+
+**Personnel & fronts.** Seattle uses a lot of two-back looks (31% of snaps, league 21%) and play action on 35% of dropbacks, 3rd most, and play action has been worth +0.55 EPA per dropback against +0.15 without. The defense blitzes less than all but two teams (20%) and rushes four on 78% of dropbacks, holding offenses to −0.04 EPA per dropback when it does (league +0.09).
+
+**Quarterbacks.** Two quarterbacks, both productive. Drew Lock played most of Weeks 1 and 2 (Darnold started Week 1 but left after three dropbacks) at +0.48 EPA per dropback, 2nd best among qualifiers, with 4 touchdowns, no interceptions and completions 8.8 points above expectation. Sam Darnold threw 45 passes in Week 3 for 4 touchdowns and 2 interceptions but only +0.07 EPA per dropback, holding the ball 3.2 seconds per throw. Opponents blitz Seattle on 43% of dropbacks, 4th most, and it hasn't worked (+0.47 EPA per dropback against the blitz).
+
+**Running backs.** The run game is the weak link. Emanuel Wilson (3.4 yards per carry, −0.34 below Next Gen Stats' expectation) and Jadarian Price (−0.44 EPA per carry) have split the work, and the backs get 2.3 yards before contact per carry (19th). Seattle has 7 broken tackles, about league average (Pro Football Reference charting). The ground game bottomed out at −0.56 EPA per carry in Week 3.
+
+**Receivers & TE.** Jaxon Smith-Njigba is one of the most featured receivers in the league: 38% of the targets and 52% of the air yards, turned into 27 catches, 405 yards, 6 touchdowns and +0.80 EPA per target. Cooper Kupp has caught 8 of 10 for 101 yards. Rashid Shaheed has struggled, catching 6 of 12 for 53 yards and −0.53 EPA per target.
+
+**Offensive line.** Pressure allowed is high (25% of dropbacks, 25th) but sacks are rare (3.0% rate, 4th). Charles Cross, Abraham Lucas, Grey Zabel and Jalen Sundell have played every snap while three players have rotated at right guard. Runs up the middle (2.7 yards per carry, −0.51 EPA) are the run game's biggest problem.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, a measure that mostly reflects the QB) plus FTN's charting of each sack. Credit the quarterbacks. Seattle has allowed only three sacks despite above-average pressure, two of them on extended plays. Darnold was pressured on 31% of his dropbacks but sacked once, and Lock turned 2 of 9 pressures into sacks.
+
+**Front seven.** The best run defense in the league (−0.35 EPA per rush), with a four-man rush that gets home: 11.0 pressures per game (9th). Leonard Williams has 3 sacks, 5 tackles for loss and 5 QB hits, Derick Hall has 2 sacks and 6 QB hits, and DeMarcus Lawrence has 7 pressures.
+
+**Secondary.** 10th against the pass, with ball skills in the backup roles. Julian Love has 2 interceptions and has allowed 3 catches for 30 yards on 8 targets, and Nehemiah Pritchett has an interception and a 29 passer rating allowed. Devon Witherspoon has allowed 67 yards on 15 targets and Josh Jobe has an interception.
+
+**Coverage.** The best coverage numbers in the league by PFR charting: a 67.5 passer rating allowed (1st; league 94.5), 4.9 yards per target (1st) and 4 interceptions (tied for the most). Opponents are 58 of 100 for 489 yards and 4 touchdowns. The safeties have been the standout, with a 38.5 rating on 26 targets (1st among safety groups) and 2 interceptions, both by Julian Love. Linebackers see 36% of the targets, the highest share in the league (league 26%), with Ernest Jones the most targeted defender (19 targets, 77.3 rating).
+
+**Special teams.** Jason Myers is 4 for 4 on field goals with a long of 57. Michael Dickson nets 43.1 yards per punt, and Rashid Shaheed averages 27.1 yards on kickoff returns.
+
+
+## San Francisco 49ers (SF)
+
+**Team efficiency.** The best team in football through three weeks. San Francisco is 3–0 with a +48 point differential and ranks 1st in offensive EPA per play (+0.36), 1st in success rate and 1st in passing EPA, and it has not allowed a sack. The defense is average (15th in EPA per play) and gave up 30 points to Arizona, but it hasn't needed to be more.
+
+**DVOA.** DVOA agrees and goes further: San Francisco is 1st overall at 68.7%, with the No. 1 offense (56.0%) and the No. 5 defense. Special teams rank 21st.
+
+**Personnel & fronts.** The most creative usage in the league. San Francisco has the most backs on the field per snap (1.5, with Kyle Juszczyk at fullback) and plays with two or more backs on 34% of snaps (league 21%), yet also goes empty on 16% (league 6%), where it averages +1.16 EPA per play. Pre-snap motion on 81% of dropbacks is 2nd most in the league. On defense, sending five or more (−0.13 EPA per dropback) has been better than four (+0.14).
+
+**Quarterbacks.** Brock Purdy leads the league in EPA per dropback (+0.66) with 9 touchdowns, 1 interception, a 133.1 passer rating and completions 7.5 points above expectation. He has not been sacked on 89 dropbacks. Blitzing him has backfired badly, at +1.37 EPA per dropback when opponents send extra rushers.
+
+**Running backs.** Christian McCaffrey is efficient rather than dominant: 4.7 yards per carry, slightly above Next Gen Stats' expectation, plus 13 catches for 104 yards. He has 5 of the team's 9 broken tackles (Pro Football Reference charting). Kaelon Black has taken 25 carries at 4.3 yards per carry but −0.09 EPA per carry.
+
+**Receivers & TE.** Production is spread across four targets. Mike Evans has been the most efficient (+1.40 EPA per target, 12 catches, 2 touchdowns) despite only 1.8 yards of separation, George Kittle has 174 yards and 3 touchdowns, and Deebo Samuel Sr. has 9 catches on short throws with 4.9 yards of separation, plus an 80-yard touchdown on a lateral after an Evans catch (that play also counts toward Evans' EPA; without it he is at +0.98 on his other 15 targets). McCaffrey has the most targets (17).
+
+**Offensive line.** The best pass protection in the league: pressure on 13% of dropbacks, the lowest rate, and no sacks. Colton McKivitz and Connor Colby have played every snap, and Trent Williams has played most of them. The 3.4 yards before contact per carry ranks 2nd, but Purdy's scrambles inflate it; the running backs alone average about 2.6.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, a measure that mostly reflects the QB) plus FTN's charting of each sack. There's nothing to assign: Purdy has been pressured 12 times and sacked none. Credit goes to both the line (the lowest pressure rate in the league) and Purdy for getting rid of the ball.
+
+**Front seven.** An average pass rush by volume (9.7 pressures per game, 12th) that hasn't finished often (5.4% sack rate, 22nd). Keion White has 2 sacks and 2 tackles for loss, Osa Odighizuwa leads with 6 pressures and 5 QB hits, and Nick Bosa has 4 pressures in part-time snaps. Fred Warner has 33 tackles and 2 forced fumbles. The run defense ranks 14th.
+
+**Secondary.** 18th against the pass, mostly because of the Arizona game. Deommodore Lenoir has allowed 81 yards on 18 targets, Renardo Green has an interception and a 76 passer rating allowed, and Marques Sigle has allowed 2 catches on 6 targets. Upton Stout is the most targeted weak spot, at 156 yards and a 118 rating.
+
+**Coverage.** Better in coverage than the EPA rank suggests. San Francisco has allowed a 90.6 passer rating (13th; league 94.5) and 6.3 yards per target (4th), but opponents complete 64% of charted throws (22nd) and the coverage has produced only 1 interception. Cornerbacks draw 55% of the targets, the highest share in the league (league 47%), at a 92.2 rating. Upton Stout (117.6) is the leak, while Lenoir and Green sit near 76. Linebackers allow 24 catches on 31 targets but only 5.5 yards per target.
+
+**Special teams.** The one below-average unit (21st in special teams DVOA). Eddy Pineiro is 3 of 4 on field goals with a long of 57 but has missed 2 of 13 extra points. Deebo Samuel Sr. averages 26.0 yards per kickoff return.
+
+
+## Tampa Bay Buccaneers (TB)
+
+**Team efficiency.** An 0–3 start driven entirely by the offense. Tampa Bay ranks 32nd in offensive EPA per play, 31st passing and 30th in success rate, and has allowed a sack on 10.7% of dropbacks, the worst rate in the league. The defense is 7th in EPA per play and 6th against the run, which is why all three losses were by seven points or fewer. Seven giveaways against two takeaways haven't helped.
+
+**DVOA.** DVOA is kinder than EPA, ranking Tampa Bay 21st overall with the 24th offense, 16th defense and 12th special teams. Both systems agree the offense is the problem.
+
+**Personnel & fronts.** The offense lives in three-receiver sets, with 2.7 wideouts per snap (3rd most) and few tight ends (26th). The defense is one of the most aggressive in the league, blitzing on 46% of dropbacks (3rd), and that has been its best weapon: −0.41 EPA per dropback when sending five or more, against +0.32 with four rushers. It also loads the box against the run (eight or more on 22% of runs, league 10%) and allows −0.41 EPA per carry when it does.
+
+**Quarterbacks.** Baker Mayfield is at −0.26 EPA per dropback, with completions right at expectation, 2 touchdowns, 2 interceptions and an 80.0 passer rating. The sacks are the story: 13 of them, and 45% of his pressures have become sacks, among the highest rates in the league (average 26%). Play action has not helped (−0.36 EPA per dropback against −0.22 without).
+
+**Running backs.** Bucky Irving is averaging 4.5 yards per carry but is slightly below Next Gen Stats' expectation (−0.18 yards per carry) with a 35% success rate. Tampa Bay has broken only 4 tackles in three games, 24th per game, and Irving has two on 53 touches (Pro Football Reference charting). He has also been a frequent but low-value receiver, 13 catches for 61 yards on 15 targets.
+
+**Receivers & TE.** Chris Godwin Jr. has been the most efficient target, catching 10 of 11 for 111 yards and +0.48 EPA per target with 2.0 yards after the catch above expectation. Emeka Egbuka leads with 20 targets and 28% of the air yards. Ted Hurst III runs the deepest routes (19.8-yard average depth of target) but has caught 6 of 13 with 1.9 yards of separation. FTN charted 5 drops, above the league average of about 3.5.
+
+**Offensive line.** The five starters (Wirfs, Goedeke, Barton, Mauch and Bredeson) have played every snap. Pressure allowed is below average (23rd) but not extreme, which suggests the 32nd-ranked sack rate is mostly about what happens after the pressure; see Who owns the sacks. The run game stalls inside: runs up the middle average 1.4 yards and runs behind right guard 2.3.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, a measure that mostly reflects the QB) plus FTN's charting of each sack. Here it points at the quarterback. Mayfield turns pressure into sacks at 45% (league 26%), FTN charged 5 of the 13 sacks to him, and 4 more came on extended plays outside the pocket. Only one came on a standard rush with no blitz.
+
+**Front seven.** A good run defense (6th in EPA per rush) and a pass rush that depends on the blitz. Tampa Bay generates 7.7 pressures per game (20th) and a 5.7% sack rate (21st). Linebacker David Walker has 2 sacks and 3 tackles for loss in 28 snaps. Alex Anzalone has struggled in coverage, allowing 12 catches for 188 yards and a 153 passer rating.
+
+**Secondary.** 13th against the pass. Zyon McCollum has 4 passes defensed and Benjamin Morrison has allowed a 78 passer rating on 17 targets. Tykee Smith has been the weak spot, allowing 154 yards, 2 touchdowns and a 129 rating on 14 targets.
+
+**Coverage.** A 99.4 passer rating allowed (22nd; league 94.5) and 7.9 yards per target (22nd). The middle of the field is the soft spot: linebackers have allowed a 104.9 rating, mostly Alex Anzalone (12 of 16 for 188 yards and 2 touchdowns), and safeties a 126.2 rating at 10.8 yards per target on 19 targets. The corners are close to league average, 95.8 on 52 targets (league 93.9).
+
+**Special teams.** Chase McLaughlin is 9 for 9 on field goals with a long of 59. Kenny Gainwell (26.0) and Kameron Johnson (30.6) give Tampa Bay a strong kickoff return pair. Riley Dixon nets 37.4 yards per punt, the soft spot.
+
+
+## Tennessee Titans (TEN)
+
+**Team efficiency.** Tennessee is 0–3 with the third-lowest scoring offense in the league at 12.3 points per game. It is also the most run-heavy team in the league, passing 14.8 points less often than expected (32nd in PROE). The defense has kept games close (19.7 points allowed per game, 10th), and the losses came by 13, 4 and 5 points.
+
+**DVOA.** DVOA is harsher than the scores. Tennessee is 29th overall, with the 22nd-ranked offense, the 24th-ranked defense and the 31st-ranked special teams.
+
+**Personnel & fronts.** The Titans play more three-receiver sets than almost anyone (2.72 receivers per snap, league 2.43) and fewer tight ends (1.25, league 1.43). Their two-back looks have worked better (+0.15 EPA per play on 18% of snaps) than one-back sets (−0.11). They also use motion less than most (42%, league 57%). On defense, sending five or more rushers has gone badly (+0.67 EPA per dropback on 20 plays), while the four-man rush has been break-even.
+
+**Quarterbacks.** Cam Ward is playing it safe: Next Gen Stats has him throwing into tight windows on 6.8% of attempts (league 14.6%), and his average throw lands 2.9 yards short of the sticks. The result is −0.10 EPA per dropback (25th of 31 qualifiers) with completions 1.8% below expectation, 2 touchdowns and 1 interception. Play action has been the better option (+0.03 EPA per dropback against −0.14).
+
+**Running backs.** Tony Pollard is running well individually: 38 carries at 4.6 yards per carry and 0.80 yards over Next Gen Stats' expectation, 8th of 43 qualifiers. That hasn't turned into EPA (−0.06 per carry) or big plays. Tennessee has 3 broken tackles in three games, tied for 28th per game (Pro Football Reference), and Pollard has two of them.
+
+**Receivers & TE.** Rookie Carnell Tate leads in targets (20, 25% share) and gets 43% of the air yards, but has produced −0.08 EPA per target. Wan'Dale Robinson has been more efficient on shorter work (13 of 18, +0.24 EPA per target). Elic Ayomanor has been the big-play option with 91 yards and a touchdown on 4 catches. Gunnar Helm gets the most separation (4.0 yards) but −0.25 EPA per target.
+
+**Offensive line.** Pass protection has held up: pressure on 21% of dropbacks (11th) and a 5.1% sack rate (10th). Four linemen have played every snap, with right guard split between Fernando Carmona and Jackson Slater. Runs to the left tackle side have struggled (14 carries at 2.6 yards, −0.34 EPA each), while runs behind right guard average 5.9 yards. Yards before contact (2.6 per carry, 11th) are better than average.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Here it points at the quarterback more than the line. Ward converts pressure to sacks at a slightly below-average rate (24% vs. 26%), but FTN charged 3 of his 5 sacks to him and charted the other 2 as extended plays. None came from a standard rush beating the line.
+
+**Front seven.** Jeffery Simmons is the pass rush: 6 pressures, 2 sacks and 5 QB hits. John Franklin-Myers adds 5 pressures. As a unit, 7.0 pressures per game ranks 25th and the sack rate is 16th, with the run defense also mid-pack (16th in EPA per rush).
+
+**Secondary.** 21st in pass defense EPA. Amani Hooker has been targeted 12 times for 147 yards and a touchdown, though he also has an interception. Marcus Harris has allowed a 59 passer rating with an interception, and Alontae Taylor has allowed 10 catches on 11 targets but for only 61 yards, plus a sack and 3 tackles for loss.
+
+**Coverage.** The Titans give up completions but not much else: opponents complete 72.5% of passes in coverage (30th), yet have only 2 touchdowns (tied for fewest) and a 92.5 passer rating (16th; league 94.5). Cornerbacks have allowed 29 catches on 35 targets (98.8 rating). Linebackers see more of the targets than usual (34%, league 26%) and have held them to 4.8 yards per target.
+
+**Special teams.** The coverage units are the issue. Tommy Townsend has punted 16 times at 48.0 gross but 38.5 net yards, a nearly 10-yard gap. Joey Slye is 3 of 4 on field goals with a long of 42. Chimere Dike returns both kicks (24.1 yards) and punts (7.0), but has lost two kickoff-return fumbles. DVOA ranks the unit 31st.
+
+
+## Washington Commanders (WAS)
+
+**Team efficiency.** Washington is 1–2 and has been outscored by 17, allowing 30.7 points per game (31st). The offense is middle of the pack (14th in EPA per play), while the defense is a split: 3rd against the run but 29th against the pass.
+
+**DVOA.** DVOA is harsher than EPA. Washington is 26th overall, with the 20th-ranked offense, 23rd-ranked defense and 26th-ranked special teams.
+
+**Personnel & fronts.** The offense lives in one-back sets (87% of snaps, league 74%) and rarely uses a fullback. The defense blitzes on 47% of dropbacks, among the highest rates in the league (league 31%). Neither approach has stopped passers: +0.28 EPA per dropback with four rushers and +0.11 with five or more.
+
+**Quarterbacks.** Jayden Daniels started the first two games and Marcus Mariota finished Week 2 and started Week 3. Both have been positive by EPA: Daniels at +0.20 per dropback with three touchdowns, Mariota at +0.09 with four, and neither has thrown an interception. Daniels holds the ball 3.25 seconds on average, third-longest among qualified passers. Play action has been a slight negative (−0.07 EPA per dropback).
+
+**Running backs.** Jacory Croskey-Merritt has the most carries (47) but is running 1.2 yards per carry below Next Gen Stats' expectation at 3.0 yards per carry, and he hasn't broken a tackle in 50 touches (Pro Football Reference charting). Rachaad White has been more productive on fewer carries: 4.5 yards per carry and four broken tackles. The blocking isn't the main problem, with 2.7 yards before contact per carry (10th).
+
+**Receivers & TE.** Stefon Diggs and Terry McLaurin have 22 targets each. Diggs has three touchdowns working shorter (8.9-yard depth of target); McLaurin takes a third of the air yards at 13.1 yards downfield, with two drops. Antonio Williams has made the most of a smaller role: 9 catches on 11 targets for 103 yards and +0.81 EPA per target.
+
+**Offensive line.** Pressure is a problem (26% of dropbacks, 28th), but the quarterbacks have avoided sacks, so the sack rate is just 2.6% (3rd). Josh Conerly, Chris Paul and Nick Allegretti have played every snap. Runs behind right guard, the second-most-used lane, average 2.1 yards and −0.26 EPA.
+
+**Who owns the sacks?.** No public stat measures this directly, because the time of each sack isn't released. The best free combination is pressure-to-sack rate (how often pressure becomes a sack, mostly a QB measure) plus FTN's charting of each sack. Only 3 of 30 pressures became sacks (10% vs. a 26% league rate), and FTN charged none of them to the quarterbacks. The line allows a lot of pressure; Daniels and Mariota are erasing most of it.
+
+**Front seven.** The pass rush creates plenty of pressure, 12.3 pressure credits per game (4th), but only five sacks (4.3%, 25th). Odafe Oweh (7 pressures, 4 QB hits) and K'Lavon Chaisson (6 pressures, 4 QB hits) lead, and Sonny Styles has a sack, an interception and a forced fumble from linebacker. Run defense is a real strength at 3rd in EPA per rush.
+
+**Secondary.** The weak spot of the team. Mike Sainristil has allowed 10 of 12 for 136 yards and four touchdowns, and safety Jeremy Reaves has allowed three touchdowns and 149 yards on 10 targets. Amik Robertson has been the steadiest corner with six passes defensed on 21 targets.
+
+**Coverage.** Washington has the worst coverage numbers in the league: a 122.7 passer rating allowed (32nd) and 11 touchdowns, the most. Safeties (151.7 rating, five touchdowns on 23 targets) and cornerbacks (127.3, six touchdowns, four of them against Mike Sainristil) are both far above the league averages. The linebackers are the exception at 69.6 on 34 targets, with interceptions from Sonny Styles and Kain Medrano.
+
+**Special teams.** 26th in special teams DVOA. Drew Stevens is 5 of 7 on field goals with a long of 57 but has missed two extra points. Tress Way has put just 3 of 14 punts inside the 20, and Jaylin Lane averages 23.9 yards per kickoff return.
