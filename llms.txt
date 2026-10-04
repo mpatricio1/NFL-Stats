@@ -1,6 +1,6 @@
 # NFL 2026 Stat Sheet
 
-> Advanced stats for all 32 NFL teams in the 2026 regular season, through Week 3 (data as of 2026-10-02): EPA and success rate, Next Gen Stats, FTN DVOA and charting, PFR pressure, coverage and broken tackles, snap-count personnel, special teams. The main page (https://mpatricio1.github.io/NFL-Stats/) draws its charts with JavaScript; the same data is published as plain files below.
+> Advanced stats for all 32 NFL teams in the 2026 regular season, through Week 3 (data as of 2026-10-02): EPA and success rate, Next Gen Stats, FTN DVOA and charting, PFR pressure, coverage, broken tackles and penalties, snap-count personnel, special teams. The main page (https://mpatricio1.github.io/NFL-Stats/) draws its charts with JavaScript; the same data is published as plain files below.
 
 ## Data
 - [Data index (no JavaScript)](https://mpatricio1.github.io/NFL-Stats/data/): all 32 teams' key numbers in one HTML table, plus links to every file

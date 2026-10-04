@@ -6,7 +6,7 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 ## Files
 
 - [data.json](data.json): The full dataset the page is drawn from (every file listed here, plus team colors and per-team detail)
-- [team_summary.csv](team_summary.csv): One row per team: record, points, EPA/play and success rate (offense, defense, pass, rush) with ranks, FTN DVOA, broken tackles, pressure, coverage allowed, FTN charting rates, average personnel on the field (32 rows)
+- [team_summary.csv](team_summary.csv): One row per team: record, points, EPA/play and success rate (offense, defense, pass, rush) with ranks, FTN DVOA, broken tackles, pressure, coverage allowed, FTN charting rates, average personnel on the field, accepted penalties (32 rows)
 - [dvoa.csv](dvoa.csv): FTN DVOA ratings through Week 3 (total, offense, defense, special teams, with ranks) (32 rows)
 - [team_efficiency.csv](team_efficiency.csv): Team EPA, success rate, points and ranks (also inside team_summary.csv) (32 rows)
 - [qbs.csv](qbs.csv): Quarterbacks: EPA per dropback, CPOE, success rate, sack rate, NGS time to throw and aggressiveness (q = meets NGS qualifier) (39 rows)
@@ -16,6 +16,7 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 - [broken_tackles_team.csv](broken_tackles_team.csv): Broken tackles by team (PFR, rushing + receiving), per game and rank (32 rows)
 - [broken_tackles_leaders.csv](broken_tackles_leaders.csv): Broken tackle leaders (PFR) (10 rows)
 - [personnel_avg_on_field.csv](personnel_avg_on_field.csv): Average players on the field per snap by position (from snap counts) (32 rows)
+- [penalties_team.csv](penalties_team.csv): Accepted penalties by team: count and yards, split offense/defense/special teams, first downs given by defensive fouls; per game and rank (1 = fewest) (32 rows)
 - [ftn_offense.csv](ftn_offense.csv): FTN charting rates, offense: play action, motion, interceptable throws, drops, blitzes faced, out of pocket, screens (32 rows)
 - [ftn_defense.csv](ftn_defense.csv): FTN charting rates, defense (same columns, as faced/allowed) (32 rows)
 - [team_games.csv](team_games.csv): Game log: opponent, score, EPA, success rate, yards, turnovers (all 32 teams, team column) (96 rows)
@@ -35,6 +36,9 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 - [team_box_off.csv](team_box_off.csv): Designed runs by defenders in the box (FTN), with league comparison (all 32 teams, team column) (96 rows)
 - [team_box_def.csv](team_box_def.csv): Run defense by box count (FTN), with league comparison (all 32 teams, team column) (96 rows)
 - [team_rush_def.csv](team_rush_def.csv): Pass defense by number of pass rushers (FTN), with league comparison (all 32 teams, team column) (96 rows)
+- [team_penalty_players.csv](team_penalty_players.csv): Accepted penalties by player and page section (QB, RB, WR incl. TE, OL, FRONT, DB; ST = any flag on a kick or punt) (all 32 teams, team column) (465 rows)
+- [team_penalties_by_group.csv](team_penalties_by_group.csv): Accepted penalties by page section: flags, yards and per-game rank among 32 teams, 1 = fewest (TEAM = no player named) (all 32 teams, team column) (288 rows)
+- [penalties.csv](penalties.csv): Every accepted foul: game, week, team, phase (off/def/st), type, yards, player, roster position, page section (692 rows)
 - [team_coverage_by_group.csv](team_coverage_by_group.csv): Coverage allowed by position group (CB, S, LB, Edge/DL), PFR (all 32 teams, team column) (126 rows)
 - [commentary.csv](commentary.csv): Hand-written team write-ups, one row per team and section (384 rows)
 - [commentary.md](commentary.md): The same write-ups as one readable Markdown file (384 rows)
@@ -55,3 +59,4 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 - `cov_allowed_*`: passing allowed in coverage, per PFR charting (can exceed actual passing yards).
 - `ftn_off_*`, `ftn_def_*`: FTN charting rates (share of dropbacks or plays) and counts.
 - `avg_on_field_*`: average number of players at each position per snap.
+- `penalties_*`: accepted penalties committed by the team (nflverse play-by-play; declined and offsetting fouls excluded). `n`, `yds`, `off_n`, `def_n`, `st_n` (flags on kicks and punts), `fd` (first downs given by defensive fouls), each with `_pg` per game and `_rk`, where 1 is fewest.
