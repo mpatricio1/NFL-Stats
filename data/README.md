@@ -6,7 +6,7 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 ## Files
 
 - [data.json](data.json): The full dataset the page is drawn from (every file listed here, plus team colors and per-team detail)
-- [team_summary.csv](team_summary.csv): One row per team: record, points, EPA/play and success rate (offense, defense, pass, rush) with ranks, FTN DVOA, broken tackles, pressure, coverage allowed, FTN charting rates, average personnel on the field, accepted penalties (32 rows)
+- [team_summary.csv](team_summary.csv): One row per team: record, points, EPA/play and success rate (offense, defense, pass, rush) with ranks, FTN DVOA, broken tackles, pressure, coverage allowed, FTN charting rates, average personnel on the field, accepted penalties, presnap motion (32 rows)
 - [dvoa.csv](dvoa.csv): FTN DVOA ratings through Week 3 (total, offense, defense, special teams, with ranks) (32 rows)
 - [team_efficiency.csv](team_efficiency.csv): Team EPA, success rate, points and ranks (also inside team_summary.csv) (32 rows)
 - [qbs.csv](qbs.csv): Quarterbacks: EPA per dropback, CPOE, success rate, sack rate, NGS time to throw and aggressiveness (q = meets NGS qualifier) (39 rows)
@@ -16,6 +16,7 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 - [broken_tackles_team.csv](broken_tackles_team.csv): Broken tackles by team (PFR, rushing + receiving), per game and rank (32 rows)
 - [broken_tackles_leaders.csv](broken_tackles_leaders.csv): Broken tackle leaders (PFR) (10 rows)
 - [personnel_avg_on_field.csv](personnel_avg_on_field.csv): Average players on the field per snap by position (from snap counts) (32 rows)
+- [motion_team.csv](motion_team.csv): Presnap motion by team (FTN is_motion + pbp EPA): motion rate and EPA/play, yards/play, success rate with (_m) and without (_n) motion, all plays / pass_ / run_, offense (o_) and defense faced (d_), with ranks (32 rows)
 - [penalties_team.csv](penalties_team.csv): Accepted penalties by team: count and yards, split offense/defense/special teams, first downs given by defensive fouls; per game and rank (1 = fewest) (32 rows)
 - [ftn_offense.csv](ftn_offense.csv): FTN charting rates, offense: play action, motion, interceptable throws, drops, blitzes faced, out of pocket, screens (32 rows)
 - [ftn_defense.csv](ftn_defense.csv): FTN charting rates, defense (same columns, as faced/allowed) (32 rows)
@@ -60,3 +61,4 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 - `ftn_off_*`, `ftn_def_*`: FTN charting rates (share of dropbacks or plays) and counts.
 - `avg_on_field_*`: average number of players at each position per snap.
 - `penalties_*`: accepted penalties committed by the team (nflverse play-by-play; declined and offsetting fouls excluded). `n`, `yds`, `off_n`, `def_n`, `st_n` (flags on kicks and punts), `fd` (first downs given by defensive fouls), each with `_pg` per game and `_rk`, where 1 is fewest.
+- `motion_*`: presnap motion (FTN charting, every pass and run play). `o_` offense, `d_` defense faced; `pass_` / `run_` split by dropbacks and designed runs. `rate` = share of plays with motion (`_rk` 1 = most). `epa_m` / `epa_n`, `ypp_m` / `ypp_n`, `sr_m` / `sr_n` = EPA per play, yards per play and success rate with and without motion; `gain` = `epa_m` minus `epa_n`. `n` plays, `n_m` plays with motion. EPA ranks: 1 is best.
