@@ -1,16 +1,21 @@
 team,section,player,gsis_id,jersey,pos,flags,yards,fouls,weeks
 ARI,OL,Paris Johnson Jr.,00-0038540,70,OL,3,30,Face Mask x1; False Start x1; Offensive Holding x1,1 3
+ARI,FRONT,Josh Sweat,00-0034381,10,LB,3,16,Encroachment x1; Roughing the Passer x1; Defensive Offside x1,2 3 4
 ARI,DB,Denzel Burke,00-0040195,29,CB,2,40,Defensive Pass Interference x2,1 2
-ARI,FRONT,Josh Sweat,00-0034381,10,LB,2,11,Encroachment x1; Roughing the Passer x1,2 3
 ARI,OL,Elijah Wilkinson,00-0033676,65,OL,2,10,False Start x2,1 3
 ARI,DB,Max Melton,00-0039807,16,CB,1,48,Defensive Pass Interference x1,1
+ARI,FRONT,L.J. Collier,00-0035636,91,DL,1,15,Face Mask x1,4
 ARI,ST,Simi Fehoko,00-0036646,80,WR,1,15,Face Mask x1,3
 ARI,ST,Darius Robinson,00-0039854,56,DL,1,15,Unnecessary Roughness x1,3
 ARI,ST,Karson Sharar,00-0041093,43,LB,1,15,Unnecessary Roughness x1,2
+ARI,OL,Isaac Seumalo,00-0032954,73,OL,1,10,Offensive Holding x1,4
 ARI,OL,Hjalte Froholdt,00-0035258,72,OL,1,10,Offensive Holding x1,1
 ARI,WR,Trey McBride,00-0037744,85,TE,1,10,Offensive Pass Interference x1,3
 ARI,WR,Elijah Higgins,00-0039041,84,TE,1,10,Offensive Holding x1,3
+ARI,DB,Wydett Williams Jr.,00-0041370,31,S,1,10,Illegal Block Above the Waist x1,4
+ARI,FRONT,Zaven Collins,00-0036933,25,LB,1,5,Defensive Holding x1,4
 ARI,FRONT,Jack Gibbens,00-0037596,50,LB,1,5,Defensive Pass Interference x1,3
+ARI,ST,Dante Stills,00-0038623,55,DL,1,5,Defensive Holding x1,4
 ARI,OL,Isaiah Adams,00-0039808,74,OL,1,5,False Start x1,3
 ARI,WR,Hunter Long,00-0037004,89,TE,1,4,False Start x1,1
 ARI,DB,Kei'Trel Clark,00-0038984,13,CB,1,4,Unnecessary Roughness x1,2
@@ -19,7 +24,10 @@ ARI,ST,Chad Ryland,00-0038567,38,K/P/LS,1,0,Kickoff Out of Bounds x1,1
 ATL,DB,A.J. Terrell,00-0036285,24,CB,2,42,Defensive Holding x1; Defensive Pass Interference x1,1
 ATL,ST,Josh Woods,00-0034801,42,LB,2,20,Offensive Holding x2,1 3
 ATL,OL,Jake Matthews,00-0031279,70,OL,2,16,Offensive Holding x1; Face Mask x1,1 2
+ATL,FRONT,Maason Smith,00-0039889,92,DL,2,10,Encroachment x1; Neutral Zone Infraction x1,4
 ATL,DB,Mike Hughes,00-0034843,21,CB,1,34,Defensive Pass Interference x1,3
+ATL,DB,Avieon Terrell,00-0041469,12,CB,1,25,Defensive Pass Interference x1,4
+ATL,ST,Billy Bowman Jr.,00-0040156,33,CB,1,15,Unnecessary Roughness x1,4
 ATL,FRONT,Harold Perkins Jr.,00-0041112,56,LB,1,15,Unnecessary Roughness x1,3
 ATL,OL,Jawaan Taylor,00-0035237,71,OL,1,10,Offensive Holding x1,3
 ATL,OL,Chris Lindstrom,00-0035630,63,OL,1,10,Offensive Holding x1,1
@@ -28,59 +36,75 @@ ATL,OL,Michael Jerrell,00-0039842,72,OL,1,10,Offensive Holding x1,2
 ATL,QB,Michael Penix Jr.,00-0039917,9,QB,1,10,Intentional Grounding x1,3
 ATL,ST,Kendal Daniels,00-0041066,53,LB,1,10,Offensive Holding x1,2
 ATL,ST,Sydney Brown,00-0039002,29,S,1,9,Illegal Block Above the Waist x1,1
+ATL,DB,Sydney Brown,00-0039002,29,S,1,8,Defensive Pass Interference x1,4
 ATL,WR,Kyle Pitts,00-0036970,8,TE,1,5,False Start x1,2
+ATL,FRONT,Brandon Dorlus,00-0039859,54,DL,1,5,Neutral Zone Infraction x1,4
 ATL,ST,Harold Perkins Jr.,00-0041112,56,LB,1,5,Illegal Formation x1,2
 ATL,OL,Ryan Neuzil,00-0036833,64,OL,1,4,Offensive Holding x1,3
 ATL,FRONT,Gervon Dexter Sr.,00-0039070,95,DL,1,3,Roughing the Passer x1,2
+ATL,DB,Billy Bowman Jr.,00-0040156,33,CB,1,2,Defensive Pass Interference x1,4
 ATL,ST,Jake Bailey,00-0035280,16,K/P/LS,1,0,Kickoff Short of Landing Zone x1,1
 BAL,OL,Jovaughn Gwyn,00-0038629,54,OL,3,20,Ineligible Downfield Pass x2; Offensive Holding x1,1 3
 BAL,OL,John Simpson,00-0036369,74,OL,3,15,False Start x3,3
+BAL,FRONT,Trenton Simpson,00-0038504,32,LB,2,28,Face Mask x1; Horse Collar Tackle x1,3 4
+BAL,DB,Kyle Hamilton,00-0038038,14,S,2,26,Unnecessary Roughness x1; Defensive Pass Interference x1,4
+BAL,DB,Nate Wiggins,00-0039232,2,CB,2,25,Defensive Pass Interference x1; Illegal Contact x1,3 4
 BAL,OL,Ronnie Stanley,00-0032965,79,OL,2,20,Chop Block x1; False Start x1,1
 BAL,OL,Olaivavega Ioane,00-0040866,71,OL,2,20,Offensive Holding x2,1
 BAL,WR,Chris Moore,00-0032398,17,WR,2,15,Offensive Holding x1; False Start x1,2
-BAL,DB,Nate Wiggins,00-0039232,2,CB,1,20,Defensive Pass Interference x1,3
+BAL,WR,Mark Andrews,00-0034753,89,TE,2,10,False Start x2,1 4
+BAL,FRONT,Tavius Robinson,00-0038505,95,LB,2,10,Defensive Offside x1; Illegal Use of Hands x1,2 4
+BAL,OL,Roger Rosengarten,00-0039233,70,OL,2,6,Ineligible Downfield Pass x1; False Start x1,2 4
+BAL,DB,Chidobe Awuzie,00-0033548,3,CB,1,39,Defensive Pass Interference x1,4
 BAL,FRONT,Nnamdi Madubuike,00-0036130,92,DL,1,15,Roughing the Passer x1,3
-BAL,FRONT,Trenton Simpson,00-0038504,32,LB,1,13,Face Mask x1,3
 BAL,DB,Malaki Starks,00-0040688,24,S,1,11,Defensive Pass Interference x1,1
+BAL,WR,Devontez Walker,00-0039792,81,WR,1,10,Offensive Holding x1,4
+BAL,WR,Elijah Sarratt,00-0040876,13,WR,1,10,Offensive Holding x1,4
 BAL,ST,Ethan Burke,00-0040978,97,LB,1,10,Illegal Block Above the Waist x1,1
-BAL,WR,Mark Andrews,00-0034753,89,TE,1,5,False Start x1,1
 BAL,RB,Justice Hill,00-0034975,43,RB,1,5,False Start x1,1
-BAL,FRONT,Tavius Robinson,00-0038505,95,LB,1,5,Defensive Offside x1,2
-BAL,OL,Roger Rosengarten,00-0039233,70,OL,1,5,Ineligible Downfield Pass x1,2
+BAL,WR,Zay Flowers,00-0039064,4,WR,1,5,False Start x1,4
 BAL,OL,Carson Vinson,00-0040070,76,OL,1,5,Illegal Formation x1,3
 BAL,WR,LaJohntay Wester,00-0040075,10,WR,1,5,Illegal Shift x1,2
+BAL,ST,Keondre Jackson,00-0040104,39,S,1,5,False Start x1,4
 BAL,FRONT,Trey Hendrickson,00-0033935,91,LB,1,3,Roughing the Passer x1,2
 BAL,DB,Jaylinn Hawkins,00-0036302,21,S,1,1,Defensive Holding x1,2
+BUF,ST,Sam Franklin Jr.,00-0036037,28,S,3,39,Illegal Blindside Block x1; Offensive Holding x1; Face Mask x1,1 2 4
 BUF,DB,Christian Benford,00-0037288,47,CB,3,32,Defensive Pass Interference x2; Defensive Holding x1,1 2 3
 BUF,OL,Alec Anderson,00-0037428,70,OL,3,30,Offensive Holding x3,1 3
-BUF,ST,Sam Franklin Jr.,00-0036037,28,S,2,24,Illegal Blindside Block x1; Offensive Holding x1,1 2
+BUF,OL,Dion Dawkins,00-0033904,73,OL,3,25,False Start x1; Offensive Holding x1; Illegal Use of Hands x1,3 4
 BUF,WR,Dawson Knox,00-0035689,88,TE,2,20,Offensive Holding x2,2 3
-BUF,OL,Dion Dawkins,00-0033904,73,OL,2,15,False Start x1; Offensive Holding x1,3
 BUF,DB,Davison Igbinosun,00-0041391,21,CB,2,10,Defensive Holding x2,1 2
 BUF,FRONT,Bradley Chubb,00-0034832,9,LB,1,15,Roughing the Passer x1,3
 BUF,FRONT,Greg Rousseau,00-0036914,15,LB,1,15,Roughing the Passer x1,3
 BUF,FRONT,Landon Jackson,00-0040132,94,DL,1,13,Tripping x1,2
 BUF,ST,Joe Andreessen,00-0039763,44,LB,1,10,Offensive Holding x1,1
 BUF,DB,C.J. Gardner-Johnson,00-0035253,22,S,1,5,Defensive Offside x1,3
+BUF,OL,Connor McGovern,00-0035679,66,OL,1,5,Offensive Offside x1,4
 BUF,DB,Damar Hamlin,00-0036888,3,S,1,5,Defensive Holding x1,1
 BUF,OL,Spencer Brown,00-0036976,79,OL,1,5,False Start x1,3
 BUF,DB,Dee Alford,00-0037034,23,CB,1,5,Defensive Holding x1,1
 BUF,OL,O'Cyrus Torrence,00-0038548,64,OL,1,5,Ineligible Downfield Pass x1,1
 BUF,FRONT,Deone Walker,00-0040710,96,DL,1,5,Defensive Holding x1,1
-CAR,OL,Robert Hunt,00-0036325,50,OL,4,30,False Start x2; Offensive Holding x1; Illegal Use of Hands x1,1 2
+BUF,DB,Maxwell Hairston,00-0040709,1,CB,1,1,Defensive Holding x1,4
+BUF,ST,Tyler Bass,00-0036162,16,K/P/LS,1,0,Kickoff Short of Landing Zone x1,4
+CAR,OL,Robert Hunt,00-0036325,50,OL,5,35,False Start x2; Offensive Holding x1; Illegal Use of Hands x1; Ineligible Downfield Pass x1,1 2 4
 CAR,OL,Rasheed Walker,00-0037196,63,OL,3,15,False Start x3,1 2 3
+CAR,FRONT,Trevis Gipson,00-0036305,52,LB,2,20,Neutral Zone Infraction x1; Roughing the Passer x1,1 4
 CAR,WR,Tommy Tremble,00-0037005,82,TE,2,19,Offensive Holding x2,2
+CAR,OL,Luke Fortner,00-0037814,77,OL,2,15,Offensive Holding x1; False Start x1,2 4
 CAR,OL,Monroe Freeling,00-0041034,57,OL,2,11,False Start x2,1 3
 CAR,FRONT,Derrick Brown,00-0036220,95,DL,2,10,Roughing the Passer x1; Defensive Offside x1,1
 CAR,DB,Mike Jackson,00-0035277,2,CB,1,17,Defensive Pass Interference x1,3
 CAR,FRONT,Bobby Okereke,00-0035687,58,LB,1,15,Roughing the Passer x1,3
 CAR,ST,Mitchell Evans,00-0040187,84,TE,1,15,Unnecessary Roughness x1,1
 CAR,ST,Isaiah Simmons,00-0036356,27,S,1,10,Offensive Holding x1,1
-CAR,OL,Luke Fortner,00-0037814,77,OL,1,10,Offensive Holding x1,2
+CAR,ST,Feleipe Franks,00-0036825,81,TE,1,10,Offensive Holding x1,4
+CAR,ST,Robert Rochell,00-0036904,38,CB,1,10,Offensive Holding x1,4
 CAR,QB,Bryce Young,00-0039150,9,QB,1,10,Intentional Grounding x1,3
 CAR,WR,Jalen Coker,00-0039491,18,WR,1,10,Offensive Pass Interference x1,1
 CAR,WR,Darren Waller,00-0031610,88,TE,1,9,Offensive Pass Interference x1,1
-CAR,FRONT,Trevis Gipson,00-0036305,52,LB,1,5,Neutral Zone Infraction x1,1
+CAR,OL,Stone Forsythe,00-0036653,73,OL,1,5,Illegal Formation x1,4
+CAR,DB,Akayleb Evans,00-0038101,29,CB,1,5,Defensive Pass Interference x1,4
 CAR,ST,Thomas Incoom,00-0038791,48,LB,1,5,Illegal Formation x1,3
 CAR,DB,Will Lee III,00-0041063,24,CB,1,5,Defensive Holding x1,3
 CHI,OL,Garrett Bradbury,00-0035588,67,OL,4,29,Offensive Holding x2; False Start x2,1 2
@@ -91,69 +115,89 @@ CHI,DB,Cam Lewis,00-0035357,21,S,1,21,Defensive Pass Interference x1,3
 CHI,ST,Jonah Jackson,00-0036258,73,OL,1,15,Unnecessary Roughness x1,3
 CHI,QB,Caleb Williams,00-0039918,18,QB,1,13,Intentional Grounding x1,2
 CHI,OL,Braxton Jones,00-0037081,70,OL,1,10,Offensive Holding x1,2
+CHI,OL,Theo Benedet,00-0039459,79,OL,1,10,Offensive Holding x1,4
 CHI,WR,Colston Loveland,00-0040126,84,TE,1,10,Offensive Holding x1,1
 CHI,ST,Skyler Thomas,00-0041175,38,S,1,10,Illegal Block Above the Waist x1,1
+CHI,ST,Sam Roush,00-0041558,87,TE,1,8,Offensive Holding x1,4
+CHI,ST,Elijah Hicks,00-0037096,22,S,1,6,Illegal Block Above the Waist x1,4
 CHI,RB,D'Andre Swift,00-0036275,4,RB,1,5,False Start x1,3
+CHI,WR,Cole Kmet,00-0036290,85,TE,1,5,False Start x1,4
 CHI,FRONT,James Lynch,00-0036337,97,DL,1,5,Defensive Offside x1,1
 CHI,DB,Tyrique Stevenson,00-0039071,29,CB,1,5,Defensive Holding x1,2
 CHI,WR,Sam Roush,00-0041558,87,TE,1,5,Illegal Shift x1,2
 CHI,FRONT,Montez Sweat,00-0035647,98,DL,1,0,Defensive Offside x1,1
+CIN,OL,Dylan Fairchild,00-0040140,63,OL,4,40,Offensive Holding x3; Illegal Use of Hands x1,2 4
 CIN,DB,Tacario Davis,00-0041464,20,CB,3,22,Defensive Pass Interference x1; Illegal Contact x1; Defensive Holding x1,1 2 3
+CIN,OL,Orlando Brown,00-0034752,75,OL,3,20,False Start x2; Offensive Holding x1,2 4
+CIN,DB,DJ Turner II,00-0038549,0,CB,2,32,Face Mask x1; Defensive Pass Interference x1,2 4
 CIN,ST,Cedric Johnson,00-0039752,52,DL,2,25,Offensive Holding x1; Roughing the Kicker x1,2 3
 CIN,OL,Ted Karras,00-0032445,64,OL,2,10,False Start x2,2 3
 CIN,FRONT,Jonathan Allen,00-0033523,93,DL,2,10,Defensive Offside x2,1
-CIN,OL,Orlando Brown,00-0034752,75,OL,2,10,False Start x2,2
 CIN,OL,Amarius Mims,00-0039925,71,OL,2,10,Illegal Formation x1; False Start x1,3
-CIN,DB,DJ Turner II,00-0038549,0,CB,1,13,Face Mask x1,2
+CIN,FRONT,Myles Murphy,00-0038546,99,DL,2,9,Neutral Zone Infraction x1; Face Mask x1,2 4
+CIN,FRONT,Boye Mafe,00-0038133,53,DL,1,15,Face Mask x1,4
 CIN,ST,Kyle Dugger,00-0036231,29,S,1,10,Illegal Block Above the Waist x1,1
-CIN,OL,Dylan Fairchild,00-0040140,63,OL,1,10,Offensive Holding x1,2
+CIN,ST,D.J. Ivey,00-0038642,38,CB,1,10,Offensive Holding x1,4
+CIN,ST,PJ Jules,00-0039632,37,S,1,10,Offensive Holding x1,4
 CIN,FRONT,B.J. Hill,00-0034800,92,DL,1,5,Defensive Offside x1,1
 CIN,ST,Dalton Risner,00-0035702,66,OL,1,5,False Start x1,2
 CIN,FRONT,Tedarrell Slaton,00-0036642,98,DL,1,5,Defensive Offside x1,1
 CIN,WR,Ja'Marr Chase,00-0036900,1,WR,1,5,False Start x1,2
 CIN,DB,Daxton Hill,00-0037743,23,CB,1,5,Defensive Holding x1,2
-CIN,FRONT,Myles Murphy,00-0038546,99,DL,1,5,Neutral Zone Infraction x1,2
 CIN,FRONT,Barrett Carter,00-0040157,49,LB,1,5,Defensive Holding x1,2
 CIN,WR,Dohnte Meyers,00-0040785,81,WR,1,5,False Start x1,3
 CLE,OL,Tytus Howard,00-0035234,71,OL,5,25,False Start x5,1 2 3
-CLE,OL,Zion Johnson,00-0037818,77,OL,2,20,Offensive Holding x2,1
+CLE,OL,Zion Johnson,00-0037818,77,OL,3,25,Offensive Holding x2; False Start x1,1 4
+CLE,FRONT,Sam Williams,00-0037665,54,DL,3,18,Neutral Zone Infraction x1; Roughing the Passer x1; Illegal Use of Hands x1,1 3 4
+CLE,FRONT,Jared Verse,00-0039852,8,DL,3,11,Neutral Zone Infraction x1; Encroachment x1; Defensive Offside x1,1 4
+CLE,FRONT,Maliek Collins,00-0033131,96,DL,2,20,Encroachment x1; Roughing the Passer x1,2 4
+CLE,ST,Winston Reid,00-0039515,59,LB,2,20,Offensive Holding x2,4
+CLE,FRONT,Mike Hall Jr.,00-0039895,51,DL,2,20,Roughing the Passer x1; Neutral Zone Infraction x1,3 4
 CLE,WR,Blake Whiteheart,00-0038710,86,TE,2,15,False Start x1; Offensive Holding x1,1 2
 CLE,OL,Austin Barber,00-0041049,58,OL,2,15,Offensive Holding x1; False Start x1,2 3
-CLE,FRONT,Sam Williams,00-0037665,54,DL,2,13,Neutral Zone Infraction x1; Roughing the Passer x1,1 3
+CLE,DB,Denzel Ward,00-0034856,21,CB,2,10,Defensive Holding x1; Illegal Contact x1,2 4
 CLE,ST,Sam Williams,00-0037665,54,DL,1,15,Face Mask x1,2
-CLE,FRONT,Mike Hall Jr.,00-0039895,51,DL,1,15,Roughing the Passer x1,3
 CLE,ST,Nathaniel Watson,00-0039406,40,LB,1,10,Offensive Holding x1,1
 CLE,OL,Spencer Fano,00-0041030,55,OL,1,10,Offensive Holding x1,3
 CLE,ST,Carsen Ryan,00-0041131,48,TE,1,10,Offensive Holding x1,3
 CLE,ST,Emmanuel McNeil-Warren,00-0041471,28,S,1,10,Offensive Holding x1,1
 CLE,ST,Toriano Pride Jr.,00-0041115,35,CB,1,8,Illegal Block Above the Waist x1,3
-CLE,FRONT,Maliek Collins,00-0033131,96,DL,1,5,Encroachment x1,2
-CLE,DB,Denzel Ward,00-0034856,21,CB,1,5,Defensive Holding x1,2
-CLE,FRONT,Jared Verse,00-0039852,8,DL,1,5,Neutral Zone Infraction x1,1
+CLE,DB,Emmanuel McNeil-Warren,00-0041471,28,S,1,8,Defensive Pass Interference x1,4
+CLE,OL,Luke Wypler,00-0038609,56,OL,1,5,False Start x1,4
+CLE,DB,Myles Harden,00-0039417,26,CB,1,5,Defensive Holding x1,4
 CLE,WR,Malachi Corley,00-0039920,11,WR,1,5,Illegal Shift x1,3
 CLE,FRONT,Mason Graham,00-0040685,94,DL,1,5,Neutral Zone Infraction x1,1
+CLE,WR,KC Concepcion,00-0041547,1,WR,1,5,False Start x1,4
 CLE,DB,Mekhi Blackmon,00-0038565,29,CB,1,4,Defensive Holding x1,3
+CLE,ST,Myles Harden,00-0039417,26,CB,1,4,Offensive Holding x1,4
 DAL,ST,Brandon Aubrey,00-0037692,17,K/P/LS,3,0,Kickoff Out of Bounds x2; Kickoff Short of Landing Zone x1,2 3
 DAL,DB,Markquese Bell,00-0037561,14,S,2,54,Defensive Pass Interference x2,3
 DAL,DB,DaRon Bland,00-0037275,26,CB,2,24,Defensive Holding x1; Defensive Pass Interference x1,2 3
 DAL,OL,Terence Steele,00-0036036,78,OL,2,20,Illegal Use of Hands x1; Offensive Holding x1,1 3
+DAL,FRONT,Donovan Ezeiruaku,00-0040725,6,LB,2,20,Face Mask x1; Neutral Zone Infraction x1,1 4
 DAL,WR,Luke Schoonmaker,00-0038547,86,TE,2,15,Offensive Holding x1; False Start x1,1 3
 DAL,RB,Javonte Williams,00-0036997,33,RB,1,15,Taunting x1,1
 DAL,FRONT,DeMarvion Overshown,00-0038556,0,LB,1,15,Unnecessary Roughness x1,1
-DAL,FRONT,Donovan Ezeiruaku,00-0040725,6,LB,1,15,Face Mask x1,1
+DAL,QB,Dak Prescott,00-0033077,4,QB,1,14,Intentional Grounding x1,4
 DAL,ST,Jonathan Mingo,00-0039062,18,WR,1,11,Low Block x1,1
 DAL,ST,Curtis Robinson,00-0036728,42,LB,1,10,Offensive Holding x1,2
 DAL,WR,George Pickens,00-0037247,3,WR,1,10,Offensive Holding x1,2
+DAL,OL,TJ Bass,00-0038731,66,OL,1,10,Offensive Holding x1,4
+DAL,DB,Reddy Steward,00-0039465,27,CB,1,8,Unnecessary Roughness x1,4
 DAL,DB,Jalen Thompson,00-0035705,34,S,1,7,Lowering the Head to Make Forcible Contact x1,2
 DAL,FRONT,Quinnen Williams,00-0035718,92,DL,1,5,Defensive Offside x1,1
+DAL,OL,Tyler Guyton,00-0039341,60,OL,1,5,False Start x1,4
 DAL,FRONT,Jaishawn Barham,00-0040872,55,LB,1,5,Neutral Zone Infraction x1,1
+DAL,FRONT,Malachi Lawrence,00-0041537,57,LB,1,5,Defensive Offside x1,4
+DEN,OL,Garett Bolles,00-0033538,72,OL,4,24,False Start x2; Illegal Formation x1; Offensive Holding x1,3 4
 DEN,WR,Pat Bryant,00-0040134,13,WR,3,30,Offensive Holding x3,1 2
 DEN,DB,Riley Moss,00-0038552,21,CB,2,18,Illegal Contact x1; Defensive Pass Interference x1,2 3
-DEN,OL,Garett Bolles,00-0033538,72,OL,2,15,Illegal Formation x1; Offensive Holding x1,3
+DEN,OL,Mike McGlinchey,00-0034847,69,OL,2,15,Illegal Formation x1; Offensive Holding x1,2 4
 DEN,FRONT,Alex Singleton,00-0031898,49,LB,2,5,Unnecessary Roughness x2,1 2
 DEN,ST,Tycen Anderson,00-0037752,6,S,1,10,Offensive Holding x1,1
 DEN,WR,Troy Franklin,00-0039868,11,WR,1,10,Offensive Pass Interference x1,1
-DEN,OL,Mike McGlinchey,00-0034847,69,OL,1,5,Illegal Formation x1,2
+DEN,ST,Jordan Turner,00-0040634,55,LB,1,10,Illegal Block Above the Waist x1,4
+DEN,FRONT,Zach Allen,00-0035248,99,DL,1,5,Defensive Holding x1,4
 DEN,DB,Talanoa Hufanga,00-0036564,9,S,1,5,Defensive Delay of Game x1,2
 DEN,WR,Jaylen Waddle,00-0036613,17,WR,1,5,False Start x1,2
 DEN,DB,Pat Surtain II,00-0036874,2,CB,1,5,Illegal Contact x1,2
@@ -161,84 +205,105 @@ DEN,ST,Mitchell Fraboni,00-0036943,48,K/P/LS,1,5,False Start x1,3
 DEN,FRONT,Nik Bonitto,00-0037249,15,LB,1,5,Defensive Offside x1,2
 DEN,OL,Luke Wattenberg,00-0037278,60,OL,1,5,False Start x1,3
 DEN,ST,JL Skinner,00-0038605,34,S,1,5,Neutral Zone Infraction x1,2
+DEN,WR,Marvin Mims Jr.,00-0038976,19,WR,1,5,Illegal Motion x1,4
 DET,DB,Rock Ya-Sin,00-0035637,23,CB,3,31,Illegal Contact x1; Defensive Pass Interference x1; Defensive Offside x1,1 2
 DET,OL,Larry Borom,00-0036905,79,OL,3,20,False Start x2; Offensive Holding x1,2
+DET,OL,Blake Miller,00-0041439,76,OL,3,15,False Start x3,3 4
+DET,DB,Roger McCreary,00-0038125,21,CB,2,22,Defensive Holding x1; Defensive Pass Interference x1,2 4
 DET,DB,D.J. Reed,00-0034384,4,CB,2,21,Defensive Holding x1; Defensive Pass Interference x1,2 3
+DET,WR,Brock Wright,00-0036754,89,TE,2,20,False Start x1; Unnecessary Roughness x1,4
 DET,OL,Penei Sewell,00-0036880,58,OL,2,15,False Start x1; Offensive Holding x1,1 3
+DET,OL,Tate Ratledge,00-0040728,69,OL,2,15,Offensive Holding x1; False Start x1,1 4
+DET,OL,Juice Scruggs,00-0038936,70,OL,2,9,False Start x1; Offensive Holding x1,2 4
 DET,FRONT,Tyler Lacy,00-0038940,93,DL,1,15,Face Mask x1,2
 DET,OL,Ben Bartch,00-0036272,78,OL,1,10,Offensive Holding x1,1
 DET,ST,Trevor Nowaske,00-0038660,53,LB,1,10,Offensive Holding x1,3
-DET,OL,Tate Ratledge,00-0040728,69,OL,1,10,Offensive Holding x1,1
-DET,DB,Roger McCreary,00-0038125,21,CB,1,5,Defensive Holding x1,2
-DET,OL,Blake Miller,00-0041439,76,OL,1,5,False Start x1,3
 DET,DB,Keith Abney II,00-0041445,6,CB,1,5,Illegal Use of Hands x1,1
-DET,OL,Juice Scruggs,00-0038936,70,OL,1,4,False Start x1,2
 DET,FRONT,Devin White,00-0035707,45,LB,1,2,Face Mask x1,2
 DET,FRONT,Jack Campbell,00-0039018,46,LB,1,2,Defensive Holding x1,2
 DET,ST,Jake Bates,00-0039172,39,K/P/LS,1,0,Kickoff Short of Landing Zone x1,1
 GB,DB,Javon Bullard,00-0039867,7,S,3,35,Unnecessary Roughness x1; Illegal Contact x1; Unsportsmanlike Conduct x1,1 2
+GB,WR,Christian Watson,00-0038124,9,WR,3,24,Offensive Holding x2; Offensive Pass Interference x1,2 3 4
+GB,DB,Keisean Nixon,00-0035133,25,CB,2,38,Defensive Pass Interference x2,2 4
+GB,OL,Laken Tomlinson,00-0032234,72,OL,2,20,Offensive Holding x1; Illegal Use of Hands x1,4
 GB,FRONT,Brenton Cox Jr.,00-0038463,57,LB,2,20,Neutral Zone Infraction x1; Roughing the Passer x1,1 3
-GB,WR,Christian Watson,00-0038124,9,WR,2,14,Offensive Holding x2,2 3
+GB,OL,Anthony Belton,00-0040726,71,OL,2,15,Offensive Holding x1; False Start x1,2 4
+GB,WR,Tucker Kraft,00-0038996,85,TE,2,14,Offensive Holding x1; False Start x1,2 4
 GB,ST,Dani Dennis-Sutton,00-0040877,51,LB,2,13,Offensive Holding x1; Unnecessary Roughness x1,1 2
 GB,OL,Jordan Morgan,00-0039904,77,OL,2,10,False Start x2,1 2
-GB,DB,Keisean Nixon,00-0035133,25,CB,1,34,Defensive Pass Interference x1,2
 GB,DB,Evan Williams,00-0039813,33,S,1,15,Unnecessary Roughness x1,1
 GB,FRONT,Chris McClellan,00-0040869,55,DL,1,15,Roughing the Passer x1,1
 GB,ST,Chris McClellan,00-0040869,55,DL,1,14,Unnecessary Roughness x1,2
 GB,OL,Sean Rhyan,00-0037076,75,OL,1,10,Offensive Holding x1,1
-GB,WR,Tucker Kraft,00-0038996,85,TE,1,10,Offensive Holding x1,2
 GB,OL,Jacob Monk,00-0039817,62,OL,1,10,Offensive Holding x1,2
-GB,OL,Anthony Belton,00-0040726,71,OL,1,10,Offensive Holding x1,2
+GB,OL,Travis Glover,00-0039819,79,OL,1,10,Offensive Holding x1,4
 GB,ST,Kamal Hadden,00-0039831,36,CB,1,7,Offensive Holding x1,2
 GB,FRONT,Lukas Van Ness,00-0039112,90,LB,1,6,Roughing the Passer x1,2
 GB,QB,Jordan Love,00-0036264,10,QB,1,5,False Start x1,1
 GB,FRONT,Jonathan Ford,00-0037094,96,DL,1,5,Encroachment x1,1
 GB,FRONT,Karl Brooks,00-0038398,94,DL,1,5,Neutral Zone Infraction x1,2
+GB,ST,Karl Brooks,00-0038398,94,DL,1,5,Illegal Formation x1,4
 GB,OL,Donovan Jennings,00-0039272,67,OL,1,5,False Start x1,1
+GB,RB,MarShawn Lloyd,00-0039811,32,RB,1,5,False Start x1,4
 GB,OL,Jager Burton,00-0040884,52,OL,1,5,False Start x1,3
 GB,DB,Brandon Cisse,00-0041470,2,CB,1,5,Illegal Contact x1,3
 GB,DB,Xavier McKinney,00-0036388,29,S,1,3,Defensive Holding x1,1
+HOU,DB,Kamari Lassiter,00-0039343,3,CB,4,60,Defensive Pass Interference x2; Illegal Contact x1; Defensive Holding x1,1 4
 HOU,OL,Trent Brown,00-0032071,77,OL,4,25,False Start x3; Offensive Holding x1,1 2
-HOU,OL,Aireontae Ersery,00-0040745,79,OL,2,15,False Start x1; Offensive Holding x1,1
-HOU,DB,Kamari Lassiter,00-0039343,3,CB,1,46,Defensive Pass Interference x1,1
+HOU,OL,Aireontae Ersery,00-0040745,79,OL,3,20,False Start x2; Offensive Holding x1,1 4
+HOU,OL,Keylan Rutledge,00-0041532,66,OL,2,10,False Start x2,2 4
 HOU,FRONT,Mario Edwards,00-0032265,97,DL,1,15,Roughing the Passer x1,1
 HOU,ST,Foster Moreau,00-0034981,87,TE,1,15,Lowering the Head to Make Forcible Contact x1,2
 HOU,RB,David Montgomery,00-0035685,32,RB,1,15,Chop Block x1,1
 HOU,ST,Keylan Rutledge,00-0041532,66,OL,1,15,Unnecessary Roughness x1,2
+HOU,ST,Wade Woodaz,00-0041465,30,LB,1,14,Face Mask x1,4
 HOU,QB,C.J. Stroud,00-0039163,7,QB,1,13,Intentional Grounding x1,2
 HOU,ST,George Odum,00-0034091,36,S,1,10,Offensive Holding x1,1
 HOU,OL,Evan Brown,00-0034495,63,OL,1,10,Offensive Holding x1,3
+HOU,OL,Ed Ingram,00-0038131,69,OL,1,10,Offensive Holding x1,4
 HOU,ST,Jared Wayne,00-0038728,17,WR,1,10,Illegal Block Above the Waist x1,2
+HOU,ST,Cade Stover,00-0039359,8,TE,1,10,Offensive Holding x1,4
+HOU,RB,Woody Marks,00-0040583,4,RB,1,10,Offensive Holding x1,4
+HOU,ST,Aiden Fisher,00-0041449,59,LB,1,7,Illegal Blindside Block x1,4
+HOU,FRONT,Jadeveon Clowney,00-0031364,90,DL,1,5,Defensive Offside x1,4
+HOU,ST,Tommy Togiai,00-0036883,72,DL,1,5,Illegal Formation x1,4
+HOU,FRONT,Logan Hall,00-0038127,96,DL,1,5,Illegal Use of Hands x1,4
 HOU,ST,Jamal Hill,00-0039395,56,LB,1,5,Ineligible Downfield Kick x1,2
-HOU,OL,Keylan Rutledge,00-0041532,66,OL,1,5,False Start x1,2
 IND,WR,Laquon Treadwell,00-0032951,13,WR,2,15,False Start x1; Offensive Holding x1,2 3
+IND,DB,Sauce Gardner,00-0037190,1,CB,2,12,Defensive Pass Interference x1; Defensive Holding x1,3 4
 IND,ST,Laquon Treadwell,00-0032951,13,WR,1,10,Offensive Holding x1,1
 IND,ST,Adetomiwa Adebawore,00-0039031,95,DL,1,10,Offensive Holding x1,1
 IND,ST,Jaylahn Tuimoloau,00-0040744,91,DL,1,10,Illegal Block Above the Waist x1,2
 IND,DB,Charvarius Ward,00-0034573,7,CB,1,9,Face Mask x1,3
-IND,DB,Sauce Gardner,00-0037190,1,CB,1,7,Defensive Pass Interference x1,3
 IND,WR,Keenan Allen,00-0030279,10,WR,1,5,False Start x1,3
 IND,RB,Jonathan Taylor,00-0036223,28,RB,1,5,False Start x1,2
 IND,FRONT,Adetomiwa Adebawore,00-0039031,95,DL,1,5,Encroachment x1,3
 IND,FRONT,Jaylahn Tuimoloau,00-0040744,91,DL,1,5,Defensive Offside x1,3
 IND,ST,Kenneth Harris,00-0041320,33,CB,1,4,Offensive Holding x1,1
-JAX,WR,Nate Boerkircher,00-0041503,87,TE,2,16,Offensive Holding x1; Chop Block x1,1 3
-JAX,OL,Robert Hainsey,00-0036985,73,OL,2,15,False Start x1; Illegal Block Above the Waist x1,1 2
+JAX,WR,Nate Boerkircher,00-0041503,87,TE,3,26,Offensive Holding x1; Chop Block x1; Offensive Pass Interference x1,1 3 4
+JAX,OL,Robert Hainsey,00-0036985,73,OL,3,25,False Start x1; Illegal Block Above the Waist x1; Offensive Holding x1,1 2 4
+JAX,FRONT,Travon Walker,00-0037235,44,DL,2,20,Defensive Offside x1; Taunting x1,4
+JAX,DB,Jarrian Jones,00-0039353,4,CB,2,20,Defensive Holding x1; Face Mask x1,3 4
+JAX,OL,Anton Harrison,00-0038934,77,OL,2,15,False Start x1; Offensive Holding x1,4
+JAX,OL,Emmanuel Pregnon,00-0041050,75,OL,2,15,False Start x1; Offensive Holding x1,3 4
 JAX,DB,Travis Hunter,00-0040718,12,WR,1,22,Defensive Pass Interference x1,2
+JAX,FRONT,Arik Armstead,00-0032164,91,DL,1,15,Roughing the Passer x1,4
 JAX,DB,Antonio Johnson,00-0038596,6,S,1,15,Unnecessary Roughness x1,3
 JAX,ST,Jahlani Tavai,00-0035240,31,LB,1,10,Illegal Block Above the Waist x1,3
+JAX,OL,Ezra Cleveland,00-0036327,76,OL,1,10,Offensive Holding x1,4
+JAX,ST,Quintin Morris,00-0036590,80,TE,1,10,Offensive Holding x1,4
 JAX,OL,Cole Van Lanen,00-0036655,70,OL,1,10,Illegal Use of Hands x1,3
 JAX,FRONT,Matt Dickerson,00-0034657,93,DL,1,5,Neutral Zone Infraction x1,3
 JAX,QB,Trevor Lawrence,00-0036971,16,QB,1,5,Illegal Forward Pass x1,1
 JAX,WR,Parker Washington,00-0038606,11,WR,1,5,Illegal Shift x1,2
 JAX,WR,Brenton Strange,00-0038935,85,TE,1,5,False Start x1,1
-JAX,DB,Jarrian Jones,00-0039353,4,CB,1,5,Defensive Holding x1,3
-JAX,OL,Emmanuel Pregnon,00-0041050,75,OL,1,5,False Start x1,3
+KC,DB,Nohl Williams,00-0040670,20,CB,3,24,Illegal Use of Hands x1; Unnecessary Roughness x1; Defensive Holding x1,3 4
+KC,DB,L'Jarius Sneed,00-0036374,38,CB,3,15,Defensive Holding x2; Defensive Offside x1,1 3 4
 KC,DB,Kristian Fulton,00-0036416,8,CB,2,49,Defensive Pass Interference x2,2
 KC,OL,Trey Smith,00-0036660,65,OL,2,25,Chop Block x1; Illegal Use of Hands x1,1 3
 KC,OL,Kahlil Benson,00-0041019,70,OL,2,20,Offensive Holding x2,1 2
-KC,DB,L'Jarius Sneed,00-0036374,38,CB,2,10,Defensive Offside x1; Defensive Holding x1,1 3
 KC,FRONT,George Karlaftis,00-0037192,56,DL,2,10,Neutral Zone Infraction x1; Illegal Use of Hands x1,2 3
+KC,FRONT,Felix Anudike-Uzomah,00-0039006,91,DL,1,15,Roughing the Passer x1,4
 KC,OL,Creed Humphrey,00-0036623,52,OL,1,10,Illegal Block Above the Waist x1,3
 KC,ST,Jack Cochrane,00-0037208,43,LB,1,10,Offensive Holding x1,1
 KC,OL,Kingsley Suamataia,00-0039844,76,OL,1,10,Offensive Holding x1,2
@@ -246,16 +311,20 @@ KC,ST,Jadon Canady,00-0041497,22,CB,1,9,Offensive Holding x1,1
 KC,WR,Rashee Rice,00-0039067,4,WR,1,6,Offensive Holding x1,3
 KC,ST,Cyrus Allen,00-0040890,13,WR,1,6,Unnecessary Roughness x1,1
 KC,OL,Jaylon Moore,00-0036557,77,OL,1,5,False Start x1,2
+KC,ST,Nikko Remigio,00-0038519,81,WR,1,5,Invalid Fair Catch Signal x1,4
 KC,ST,Christian Roland-Wallace,00-0039324,30,S,1,5,Illegal Formation x1,2
 KC,ST,Jalen Royals,00-0040646,11,WR,1,5,Illegal Formation x1,1
-KC,DB,Nohl Williams,00-0040670,20,CB,1,5,Illegal Use of Hands x1,3
 KC,FRONT,R Mason Thomas,00-0041501,51,DL,1,5,Defensive Offside x1,3
+KC,ST,Peter Woods,00-0041545,99,DL,1,5,Illegal Formation x1,4
 KC,ST,Nohl Williams,00-0040670,20,CB,1,4,Offensive Holding x1,3
 KC,DB,Jaden Hicks,00-0039825,21,S,1,2,Roughing the Passer x1,2
+LA,WR,Puka Nacua,00-0039075,12,WR,2,25,Offensive Pass Interference x1; Illegal Blindside Block x1,4
 LA,OL,Warren McClendon Jr.,00-0039077,71,OL,2,20,Offensive Holding x2,1 3
 LA,OL,Alaric Jackson,00-0036603,77,OL,2,18,Chop Block x1; False Start x1,1 3
 LA,DB,Quentin Lake,00-0037841,37,S,2,9,Face Mask x1; Illegal Use of Hands x1,3
 LA,DB,Josh Wallace,00-0039772,30,CB,2,9,Defensive Pass Interference x2,2 3
+LA,DB,Trent McDuffie,00-0037191,22,CB,1,25,Defensive Pass Interference x1,4
+LA,FRONT,Nate Landman,00-0037587,53,LB,1,15,Unnecessary Roughness x1,4
 LA,ST,Tanner Ingle,00-0038366,34,S,1,15,Unnecessary Roughness x1,2
 LA,DB,Emmanuel Forbes,00-0039151,1,CB,1,15,Defensive Pass Interference x1,3
 LA,FRONT,Tyler Davis,00-0039749,90,DL,1,15,Roughing the Passer x1,1
@@ -263,68 +332,97 @@ LA,ST,Emmanuel Forbes,00-0039151,1,CB,1,13,Unsportsmanlike Conduct x1,3
 LA,WR,Davante Adams,00-0031381,17,WR,1,10,Offensive Pass Interference x1,3
 LA,WR,Colby Parkinson,00-0036244,84,TE,1,10,Offensive Holding x1,2
 LA,OL,Steve Avila,00-0039058,73,OL,1,10,Offensive Holding x1,3
+LA,WR,Davis Allen,00-0039074,87,TE,1,10,Offensive Holding x1,4
+LA,ST,Jordan Whittington,00-0039751,88,WR,1,10,Offensive Holding x1,4
 LA,WR,Konata Mumpfield,00-0040590,4,WR,1,10,Offensive Holding x1,2
 LA,OL,Kevin Dotson,00-0036339,69,OL,1,5,False Start x1,1
 LA,ST,Trent McDuffie,00-0037191,22,CB,1,5,Defensive Offside x1,3
 LA,FRONT,Braden Fiske,00-0039734,55,DL,1,5,Defensive Offside x1,2
 LA,FRONT,Kobie Turner,00-0039138,91,DL,1,0,Encroachment x1,3
+LA,ST,Harrison Mevis,00-0039498,92,K/P/LS,1,0,Kickoff Out of Bounds x1,4
 LAC,OL,Joe Alt,00-0039897,76,OL,6,30,False Start x4; Offensive Holding x2,1 2 3
-LAC,OL,Rashawn Slater,00-0037009,70,OL,2,20,Illegal Block Above the Waist x1; Offensive Holding x1,1 2
+LAC,OL,Rashawn Slater,00-0037009,70,OL,3,25,Illegal Block Above the Waist x1; Offensive Holding x1; False Start x1,1 2 4
+LAC,OL,Cole Strange,00-0038103,69,OL,3,20,False Start x2; Unnecessary Roughness x1,3 4
+LAC,OL,Travis Burke,00-0041058,77,OL,2,15,False Start x1; Offensive Holding x1,4
 LAC,OL,Jake Slaughter,00-0041392,66,OL,2,15,False Start x1; Offensive Holding x1,1
-LAC,OL,Cole Strange,00-0038103,69,OL,2,10,False Start x2,3
+LAC,FRONT,Teair Tart,00-0036181,93,DL,2,10,Defensive Offside x1; Defensive Holding x1,4
 LAC,DB,Donte Jackson,00-0034356,26,CB,1,24,Defensive Pass Interference x1,1
+LAC,ST,Tuli Tuipulotu,00-0039111,45,LB,1,15,Leverage x1,4
+LAC,FRONT,Justin Eboigbe,00-0039835,92,DL,1,15,Unnecessary Roughness x1,4
+LAC,DB,R.J. Mickens,00-0040221,27,S,1,15,Low Block x1,4
 LAC,OL,Kayode Awosika,00-0036736,74,OL,1,10,Offensive Holding x1,2
 LAC,ST,Hayden Rucci,00-0039489,40,TE,1,10,Offensive Holding x1,3
 LAC,WR,Oronde Gadsden II,00-0040189,86,TE,1,10,Illegal Block Above the Waist x1,3
+LAC,ST,Patrick Herbert,00-0040331,81,TE,1,10,Offensive Holding x1,4
+LAC,ST,Marlowe Wax,00-0040460,58,LB,1,10,Offensive Holding x1,4
+LAC,ST,Del'Shawn Phillips,00-0035202,53,LB,1,5,Illegal Formation x1,4
+LAC,OL,Trevor Penning,00-0037241,75,OL,1,5,False Start x1,4
 LAC,WR,Charlie Kolar,00-0038046,88,TE,1,5,False Start x1,1
 LAC,WR,Quentin Johnston,00-0038544,1,WR,1,5,False Start x1,1
 LAC,DB,Cam Hart,00-0039369,20,CB,1,5,Illegal Use of Hands x1,2
 LAC,WR,Hayden Rucci,00-0039489,40,TE,1,5,False Start x1,3
+LAC,FRONT,Jamaree Caldwell,00-0040144,99,DL,1,5,Defensive Holding x1,4
+LAC,WR,Tre Harris,00-0040727,9,WR,1,5,False Start x1,4
 LAC,DB,Rodney Shelley,00-0041381,24,CB,1,5,Defensive Holding x1,3
+LV,OL,Spencer Burford,00-0037829,70,OL,2,18,Offensive Holding x2,2 4
 LV,DB,Hezekiah Masses,00-0040889,35,CB,2,11,Illegal Use of Hands x1; Defensive Pass Interference x1,1 2
 LV,OL,Tyler Linderbaum,00-0037825,65,OL,2,9,False Start x1; Offensive Offside x1,2 3
-LV,OL,Spencer Burford,00-0037829,70,OL,1,10,Offensive Holding x1,2
+LV,FRONT,Quay Walker,00-0037074,7,LB,2,7,Defensive Pass Interference x1; Unnecessary Roughness x1,1 4
 LV,WR,Tre Tucker,00-0038563,1,WR,1,10,Offensive Holding x1,3
 LV,OL,DJ Glaze,00-0039349,71,OL,1,10,Offensive Holding x1,2
+LV,FRONT,Foley Fatukasi,00-0034275,94,DL,1,5,Defensive Offside x1,4
 LV,DB,Jeremy Chinn,00-0036293,11,S,1,5,Illegal Contact x1,3
 LV,WR,Dareke Young,00-0037093,81,WR,1,5,False Start x1,1
+LV,RB,Connor Heyward,00-0037304,34,RB,1,5,False Start x1,4
 LV,ST,Alex Ward,00-0038360,47,K/P/LS,1,5,False Start x1,1
 LV,WR,Michael Mayer,00-0039066,87,TE,1,5,False Start x1,2
 LV,ST,Caleb Rogers,00-0040150,76,OL,1,5,Offensive Offside x1,1
-LV,FRONT,Quay Walker,00-0037074,7,LB,1,4,Defensive Pass Interference x1,1
+LV,OL,Caleb Rogers,00-0040150,76,OL,1,4,False Start x1,4
 LV,ST,Matt Gay,00-0035269,14,K/P/LS,1,0,Kickoff Out of Bounds x1,3
 LV,FRONT,Thomas Booker,00-0037262,99,DL,1,0,Neutral Zone Infraction x1,3
+MIA,DB,Julius Brents,00-0039156,8,CB,4,30,Illegal Contact x2; Taunting x1; Defensive Holding x1,1 2 4
 MIA,OL,Austin Jackson,00-0036248,73,OL,4,26,Illegal Use of Hands x1; False Start x1; Offensive Holding x1; Ineligible Downfield Pass x1,1 2 3
-MIA,DB,Julius Brents,00-0039156,8,CB,3,25,Taunting x1; Illegal Contact x1; Defensive Holding x1,1 2
+MIA,OL,Patrick Paul,00-0039899,52,OL,3,30,Offensive Holding x3,1 4
 MIA,OL,Kadyn Proctor,00-0041521,74,OL,3,20,False Start x2; Offensive Holding x1,1 2
 MIA,OL,Aaron Brewer,00-0036171,55,OL,2,20,Offensive Holding x2,1 2
-MIA,FRONT,Chop Robinson,00-0039911,44,LB,1,15,Roughing the Passer x1,3
-MIA,OL,Patrick Paul,00-0039899,52,OL,1,10,Offensive Holding x1,1
+MIA,FRONT,Chop Robinson,00-0039911,44,LB,2,20,Roughing the Passer x1; Defensive Offside x1,3 4
+MIA,WR,Chris Bell,00-0041525,18,WR,2,5,Illegal Touch Pass x1; False Start x1,4
+MIA,ST,Julius Wood,00-0039532,25,S,1,10,Illegal Block Above the Waist x1,4
 MIA,ST,DJ Herman,00-0041436,34,RB,1,10,Offensive Holding x1,3
 MIA,WR,Will Kacmarek,00-0041524,89,TE,1,10,Offensive Holding x1,3
 MIA,ST,Ryan Miller,00-0038824,84,WR,1,9,Illegal Block Above the Waist x1,3
+MIA,FRONT,Malik Herring,00-0036682,90,DL,1,5,Defensive Offside x1,4
+MIA,ST,Rodney McGraw,00-0041159,59,DL,1,5,Illegal Formation x1,4
 MIA,DB,Michael Taaffe,00-0041528,16,S,1,5,Illegal Contact x1,3
-MIN,FRONT,Dallas Turner,00-0039924,15,LB,2,30,Roughing the Passer x1; Face Mask x1,2 3
-MIN,OL,Donovan Jackson,00-0040661,74,OL,2,20,Offensive Holding x1; Illegal Block Above the Waist x1,3
+MIN,FRONT,Dallas Turner,00-0039924,15,LB,3,35,Roughing the Passer x1; Face Mask x1; Neutral Zone Infraction x1,2 3 4
+MIN,OL,Donovan Jackson,00-0040661,74,OL,3,30,Offensive Holding x2; Illegal Block Above the Waist x1,3 4
 MIN,WR,Josh Oliver,00-0035249,84,TE,2,16,False Start x1; Offensive Holding x1,2 3
+MIN,OL,Brian O'Neill,00-0034158,75,OL,2,10,False Start x2,1 4
+MIN,OL,Joe Huber,00-0040500,60,OL,2,10,False Start x2,4
 MIN,DB,Josh Metellus,00-0036348,44,S,1,15,Unnecessary Roughness x1,3
+MIN,ST,Jeshaun Jones,00-0039710,82,WR,1,15,Illegal Blindside Block x1,4
+MIN,FRONT,Domonique Orange,00-0041046,97,DL,1,15,Unnecessary Roughness x1,4
+MIN,WR,Jauan Jennings,00-0036259,14,WR,1,10,Offensive Pass Interference x1,4
 MIN,OL,Will Fries,00-0036483,76,OL,1,9,Offensive Holding x1,3
-MIN,OL,Brian O'Neill,00-0034158,75,OL,1,5,False Start x1,1
 MIN,FRONT,Andrew Van Ginkel,00-0035272,43,LB,1,5,Defensive Offside x1,2
 MIN,OL,Blake Brandel,00-0036347,64,OL,1,5,False Start x1,1
+MIN,WR,Jordan Addison,00-0038994,3,WR,1,5,Illegal Shift x1,4
 MIN,ST,Dallas Turner,00-0039924,15,LB,1,5,Defensive Offside x1,1
+MIN,OL,Caleb Tiernan,00-0041053,78,OL,1,5,False Start x1,4
+NE,OL,Will Campbell,00-0040699,66,OL,4,35,Offensive Holding x2; Illegal Block Above the Waist x1; False Start x1,1 4
 NE,OL,Morgan Moses,00-0031330,76,OL,3,20,False Start x2; Offensive Holding x1,1 2 3
-NE,OL,Will Campbell,00-0040699,66,OL,2,20,Illegal Block Above the Waist x1; Offensive Holding x1,1
+NE,DB,Kevin Byard,00-0033132,31,S,2,10,Defensive Pass Interference x1; Illegal Contact x1,2 4
 NE,FRONT,Milton Williams,00-0036916,97,DL,2,10,Encroachment x1; Neutral Zone Infraction x1,1 3
 NE,WR,Mack Hollins,00-0033555,13,WR,1,15,Taunting x1,3
 NE,WR,Romeo Doubs,00-0037816,87,WR,1,10,Offensive Pass Interference x1,3
 NE,ST,Cameron Latu,00-0038564,36,TE,1,10,Illegal Block Above the Waist x1,3
 NE,ST,Gabe Jacas,00-0041569,50,LB,1,10,Illegal Block Above the Waist x1,1
 NE,ST,Efton Chism III,00-0040563,86,WR,1,6,Offensive Holding x1,2
-NE,DB,Kevin Byard,00-0033132,31,S,1,5,Defensive Pass Interference x1,2
 NE,FRONT,Robert Spillane,00-0034720,14,LB,1,5,Illegal Use of Hands x1,2
 NE,OL,Alijah Vera-Tucker,00-0036979,75,OL,1,5,Ineligible Downfield Pass x1,1
+NE,DB,Marcus Jones,00-0037253,25,CB,1,5,Defensive Holding x1,4
 NE,WR,Cameron Latu,00-0038564,36,TE,1,5,False Start x1,3
+NE,FRONT,Cory Durden,00-0038653,94,DL,1,5,Defensive Holding x1,4
 NE,FRONT,Elijah Ponder,00-0040574,91,LB,1,5,Neutral Zone Infraction x1,3
 NE,FRONT,Gabe Jacas,00-0041569,50,LB,1,5,Neutral Zone Infraction x1,3
 NE,DB,Carlton Davis III,00-0034778,7,CB,1,3,Face Mask x1,3
@@ -333,85 +431,118 @@ NO,OL,Kelvin Banks Jr.,00-0040125,71,OL,2,10,False Start x2,2
 NO,WR,Chris Olave,00-0037239,12,WR,1,15,Unsportsmanlike Conduct x1,2
 NO,ST,Tyree Wilson,00-0038541,98,LB,1,15,Face Mask x1,1
 NO,QB,Tyler Shough,00-0040743,6,QB,1,13,Intentional Grounding x1,1
+NO,ST,Cal Adomitis,00-0037412,46,K/P/LS,1,10,Offensive Holding x1,4
+NO,OL,Taliese Fuaga,00-0039339,75,OL,1,10,Offensive Holding x1,4
 NO,DB,Justin Reid,00-0034361,21,S,1,7,Unnecessary Roughness x1,3
 NO,DB,Jonas Sanker,00-0040643,7,S,1,7,Defensive Pass Interference x1,3
 NO,WR,Noah Fant,00-0035644,87,TE,1,5,False Start x1,2
+NO,WR,Juwan Johnson,00-0036040,83,TE,1,5,Illegal Shift x1,4
 NO,OL,Cesar Ruiz,00-0036408,51,OL,1,5,False Start x1,3
+NO,OL,Asim Richards,00-0038601,72,OL,1,5,False Start x1,4
+NO,FRONT,Khristian Boyd,00-0039401,97,DL,1,5,Defensive Holding x1,4
+NO,WR,Oscar Delp,00-0041041,4,TE,1,5,False Start x1,4
 NO,WR,Bryce Lance,00-0041067,18,WR,1,5,Offensive Offside x1,2
 NO,FRONT,Christen Miller,00-0041390,52,DL,1,5,Defensive Holding x1,1
+NO,DB,Kool-Aid McKinstry,00-0039860,1,CB,1,4,Defensive Holding x1,4
 NO,FRONT,Danny Stutsman,00-0040155,28,LB,1,2,Roughing the Passer x1,3
 NO,FRONT,Chase Young,00-0036321,99,LB,1,1,Defensive Offside x1,1
 NO,ST,Daniel Carlson,00-0034161,10,K/P/LS,1,0,Kickoff Short of Landing Zone x1,3
-NYG,OL,Jon Runyan,00-0036246,76,OL,4,25,False Start x3; Offensive Holding x1,1 2 3
+NYG,OL,Jon Runyan,00-0036246,76,OL,5,29,False Start x4; Offensive Holding x1,1 2 3 4
+NYG,OL,Jermaine Eluemunor,00-0033290,72,OL,4,27,False Start x2; Offensive Holding x2,1 3 4
 NYG,DB,Andru Phillips,00-0039821,22,CB,3,31,Defensive Pass Interference x3,1
-NYG,OL,Jermaine Eluemunor,00-0033290,72,OL,3,22,Offensive Holding x2; False Start x1,1 3
+NYG,DB,Greg Newsome II,00-0036996,20,CB,2,40,Defensive Pass Interference x1; Defensive Holding x1,1 4
 NYG,ST,Elijah Campbell,00-0034248,28,S,2,25,Offensive Holding x1; Fair Catch Interference x1,1 3
-NYG,DB,Greg Newsome II,00-0036996,20,CB,1,38,Defensive Pass Interference x1,1
+NYG,DB,Deonte Banks,00-0039000,2,CB,1,18,Defensive Pass Interference x1,4
 NYG,FRONT,Shelby Harris,00-0031270,93,DL,1,15,Face Mask x1,3
 NYG,DB,Jevon Holland,00-0036998,8,S,1,15,Unnecessary Roughness x1,1
+NYG,WR,Chris Manhertz,00-0031484,85,TE,1,10,Offensive Holding x1,4
 NYG,OL,John Michael Schmitz,00-0039019,61,OL,1,10,Offensive Holding x1,3
 NYG,FRONT,Abdul Carter,00-0040677,3,LB,1,10,Unsportsmanlike Conduct x1,3
 NYG,FRONT,Tremaine Edmunds,00-0034673,49,LB,1,6,Encroachment x1,3
 NYG,WR,Theo Johnson,00-0039847,84,TE,1,5,False Start x1,2
+NYG,WR,Malachi Fields,00-0041042,88,WR,1,5,False Start x1,4
 NYG,OL,Francis Mauigoa,00-0041505,65,OL,1,5,False Start x1,2
-NYJ,DB,Azareye'h Thomas,00-0040133,1,CB,2,43,Defensive Pass Interference x1; Illegal Use of Hands x1,2 3
+NYJ,DB,Azareye'h Thomas,00-0040133,1,CB,3,48,Illegal Use of Hands x2; Defensive Pass Interference x1,2 3 4
+NYJ,DB,Brandon Stephens,00-0036987,21,CB,2,38,Defensive Pass Interference x1; Face Mask x1,2 4
 NYJ,WR,Isaiah Williams,00-0039451,18,WR,2,15,Offensive Holding x1; False Start x1,2
+NYJ,ST,Qwan'tez Stiggers,00-0039789,37,CB,2,15,Illegal Block Above the Waist x1; Illegal Touch Kick x1,2 4
 NYJ,FRONT,David Bailey,00-0041026,31,LB,2,10,Neutral Zone Infraction x1; Illegal Use of Hands x1,1 2
-NYJ,DB,Brandon Stephens,00-0036987,21,CB,1,23,Defensive Pass Interference x1,2
+NYJ,DB,D'Angelo Ponds,00-0041038,23,CB,2,10,Illegal Contact x1; Defensive Holding x1,4
 NYJ,QB,Geno Smith,00-0030565,7,QB,1,15,Unsportsmanlike Conduct x1,2
 NYJ,DB,Jarvis Brownlee Jr.,00-0039372,2,CB,1,15,Unnecessary Roughness x1,2
+NYJ,FRONT,Darrell Jackson Jr.,00-0041549,95,DL,1,15,Face Mask x1,4
 NYJ,OL,Dylan Parham,00-0037255,64,OL,1,10,Offensive Holding x1,3
 NYJ,ST,Braiden McGregor,00-0039284,55,LB,1,10,Offensive Holding x1,2
-NYJ,ST,Qwan'tez Stiggers,00-0039789,37,CB,1,10,Illegal Block Above the Waist x1,2
 NYJ,ST,Isaiah Davis,00-0039798,32,RB,1,10,Offensive Holding x1,2
 NYJ,WR,Kenyon Sadiq,00-0041032,16,TE,1,10,Offensive Holding x1,1
 NYJ,WR,Malik McClain,00-0041267,84,WR,1,10,Offensive Pass Interference x1,3
 NYJ,OL,Josh Myers,00-0036622,71,OL,1,9,Offensive Holding x1,1
+NYJ,FRONT,T'Vondre Sweat,00-0039886,99,DL,1,6,Neutral Zone Infraction x1,4
+NYJ,FRONT,Demario Davis,00-0029607,56,LB,1,5,Defensive Offside x1,4
+NYJ,FRONT,Harrison Phillips,00-0034782,97,DL,1,5,Defensive Holding x1,4
 NYJ,WR,Garrett Wilson,00-0037740,5,WR,1,5,False Start x1,1
 NYJ,OL,Joe Tippmann,00-0039145,66,OL,1,5,False Start x1,2
 NYJ,ST,Isaiah Williams,00-0039451,18,WR,1,5,Invalid Fair Catch Signal x1,2
 NYJ,OL,Olumuyiwa Fashanu,00-0039790,74,OL,1,5,Illegal Formation x1,1
 NYJ,WR,Mason Taylor,00-0040736,85,TE,1,4,False Start x1,1
-PHI,OL,Cam Jurgens,00-0038112,51,OL,3,30,Offensive Holding x3,1 2
+PHI,OL,Cam Jurgens,00-0038112,51,OL,4,35,Offensive Holding x3; False Start x1,1 2 4
+PHI,DB,Riq Woolen,00-0037079,2,CB,3,14,Defensive Holding x1; Illegal Contact x1; Defensive Pass Interference x1,3 4
+PHI,WR,Johnny Mundt,00-0033246,83,TE,2,20,Offensive Holding x2,2 4
 PHI,OL,Tyler Steen,00-0039001,56,OL,2,20,Offensive Holding x2,2 3
-PHI,DB,Riq Woolen,00-0037079,2,CB,2,10,Defensive Holding x1; Illegal Contact x1,3
-PHI,WR,Johnny Mundt,00-0033246,83,TE,1,10,Offensive Holding x1,2
+PHI,ST,Kelee Ringo,00-0039140,7,CB,2,15,Offensive Holding x1; Player Out of Bounds on Kick x1,3 4
+PHI,DB,Jonathan Jones,00-0032580,31,CB,1,13,Unnecessary Roughness x1,4
 PHI,QB,Jalen Hurts,00-0036389,1,QB,1,10,Intentional Grounding x1,3
 PHI,OL,Landon Dickerson,00-0037002,69,OL,1,10,Offensive Holding x1,1
-PHI,ST,Kelee Ringo,00-0039140,7,CB,1,10,Offensive Holding x1,3
 PHI,OL,Lane Johnson,00-0030561,65,OL,1,5,Illegal Formation x1,2
 PHI,OL,Jordan Mailata,00-0034429,68,OL,1,5,False Start x1,1
+PHI,FRONT,Jonathan Greenard,00-0036224,52,LB,1,5,Defensive Offside x1,4
 PHI,FRONT,Moro Ojomo,00-0038412,97,DL,1,5,Neutral Zone Infraction x1,3
 PHI,WR,E.J. Jenkins,00-0038498,84,TE,1,5,False Start x1,3
 PHI,DB,Cooper DeJean,00-0039841,33,CB,1,5,Illegal Contact x1,1
+PHI,DB,Quinyon Mitchell,00-0039888,27,CB,1,5,Illegal Contact x1,4
 PHI,DB,Andrew Mukuba,00-0040749,24,S,1,5,Defensive Holding x1,3
+PHI,OL,Markel Bell,00-0041554,72,OL,1,5,Illegal Formation x1,4
 PHI,OL,Drew Kendall,00-0040587,66,OL,1,1,False Start x1,3
-PIT,WR,DK Metcalf,00-0035640,4,WR,3,27,Offensive Holding x2; Offensive Pass Interference x1,1 3
-PIT,WR,Michael Pittman,00-0036252,11,WR,2,10,False Start x2,1 3
+PIT,WR,DK Metcalf,00-0035640,4,WR,4,42,Offensive Holding x2; Offensive Pass Interference x1; Taunting x1,1 3 4
+PIT,WR,Michael Pittman,00-0036252,11,WR,4,20,False Start x3; Illegal Shift x1,1 3 4
+PIT,DB,Asante Samuel Jr.,00-0036617,22,CB,2,20,Unnecessary Roughness x1; Defensive Holding x1,1 4
+PIT,DB,Daylen Everette,00-0041393,23,CB,1,42,Defensive Pass Interference x1,4
 PIT,DB,Jalen Ramsey,00-0033055,5,CB,1,15,Taunting x1,2
-PIT,DB,Asante Samuel Jr.,00-0036617,22,CB,1,15,Unnecessary Roughness x1,1
 PIT,FRONT,Keeanu Benton,00-0039110,95,DL,1,15,Roughing the Passer x1,2
 PIT,FRONT,Payton Wilson,00-0039741,41,LB,1,15,Face Mask x1,2
 PIT,OL,Spencer Anderson,00-0038645,74,OL,1,10,Offensive Holding x1,2
 PIT,ST,Robert Spears-Jennings,00-0041401,28,S,1,10,Offensive Holding x1,3
 PIT,OL,Dylan Cook,00-0037480,60,OL,1,8,Face Mask x1,1
+PIT,FRONT,T.J. Watt,00-0033886,90,LB,1,5,Defensive Offside x1,4
+PIT,FRONT,Patrick Queen,00-0036323,6,LB,1,5,Defensive Holding x1,4
 PIT,OL,Troy Fautanu,00-0039871,76,OL,1,5,Ineligible Downfield Pass x1,3
 PIT,FRONT,Yahya Black,00-0040188,94,DL,1,5,Defensive Holding x1,1
 PIT,FRONT,Derrick Harmon,00-0040678,99,DL,1,5,Defensive Holding x1,1
+PIT,OL,Max Iheanachor,00-0041482,71,OL,1,5,False Start x1,4
 PIT,FRONT,Alex Highsmith,00-0036333,56,LB,1,4,Defensive Offside x1,2
 SEA,DB,Josh Jobe,00-0037137,29,CB,2,48,Defensive Pass Interference x2,1 3
+SEA,FRONT,Derick Hall,00-0039047,58,LB,2,30,Unnecessary Roughness x1; Roughing the Passer x1,1 4
+SEA,DB,Nick Emmanwori,00-0040733,3,S,2,30,Unnecessary Roughness x1; Face Mask x1,4
 SEA,OL,Abraham Lucas,00-0037812,72,OL,2,10,False Start x2,1 2
 SEA,WR,AJ Barner,00-0039793,88,TE,2,10,False Start x2,1 3
 SEA,WR,Jaxon Smith-Njigba,00-0038543,11,WR,2,9,False Start x2,3
 SEA,OL,Anthony Bradford,00-0039020,75,OL,2,9,Offensive Offside x1; False Start x1,1
+SEA,ST,Jason Myers,00-0031492,5,K/P/LS,2,0,Kickoff Short of Landing Zone x2,3 4
+SEA,FRONT,DeMarcus Lawrence,00-0031411,0,LB,1,15,Roughing the Passer x1,4
 SEA,ST,Chazz Surratt,00-0037003,44,LB,1,15,Roughing the Kicker x1,1
+SEA,RB,Brady Russell,00-0038488,38,RB,1,15,Unnecessary Roughness x1,4
 SEA,DB,AJ Finley,00-0038866,30,S,1,15,Unnecessary Roughness x1,3
-SEA,FRONT,Derick Hall,00-0039047,58,LB,1,15,Unnecessary Roughness x1,1
+SEA,DB,Devon Witherspoon,00-0039169,21,CB,1,15,Unnecessary Roughness x1,4
+SEA,ST,Connor O'Toole,00-0040061,57,LB,1,15,Lowering the Head to Make Forcible Contact x1,4
 SEA,DB,Nehemiah Pritchett,00-0039795,28,CB,1,13,Defensive Pass Interference x1,2
+SEA,QB,Sam Darnold,00-0034869,14,QB,1,10,Intentional Grounding x1,4
+SEA,OL,Josh Jones,00-0036363,74,OL,1,10,Offensive Holding x1,4
+SEA,ST,Julian Neal,00-0040873,1,CB,1,10,Illegal Use of Hands x1,4
 SEA,DB,Rodney Thomas,00-0037323,24,S,1,8,Defensive Pass Interference x1,2
 SEA,WR,Eric Saubert,00-0033576,81,TE,1,5,False Start x1,1
-SEA,ST,Jason Myers,00-0031492,5,K/P/LS,1,0,Kickoff Short of Landing Zone x1,3
-SF,DB,Deommodore Lenoir,00-0036563,2,CB,2,24,Illegal Contact x1; Defensive Pass Interference x1,1 3
+SEA,FRONT,Uchenna Nwosu,00-0034350,7,LB,1,5,Defensive Offside x1,4
+SEA,OL,Jalen Sundell,00-0039926,61,OL,1,5,False Start x1,4
+SF,DB,Deommodore Lenoir,00-0036563,2,CB,3,29,Illegal Contact x1; Defensive Pass Interference x1; Defensive Delay of Game x1,1 3 4
 SF,WR,George Kittle,00-0033288,85,TE,2,15,False Start x1; Offensive Holding x1,2 3
 SF,QB,Brock Purdy,00-0037834,13,QB,1,18,Intentional Grounding x1,2
 SF,DB,Renardo Green,00-0039345,0,CB,1,16,Defensive Pass Interference x1,1
@@ -423,8 +554,8 @@ SF,WR,Luke Farrell,00-0036887,89,TE,1,10,Offensive Holding x1,2
 SF,OL,Vederian Lowe,00-0037287,76,OL,1,10,Offensive Holding x1,2
 SF,OL,Connor Colby,00-0040245,75,OL,1,10,Offensive Holding x1,3
 SF,OL,Colton McKivitz,00-0036256,68,OL,1,5,False Start x1,3
-TB,OL,Graham Barton,00-0039905,62,OL,3,30,Offensive Holding x3,2 3
-TB,FRONT,Alex Anzalone,00-0033914,34,LB,2,17,Unnecessary Roughness x1; Defensive Offside x1,2 3
+TB,OL,Graham Barton,00-0039905,62,OL,4,35,Offensive Holding x3; False Start x1,2 3 4
+TB,FRONT,Alex Anzalone,00-0033914,34,LB,3,22,Unnecessary Roughness x1; Defensive Offside x1; Defensive Holding x1,2 3 4
 TB,OL,Cody Mauch,00-0039157,69,OL,2,15,False Start x1; Offensive Holding x1,1 3
 TB,OL,Tristan Wirfs,00-0036406,78,OL,2,10,False Start x2,1
 TB,FRONT,Yaya Diaby,00-0039068,0,LB,1,15,Face Mask x1,2
@@ -439,7 +570,10 @@ TB,WR,Cade Otton,00-0038129,88,TE,1,5,False Start x1,1
 TB,ST,Calijah Kancey,00-0039063,94,DL,1,5,Encroachment x1,2
 TB,FRONT,Elijah Roberts,00-0040183,95,DL,1,5,Neutral Zone Infraction x1,1
 TB,DB,Tykee Smith,00-0039846,23,S,1,4,Unnecessary Roughness x1,1
+TB,DB,Jacob Parrish,00-0040143,25,CB,1,2,Defensive Pass Interference x1,4
 TEN,OL,JC Latham,00-0039731,55,OL,4,25,False Start x2; Offensive Holding x1; Illegal Formation x1,1 2
+TEN,ST,Erick Hallett,00-0038620,41,CB,2,16,Offensive Holding x2,3 4
+TEN,ST,Micah Robinson,00-0040020,21,CB,2,14,Offensive Holding x1; Illegal Formation x1,3 4
 TEN,FRONT,Jacob Martin,00-0034163,57,DL,2,10,Defensive Offside x2,2 3
 TEN,ST,Joey Slye,00-0035192,6,K/P/LS,2,0,Kickoff Out of Bounds x1; Kickoff Short of Landing Zone x1,1 2
 TEN,WR,Calvin Ridley,00-0034837,0,WR,1,15,Unnecessary Roughness x1,2
@@ -447,20 +581,26 @@ TEN,ST,James Williams,00-0039430,52,LB,1,15,Face Mask x1,3
 TEN,OL,Austin Schlottmann,00-0034112,51,OL,1,10,Offensive Holding x1,2
 TEN,WR,Daniel Bellinger,00-0038115,82,TE,1,10,Offensive Pass Interference x1,3
 TEN,DB,Alontae Taylor,00-0038121,24,CB,1,10,Defensive Pass Interference x1,1
+TEN,ST,Cedric Gray,00-0039858,33,LB,1,10,Offensive Holding x1,4
 TEN,WR,Elic Ayomanor,00-0040170,5,WR,1,10,Offensive Pass Interference x1,3
-TEN,ST,Erick Hallett,00-0038620,41,CB,1,9,Offensive Holding x1,3
-TEN,ST,Micah Robinson,00-0040020,21,CB,1,9,Offensive Holding x1,3
 TEN,FRONT,Jeffery Simmons,00-0035643,98,DL,1,5,Defensive Offside x1,3
 TEN,FRONT,Cedric Gray,00-0039858,33,LB,1,5,Illegal Use of Hands x1,2
+TEN,FRONT,Oluwafemi Oladejo,00-0040752,7,LB,1,5,Defensive Offside x1,4
 WAS,OL,Josh Conerly Jr.,00-0040686,72,OL,3,20,False Start x2; Offensive Holding x1,1 2 3
+WAS,WR,Stefon Diggs,00-0031588,3,WR,2,24,Unsportsmanlike Conduct x1; Offensive Pass Interference x1,1 4
+WAS,ST,Kain Medrano,00-0040216,56,LB,2,20,Offensive Holding x2,4
 WAS,OL,Brandon Coleman,00-0039913,74,OL,2,10,False Start x1; Ineligible Downfield Pass x1,1 2
-WAS,WR,Stefon Diggs,00-0031588,3,WR,1,15,Unsportsmanlike Conduct x1,1
 WAS,FRONT,K'Lavon Chaisson,00-0036286,45,LB,1,15,Unnecessary Roughness x1,3
+WAS,ST,Percy Butler,00-0038100,35,S,1,13,Illegal Blindside Block x1,4
+WAS,DB,Amik Robertson,00-0036375,2,CB,1,12,Unnecessary Roughness x1,4
+WAS,ST,Tyler Owens,00-0039681,18,S,1,10,Illegal Block Above the Waist x1,4
 WAS,RB,Jacory Croskey-Merritt,00-0040242,22,RB,1,10,Offensive Holding x1,1
 WAS,DB,Jeremy Reaves,00-0034465,39,S,1,9,Unnecessary Roughness x1,2
 WAS,WR,Terry McLaurin,00-0035659,17,WR,1,9,Offensive Pass Interference x1,2
 WAS,FRONT,Charles Omenihu,00-0035279,90,DL,1,5,Defensive Offside x1,2
 WAS,WR,John Bates,00-0036628,87,TE,1,5,False Start x1,3
+WAS,OL,Chris Paul,00-0037092,75,OL,1,5,False Start x1,4
+WAS,WR,Treylon Burks,00-0037742,13,WR,1,5,False Start x1,4
 WAS,DB,Mike Sainristil,00-0039898,0,CB,1,5,Defensive Holding x1,3
 WAS,DB,Quan Martin,00-0039149,20,S,1,2,Defensive Pass Interference x1,3
 WAS,ST,Drew Stevens,00-0041182,19,K/P/LS,1,0,Kickoff Out of Bounds x1,3
