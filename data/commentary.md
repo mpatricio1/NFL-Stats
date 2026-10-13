@@ -1,4 +1,4 @@
-# NFL 2026 Stat Sheet: team write-ups through Week 4
+# NFL 2026 Stat Sheet: team write-ups through Week 5
 
 Hand-written summaries shown at the top of each section of https://mpatricio1.github.io/NFL-Stats/ . Numbers come from data.json.
 
