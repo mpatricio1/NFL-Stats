@@ -73,7 +73,7 @@ h3.sub small{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--
 .chart .ax{stroke:var(--ink-2);stroke-width:1}
 .chart .gl{stroke:var(--grid);stroke-width:1}
 .chart .ref{stroke:var(--muted);stroke-width:1;stroke-dasharray:3 3}
-.chart .hit{fill:transparent;cursor:default}
+.chart .hit{fill:transparent;cursor:default}.chart .pt .dot{pointer-events:none}
 .chart .hit:focus{outline:none}
 .chart .hit:focus + .dot, .chart g.pt:hover .dot{stroke:var(--ink);stroke-width:2}
 .legend{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px;color:var(--ink-2);margin:4px 0 6px}
@@ -362,11 +362,15 @@ function tiles(el,items){$(el).innerHTML=items.map(t=>`<div class="tile"><div cl
 
 // tooltip
 const tip=$('tip');
-function showTip(e,html){tip.innerHTML=html;tip.hidden=false;moveTip(e)}
+// touch: tap shows, tapping the same mark again or anywhere else (or scrolling) closes
+let tipNode=null,tipAt=0,ptr='mouse';
+addEventListener('pointerdown',e=>{ptr=e.pointerType||'mouse';if(ptr!=='mouse'&&!tip.hidden&&!(tipNode&&tipNode.contains(e.target)))hideTip()},true);
+addEventListener('scroll',()=>{if(ptr!=='mouse'&&performance.now()-tipAt>400)hideTip()},{passive:true,capture:true});
+function showTip(e,html){tipNode=e.currentTarget||null;tipAt=performance.now();tip.innerHTML=html;tip.hidden=false;moveTip(e)}
 function moveTip(e){let x,y;if(e.clientX!=null&&e.type!=='focus'){x=e.clientX;y=e.clientY}else{const r=e.target.getBoundingClientRect();x=r.left+r.width/2;y=r.top}
   const w=tip.offsetWidth,h=tip.offsetHeight;x=Math.min(x+14,innerWidth-w-8);y=y-h-12<8?y+18:y-h-12;tip.style.left=x+'px';tip.style.top=y+'px'}
-function hideTip(){tip.hidden=true}
-function bindTip(node,html){node.addEventListener('mouseenter',e=>showTip(e,html));node.addEventListener('mousemove',moveTip);node.addEventListener('mouseleave',hideTip);node.addEventListener('focus',e=>showTip(e,html));node.addEventListener('blur',hideTip)}
+function hideTip(){tip.hidden=true;tipNode=null}
+function bindTip(node,html){node.addEventListener('mouseenter',e=>showTip(e,html));node.addEventListener('mousemove',moveTip);node.addEventListener('mouseleave',hideTip);node.addEventListener('focus',e=>showTip(e,html));node.addEventListener('blur',hideTip);node.addEventListener('click',e=>{if(ptr==='mouse')return;if(!tip.hidden&&tipNode===node&&performance.now()-tipAt>350)hideTip();else showTip(e,html)})}
 
 const NS='http://www.w3.org/2000/svg';
 function el(tag,attrs,parent){const n=document.createElementNS(NS,tag);for(const k in attrs)n.setAttribute(k,attrs[k]);if(parent)parent.appendChild(n);return n}
