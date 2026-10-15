@@ -6,7 +6,7 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 ## Files
 
 - [data.json](data.json): The full dataset the page is drawn from (every file listed here, plus team colors and per-team detail)
-- [team_summary.csv](team_summary.csv): One row per team: record, points, EPA/play and success rate (offense, defense, pass, rush) with ranks, FTN DVOA, broken tackles, pressure, coverage allowed, FTN charting rates, average personnel on the field, accepted penalties, presnap motion (32 rows)
+- [team_summary.csv](team_summary.csv): One row per team: record, points, EPA/play and success rate (offense, defense, pass, rush) with ranks, FTN DVOA, broken tackles, pressure, coverage allowed, FTN charting rates, average personnel on the field, accepted penalties, presnap motion, play action by QB alignment, heavy sets (32 rows)
 - [dvoa.csv](dvoa.csv): FTN DVOA ratings through Week 5 (total, offense, defense, special teams, with ranks) (32 rows)
 - [team_efficiency.csv](team_efficiency.csv): Team EPA, success rate, points and ranks (also inside team_summary.csv) (32 rows)
 - [qbs.csv](qbs.csv): Quarterbacks: EPA per dropback, CPOE, success rate, sack rate, NGS time to throw and aggressiveness (q = meets NGS qualifier) (43 rows)
@@ -17,6 +17,9 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 - [broken_tackles_leaders.csv](broken_tackles_leaders.csv): Broken tackle leaders (PFR) (10 rows)
 - [personnel_avg_on_field.csv](personnel_avg_on_field.csv): Average players on the field per snap by position (from snap counts) (32 rows)
 - [motion_team.csv](motion_team.csv): Presnap motion by team (FTN is_motion + pbp EPA): motion rate and EPA/play, yards/play, success rate with (_m) and without (_n) motion, all plays / pass_ / run_, offense (o_) and defense faced (d_), with ranks (32 rows)
+- [pa_under_center_team.csv](pa_under_center_team.csv): Play action from under center by team (FTN is_play_action + qb_location U, pbp EPA): rate = share of all dropbacks, arate = share of under-center dropbacks; EPA/play, yards/play, success rate on those plays (_m) and on all dropbacks without play action (_n); offense (o_) and defense faced (d_), with ranks (32 rows)
+- [pa_shotgun_team.csv](pa_shotgun_team.csv): Play action from shotgun or pistol by team (FTN qb_location S or P), same columns as pa_under_center_team.csv (32 rows)
+- [heavy_sets_team.csv](heavy_sets_team.csv): Heavy sets by team: plays with 2+ players in the backfield besides the QB (FTN n_offense_backfield; a proxy, since per-play personnel isn't published for 2026), same columns as motion_team.csv (32 rows)
 - [penalties_team.csv](penalties_team.csv): Accepted penalties by team: count and yards, split offense/defense/special teams, first downs given by defensive fouls; per game and rank (1 = fewest) (32 rows)
 - [ftn_offense.csv](ftn_offense.csv): FTN charting rates, offense: play action, motion, interceptable throws, drops, blitzes faced, out of pocket, screens (32 rows)
 - [ftn_defense.csv](ftn_defense.csv): FTN charting rates, defense (same columns, as faced/allowed) (32 rows)
@@ -62,3 +65,5 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 - `avg_on_field_*`: average number of players at each position per snap.
 - `penalties_*`: accepted penalties committed by the team (nflverse play-by-play; declined and offsetting fouls excluded). `n`, `yds`, `off_n`, `def_n`, `st_n` (flags on kicks and punts), `fd` (first downs given by defensive fouls), each with `_pg` per game and `_rk`, where 1 is fewest.
 - `motion_*`: presnap motion (FTN charting, every pass and run play). `o_` offense, `d_` defense faced; `pass_` / `run_` split by dropbacks and designed runs. `rate` = share of plays with motion (`_rk` 1 = most). `epa_m` / `epa_n`, `ypp_m` / `ypp_n`, `sr_m` / `sr_n` = EPA per play, yards per play and success rate with and without motion; `gain` = `epa_m` minus `epa_n`. `n` plays, `n_m` plays with motion. EPA ranks: 1 is best.
+- `pa_uc_*`, `pa_gun_*`: play action from under center (FTN qb_location U) and from shotgun or pistol (S, P), dropbacks only. `rate` = share of all dropbacks (`_rk` 1 = most), `arate` = share of that alignment's dropbacks. `_m` = those play-action plays, `_n` = every dropback without play action from any alignment; `n_m` and `n_o` are their play counts, `n` all dropbacks. Other columns as in `motion_*`.
+- `heavy_*`: heavy sets, meaning two or more players in the backfield besides the QB (FTN n_offense_backfield >= 2). Play-level personnel groupings aren't published for 2026, so this is a proxy: it counts fullback, two-back and H-back looks, not extra tight ends on the line. `_m` heavy, `_n` all other plays, `n_o` their count; columns as in `motion_*`.
