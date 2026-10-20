@@ -41,18 +41,19 @@ BAL,Devontez Walker,Devontez Walker,0.0,0.0,4.0,81
 BAL,Matthew Hibner,Matthew Hibner,0.0,0.0,5.0,88
 BAL,Tyler Huntley,Tyler Huntley,0.0,0.0,10.0,5
 BAL,Justice Hill,Justice Hill,0.0,0.0,25.0,43
-BUF,James Cook,James Cook,7.0,0.0,77.0,4
+BUF,James Cook,James Cook,8.0,0.0,102.0,4
 BUF,D.J. Moore,DJ Moore,0.0,3.0,14.0,2
 BUF,Dalton Kincaid,Dalton Kincaid,0.0,2.0,16.0,86
+BUF,Josh Allen,Josh Allen,2.0,0.0,44.0,17
+BUF,Ray Davis,Ray Davis,0.0,1.0,6.0,7
 BUF,Ty Johnson,Ty Johnson,0.0,1.0,11.0,26
+BUF,Skyler Bell,Skyler Bell,0.0,0.0,0.0,13
 BUF,Jackson Hawes,Jackson Hawes,0.0,0.0,0.0,85
 BUF,Frank Gore,Frank Gore Jr.,0.0,0.0,1.0,20
 BUF,Josh Palmer,Josh Palmer,0.0,0.0,3.0,5
-BUF,Ray Davis,Ray Davis,0.0,0.0,4.0,7
 BUF,Dawson Knox,Dawson Knox,0.0,0.0,8.0,88
 BUF,Keon Coleman,Keon Coleman,0.0,0.0,15.0,0
 BUF,Khalil Shakir,Khalil Shakir,0.0,0.0,18.0,10
-BUF,Josh Allen,Josh Allen,0.0,0.0,34.0,17
 CAR,Chuba Hubbard,Chuba Hubbard,5.0,2.0,71.0,30
 CAR,Tommy Tremble,Tommy Tremble,0.0,2.0,11.0,82
 CAR,AJ Dillon,AJ Dillon,2.0,0.0,19.0,28
@@ -215,9 +216,10 @@ KC,Noah Gray,Noah Gray,0.0,0.0,6.0,83
 KC,Tyquan Thornton,Tyquan Thornton,0.0,0.0,11.0,2
 KC,Patrick Mahomes,Patrick Mahomes,0.0,0.0,12.0,15
 KC,Xavier Worthy,Xavier Worthy,0.0,0.0,14.0,1
-LA,Kyren Williams,Kyren Williams,3.0,2.0,81.0,23
-LA,Puka Nacua,Puka Nacua,0.0,2.0,32.0,12
+LA,Kyren Williams,Kyren Williams,5.0,2.0,97.0,23
+LA,Puka Nacua,Puka Nacua,0.0,3.0,34.0,12
 LA,Ronnie Rivers,Ronnie Rivers,0.0,1.0,6.0,20
+LA,Blake Corum,Blake Corum,0.0,1.0,45.0,24
 LA,Xavier Smith,Xavier Smith,0.0,0.0,0.0,19
 LA,Stetson Bennett,Stetson Bennett,0.0,0.0,1.0,13
 LA,Jordan Whittington,Jordan Whittington,0.0,0.0,2.0,88
@@ -229,7 +231,6 @@ LA,Terrance Ferguson,Terrance Ferguson,0.0,0.0,7.0,18
 LA,Matthew Stafford,Matthew Stafford,0.0,0.0,11.0,9
 LA,Tyler Higbee,Tyler Higbee,0.0,0.0,20.0,89
 LA,Davante Adams,Davante Adams,0.0,0.0,27.0,17
-LA,Blake Corum,Blake Corum,0.0,0.0,40.0,24
 LAC,Omarion Hampton,Omarion Hampton,9.0,0.0,78.0,8
 LAC,Keaton Mitchell,Keaton Mitchell,5.0,2.0,45.0,34
 LAC,Justin Herbert,Justin Herbert,4.0,0.0,24.0,10
