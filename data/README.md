@@ -1,6 +1,6 @@
 # NFL 2026 Stat Sheet data (through Week 6)
 
-Plain-file copy of the data behind https://mpatricio1.github.io/NFL-Stats/ , rebuilt every Wednesday with the page. Data as of 2026-10-20.
+Plain-file copy of the data behind https://mpatricio1.github.io/NFL-Stats/ , rebuilt every Wednesday with the page. Data as of 2026-10-21.
 Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced stats, snap counts, rosters) and FTN's weekly DVOA ratings.
 
 ## Files
@@ -11,8 +11,8 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 - [team_efficiency.csv](team_efficiency.csv): Team EPA, success rate, points and ranks (also inside team_summary.csv) (32 rows)
 - [qbs.csv](qbs.csv): Quarterbacks: EPA per dropback, CPOE, success rate, sack rate, NGS time to throw and aggressiveness (q = meets NGS qualifier) (45 rows)
 - [rushers.csv](rushers.csv): Rushers league-wide: carries, yards, EPA per carry, success rate, NGS rush yards over expected (74 rows)
-- [receivers_ngs.csv](receivers_ngs.csv): Receivers and TEs league-wide (NGS qualifiers): targets, separation, YAC over expected, intended air yards (125 rows)
-- [qb_pressure_to_sack.csv](qb_pressure_to_sack.csv): QB pressures, sacks and pressure-to-sack rate (PFR) (43 rows)
+- [receivers_ngs.csv](receivers_ngs.csv): Receivers and TEs league-wide (NGS qualifiers): targets, separation, YAC over expected, intended air yards (111 rows)
+- [qb_pressure_to_sack.csv](qb_pressure_to_sack.csv): QB pressures, sacks and pressure-to-sack rate (PFR) (45 rows)
 - [broken_tackles_team.csv](broken_tackles_team.csv): Broken tackles by team (PFR, rushing + receiving), per game and rank (32 rows)
 - [broken_tackles_leaders.csv](broken_tackles_leaders.csv): Broken tackle leaders (PFR) (10 rows)
 - [personnel_avg_on_field.csv](personnel_avg_on_field.csv): Average players on the field per snap by position (from snap counts) (32 rows)
@@ -27,16 +27,16 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 - [team_games.csv](team_games.csv): Game log: opponent, score, EPA, success rate, yards, turnovers (all 32 teams, team column) (186 rows)
 - [team_pa_split.csv](team_pa_split.csv): Play action vs. not: EPA per dropback (all 32 teams, team column) (64 rows)
 - [team_blitz.csv](team_blitz.csv): Blitzed vs. not: EPA per dropback (all 32 teams, team column) (64 rows)
-- [team_qb_ngs.csv](team_qb_ngs.csv): NGS passing by week (week 0 = season) (all 32 teams, team column) (229 rows)
+- [team_qb_ngs.csv](team_qb_ngs.csv): NGS passing by week (week 0 = season) (all 32 teams, team column) (226 rows)
 - [team_rushers.csv](team_rushers.csv): Team rushers: carries, yards, EPA, success rate, RYOE (all 32 teams, team column) (120 rows)
-- [team_rush_pfr.csv](team_rush_pfr.csv): Yards before and after contact (PFR) (all 32 teams, team column) (214 rows)
-- [team_bt_players.csv](team_bt_players.csv): Broken tackles by player (PFR) (all 32 teams, team column) (454 rows)
+- [team_rush_pfr.csv](team_rush_pfr.csv): Yards before and after contact (PFR) (all 32 teams, team column) (227 rows)
+- [team_bt_players.csv](team_bt_players.csv): Broken tackles by player (PFR) (all 32 teams, team column) (470 rows)
 - [team_lanes.csv](team_lanes.csv): Run results by gap/lane (all 32 teams, team column) (242 rows)
 - [team_rec.csv](team_rec.csv): Receiving: targets, share, EPA/target, separation, YAC over expected (all 32 teams, team column) (363 rows)
 - [team_snaps.csv](team_snaps.csv): Snap counts and shares, offense and defense (all 32 teams, team column) (1866 rows)
 - [team_defense.csv](team_defense.csv): Defenders: snaps, coverage allowed, pressures, missed tackles, tackles, sacks (all 32 teams, team column) (720 rows)
 - [team_st.csv](team_st.csv): Special teams: kicking, punting, returns (all 32 teams, team column) (187 rows)
-- [team_sacks.csv](team_sacks.csv): Every sack taken, with FTN context (rushers, blitzers, QB fault) and bucket (all 32 teams, team column) (423 rows)
+- [team_sacks.csv](team_sacks.csv): Every sack taken, with FTN context (rushers, blitzers, QB fault) and bucket (all 32 teams, team column) (429 rows)
 - [team_backs.csv](team_backs.csv): Offense by backs in the backfield (FTN), with league comparison (all 32 teams, team column) (96 rows)
 - [team_box_off.csv](team_box_off.csv): Designed runs by defenders in the box (FTN), with league comparison (all 32 teams, team column) (96 rows)
 - [team_box_def.csv](team_box_def.csv): Run defense by box count (FTN), with league comparison (all 32 teams, team column) (96 rows)
@@ -44,7 +44,7 @@ Sources: nflverse (play-by-play EPA, Next Gen Stats, FTN charting, PFR advanced 
 - [team_penalty_players.csv](team_penalty_players.csv): Accepted penalties by player and page section (QB, RB, WR incl. TE, OL, FRONT, DB; ST = any flag on a kick or punt) (all 32 teams, team column) (784 rows)
 - [team_penalties_by_group.csv](team_penalties_by_group.csv): Accepted penalties by page section: flags, yards and per-game rank among 32 teams, 1 = fewest (TEAM = no player named) (all 32 teams, team column) (288 rows)
 - [penalties.csv](penalties.csv): Every accepted foul: game, week, team, phase (off/def/st), type, yards, player, roster position, page section (1400 rows)
-- [team_coverage_by_group.csv](team_coverage_by_group.csv): Coverage allowed by position group (CB, S, LB, Edge/DL), PFR (all 32 teams, team column) (130 rows)
+- [team_coverage_by_group.csv](team_coverage_by_group.csv): Coverage allowed by position group (CB, S, LB, Edge/DL), PFR (all 32 teams, team column) (131 rows)
 - [commentary.csv](commentary.csv): Hand-written team write-ups, one row per team and section (512 rows)
 - [commentary.md](commentary.md): The same write-ups as one readable Markdown file (512 rows)
 
