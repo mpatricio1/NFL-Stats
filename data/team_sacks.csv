@@ -380,6 +380,8 @@ SEA,6,DEN,4,3.0,11,Sam Darnold,-7.0,5.0,1.0,False,False,-1.961,Blitz,14
 SF,5,SEA,1,3.0,1,Brock Purdy,-4.0,4.0,0.0,False,True,-2.601,QB fault (FTN),13
 SF,5,SEA,2,1.0,10,Brock Purdy,-8.0,5.0,1.0,False,True,-1.581,QB fault (FTN),13
 SF,5,SEA,2,3.0,12,Brock Purdy,-2.0,3.0,0.0,True,False,-1.43,Extended play,13
+SF,6,WAS,3,1.0,10,Brock Purdy,-9.0,6.0,2.0,False,False,-1.466,Blitz,13
+SF,6,WAS,4,2.0,4,Brock Purdy,-6.0,6.0,2.0,False,False,-1.347,Blitz,13
 TB,1,CIN,1,3.0,9,Baker Mayfield,-7.0,5.0,1.0,True,True,-6.569,QB fault (FTN),6
 TB,1,CIN,1,1.0,10,Baker Mayfield,-4.0,4.0,0.0,True,True,-1.177,QB fault (FTN),6
 TB,1,CIN,3,3.0,6,Baker Mayfield,-9.0,4.0,0.0,False,True,-2.481,QB fault (FTN),6
@@ -422,3 +424,7 @@ WAS,5,NYG,1,3.0,10,Jayden Daniels,-8.0,5.0,1.0,False,False,-1.887,Blitz,5
 WAS,5,NYG,4,3.0,8,Jayden Daniels,-6.0,7.0,3.0,False,False,-1.618,Blitz,5
 WAS,5,NYG,4,2.0,10,Jayden Daniels,-3.0,6.0,2.0,False,False,-0.827,Blitz,5
 WAS,5,NYG,5,2.0,8,Jayden Daniels,0.0,6.0,2.0,True,True,-1.95,QB fault (FTN),5
+WAS,6,SF,1,3.0,9,Jayden Daniels,-6.0,6.0,2.0,False,False,-1.926,Blitz,5
+WAS,6,SF,2,1.0,19,Jayden Daniels,-3.0,4.0,0.0,False,True,-0.779,QB fault (FTN),5
+WAS,6,SF,3,3.0,8,Jayden Daniels,-12.0,4.0,0.0,False,True,-2.138,QB fault (FTN),5
+WAS,6,SF,4,3.0,22,Jayden Daniels,-18.0,3.0,0.0,False,False,-0.77,Standard rush won,5

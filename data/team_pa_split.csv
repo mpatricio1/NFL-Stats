@@ -55,11 +55,11 @@ PIT,False,-0.219,212
 PIT,True,0.271,44
 SEA,False,-0.023,159
 SEA,True,0.216,60
-SF,False,0.514,118
-SF,True,0.125,39
+SF,False,0.432,148
+SF,True,0.123,43
 TB,False,-0.14,191
 TB,True,-0.341,50
 TEN,False,-0.119,156
 TEN,True,-0.375,44
-WAS,False,0.059,151
-WAS,True,0.085,44
+WAS,False,0.028,187
+WAS,True,0.174,53

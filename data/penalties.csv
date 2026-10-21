@@ -615,7 +615,7 @@ game_id,week,team,side,type,yds,first_down,jersey,gsis_id,pos,name,grp
 2026_03_MIN_TB,3,TB,def,Defensive Offside,5,False,34,00-0033914,LB,Alex Anzalone,FRONT
 2026_03_MIN_TB,3,TB,off,Offensive Holding,10,False,87,00-0039050,TE,Payne Durham,WR
 2026_03_MIN_TB,3,MIN,def,Unnecessary Roughness,15,True,44,00-0036348,S,Josh Metellus,DB
-2026_03_MIN_TB,3,TB,st,Unnecessary Roughness,15,False,38,00-0040089,S,Kevin Knowles,ST
+2026_03_MIN_TB,3,TB,st,Unnecessary Roughness,15,False,38,00-0040089,CB,Kevin Knowles,ST
 2026_03_MIN_TB,3,MIN,off,Offensive Holding,9,False,76,00-0036483,OL,Will Fries,OL
 2026_03_MIN_TB,3,MIN,off,Block in the back,10,False,74,00-0040661,OL,Donovan Jackson,OL
 2026_03_NE_JAX,3,JAX,st,Block in the back,10,False,31,00-0035240,LB,Jahlani Tavai,ST
@@ -1347,7 +1347,7 @@ game_id,week,team,side,type,yds,first_down,jersey,gsis_id,pos,name,grp
 2026_06_PIT_TB,6,PIT,st,Block in the back,10,False,40,00-0040341,CB,Doneiko Slaughter,ST
 2026_06_PIT_TB,6,PIT,st,Illegal Blindside Block,15,False,55,00-0035286,LB,Cole Holcomb,ST
 2026_06_PIT_TB,6,PIT,def,Defensive Pass Interference,22,True,23,00-0041393,CB,Daylen Everette,DB
-2026_06_PIT_TB,6,TB,st,Offensive Holding,6,False,38,00-0040089,S,Kevin Knowles,ST
+2026_06_PIT_TB,6,TB,st,Offensive Holding,6,False,38,00-0040089,CB,Kevin Knowles,ST
 2026_06_PIT_TB,6,TB,off,False Start,5,False,67,00-0037835,OL,Luke Goedeke,OL
 2026_06_PIT_TB,6,TB,def,Roughing the Passer,15,True,94,00-0039063,DL,Calijah Kancey,FRONT
 2026_06_PIT_TB,6,PIT,off,Illegal Shift,5,False,80,00-0038558,TE,Darnell Washington,WR
