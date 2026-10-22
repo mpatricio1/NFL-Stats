@@ -120,12 +120,37 @@ nav.units .wrap{align-items:center}
 .ha button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
 .ha button:focus-visible{outline:2px solid var(--ne);outline-offset:-2px}
 @media (max-width:520px){.pick>span:first-child{display:none}.pick select{max-width:44vw}}
-/* Nav wraps so every section button stays visible (no hidden horizontal scroll). Sticky offset follows the nav's real height (--navh, set in JS). */
-nav.units .wrap{flex-wrap:wrap;overflow:visible;column-gap:2px;row-gap:4px}
-nav.units a{padding:3px 8px}
-section.unit{scroll-margin-top:calc(var(--navh,52px) + 8px)}
-@media (max-width:900px){.pick{flex-basis:100%;margin:0 0 4px;padding:0 0 8px;border-right:0;border-bottom:1px solid var(--rule)}nav.units a{font-size:15px;padding:3px 7px}}
-@media (max-width:640px){nav.units{position:static}section.unit{scroll-margin-top:12px}nav.units a{font-size:14px;padding:2px 6px}}
+/* Grouped section nav: row 1 = team picker + group tabs, row 2 = one line of chips for the active group. Sticky at every width; on phones the picker row sits above and scrolls away (top = -pick height, --pickh set in JS) so only tabs + chips stay pinned. */
+nav.units{top:calc(env(safe-area-inset-top,0px) - var(--pickh,0px))}
+nav.units .wrap.navrow{flex-wrap:wrap;overflow:visible;padding-block:8px 6px;gap:6px}
+.groups{display:flex;gap:2px;flex:1 1 auto;min-width:0}
+.groups button{flex:none;font-family:var(--display);font-size:16px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--ink-2);background:none;border:0;border-bottom:3px solid transparent;padding:4px 10px 3px;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.groups button:hover{color:var(--ink)}
+.groups button[aria-pressed="true"]{color:var(--ink);border-bottom-color:var(--ne)}
+.groups button:focus-visible{outline:2px solid var(--ne);outline-offset:-2px}
+nav.units .wrap.chips{flex-wrap:nowrap;overflow-x:auto;padding-block:0 8px;gap:4px;scrollbar-width:none;-webkit-overflow-scrolling:touch}
+nav.units .wrap.chips::-webkit-scrollbar{display:none}
+nav.units .chips a{font-family:var(--body);font-size:13.5px;font-weight:600;letter-spacing:0;text-transform:none;color:var(--ink-2);border:1px solid var(--rule);border-radius:999px;padding:3px 11px;background:var(--surface);white-space:nowrap}
+nav.units .chips a[aria-current="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+nav.units .chips a[hidden]{display:none}
+nav.units .chips.more{-webkit-mask-image:linear-gradient(90deg,#000 85%,transparent);mask-image:linear-gradient(90deg,#000 85%,transparent)}
+section.unit,h3.sub[id],footer#sources{scroll-margin-top:calc(var(--navh,52px) - var(--pickh,0px) + 10px)}
+@media (max-width:640px){
+  .pick{flex-basis:100%;margin:0;padding:0 0 8px;border-right:0;border-bottom:1px solid var(--rule)}
+  .pick select{flex:1 1 auto;min-width:0;max-width:none}
+  .groups{flex-basis:100%;justify-content:space-between}
+  .groups button{font-size:14.5px;padding:4px 4px 3px;letter-spacing:.02em}
+  nav.units .wrap.chips{gap:3px}
+  nav.units .chips a{font-size:12.5px;padding:3px 7px}
+  /* compact scoreboard: three small cards per row */
+  header.band{padding-block:18px 14px}
+  .board{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+  .game{min-width:0;padding:5px 7px;font-size:11.5px}
+  .game b,.game .wl{font-size:17px}
+  .game .sub{font-size:10px}
+  .record{gap:6px 18px;margin-top:12px;font-size:11.5px}
+  .record strong{font-size:22px}
+}
 </style>
 
 <header class="band">
@@ -136,9 +161,15 @@ section.unit{scroll-margin-top:calc(var(--navh,52px) + 8px)}
     <div class="record" id="record"></div>
   </div>
 </header>
-<nav class="units" aria-label="Team and position groups"><div class="wrap">
+<nav class="units" aria-label="Team and sections"><div class="wrap navrow">
   <label class="pick" for="teamSel"><span>Team</span><select id="teamSel"></select><span class="ha" role="group" aria-label="Color scheme"><button type="button" data-ha="home" aria-pressed="true">Home</button><button type="button" data-ha="away" aria-pressed="false">Away</button></span></label>
-  <a href="#team">Team</a><a href="#splits">Situational splits</a><a href="#personnel">Personnel</a><a href="#motion">Motion</a><a href="#pauc">Under-center PA</a><a href="#pasg">Shotgun PA</a><a href="#heavy">Heavy sets</a><a href="#qb">Quarterbacks</a><a href="#rb">Running backs</a><a href="#wr">Receivers &amp; TE</a><a href="#ol">Offensive line</a><a href="#front">Front seven</a><a href="#db">Secondary</a><a href="#cov">Coverage</a><a href="#st">Special teams</a><a href="#sources">Sources</a>
+  <div class="groups" role="group" aria-label="Section groups"><button type="button" data-g="team">Team</button><button type="button" data-g="scheme">Scheme</button><button type="button" data-g="off">Offense</button><button type="button" data-g="def">Defense</button><button type="button" data-g="st">Special teams</button></div>
+</div><div class="wrap chips" aria-label="Sections">
+  <a data-g="team" href="#team">Efficiency</a><a data-g="team" href="#penalties">Penalties</a><a data-g="team" href="#splits">Splits</a><a data-g="team" href="#gamestate">Game state</a><a data-g="team" href="#passdepth">Pass depth</a>
+  <a data-g="scheme" href="#personnel">Personnel</a><a data-g="scheme" href="#motion">Motion</a><a data-g="scheme" href="#pauc">Under center PA</a><a data-g="scheme" href="#pasg">Shotgun PA</a><a data-g="scheme" href="#heavy">Heavy</a>
+  <a data-g="off" href="#qb">QBs</a><a data-g="off" href="#rb">RBs</a><a data-g="off" href="#wr">WRs &amp; TEs</a><a data-g="off" href="#ol">O-line</a>
+  <a data-g="def" href="#front">Front seven</a><a data-g="def" href="#db">Secondary</a><a data-g="def" href="#cov">Coverage</a>
+  <a data-g="st" href="#st">Special teams</a><a data-g="st" href="#sources">Sources</a>
 </div></nav>
 
 <main class="wrap">
@@ -1055,7 +1086,24 @@ $('asof').textContent=new Date(D.asof+'T12:00:00').toLocaleDateString('en-US',{m
 function pick(T,push){if(!D.teams[T])return;sel.value=T;render(T);try{localStorage.setItem('team',T)}catch(e){}if(push)try{history.replaceState(null,'','#'+T)}catch(e){}}
 sel.addEventListener('change',()=>pick(sel.value,true));
 // Home/Away color scheme toggle; the choice carries across team switches
-{const nav=document.querySelector('nav.units'),setH=()=>document.documentElement.style.setProperty('--navh',nav.offsetHeight+'px');setH();try{new ResizeObserver(setH).observe(nav)}catch(e){addEventListener('resize',setH)}}
+{const nav=document.querySelector('nav.units'),pk=nav.querySelector('.pick'),rs=document.documentElement.style,setH=()=>{rs.setProperty('--navh',nav.offsetHeight+'px');rs.setProperty('--pickh',(innerWidth<=640?pk.offsetHeight+6:0)+'px')};setH();try{new ResizeObserver(setH).observe(nav)}catch(e){}addEventListener('resize',setH)}
+// Grouped section nav: tapping a group shows its chips and jumps to its first section; chips jump to a section; the bar follows the reader's position (hash stays the team code)
+{const gBtns=[...document.querySelectorAll('.groups button')],chips=[...document.querySelectorAll('.chips a')],row=document.querySelector('.chips'),
+ tgt=chips.map(c=>document.getElementById(c.getAttribute('href').slice(1)));let cur=null,lockUntil=0;
+ const smooth=matchMedia('(prefers-reduced-motion: no-preference)').matches?'smooth':'auto';
+ function setGroup(g){gBtns.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.g===g)));chips.forEach(c=>c.hidden=c.dataset.g!==g);fade()}
+ function fade(){row.classList.toggle('more',row.scrollWidth-row.clientWidth-row.scrollLeft>2)}
+ row.addEventListener('scroll',fade,{passive:true});
+ function setCur(i){if(i===cur)return;cur=i;const c=chips[i];setGroup(c.dataset.g);chips.forEach(x=>x.setAttribute('aria-current',String(x===c)));
+  const l=c.offsetLeft-row.offsetLeft,r=l+c.offsetWidth;if(l<row.scrollLeft||r>row.scrollLeft+row.clientWidth)row.scrollLeft=l-12;fade()}
+ function go(i){const t=tgt[i];if(!t)return;setCur(i);lockUntil=performance.now()+900;t.scrollIntoView({behavior:smooth,block:'start'})}
+ chips.forEach((c,i)=>c.addEventListener('click',e=>{e.preventDefault();go(i)}));
+ gBtns.forEach(b=>b.addEventListener('click',()=>go(chips.findIndex(c=>c.dataset.g===b.dataset.g))));
+ function spy(){if(performance.now()<lockUntil)return;const line=parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--navh'))-(parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--pickh'))||0)+24;
+  let i=0;tgt.forEach((t,k)=>{if(t&&t.getBoundingClientRect().top<=line)i=k});
+  if(innerHeight+scrollY>=document.documentElement.scrollHeight-4)i=tgt.length-1;setCur(i)}
+ let raf=0;addEventListener('scroll',()=>{if(!raf)raf=requestAnimationFrame(()=>{raf=0;spy()})},{passive:true});
+ addEventListener('scrollend',()=>{lockUntil=0;spy()});addEventListener('resize',spy);spy()}
 const haBtns=[...document.querySelectorAll('.ha button')];
 function setHA(v,redraw){HA=v==='away'?'away':'home';haBtns.forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.ha===HA)));try{localStorage.setItem('ha',HA)}catch(e){}if(redraw)render(sel.value)}
 haBtns.forEach(b=>b.addEventListener('click',e=>{e.preventDefault();setHA(b.dataset.ha,true)}));
