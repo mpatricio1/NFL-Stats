@@ -407,10 +407,10 @@ SEA,Tory Horton,Tory Horton,0.0,0.0,5.0,15
 SEA,Velus Jones,Velus Jones Jr.,0.0,0.0,5.0,33
 SEA,Sam Darnold,Sam Darnold,0.0,0.0,7.0,14
 SEA,Rashid Shaheed,Rashid Shaheed,0.0,0.0,18.0,22
-SF,Christian McCaffrey,Christian McCaffrey,2.0,3.0,89.0,23
+SF,Christian McCaffrey,Christian McCaffrey,2.0,3.0,105.0,23
 SF,Deebo Samuel,Deebo Samuel Sr.,2.0,0.0,25.0,19
 SF,George Kittle,George Kittle,0.0,2.0,26.0,85
-SF,Kaelon Black,Kaelon Black,1.0,0.0,39.0,26
+SF,Kaelon Black,Kaelon Black,1.0,0.0,47.0,26
 SF,Jake Brendel,Jake Brendel,0.0,0.0,1.0,64
 SF,KhaDarel Hodge,KhaDarel Hodge,0.0,0.0,1.0,86
 SF,Brandin Cooks,Brandin Cooks,0.0,0.0,2.0,84
@@ -421,8 +421,8 @@ SF,Jordan Watkins,Jordan Watkins,0.0,0.0,3.0,17
 SF,Jordan James,Jordan James,0.0,0.0,4.0,29
 SF,Kyle Juszczyk,Kyle Juszczyk,0.0,0.0,5.0,44
 SF,Demarcus Robinson,Demarcus Robinson,0.0,0.0,5.0,11
-SF,Brock Purdy,Brock Purdy,0.0,0.0,25.0,13
 SF,Mike Evans,Mike Evans,0.0,0.0,27.0,5
+SF,Brock Purdy,Brock Purdy,0.0,0.0,30.0,13
 TB,Bucky Irving,Bucky Irving,16.0,2.0,113.0,7
 TB,Chris Godwin,Chris Godwin Jr.,1.0,3.0,26.0,14
 TB,Jalon Daniels,Jalon Daniels,2.0,0.0,21.0,10
@@ -450,10 +450,12 @@ TEN,Elic Ayomanor,Elic Ayomanor,0.0,0.0,7.0,5
 TEN,Nicholas Singleton,Nicholas Singleton,0.0,0.0,7.0,32
 TEN,Gunnar Helm,Gunnar Helm,0.0,0.0,9.0,84
 TEN,Wan'Dale Robinson,Wan'Dale Robinson,0.0,0.0,26.0,4
-WAS,Rachaad White,Rachaad White,3.0,1.0,43.0,1
+WAS,Rachaad White,Rachaad White,3.0,1.0,50.0,1
 WAS,Jacory Croskey-Merritt,Jacory Croskey-Merritt,1.0,1.0,72.0,22
 WAS,Treylon Burks,Treylon Burks,0.0,1.0,9.0,13
-WAS,Jayden Daniels,Jayden Daniels,1.0,0.0,21.0,5
+WAS,Antonio Williams,Antonio Williams,0.0,1.0,18.0,14
+WAS,Jayden Daniels,Jayden Daniels,1.0,0.0,25.0,5
+WAS,Luke McCaffrey,Luke McCaffrey,0.0,0.0,0.0,11
 WAS,Brandon Coleman,Brandon Coleman,0.0,0.0,1.0,74
 WAS,Ben Sinnott,Ben Sinnott,0.0,0.0,1.0,82
 WAS,Jaylin Lane,Jaylin Lane,0.0,0.0,2.0,83
@@ -461,11 +463,11 @@ WAS,Craig Reynolds,Craig Reynolds,0.0,0.0,2.0,32
 WAS,Colson Yankoff,Colson Yankoff,0.0,0.0,2.0,80
 WAS,Athan Kaliakmanis,Athan Kaliakmanis,0.0,0.0,3.0,16
 WAS,John Bates,John Bates,0.0,0.0,5.0,87
+WAS,Jeremy McNichols,Jeremy McNichols,0.0,0.0,5.0,26
 WAS,Marcus Mariota,Marcus Mariota,0.0,0.0,7.0,8
 WAS,Dyami Brown,Dyami Brown,0.0,0.0,9.0,6
-WAS,Austin Ekeler,Austin Ekeler,0.0,0.0,11.0,30
 WAS,Kaytron Allen,Kaytron Allen,0.0,0.0,12.0,31
+WAS,Austin Ekeler,Austin Ekeler,0.0,0.0,12.0,30
 WAS,Terry McLaurin,Terry McLaurin,0.0,0.0,15.0,17
 WAS,Chig Okonkwo,Chig Okonkwo,0.0,0.0,15.0,85
-WAS,Antonio Williams,Antonio Williams,0.0,0.0,18.0,14
 WAS,Stefon Diggs,Stefon Diggs,0.0,0.0,24.0,3
