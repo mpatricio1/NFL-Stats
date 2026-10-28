@@ -1077,7 +1077,7 @@ game_id,week,team,side,type,yds,first_down,jersey,gsis_id,pos,name,grp
 2026_05_HOU_TEN,5,HOU,st,Delay of Game,5,False,,,,,ST
 2026_05_HOU_TEN,5,TEN,off,False Start,5,False,75,00-0036869,OL,Dan Moore Jr.,OL
 2026_05_IND_PIT,5,PIT,off,Offensive Holding,10,False,67,00-0037336,OL,Brock Hoffman,OL
-2026_05_IND_PIT,5,PIT,st,Illegal Formation,5,False,37,00-0041398,TE,Riley Nowakowski,ST
+2026_05_IND_PIT,5,PIT,st,Illegal Formation,5,False,37,00-0041398,RB,Riley Nowakowski,ST
 2026_05_IND_PIT,5,PIT,off,Offensive Holding,10,False,80,00-0038558,TE,Darnell Washington,WR
 2026_05_IND_PIT,5,IND,def,Defensive Offside,5,False,97,00-0039340,DL,Laiatu Latu,FRONT
 2026_05_IND_PIT,5,IND,def,Defensive Pass Interference,17,True,7,00-0034573,CB,Charvarius Ward,DB
