@@ -67,6 +67,7 @@ h3.sub small{font-family:var(--mono);font-size:12px;font-weight:400;color:var(--
 .panel h3{font-size:14.5px;margin:0 0 2px;font-weight:700}
 .panel .note{font-size:12.5px;color:var(--muted);margin:0 0 8px}
 .chart svg{display:block;width:100%;height:auto;overflow:visible}
+.chart.xscroll{overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}
 .chart text{font-family:var(--mono);font-size:10.5px;fill:var(--muted)}
 .chart .lbl{fill:var(--ink);font-size:11px;font-weight:500}
 .chart .lbl-ne{fill:var(--ink);font-size:11.5px;font-weight:500}
@@ -621,16 +622,19 @@ function render(T){
  scatter('teamScatter',{data:D.team,x:d=>d.off_epa,y:d=>d.def_epa,flipY:true,hi:d=>d.team===T,fx:v=>sg(v,1),fy:v=>sg(v,1),xl:'Offense EPA per play →',yl:'Defense EPA allowed (better ↑)',
   refX:sum(D.team,'off_epa')/nTeams,refY:sum(D.team,'def_epa')/nTeams,label:d=>d.team,aria:'Scatter of offensive vs defensive EPA per play for all 32 teams',
   tip:d=>`<b>${D.names[d.team].full}</b> (${d.w}–${d.l})<div class="m">Off EPA/play ${sg(d.off_epa,3)}<br>Def EPA/play ${sg(d.def_epa,3)}</div>`,tipText:d=>`${d.team}: offense ${sg(d.off_epa,3)}, defense ${sg(d.def_epa,3)}`});
- (function(){const W=520,H=250,m={l:44,r:10,t:14,b:38};const svg=el('svg',{viewBox:`0 0 ${W} ${H}`,role:'img','aria-label':'Offense and defense EPA per play by game'});$('gameBars').appendChild(svg);
-  const vals=G.flatMap(g=>[g.off_epa,g.def_epa]);const lo=Math.min(-.4,...vals),hi=Math.max(.3,...vals);const Y=v=>m.t+(hi-v)/(hi-lo)*(H-m.t-m.b);
-  ticks(lo,hi,5).forEach(v=>{el('line',{x1:m.l,x2:W-m.r,y1:Y(v),y2:Y(v),class:'gl'},svg);el('text',{x:m.l-6,y:Y(v)+3.5,'text-anchor':'end'},svg).textContent=sg(v,1)});
+ (function(){const n=G.length,GW=56,m={l:44,r:10,t:16,b:50},W=Math.max(480,m.l+m.r+GW*n),H=270;const box=$('gameBars');box.classList.add('xscroll');const svg=el('svg',{viewBox:`0 0 ${W} ${H}`,role:'img','aria-label':'Offense and defense EPA per play by game'});svg.style.minWidth=W+'px';box.appendChild(svg);
+  const vals=G.flatMap(g=>[g.off_epa,g.def_epa]);const lo=Math.min(-.4,...vals)-.06,hi=Math.max(.3,...vals)+.06;const Y=v=>m.t+(hi-v)/(hi-lo)*(H-m.t-m.b);
+  ticks(lo,hi,5).forEach(v=>{if(v<lo||v>hi)return;el('line',{x1:m.l,x2:W-m.r,y1:Y(v),y2:Y(v),class:'gl'},svg);el('text',{x:m.l-6,y:Y(v)+3.5,'text-anchor':'end'},svg).textContent=sg(v,1)});
   el('line',{x1:m.l,x2:W-m.r,y1:Y(0),y2:Y(0),class:'ax'},svg);
-  const gw=(W-m.l-m.r)/G.length,bw=Math.min(40,gw*.28);
-  G.forEach((g,i)=>{const cx=m.l+gw*i+gw/2;[['off_epa','var(--navy)',-1,'Offense'],['def_epa','var(--ne)',1,'Defense allowed']].forEach(([k,c,s,nm])=>{const v=g[k],x=cx+s*(bw/2+1)-bw/2,y=Math.min(Y(v),Y(0)),h=Math.max(Math.abs(Y(v)-Y(0)),1);
-    const r=el('rect',{x,y,width:bw,height:h,fill:c,rx:3,tabindex:0,'aria-label':`Week ${g.week} ${nm} EPA ${sg(v,3)}`},svg);bindTip(r,`<b>Week ${g.week} ${g.home?'vs':'at'} ${g.opp}</b><div class="m">${nm} EPA/play ${sg(v,3)}</div>`);
-    el('text',{x:x+bw/2,y:v>=0?Y(v)-4:Y(v)+12,'text-anchor':'middle',class:'lbl'},svg).textContent=sg(v,2)});
-   el('text',{x:cx,y:H-m.b+16,'text-anchor':'middle',class:'lbl'},svg).textContent=`Wk ${g.week} ${g.home?'vs':'@'} ${g.opp}`;
-   el('text',{x:cx,y:H-m.b+30,'text-anchor':'middle'},svg).textContent=`${g.pf>g.pa?'W':g.pf<g.pa?'L':'T'} ${g.pf}–${g.pa}`});})();
+  const gw=(W-m.l-m.r)/n,bw=Math.min(30,gw*.3),LH=12;
+  G.forEach((g,i)=>{const cx=m.l+gw*i+gw/2;
+    // value labels, colored by series: when both bars sit on the same side of zero, stack both labels above/below the taller bar (larger value outermost) so they never overlap a bar or each other
+    const L=[['off_epa','var(--navy)',-1,'Offense'],['def_epa','var(--ne)',1,'Defense allowed']].map(([k,c,s,nm])=>{const v=g[k],x=cx+s*(bw/2+1)-bw/2,y=Math.min(Y(v),Y(0)),h=Math.max(Math.abs(Y(v)-Y(0)),1);
+      const r=el('rect',{x,y,width:bw,height:h,fill:c,rx:3,tabindex:0,'aria-label':`Week ${g.week} ${nm} EPA ${sg(v,3)}`},svg);bindTip(r,`<b>Week ${g.week} ${g.home?'vs':'at'} ${g.opp}</b><div class="m">${nm} EPA/play ${sg(v,3)}</div>`);
+      return {v,x:x+bw/2,y:v>=0?Y(v)-4:Y(v)+12}});
+    const [a,b]=L;a.c='var(--navy)';b.c='var(--ne)';if((a.v>=0)===(b.v>=0)){const up=a.v>=0,[inr,out]=Math.abs(a.v)>=Math.abs(b.v)?[b,a]:[a,b];inr.y=out.y;out.y+=up?-LH:LH;inr.x=out.x=cx}
+    L.forEach(o=>{const t=el('text',{x:o.x,y:o.y,'text-anchor':'middle',class:'lbl'},svg);if(o.c)t.style.fill=o.c;t.textContent=sg(o.v,2)});
+   [[`Wk ${g.week}`,'lbl'],[`${g.home?'vs':'@'} ${g.opp}`,''],[`${g.pf>g.pa?'W':g.pf<g.pa?'L':'T'} ${g.pf}–${g.pa}`,'']].forEach(([s,c],j)=>{const t=el('text',{x:cx,y:H-m.b+15+j*12.5,'text-anchor':'middle'},svg);if(c)t.setAttribute('class',c);t.textContent=s})});})();
  table('gameTbl',[['Week',g=>`Wk ${g.week} ${g.home?'vs':'at'} ${g.opp}`],['Result',g=>`${g.pf>g.pa?'W':g.pf<g.pa?'L':'T'} ${g.pf}–${g.pa}`],['Off EPA/play',g=>sg(g.off_epa,3)],['Pass EPA',g=>sg(g.pass_epa,3)],['Rush EPA',g=>sg(g.rush_epa,3)],['Success rate',g=>pct(g.off_sr)],['Def EPA/play',g=>sg(g.def_epa,3)],['Yards',g=>g.yards],['Yds allowed',g=>g.yards_allowed],['Giveaways',g=>g.turnovers],['Takeaways',g=>g.takeaways]],G);
 
  // ---------- DVOA ----------
