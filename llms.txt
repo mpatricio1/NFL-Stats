@@ -8,3 +8,9 @@
 - [data.json](https://mpatricio1.github.io/NFL-Stats/data/data.json): the full dataset the page uses
 - [README.md](https://mpatricio1.github.io/NFL-Stats/data/README.md): file list and column definitions
 - [commentary.md](https://mpatricio1.github.io/NFL-Stats/data/commentary.md): written analysis for every team and section
+
+## Past seasons (2022-2025)
+- [2025 data.json](https://mpatricio1.github.io/NFL-Stats/data/seasons/2025/data.json) and [2025 season reviews](https://mpatricio1.github.io/NFL-Stats/data/seasons/2025/reviews.md): full regular season, same structure as the 2026 data.json, plus a hand-written end-of-year summary per team
+- [2024 data.json](https://mpatricio1.github.io/NFL-Stats/data/seasons/2024/data.json) and [2024 season reviews](https://mpatricio1.github.io/NFL-Stats/data/seasons/2024/reviews.md): full regular season, same structure as the 2026 data.json, plus a hand-written end-of-year summary per team
+- [2023 data.json](https://mpatricio1.github.io/NFL-Stats/data/seasons/2023/data.json) and [2023 season reviews](https://mpatricio1.github.io/NFL-Stats/data/seasons/2023/reviews.md): full regular season, same structure as the 2026 data.json, plus a hand-written end-of-year summary per team
+- [2022 data.json](https://mpatricio1.github.io/NFL-Stats/data/seasons/2022/data.json) and [2022 season reviews](https://mpatricio1.github.io/NFL-Stats/data/seasons/2022/reviews.md): full regular season, same structure as the 2026 data.json, plus a hand-written end-of-year summary per team
