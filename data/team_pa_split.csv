@@ -5,8 +5,8 @@ ATL,False,-0.165,226
 ATL,True,-0.018,60
 BAL,False,-0.035,218
 BAL,True,0.243,72
-BUF,False,0.305,176
-BUF,True,0.253,65
+BUF,False,0.27,197
+BUF,True,0.212,80
 CAR,False,0.105,261
 CAR,True,0.022,87
 CHI,False,0.066,232
@@ -39,8 +39,8 @@ LV,False,0.037,259
 LV,True,0.319,84
 MIA,False,-0.025,199
 MIA,True,0.012,58
-MIN,False,-0.086,153
-MIN,True,0.118,80
+MIN,False,-0.18,183
+MIN,True,0.036,83
 NE,False,0.219,261
 NE,True,-0.116,69
 NO,False,-0.053,287

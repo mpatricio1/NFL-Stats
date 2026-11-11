@@ -74,6 +74,10 @@ BUF,5,LA,1,3.0,7,Josh Allen,-8.0,4.0,0.0,True,True,-1.88,QB fault (FTN),17
 BUF,6,LV,1,3.0,3,Josh Allen,-5.0,6.0,2.0,False,False,-1.83,Blitz,17
 BUF,6,LV,2,3.0,9,Josh Allen,-8.0,3.0,0.0,False,False,-1.652,Standard rush won,17
 BUF,8,BAL,3,3.0,22,Josh Allen,-9.0,4.0,0.0,True,True,-1.409,QB fault (FTN),17
+BUF,9,MIN,1,3.0,14,Josh Allen,-7.0,6.0,2.0,False,False,-1.755,Blitz,17
+BUF,9,MIN,2,1.0,10,Josh Allen,-5.0,6.0,2.0,False,False,-1.523,Blitz,17
+BUF,9,MIN,2,3.0,15,Josh Allen,-8.0,5.0,1.0,False,False,-1.349,Blitz,17
+BUF,9,MIN,3,1.0,10,Josh Allen,-9.0,5.0,1.0,False,False,-1.729,Blitz,17
 CAR,1,CHI,1,3.0,7,Bryce Young,-6.0,4.0,0.0,False,False,-2.045,Standard rush won,9
 CAR,1,CHI,3,3.0,3,Bryce Young,-2.0,4.0,0.0,False,False,-1.91,Standard rush won,9
 CAR,2,ATL,2,2.0,12,Bryce Young,-9.0,4.0,0.0,False,False,-1.547,Standard rush won,9
@@ -399,6 +403,8 @@ MIN,7,IND,4,1.0,10,Kyler Murray,-8.0,4.0,0.0,False,False,-1.326,Standard rush wo
 MIN,8,DET,2,2.0,8,Kyler Murray,-9.0,3.0,0.0,False,False,-1.615,Standard rush won,1
 MIN,8,DET,3,1.0,10,Kyler Murray,-7.0,4.0,0.0,False,False,-1.395,Standard rush won,1
 MIN,8,DET,3,3.0,13,Kyler Murray,-9.0,6.0,2.0,True,False,-1.859,Extended play,1
+MIN,9,BUF,2,1.0,15,Carson Wentz,-6.0,5.0,1.0,False,True,-0.886,QB fault (FTN),11
+MIN,9,BUF,4,3.0,3,Max Brosmer,-6.0,4.0,0.0,False,True,-1.797,QB fault (FTN),12
 NE,1,SEA,4,1.0,20,Drake Maye,-1.0,4.0,0.0,False,False,-0.506,Standard rush won,10
 NE,1,SEA,4,2.0,17,Drake Maye,-2.0,5.0,1.0,True,False,-0.657,Extended play,10
 NE,1,SEA,4,1.0,10,Drake Maye,-7.0,4.0,0.0,True,False,-0.886,Extended play,10
