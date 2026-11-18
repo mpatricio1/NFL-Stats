@@ -1,642 +1,718 @@
 team,week,defteam,qtr,down,ydstogo,qb,yards_gained,n_pass_rushers,n_blitzers,is_qb_out_of_pocket,is_qb_fault_sack,epa,bucket,jersey
-ARI,1,LAC,4,3.0,2,Jacoby Brissett,0.0,5.0,1.0,True,False,-1.596,Extended play,7
-ARI,2,SEA,1,3.0,5,Jacoby Brissett,-7.0,4.0,0.0,False,False,-2.357,Standard rush won,7
-ARI,2,SEA,4,3.0,2,Jacoby Brissett,-7.0,4.0,0.0,False,False,-2.549,Standard rush won,7
-ARI,3,SF,3,2.0,8,Jacoby Brissett,0.0,4.0,0.0,True,False,-0.685,Extended play,7
-ARI,3,SF,4,1.0,10,Jacoby Brissett,-8.0,4.0,0.0,False,False,-1.196,Standard rush won,7
-ARI,4,NYG,2,2.0,10,Jacoby Brissett,-8.0,6.0,2.0,False,True,-0.889,QB fault (FTN),7
-ARI,4,NYG,4,3.0,7,Jacoby Brissett,-11.0,5.0,1.0,False,True,-2.254,QB fault (FTN),7
-ARI,5,DET,1,2.0,6,Jacoby Brissett,-1.0,5.0,1.0,True,False,-0.928,Extended play,7
-ARI,5,DET,2,3.0,1,Jacoby Brissett,-8.0,4.0,0.0,True,False,-2.464,Extended play,7
-ARI,5,DET,2,2.0,10,Jacoby Brissett,-9.0,4.0,0.0,False,False,-0.871,Standard rush won,7
-ARI,5,DET,3,2.0,12,Jacoby Brissett,-9.0,5.0,1.0,False,False,-1.813,Blitz,7
-ARI,5,DET,4,4.0,1,Jacoby Brissett,-1.0,6.0,2.0,True,False,-4.26,Extended play,7
-ARI,7,DEN,2,3.0,4,Jacoby Brissett,-6.0,4.0,0.0,False,False,-0.853,Standard rush won,7
-ARI,7,DEN,4,1.0,10,Jacoby Brissett,-3.0,5.0,1.0,False,False,-1.21,Blitz,7
-ARI,7,DEN,4,2.0,1,Jacoby Brissett,-4.0,7.0,3.0,False,False,-1.787,Blitz,7
-ARI,8,DAL,1,2.0,8,Jacoby Brissett,-3.0,4.0,0.0,False,False,-1.186,Standard rush won,7
-ARI,8,DAL,2,3.0,8,Jacoby Brissett,-7.0,5.0,1.0,True,False,-2.319,Extended play,7
-ARI,8,DAL,3,1.0,10,Jacoby Brissett,-10.0,4.0,0.0,False,False,-1.526,Standard rush won,7
-ARI,8,DAL,3,2.0,20,Jacoby Brissett,-16.0,4.0,0.0,False,False,-2.062,Standard rush won,7
-ARI,8,DAL,5,1.0,10,Gardner Minshew,-6.0,4.0,0.0,False,False,-1.194,Standard rush won,15
-ARI,9,SEA,2,3.0,8,Gardner Minshew,-6.0,4.0,0.0,False,False,-1.976,Standard rush won,15
-ARI,9,SEA,2,1.0,10,Gardner Minshew,-6.0,3.0,0.0,False,False,-0.044,Standard rush won,15
-ARI,9,SEA,3,3.0,2,Gardner Minshew,-6.0,4.0,0.0,False,False,-2.339,Standard rush won,15
-ATL,1,PIT,1,3.0,4,Cooper Rush,-7.0,4.0,0.0,False,True,-2.054,QB fault (FTN),13
-ATL,1,PIT,2,1.0,10,Cooper Rush,-2.0,4.0,0.0,True,False,-0.779,Extended play,13
-ATL,1,PIT,3,2.0,11,Cooper Rush,-7.0,4.0,0.0,False,False,-1.684,Standard rush won,13
-ATL,1,PIT,4,3.0,5,Cooper Rush,-9.0,4.0,0.0,False,False,-2.474,Standard rush won,13
-ATL,2,CAR,2,3.0,5,Cooper Rush,-3.0,5.0,1.0,False,False,-1.717,Blitz,13
-ATL,2,CAR,3,2.0,6,Jack Strand,-6.0,4.0,0.0,False,False,-1.671,Standard rush won,18
-ATL,2,CAR,4,2.0,10,Jack Strand,-7.0,5.0,1.0,False,False,-4.614,Blitz,18
-ATL,4,NO,1,3.0,6,Michael Penix Jr.,-8.0,6.0,2.0,False,False,-2.303,Blitz,9
-ATL,5,BAL,2,1.0,10,Michael Penix Jr.,-6.0,4.0,0.0,False,True,-1.385,QB fault (FTN),9
-ATL,5,BAL,3,2.0,10,Michael Penix Jr.,-1.0,4.0,0.0,True,True,-0.997,QB fault (FTN),9
-ATL,5,BAL,4,1.0,10,Michael Penix Jr.,-10.0,4.0,0.0,True,True,-0.828,QB fault (FTN),9
-ATL,6,CHI,2,2.0,10,Michael Penix Jr.,-10.0,5.0,1.0,False,False,-0.676,Blitz,9
-ATL,6,CHI,3,3.0,3,Michael Penix Jr.,-8.0,6.0,2.0,False,False,-2.679,Blitz,9
-ATL,6,CHI,3,2.0,9,Michael Penix Jr.,-6.0,5.0,1.0,False,False,-1.813,Blitz,9
-ATL,6,CHI,3,3.0,6,Michael Penix Jr.,-7.0,4.0,0.0,False,False,-2.108,Standard rush won,9
-ATL,6,CHI,4,3.0,16,Michael Penix Jr.,0.0,6.0,2.0,False,False,-3.058,Blitz,9
-BAL,1,IND,2,1.0,10,Lamar Jackson,-15.0,5.0,1.0,False,False,-6.281,Blitz,8
-BAL,1,IND,3,1.0,10,Lamar Jackson,-5.0,4.0,0.0,True,False,-1.157,Extended play,8
-BAL,2,NO,2,2.0,10,Lamar Jackson,-11.0,4.0,0.0,False,False,-2.235,Standard rush won,8
-BAL,2,NO,3,3.0,10,Lamar Jackson,-12.0,4.0,0.0,False,False,-2.411,Standard rush won,8
-BAL,2,NO,3,2.0,18,Lamar Jackson,-8.0,6.0,2.0,False,False,-1.448,Blitz,8
-BAL,4,TEN,1,3.0,10,Lamar Jackson,-8.0,5.0,1.0,False,False,-2.289,Blitz,8
-BAL,4,TEN,2,2.0,10,Lamar Jackson,-5.0,4.0,0.0,True,False,-0.345,Extended play,8
-BAL,5,ATL,1,1.0,10,Tyler Huntley,-9.0,5.0,1.0,False,True,-1.483,QB fault (FTN),5
-BAL,5,ATL,2,1.0,5,Tyler Huntley,0.0,5.0,1.0,True,True,-0.498,QB fault (FTN),5
-BAL,5,ATL,2,2.0,8,Zay Flowers,-2.0,5.0,1.0,True,False,-0.719,Extended play,4
-BAL,5,ATL,3,3.0,4,Tyler Huntley,-7.0,4.0,0.0,True,True,-2.326,QB fault (FTN),5
-BAL,6,CLE,2,1.0,10,Tyler Huntley,0.0,6.0,2.0,True,False,-0.549,Extended play,5
-BAL,6,CLE,2,2.0,10,Tyler Huntley,-8.0,4.0,0.0,False,False,-0.979,Standard rush won,5
-BAL,6,CLE,3,1.0,10,Tyler Huntley,-9.0,6.0,2.0,False,False,-1.732,Blitz,5
-BAL,7,CIN,1,3.0,6,Tyler Huntley,-6.0,5.0,1.0,False,False,-1.835,Blitz,5
-BAL,7,CIN,3,3.0,11,Tyler Huntley,-4.0,4.0,0.0,True,False,-1.762,Extended play,5
-BAL,7,CIN,4,3.0,2,Tyler Huntley,-5.0,7.0,3.0,False,False,-2.217,Blitz,5
-BAL,7,CIN,4,2.0,9,Tyler Huntley,-7.0,4.0,0.0,False,False,-1.498,Standard rush won,5
-BAL,8,BUF,2,3.0,8,Tyler Huntley,-8.0,5.0,1.0,False,True,-5.148,QB fault (FTN),5
-BAL,8,BUF,2,1.0,7,Joe Fagnano,-9.0,5.0,1.0,False,False,-1.623,Blitz,12
-BAL,8,BUF,2,3.0,3,Joe Fagnano,-2.0,5.0,1.0,True,False,-1.641,Extended play,12
-BAL,8,BUF,2,1.0,10,Joe Fagnano,-4.0,4.0,0.0,True,True,-0.627,QB fault (FTN),12
-BAL,9,JAX,2,3.0,9,Joe Fagnano,-2.0,5.0,1.0,False,False,-1.551,Blitz,12
-BUF,1,HOU,1,2.0,6,Josh Allen,-6.0,4.0,0.0,False,False,-1.841,Standard rush won,17
-BUF,1,HOU,3,2.0,7,Josh Allen,-5.0,4.0,0.0,False,False,-1.43,Standard rush won,17
-BUF,2,DET,1,1.0,10,Josh Allen,-5.0,5.0,1.0,False,True,-1.261,QB fault (FTN),17
-BUF,2,DET,3,1.0,10,Josh Allen,0.0,5.0,1.0,True,False,-0.514,Extended play,17
-BUF,3,LAC,1,3.0,9,Josh Allen,-13.0,5.0,1.0,False,False,-2.167,Blitz,17
-BUF,3,LAC,3,2.0,9,Josh Allen,-4.0,4.0,0.0,False,False,-1.405,Standard rush won,17
-BUF,3,LAC,4,3.0,13,Josh Allen,-6.0,4.0,0.0,False,False,-4.16,Standard rush won,17
-BUF,3,LAC,4,1.0,10,Josh Allen,-7.0,5.0,1.0,True,True,-1.396,QB fault (FTN),17
-BUF,4,NE,1,1.0,10,Josh Allen,-4.0,5.0,1.0,False,False,-1.109,Blitz,17
-BUF,5,LA,1,3.0,7,Josh Allen,-8.0,4.0,0.0,True,True,-1.88,QB fault (FTN),17
-BUF,6,LV,1,3.0,3,Josh Allen,-5.0,6.0,2.0,False,False,-1.83,Blitz,17
-BUF,6,LV,2,3.0,9,Josh Allen,-8.0,3.0,0.0,False,False,-1.652,Standard rush won,17
-BUF,8,BAL,3,3.0,22,Josh Allen,-9.0,4.0,0.0,True,True,-1.409,QB fault (FTN),17
-BUF,9,MIN,1,3.0,14,Josh Allen,-7.0,6.0,2.0,False,False,-1.755,Blitz,17
-BUF,9,MIN,2,1.0,10,Josh Allen,-5.0,6.0,2.0,False,False,-1.523,Blitz,17
-BUF,9,MIN,2,3.0,15,Josh Allen,-8.0,5.0,1.0,False,False,-1.349,Blitz,17
-BUF,9,MIN,3,1.0,10,Josh Allen,-9.0,5.0,1.0,False,False,-1.729,Blitz,17
-CAR,1,CHI,1,3.0,7,Bryce Young,-6.0,4.0,0.0,False,False,-2.045,Standard rush won,9
-CAR,1,CHI,3,3.0,3,Bryce Young,-2.0,4.0,0.0,False,False,-1.91,Standard rush won,9
-CAR,2,ATL,2,2.0,12,Bryce Young,-9.0,4.0,0.0,False,False,-1.547,Standard rush won,9
-CAR,2,ATL,2,1.0,10,Bryce Young,-6.0,5.0,1.0,False,False,-1.127,Blitz,9
-CAR,3,CLE,2,4.0,3,Bryce Young,-10.0,4.0,0.0,False,False,-2.966,Standard rush won,9
-CAR,3,CLE,2,3.0,4,Bryce Young,-13.0,4.0,0.0,True,False,-1.509,Extended play,9
-CAR,3,CLE,4,3.0,10,Bryce Young,-6.0,4.0,0.0,False,False,-0.912,Standard rush won,9
-CAR,4,DET,1,3.0,2,Bryce Young,-10.0,4.0,0.0,False,False,-2.894,Standard rush won,9
-CAR,4,DET,4,1.0,10,Bryce Young,-1.0,4.0,0.0,True,False,-0.793,Extended play,9
-CAR,4,DET,4,3.0,6,Bryce Young,0.0,4.0,0.0,True,False,-0.714,Extended play,9
-CAR,6,PHI,1,1.0,10,Bryce Young,-8.0,4.0,0.0,True,False,-1.371,Extended play,9
-CAR,6,PHI,4,1.0,1,Bryce Young,0.0,5.0,1.0,False,False,-0.28,Blitz,9
-CAR,7,TB,2,2.0,13,Bryce Young,-1.0,3.0,0.0,True,False,-0.967,Extended play,9
-CAR,7,TB,2,3.0,14,Bryce Young,-8.0,3.0,0.0,False,False,-7.689,Standard rush won,9
-CAR,7,TB,3,2.0,10,Bryce Young,-9.0,4.0,0.0,False,False,-1.775,Standard rush won,9
-CAR,7,TB,3,3.0,19,Bryce Young,-11.0,4.0,0.0,False,False,-2.001,Standard rush won,9
-CAR,7,TB,3,1.0,10,Bryce Young,-3.0,4.0,0.0,False,False,-1.162,Standard rush won,9
-CAR,8,GB,1,3.0,8,Bryce Young,-6.0,4.0,0.0,False,False,-1.228,Standard rush won,9
-CAR,8,GB,2,1.0,10,Bryce Young,-10.0,4.0,0.0,False,True,-0.8,QB fault (FTN),9
-CAR,8,GB,3,2.0,2,Bryce Young,0.0,6.0,2.0,True,False,-0.797,Extended play,9
-CAR,8,GB,3,3.0,9,Bryce Young,-8.0,4.0,0.0,False,False,-1.978,Standard rush won,9
-CAR,8,GB,4,2.0,8,Bryce Young,-5.0,3.0,0.0,False,False,-1.331,Standard rush won,9
-CAR,8,GB,4,1.0,10,Bryce Young,-4.0,4.0,0.0,True,False,-0.1,Extended play,9
-CAR,9,DEN,4,3.0,10,Bryce Young,-8.0,5.0,1.0,False,False,-1.824,Blitz,9
-CAR,9,DEN,4,3.0,15,Bryce Young,-3.0,4.0,0.0,False,False,-1.841,Standard rush won,9
-CAR,9,DEN,4,1.0,10,Bryce Young,-8.0,4.0,0.0,False,False,-3.307,Standard rush won,9
-CHI,1,CAR,2,1.0,10,Caleb Williams,-6.0,5.0,1.0,True,False,-1.054,Extended play,18
-CHI,1,CAR,3,3.0,7,Caleb Williams,-2.0,5.0,1.0,False,False,-1.436,Blitz,18
-CHI,2,MIN,2,2.0,3,Caleb Williams,-17.0,4.0,0.0,False,False,-0.41,Standard rush won,18
-CHI,2,MIN,3,1.0,10,Caleb Williams,-3.0,5.0,1.0,False,False,-1.137,Blitz,18
-CHI,2,MIN,4,1.0,6,Caleb Williams,0.0,5.0,1.0,True,False,-0.522,Extended play,18
-CHI,2,MIN,4,4.0,2,Tyson Bagent,-9.0,4.0,0.0,False,False,-2.585,Standard rush won,17
-CHI,4,NYJ,2,1.0,10,Tyson Bagent,-8.0,5.0,1.0,False,False,-0.631,Blitz,17
-CHI,5,GB,1,2.0,9,Tyson Bagent,-11.0,3.0,0.0,True,True,-1.809,QB fault (FTN),17
-CHI,5,GB,2,2.0,4,Tyson Bagent,-6.0,7.0,3.0,False,False,-0.433,Blitz,17
-CHI,5,GB,4,1.0,10,Case Keenum,-2.0,4.0,0.0,False,False,-4.712,Standard rush won,11
-CHI,5,GB,4,2.0,10,Case Keenum,-11.0,4.0,0.0,False,False,-0.681,Standard rush won,11
-CHI,6,ATL,2,2.0,9,Caleb Williams,-9.0,4.0,0.0,False,False,-0.343,Standard rush won,18
-CHI,6,ATL,3,1.0,10,Caleb Williams,-9.0,4.0,0.0,False,False,-1.793,Standard rush won,18
-CHI,6,ATL,4,1.0,10,Caleb Williams,-11.0,4.0,0.0,False,False,-1.652,Standard rush won,18
-CHI,6,ATL,4,3.0,5,Caleb Williams,-6.0,5.0,1.0,True,False,-1.835,Extended play,18
-CHI,7,NE,2,1.0,10,Caleb Williams,-2.0,6.0,2.0,False,False,-0.85,Blitz,18
-CHI,7,NE,2,2.0,10,Caleb Williams,-7.0,5.0,1.0,False,False,-1.087,Blitz,18
-CHI,7,NE,4,3.0,5,Caleb Williams,-10.0,5.0,1.0,True,False,-1.685,Extended play,18
-CHI,8,SEA,4,2.0,10,Caleb Williams,-10.0,4.0,0.0,False,False,-1.651,Standard rush won,18
-CHI,9,TB,4,2.0,3,Caleb Williams,-2.0,5.0,1.0,True,False,-1.075,Extended play,18
-CIN,1,TB,3,3.0,7,Joe Burrow,-9.0,5.0,1.0,False,True,-2.759,QB fault (FTN),9
-CIN,2,HOU,1,3.0,11,Joe Burrow,-6.0,4.0,0.0,False,False,-1.955,Standard rush won,9
-CIN,2,HOU,2,2.0,15,Joe Burrow,-6.0,4.0,0.0,False,False,-1.211,Standard rush won,9
-CIN,2,HOU,2,2.0,10,Joe Burrow,-5.0,4.0,0.0,False,False,-0.345,Standard rush won,9
-CIN,2,HOU,4,2.0,5,Joe Burrow,0.0,5.0,1.0,False,True,-0.849,QB fault (FTN),9
-CIN,2,HOU,4,3.0,8,Joe Burrow,-8.0,5.0,1.0,False,False,-1.638,Blitz,9
-CIN,3,PIT,4,1.0,10,Joe Burrow,-13.0,4.0,0.0,False,False,-4.092,Standard rush won,9
-CIN,4,JAX,2,1.0,10,Joe Burrow,-11.0,4.0,0.0,False,False,-1.797,Standard rush won,9
-CIN,4,JAX,3,1.0,10,Joe Burrow,-3.0,4.0,0.0,False,False,-1.086,Standard rush won,9
-CIN,7,BAL,2,2.0,8,Joe Burrow,-8.0,5.0,1.0,False,False,-0.603,Blitz,9
-CIN,8,TEN,2,2.0,8,Joe Burrow,-2.0,6.0,2.0,False,False,-0.92,Blitz,9
-CIN,8,TEN,2,4.0,2,Joe Burrow,-15.0,5.0,1.0,False,False,-3.675,Blitz,9
-CIN,8,TEN,4,1.0,10,Joe Burrow,-10.0,4.0,0.0,False,False,-1.351,Standard rush won,9
-CIN,9,ATL,4,3.0,1,Joe Burrow,-6.0,5.0,1.0,True,True,-2.507,QB fault (FTN),9
-CIN,9,ATL,4,1.0,10,Joe Burrow,0.0,4.0,0.0,True,False,-0.49,Extended play,9
-CLE,1,JAX,1,1.0,10,Deshaun Watson,-1.0,4.0,0.0,True,True,-0.693,QB fault (FTN),4
-CLE,1,JAX,1,3.0,10,Deshaun Watson,-8.0,5.0,1.0,False,False,-1.786,Blitz,4
-CLE,1,JAX,3,1.0,10,Deshaun Watson,-4.0,5.0,1.0,False,True,-1.083,QB fault (FTN),4
-CLE,1,JAX,4,3.0,3,Deshaun Watson,-1.0,5.0,1.0,True,False,-1.384,Extended play,4
-CLE,1,JAX,4,4.0,4,Deshaun Watson,-6.0,6.0,2.0,True,True,-3.675,QB fault (FTN),4
-CLE,2,TB,2,3.0,11,Deshaun Watson,-8.0,4.0,0.0,False,False,-1.08,Standard rush won,4
-CLE,2,TB,2,2.0,18,Deshaun Watson,-7.0,6.0,2.0,False,False,-1.132,Blitz,4
-CLE,3,CAR,3,3.0,6,Deshaun Watson,-7.0,5.0,1.0,False,False,-2.224,Blitz,4
-CLE,3,CAR,4,1.0,10,Deshaun Watson,-10.0,4.0,0.0,False,False,-1.613,Standard rush won,4
-CLE,4,PIT,4,1.0,10,Deshaun Watson,-4.0,4.0,0.0,True,True,-1.098,QB fault (FTN),4
-CLE,4,PIT,4,2.0,4,Deshaun Watson,-4.0,7.0,3.0,True,True,-0.915,QB fault (FTN),4
-CLE,5,NYJ,1,1.0,10,Deshaun Watson,-6.0,5.0,1.0,False,False,-1.383,Blitz,4
-CLE,5,NYJ,2,1.0,10,Deshaun Watson,-6.0,4.0,0.0,False,False,-1.28,Standard rush won,4
-CLE,5,NYJ,2,3.0,7,Deshaun Watson,-7.0,5.0,1.0,False,False,-1.835,Blitz,4
-CLE,5,NYJ,2,2.0,2,Deshaun Watson,-6.0,5.0,1.0,True,False,-0.983,Extended play,4
-CLE,5,NYJ,4,1.0,15,Deshaun Watson,-10.0,4.0,0.0,True,False,-1.201,Extended play,4
-CLE,5,NYJ,4,3.0,30,Deshaun Watson,-8.0,4.0,0.0,False,False,-1.117,Standard rush won,4
-CLE,5,NYJ,4,1.0,10,Deshaun Watson,-9.0,6.0,2.0,False,False,-1.048,Blitz,4
-CLE,5,NYJ,4,4.0,11,Deshaun Watson,-1.0,3.0,0.0,True,False,-3.133,Extended play,4
-CLE,6,BAL,1,3.0,5,Deshaun Watson,-8.0,4.0,0.0,True,False,-2.562,Extended play,4
-CLE,6,BAL,1,2.0,10,Deshaun Watson,0.0,4.0,0.0,True,False,-0.887,Extended play,4
-CLE,6,BAL,2,2.0,10,Deshaun Watson,-5.0,5.0,1.0,False,False,-0.777,Blitz,4
-CLE,6,BAL,3,1.0,10,Deshaun Watson,-5.0,5.0,1.0,False,False,-1.445,Blitz,4
-CLE,6,BAL,3,3.0,4,Deshaun Watson,-2.0,3.0,0.0,True,False,-1.725,Extended play,4
-CLE,7,TEN,3,2.0,5,Deshaun Watson,0.0,4.0,0.0,True,False,-0.913,Extended play,4
-CLE,8,PIT,1,2.0,6,Deshaun Watson,-2.0,6.0,2.0,False,False,-1.056,Blitz,4
-CLE,8,PIT,1,2.0,7,Deshaun Watson,-5.0,5.0,1.0,False,False,-5.386,Blitz,4
-CLE,8,PIT,1,3.0,7,Deshaun Watson,-7.0,4.0,0.0,False,False,-1.919,Standard rush won,4
-CLE,8,PIT,2,2.0,10,Deshaun Watson,-8.0,4.0,0.0,False,False,-1.284,Standard rush won,4
-CLE,8,PIT,4,2.0,10,Deshaun Watson,-8.0,5.0,1.0,False,False,-1.743,Blitz,4
-CLE,8,PIT,4,3.0,18,Deshaun Watson,-4.0,4.0,0.0,False,False,-1.237,Standard rush won,4
-CLE,8,PIT,4,1.0,10,Deshaun Watson,0.0,4.0,0.0,False,False,-0.54,Standard rush won,4
-CLE,8,PIT,4,1.0,10,Deshaun Watson,-7.0,4.0,0.0,True,False,-1.422,Extended play,4
-CLE,9,NO,1,3.0,7,Shedeur Sanders,-7.0,5.0,1.0,False,False,-2.215,Blitz,2
-CLE,9,NO,2,1.0,9,Shedeur Sanders,-6.0,5.0,1.0,True,False,-0.981,Extended play,2
-CLE,9,NO,3,2.0,5,Shedeur Sanders,-7.0,5.0,1.0,False,False,-1.795,Blitz,2
-CLE,9,NO,3,3.0,8,Shedeur Sanders,-9.0,4.0,0.0,True,False,-2.222,Extended play,2
-CLE,9,NO,4,1.0,19,Shedeur Sanders,-8.0,4.0,0.0,True,False,-1.048,Extended play,2
-DAL,2,WAS,2,1.0,10,Dak Prescott,-9.0,5.0,1.0,True,True,-1.568,QB fault (FTN),4
-DAL,2,WAS,3,3.0,3,Dak Prescott,-4.0,4.0,0.0,True,True,-2.089,QB fault (FTN),4
-DAL,3,BAL,1,3.0,1,Dak Prescott,-9.0,5.0,1.0,False,True,-3.03,QB fault (FTN),4
-DAL,4,HOU,1,2.0,5,Dak Prescott,0.0,4.0,0.0,True,True,-0.635,QB fault (FTN),4
-DAL,4,HOU,2,2.0,5,Dak Prescott,-2.0,4.0,0.0,False,False,-1.778,Standard rush won,4
-DAL,4,HOU,2,3.0,7,Dak Prescott,-9.0,4.0,0.0,True,False,-0.678,Extended play,4
-DAL,6,GB,4,1.0,10,Dak Prescott,-3.0,4.0,0.0,True,True,-1.097,QB fault (FTN),4
-DAL,8,ARI,2,1.0,10,Dak Prescott,-4.0,4.0,0.0,False,False,-1.303,Standard rush won,4
-DAL,8,ARI,2,2.0,10,Dak Prescott,-10.0,5.0,1.0,False,False,-1.181,Blitz,4
-DAL,8,ARI,4,2.0,10,Dak Prescott,-6.0,5.0,1.0,False,False,-0.834,Blitz,4
-DAL,8,ARI,5,3.0,8,Dak Prescott,-7.0,5.0,1.0,False,False,-1.894,Blitz,4
-DAL,9,IND,1,3.0,8,Dak Prescott,0.0,5.0,1.0,True,False,-4.275,Extended play,4
-DAL,9,IND,2,3.0,16,Dak Prescott,-2.0,4.0,0.0,False,False,-1.112,Standard rush won,4
-DAL,9,IND,3,2.0,13,Dak Prescott,-4.0,4.0,0.0,False,False,-1.211,Standard rush won,4
-DEN,1,KC,1,1.0,10,Bo Nix,-3.0,6.0,2.0,False,False,-0.853,Blitz,10
-DEN,1,KC,2,1.0,10,Bo Nix,-5.0,3.0,0.0,False,True,-0.822,QB fault (FTN),10
-DEN,1,KC,3,2.0,9,Bo Nix,-7.0,4.0,0.0,True,False,-1.489,Extended play,10
-DEN,1,KC,3,3.0,16,Bo Nix,-1.0,4.0,0.0,False,False,-3.493,Standard rush won,10
-DEN,3,LA,2,3.0,2,Bo Nix,-7.0,4.0,0.0,False,False,-1.337,Standard rush won,10
-DEN,5,LAC,2,2.0,20,Bo Nix,-5.0,4.0,0.0,False,False,-1.291,Standard rush won,10
-DEN,6,SEA,4,1.0,10,Bo Nix,-3.0,4.0,0.0,True,True,-0.911,QB fault (FTN),10
-DEN,6,SEA,4,3.0,10,Bo Nix,-10.0,4.0,0.0,True,False,-1.512,Extended play,10
-DEN,7,ARI,1,2.0,8,Bo Nix,-4.0,4.0,0.0,False,False,-1.469,Standard rush won,10
-DEN,8,KC,2,1.0,10,Bo Nix,-5.0,4.0,0.0,False,False,-1.165,Standard rush won,10
-DEN,9,CAR,3,3.0,11,Bo Nix,-7.0,6.0,2.0,False,False,-1.785,Blitz,10
-DET,1,NO,4,1.0,11,Jared Goff,-2.0,4.0,0.0,False,False,-0.533,Standard rush won,16
-DET,2,BUF,1,3.0,8,Jared Goff,-7.0,5.0,1.0,False,True,-1.815,QB fault (FTN),16
-DET,2,BUF,1,2.0,1,Jared Goff,-10.0,5.0,1.0,False,True,-2.471,QB fault (FTN),16
-DET,2,BUF,2,3.0,5,Jared Goff,-13.0,4.0,0.0,False,True,-2.08,QB fault (FTN),16
-DET,2,BUF,4,2.0,10,Jared Goff,-8.0,4.0,0.0,False,True,-1.303,QB fault (FTN),16
-DET,3,NYJ,1,3.0,7,Jared Goff,-10.0,5.0,1.0,False,False,-2.462,Blitz,16
-DET,3,NYJ,1,2.0,10,Jared Goff,-9.0,6.0,2.0,False,False,-1.969,Blitz,16
-DET,4,CAR,4,2.0,7,Jared Goff,-6.0,4.0,0.0,False,False,-0.442,Standard rush won,16
-DET,5,ARI,1,3.0,5,Jared Goff,-12.0,5.0,1.0,False,False,-2.653,Blitz,16
-DET,5,ARI,1,1.0,10,Jared Goff,-8.0,4.0,0.0,False,False,-1.529,Standard rush won,16
-DET,5,ARI,1,2.0,10,Jared Goff,-2.0,4.0,0.0,False,False,-1.204,Standard rush won,16
-DET,7,GB,2,1.0,10,Jared Goff,-7.0,4.0,0.0,False,False,-1.359,Standard rush won,16
-DET,8,MIN,1,1.0,10,Jared Goff,-3.0,6.0,2.0,False,False,-1.27,Blitz,16
-DET,8,MIN,1,3.0,13,Jared Goff,-10.0,6.0,2.0,False,False,-1.656,Blitz,16
-DET,8,MIN,1,2.0,7,Jared Goff,-6.0,6.0,2.0,False,False,-1.734,Blitz,16
-DET,8,MIN,2,3.0,6,Jared Goff,-3.0,4.0,0.0,False,False,-2.052,Standard rush won,16
-DET,9,MIA,1,3.0,4,Jared Goff,-6.0,4.0,0.0,False,False,-1.561,Standard rush won,16
-DET,9,MIA,1,1.0,10,Jared Goff,0.0,4.0,0.0,True,False,-0.562,Extended play,16
-DET,9,MIA,2,3.0,9,Jared Goff,-7.0,5.0,1.0,False,False,-1.736,Blitz,16
-GB,1,MIN,3,1.0,10,Jordan Love,-10.0,5.0,1.0,False,False,-1.443,Blitz,10
-GB,1,MIN,4,2.0,13,Jordan Love,-4.0,5.0,1.0,False,False,-1.009,Blitz,10
-GB,1,MIN,4,3.0,17,Jordan Love,-15.0,6.0,2.0,False,False,-5.844,Blitz,10
-GB,1,MIN,4,1.0,10,Jordan Love,-5.0,5.0,1.0,False,False,-1.093,Blitz,10
-GB,2,NYJ,1,1.0,10,Jordan Love,-1.0,4.0,0.0,True,True,-0.948,QB fault (FTN),10
-GB,2,NYJ,3,1.0,25,Jordan Love,-3.0,4.0,0.0,False,True,-0.422,QB fault (FTN),10
-GB,2,NYJ,4,4.0,10,Jordan Love,-5.0,4.0,0.0,False,False,-0.22,Standard rush won,10
-GB,3,ATL,3,2.0,10,Jordan Love,-1.0,4.0,0.0,True,True,-1.398,QB fault (FTN),10
-GB,5,CHI,2,1.0,10,Jordan Love,-5.0,4.0,0.0,False,False,-1.115,Standard rush won,10
-GB,5,CHI,2,2.0,20,Jordan Love,-4.0,4.0,0.0,False,False,-0.372,Standard rush won,10
-GB,6,DAL,1,2.0,10,Jordan Love,-3.0,4.0,0.0,True,True,-1.472,QB fault (FTN),10
-GB,6,DAL,1,1.0,10,Jordan Love,-2.0,5.0,1.0,True,True,-0.874,QB fault (FTN),10
-GB,6,DAL,3,3.0,2,Jordan Love,-10.0,4.0,0.0,False,True,-2.398,QB fault (FTN),10
-GB,7,DET,2,1.0,10,Jordan Love,-10.0,6.0,2.0,False,False,-1.387,Blitz,10
-GB,9,NE,2,3.0,5,Jordan Love,-9.0,4.0,0.0,False,False,-1.696,Standard rush won,10
-GB,9,NE,2,2.0,10,Jordan Love,-8.0,4.0,0.0,False,False,-1.52,Standard rush won,10
-GB,9,NE,2,2.0,2,Jordan Love,-6.0,4.0,0.0,False,False,-0.111,Standard rush won,10
-HOU,1,BUF,1,3.0,12,C.J. Stroud,-2.0,4.0,0.0,False,False,-4.251,Standard rush won,7
-HOU,1,BUF,4,1.0,9,C.J. Stroud,-9.0,4.0,0.0,False,False,-1.667,Standard rush won,7
-HOU,1,BUF,4,3.0,18,C.J. Stroud,-6.0,3.0,0.0,False,False,-2.745,Standard rush won,7
-HOU,2,CIN,4,2.0,6,C.J. Stroud,-5.0,4.0,0.0,False,False,-1.588,Standard rush won,7
-HOU,2,CIN,4,2.0,1,C.J. Stroud,-8.0,4.0,0.0,False,False,-1.656,Standard rush won,7
-HOU,2,CIN,4,2.0,10,C.J. Stroud,-7.0,4.0,0.0,True,False,-1.479,Extended play,7
-HOU,2,CIN,4,4.0,17,C.J. Stroud,-19.0,3.0,0.0,True,False,-2.425,Extended play,7
-HOU,3,IND,1,3.0,7,C.J. Stroud,-4.0,4.0,0.0,True,False,-1.884,Extended play,7
-HOU,3,IND,1,3.0,15,C.J. Stroud,-8.0,4.0,0.0,False,False,-1.729,Standard rush won,7
-HOU,3,IND,2,1.0,5,C.J. Stroud,-2.0,4.0,0.0,False,False,-0.607,Standard rush won,7
-HOU,4,DAL,2,3.0,4,C.J. Stroud,-1.0,4.0,0.0,True,False,-1.613,Extended play,7
-HOU,4,DAL,4,3.0,3,C.J. Stroud,-11.0,4.0,0.0,False,False,-2.517,Standard rush won,7
-HOU,5,TEN,1,1.0,10,C.J. Stroud,0.0,4.0,0.0,True,False,-0.41,Extended play,7
-HOU,5,TEN,4,3.0,8,C.J. Stroud,-11.0,4.0,0.0,False,False,-2.64,Standard rush won,7
-HOU,7,NYG,1,3.0,16,C.J. Stroud,0.0,5.0,1.0,True,True,-1.233,QB fault (FTN),7
-HOU,9,LAC,3,2.0,10,C.J. Stroud,-10.0,4.0,0.0,False,False,-2.146,Standard rush won,7
-IND,1,BAL,1,1.0,10,Daniel Jones,-8.0,5.0,1.0,True,False,-1.893,Extended play,17
-IND,1,BAL,4,4.0,11,Daniel Jones,-9.0,6.0,2.0,False,False,-3.375,Blitz,17
-IND,3,HOU,1,1.0,10,Daniel Jones,-3.0,4.0,0.0,False,False,-6.268,Standard rush won,17
-IND,3,HOU,2,3.0,11,Daniel Jones,-5.0,4.0,0.0,False,False,-1.55,Standard rush won,17
-IND,3,HOU,3,3.0,4,Daniel Jones,-9.0,4.0,0.0,False,False,-2.598,Standard rush won,17
-IND,3,HOU,4,2.0,10,Daniel Jones,-7.0,5.0,1.0,False,False,-5.52,Blitz,17
-IND,4,WAS,1,2.0,10,Daniel Jones,-8.0,4.0,0.0,False,True,-5.346,QB fault (FTN),17
-IND,4,WAS,2,2.0,8,Daniel Jones,-6.0,5.0,1.0,False,False,-1.395,Blitz,17
-IND,5,PIT,4,2.0,2,Daniel Jones,-1.0,4.0,0.0,True,False,-0.978,Extended play,17
-IND,6,TEN,2,1.0,10,Daniel Jones,-5.0,4.0,0.0,False,False,-1.244,Standard rush won,17
-IND,6,TEN,2,2.0,10,Daniel Jones,-9.0,6.0,2.0,False,False,-1.753,Blitz,17
-IND,6,TEN,2,2.0,10,Daniel Jones,-6.0,4.0,0.0,False,False,-1.032,Standard rush won,17
-IND,6,TEN,3,3.0,10,Daniel Jones,-7.0,6.0,2.0,False,False,-1.871,Blitz,17
-IND,6,TEN,4,1.0,10,Daniel Jones,-1.0,5.0,1.0,True,True,-0.797,QB fault (FTN),17
-IND,6,TEN,4,3.0,10,Daniel Jones,-7.0,5.0,1.0,False,False,-1.202,Blitz,17
-IND,7,MIN,2,3.0,12,Daniel Jones,-10.0,6.0,2.0,False,False,-1.77,Blitz,17
-IND,7,MIN,2,2.0,14,Daniel Jones,-11.0,5.0,1.0,False,False,-1.195,Blitz,17
-IND,7,MIN,3,1.0,10,Daniel Jones,-10.0,6.0,2.0,False,False,-1.799,Blitz,17
-IND,7,MIN,3,2.0,20,Daniel Jones,-13.0,5.0,1.0,True,False,-1.871,Extended play,17
-IND,8,JAX,1,2.0,6,Daniel Jones,-4.0,4.0,0.0,False,False,-1.134,Standard rush won,17
-IND,8,JAX,2,1.0,10,Daniel Jones,0.0,6.0,2.0,True,False,-0.518,Extended play,17
-IND,8,JAX,3,4.0,3,Daniel Jones,-4.0,4.0,0.0,False,False,-3.195,Standard rush won,17
-IND,8,JAX,4,3.0,2,Anthony Richardson,-10.0,5.0,1.0,False,False,-1.956,Blitz,5
-IND,9,DAL,2,3.0,8,Daniel Jones,-10.0,4.0,0.0,False,False,-2.118,Standard rush won,17
-IND,9,DAL,2,1.0,10,Daniel Jones,-4.0,4.0,0.0,False,False,-0.204,Standard rush won,17
-JAX,1,CLE,2,3.0,1,Trevor Lawrence,-11.0,5.0,1.0,True,False,-2.002,Extended play,16
-JAX,2,DEN,1,2.0,7,Trevor Lawrence,-11.0,4.0,0.0,False,False,-2.508,Standard rush won,16
-JAX,2,DEN,2,3.0,9,Trevor Lawrence,-5.0,4.0,0.0,False,False,-1.463,Standard rush won,16
-JAX,3,NE,3,2.0,7,Trevor Lawrence,-4.0,5.0,1.0,False,False,-1.393,Blitz,16
-JAX,4,CIN,1,2.0,11,Trevor Lawrence,-7.0,4.0,0.0,False,False,-1.319,Standard rush won,16
-JAX,4,CIN,3,1.0,10,Trevor Lawrence,-5.0,5.0,1.0,False,False,-1.351,Blitz,16
-JAX,4,CIN,3,1.0,10,Trevor Lawrence,-3.0,4.0,0.0,False,False,-1.193,Standard rush won,16
-JAX,4,CIN,4,2.0,10,Trevor Lawrence,0.0,4.0,0.0,True,False,-0.368,Extended play,16
-JAX,5,PHI,1,1.0,20,Trevor Lawrence,-15.0,4.0,0.0,False,True,-2.136,QB fault (FTN),16
-JAX,5,PHI,2,2.0,11,Trevor Lawrence,-10.0,4.0,0.0,False,True,-1.652,QB fault (FTN),16
-JAX,8,IND,2,1.0,10,Trevor Lawrence,-10.0,5.0,1.0,False,False,-1.67,Blitz,16
-JAX,8,IND,2,1.0,10,Trevor Lawrence,-10.0,4.0,0.0,False,False,-5.375,Standard rush won,16
-JAX,8,IND,3,3.0,6,Trevor Lawrence,-15.0,4.0,0.0,False,False,-2.661,Standard rush won,16
-KC,1,DEN,3,3.0,5,Patrick Mahomes,-4.0,4.0,0.0,False,False,-1.638,Standard rush won,15
-KC,1,DEN,4,3.0,4,Patrick Mahomes,-8.0,4.0,0.0,False,False,-2.162,Standard rush won,15
-KC,2,IND,2,3.0,2,Patrick Mahomes,-8.0,4.0,0.0,False,False,-0.809,Standard rush won,15
-KC,2,IND,5,2.0,9,Patrick Mahomes,-3.0,4.0,0.0,False,False,-1.156,Standard rush won,15
-KC,4,LV,2,2.0,3,Patrick Mahomes,-7.0,5.0,1.0,True,False,-1.962,Extended play,15
-KC,4,LV,3,2.0,10,Patrick Mahomes,-8.0,5.0,1.0,False,False,-1.743,Blitz,15
-KC,7,SEA,3,3.0,7,Patrick Mahomes,-2.0,4.0,0.0,True,True,-1.671,QB fault (FTN),15
-KC,8,DEN,4,3.0,2,Patrick Mahomes,-6.0,5.0,1.0,True,False,-2.02,Extended play,15
-KC,8,DEN,4,4.0,6,Patrick Mahomes,-6.0,4.0,0.0,True,False,-2.617,Extended play,15
-KC,9,NYJ,2,2.0,4,Patrick Mahomes,-7.0,5.0,1.0,False,False,-1.234,Blitz,15
-KC,9,NYJ,2,2.0,10,Patrick Mahomes,-7.0,4.0,0.0,False,False,-3.815,Standard rush won,15
-LA,2,NYG,3,1.0,10,Matthew Stafford,-9.0,4.0,0.0,False,False,-1.497,Standard rush won,9
-LA,3,DEN,1,3.0,5,Matthew Stafford,-4.0,4.0,0.0,False,False,-2.171,Standard rush won,9
-LA,3,DEN,3,1.0,10,Matthew Stafford,-9.0,5.0,1.0,False,False,-1.361,Blitz,9
-LA,3,DEN,4,3.0,5,Matthew Stafford,-10.0,5.0,1.0,False,False,-2.05,Blitz,9
-LA,3,DEN,4,1.0,10,Matthew Stafford,-1.0,4.0,0.0,True,False,-0.783,Extended play,9
-LA,4,PHI,3,1.0,10,Matthew Stafford,-8.0,4.0,0.0,False,False,-1.62,Standard rush won,9
-LA,5,BUF,2,1.0,10,Matthew Stafford,-6.0,5.0,1.0,True,False,-1.026,Extended play,9
-LA,6,ARI,1,3.0,12,Matthew Stafford,-9.0,4.0,0.0,False,False,-1.757,Standard rush won,9
-LA,6,ARI,2,1.0,10,Matthew Stafford,-8.0,5.0,1.0,False,False,-1.561,Blitz,9
-LA,6,ARI,4,1.0,10,Matthew Stafford,-11.0,4.0,0.0,True,True,-1.668,QB fault (FTN),9
-LA,7,LV,1,3.0,5,Matthew Stafford,-8.0,6.0,2.0,False,False,-2.45,Blitz,9
-LA,8,LAC,2,2.0,8,Matthew Stafford,-5.0,4.0,0.0,False,False,-1.406,Standard rush won,9
-LA,9,WAS,2,1.0,10,Matthew Stafford,-9.0,5.0,1.0,False,False,-1.408,Blitz,9
-LAC,1,ARI,2,4.0,3,Justin Herbert,-10.0,4.0,0.0,False,False,-3.213,Standard rush won,10
-LAC,1,ARI,4,1.0,10,Justin Herbert,-4.0,5.0,1.0,False,False,-1.287,Blitz,10
-LAC,1,ARI,4,1.0,10,Justin Herbert,-8.0,5.0,1.0,False,False,-1.117,Blitz,10
-LAC,2,LV,1,2.0,7,Justin Herbert,-1.0,5.0,1.0,False,False,-0.875,Blitz,10
-LAC,2,LV,4,1.0,10,Justin Herbert,-8.0,5.0,1.0,True,False,-1.836,Extended play,10
-LAC,2,LV,4,3.0,7,Justin Herbert,0.0,4.0,0.0,True,False,-0.543,Extended play,10
-LAC,3,BUF,2,3.0,9,Justin Herbert,-6.0,5.0,1.0,False,False,-1.797,Blitz,10
-LAC,3,BUF,4,2.0,7,Justin Herbert,-3.0,4.0,0.0,False,False,-1.119,Standard rush won,10
-LAC,4,SEA,2,3.0,4,Justin Herbert,-7.0,4.0,0.0,False,True,-1.926,QB fault (FTN),10
-LAC,4,SEA,2,3.0,11,Justin Herbert,-8.0,6.0,2.0,False,True,-1.207,QB fault (FTN),10
-LAC,4,SEA,4,2.0,8,Justin Herbert,-11.0,5.0,1.0,True,True,-2.188,QB fault (FTN),10
-LAC,4,SEA,4,1.0,10,Justin Herbert,-9.0,4.0,0.0,True,True,-4.358,QB fault (FTN),10
-LAC,5,DEN,1,3.0,9,Justin Herbert,-8.0,5.0,1.0,False,False,-2.158,Blitz,10
-LAC,5,DEN,4,3.0,5,Justin Herbert,-4.0,4.0,0.0,True,False,-1.663,Extended play,10
-LAC,5,DEN,4,2.0,10,Justin Herbert,-9.0,4.0,0.0,False,False,-5.815,Standard rush won,10
-LAC,5,DEN,4,2.0,7,Justin Herbert,-11.0,5.0,1.0,False,False,-1.548,Blitz,10
-LAC,5,DEN,4,2.0,10,Justin Herbert,-7.0,5.0,1.0,False,False,-1.052,Blitz,10
-LAC,6,KC,3,2.0,10,Justin Herbert,0.0,4.0,0.0,True,False,-0.7,Extended play,10
-LAC,6,KC,3,2.0,7,Justin Herbert,-6.0,4.0,0.0,False,False,-1.729,Standard rush won,10
-LAC,6,KC,4,1.0,10,Justin Herbert,-8.0,5.0,1.0,False,False,-1.29,Blitz,10
-LAC,6,KC,4,2.0,18,Justin Herbert,-4.0,4.0,0.0,False,False,-0.728,Standard rush won,10
-LAC,8,LA,3,2.0,10,Justin Herbert,-17.0,4.0,0.0,True,False,-2.508,Extended play,10
-LAC,8,LA,4,2.0,8,Justin Herbert,-9.0,4.0,0.0,False,False,-1.7,Standard rush won,10
-LAC,9,HOU,1,2.0,9,Justin Herbert,0.0,4.0,0.0,True,True,-0.849,QB fault (FTN),10
-LAC,9,HOU,2,1.0,10,Justin Herbert,-5.0,4.0,0.0,False,False,-1.183,Standard rush won,10
-LAC,9,HOU,2,3.0,8,Justin Herbert,-6.0,4.0,0.0,False,False,-0.845,Standard rush won,10
-LAC,9,HOU,2,3.0,5,Justin Herbert,-9.0,4.0,0.0,False,False,-0.276,Standard rush won,10
-LAC,9,HOU,3,1.0,10,Justin Herbert,-1.0,5.0,1.0,True,False,-0.808,Extended play,10
-LAC,9,HOU,3,4.0,2,Justin Herbert,-3.0,4.0,0.0,False,True,-3.467,QB fault (FTN),10
-LAC,9,HOU,3,2.0,5,Justin Herbert,-8.0,4.0,0.0,False,False,-2.214,Standard rush won,10
-LAC,9,HOU,4,1.0,10,Justin Herbert,-8.0,4.0,0.0,False,False,-1.237,Standard rush won,10
-LV,2,LAC,1,1.0,10,Kirk Cousins,-1.0,4.0,0.0,False,False,-0.845,Standard rush won,8
-LV,2,LAC,2,3.0,9,Kirk Cousins,-4.0,4.0,0.0,False,False,-1.53,Standard rush won,8
-LV,3,NO,1,3.0,13,Kirk Cousins,-3.0,4.0,0.0,False,True,-0.873,QB fault (FTN),8
-LV,3,NO,2,1.0,10,Kirk Cousins,-9.0,4.0,0.0,False,True,-1.087,QB fault (FTN),8
-LV,3,NO,4,3.0,5,Kirk Cousins,-9.0,4.0,0.0,True,False,-2.171,Extended play,8
-LV,5,NE,2,3.0,11,Kirk Cousins,-4.0,4.0,0.0,False,False,-1.517,Standard rush won,8
-LV,5,NE,2,1.0,10,Kirk Cousins,-11.0,4.0,0.0,False,False,-0.238,Standard rush won,8
-LV,5,NE,4,1.0,10,Kirk Cousins,-8.0,4.0,0.0,True,True,-1.308,QB fault (FTN),8
-LV,7,LA,4,1.0,10,Kirk Cousins,-6.0,4.0,0.0,False,False,-1.149,Standard rush won,8
-LV,7,LA,4,2.0,16,Kirk Cousins,0.0,4.0,0.0,True,True,-0.846,QB fault (FTN),8
-LV,8,NYJ,1,3.0,2,Kirk Cousins,-9.0,4.0,0.0,False,False,-2.487,Standard rush won,8
-MIA,1,LV,1,2.0,8,Malik Willis,-7.0,4.0,0.0,False,True,-1.765,QB fault (FTN),2
-MIA,1,LV,3,3.0,5,Malik Willis,-10.0,5.0,1.0,True,True,-2.014,QB fault (FTN),2
-MIA,1,LV,4,3.0,6,Malik Willis,-4.0,4.0,0.0,False,False,-1.632,Standard rush won,2
-MIA,1,LV,4,3.0,10,Malik Willis,-8.0,5.0,1.0,False,False,-2.232,Blitz,2
-MIA,1,LV,4,1.0,16,Malik Willis,-6.0,4.0,0.0,False,False,-0.875,Standard rush won,2
-MIA,2,SF,2,2.0,6,Malik Willis,-4.0,5.0,1.0,True,False,-1.218,Extended play,2
-MIA,2,SF,2,3.0,10,Malik Willis,0.0,4.0,0.0,True,False,-0.785,Extended play,2
-MIA,2,SF,3,2.0,5,Malik Willis,-5.0,6.0,2.0,False,True,-1.307,QB fault (FTN),2
-MIA,2,SF,4,3.0,14,Malik Willis,-6.0,4.0,0.0,True,True,-1.091,QB fault (FTN),2
-MIA,4,MIN,1,3.0,4,Malik Willis,-8.0,4.0,0.0,False,False,-2.614,Standard rush won,2
-MIA,4,MIN,2,2.0,8,Malik Willis,0.0,5.0,1.0,False,False,-4.714,Blitz,2
-MIA,5,CIN,3,2.0,10,Malik Willis,-10.0,5.0,1.0,False,False,-2.161,Blitz,2
-MIA,5,CIN,3,2.0,3,Malik Willis,-8.0,5.0,1.0,True,False,-2.147,Extended play,2
-MIA,5,CIN,4,2.0,10,Malik Willis,-5.0,4.0,0.0,False,False,-4.659,Standard rush won,2
-MIA,7,NYJ,2,2.0,10,Malik Willis,0.0,4.0,0.0,False,False,-0.801,Standard rush won,2
-MIA,7,NYJ,3,3.0,2,Malik Willis,-4.0,4.0,0.0,False,False,-2.271,Standard rush won,2
-MIA,8,NE,1,2.0,5,Malik Willis,-2.0,4.0,0.0,True,False,-1.076,Extended play,2
-MIA,8,NE,1,1.0,10,Malik Willis,-1.0,4.0,0.0,True,False,-0.759,Extended play,2
-MIA,8,NE,1,3.0,10,Malik Willis,-2.0,4.0,0.0,False,False,-1.852,Standard rush won,2
-MIA,8,NE,2,2.0,13,Malik Willis,-6.0,5.0,1.0,True,False,-1.508,Extended play,2
-MIA,8,NE,2,2.0,3,Malik Willis,-5.0,4.0,0.0,False,False,-0.989,Standard rush won,2
-MIA,9,DET,4,1.0,7,Malik Willis,-9.0,4.0,0.0,False,False,-1.648,Standard rush won,2
-MIA,9,DET,4,3.0,12,Malik Willis,-4.0,4.0,0.0,True,True,-0.785,QB fault (FTN),2
-MIA,9,DET,4,2.0,10,Malik Willis,-10.0,4.0,0.0,True,False,-1.497,Extended play,2
-MIN,1,GB,2,3.0,4,Carson Wentz,-5.0,4.0,0.0,False,False,-1.64,Standard rush won,11
-MIN,1,GB,2,1.0,10,Carson Wentz,-8.0,5.0,1.0,True,False,-1.378,Extended play,11
-MIN,1,GB,4,2.0,5,Carson Wentz,-6.0,5.0,1.0,False,False,-1.659,Blitz,11
-MIN,2,CHI,2,2.0,10,Carson Wentz,-9.0,4.0,0.0,False,False,-0.447,Standard rush won,11
-MIN,2,CHI,3,3.0,2,Carson Wentz,-1.0,4.0,0.0,False,False,-1.852,Standard rush won,11
-MIN,2,CHI,3,3.0,7,Carson Wentz,-6.0,5.0,1.0,False,False,-1.865,Blitz,11
-MIN,3,TB,2,3.0,5,Kyler Murray,-2.0,5.0,1.0,True,False,-1.432,Extended play,1
-MIN,3,TB,2,3.0,4,Kyler Murray,-9.0,4.0,0.0,False,True,-1.954,QB fault (FTN),1
-MIN,3,TB,4,1.0,10,Kyler Murray,-5.0,4.0,0.0,True,False,-1.221,Extended play,1
-MIN,4,MIA,1,1.0,10,Kyler Murray,-8.0,4.0,0.0,False,False,-1.438,Standard rush won,1
-MIN,4,MIA,2,3.0,11,Kyler Murray,-8.0,4.0,0.0,False,False,-2.148,Standard rush won,1
-MIN,4,MIA,2,1.0,10,Kyler Murray,-7.0,4.0,0.0,False,False,-0.993,Standard rush won,1
-MIN,4,MIA,3,3.0,1,Kyler Murray,-11.0,4.0,0.0,True,False,-3.505,Extended play,1
-MIN,5,NO,1,1.0,10,Kyler Murray,-10.0,5.0,1.0,False,True,-1.802,QB fault (FTN),1
-MIN,5,NO,2,1.0,10,Kyler Murray,-8.0,4.0,0.0,False,True,-1.523,QB fault (FTN),1
-MIN,7,IND,3,2.0,7,Kyler Murray,-1.0,4.0,0.0,True,True,-0.972,QB fault (FTN),1
-MIN,7,IND,4,2.0,10,Kyler Murray,-2.0,4.0,0.0,True,False,-1.438,Extended play,1
-MIN,7,IND,4,1.0,10,Kyler Murray,-8.0,4.0,0.0,False,False,-1.326,Standard rush won,1
-MIN,8,DET,2,2.0,8,Kyler Murray,-9.0,3.0,0.0,False,False,-1.615,Standard rush won,1
-MIN,8,DET,3,1.0,10,Kyler Murray,-7.0,4.0,0.0,False,False,-1.395,Standard rush won,1
-MIN,8,DET,3,3.0,13,Kyler Murray,-9.0,6.0,2.0,True,False,-1.859,Extended play,1
-MIN,9,BUF,2,1.0,15,Carson Wentz,-6.0,5.0,1.0,False,True,-0.886,QB fault (FTN),11
-MIN,9,BUF,4,3.0,3,Max Brosmer,-6.0,4.0,0.0,False,True,-1.797,QB fault (FTN),12
-NE,1,SEA,4,1.0,20,Drake Maye,-1.0,4.0,0.0,False,False,-0.506,Standard rush won,10
-NE,1,SEA,4,2.0,17,Drake Maye,-2.0,5.0,1.0,True,False,-0.657,Extended play,10
-NE,1,SEA,4,1.0,10,Drake Maye,-7.0,4.0,0.0,True,False,-0.886,Extended play,10
-NE,2,PIT,1,1.0,11,Drake Maye,-3.0,4.0,0.0,False,False,-0.701,Standard rush won,10
-NE,2,PIT,2,3.0,10,Drake Maye,-2.0,4.0,0.0,False,False,-1.118,Standard rush won,10
-NE,2,PIT,2,1.0,10,Drake Maye,-12.0,4.0,0.0,False,False,-0.892,Standard rush won,10
-NE,3,JAX,1,1.0,10,Drake Maye,-3.0,5.0,1.0,False,False,-5.802,Blitz,10
-NE,3,JAX,2,3.0,3,Drake Maye,0.0,3.0,0.0,False,False,-1.322,Standard rush won,10
-NE,3,JAX,3,1.0,10,Drake Maye,-8.0,4.0,0.0,False,False,-1.847,Standard rush won,10
-NE,4,BUF,2,2.0,9,Drake Maye,-7.0,5.0,1.0,False,True,-5.428,QB fault (FTN),10
-NE,5,LV,2,1.0,10,Drake Maye,-3.0,4.0,0.0,False,True,-0.757,QB fault (FTN),10
-NE,7,CHI,1,4.0,5,Drake Maye,-1.0,4.0,0.0,False,False,-2.882,Standard rush won,10
-NE,7,CHI,4,2.0,10,Drake Maye,-10.0,6.0,2.0,False,False,-1.645,Blitz,10
-NE,8,MIA,1,3.0,8,Drake Maye,-10.0,4.0,0.0,False,False,-2.222,Standard rush won,10
-NE,8,MIA,2,1.0,10,Drake Maye,-2.0,3.0,0.0,True,False,-0.111,Extended play,10
-NE,8,MIA,3,3.0,6,Drake Maye,-5.0,4.0,0.0,False,False,-1.871,Standard rush won,10
-NE,9,GB,1,3.0,7,Drake Maye,-9.0,5.0,1.0,False,False,-2.323,Blitz,10
-NE,9,GB,3,2.0,5,Drake Maye,-6.0,5.0,1.0,False,False,-1.739,Blitz,10
-NE,9,GB,3,1.0,10,Drake Maye,-2.0,4.0,0.0,True,False,-0.872,Extended play,10
-NE,9,GB,4,3.0,10,Drake Maye,-10.0,5.0,1.0,False,False,-2.185,Blitz,10
-NO,1,DET,2,3.0,6,Tyler Shough,-8.0,4.0,0.0,False,False,-1.65,Standard rush won,6
-NO,1,DET,3,2.0,8,Tyler Shough,-6.0,6.0,2.0,False,False,-1.623,Blitz,6
-NO,1,DET,3,3.0,14,Tyler Shough,-6.0,4.0,0.0,False,False,-4.282,Standard rush won,6
-NO,1,DET,4,2.0,2,Tyler Shough,-10.0,4.0,0.0,False,False,-1.941,Standard rush won,6
-NO,1,DET,5,1.0,10,Tyler Shough,-2.0,5.0,1.0,False,False,-0.962,Blitz,6
-NO,2,BAL,1,3.0,2,Tyler Shough,-7.0,5.0,1.0,True,False,-2.472,Extended play,6
-NO,2,BAL,3,1.0,10,Tyler Shough,-4.0,5.0,1.0,False,False,-1.33,Blitz,6
-NO,2,BAL,3,3.0,19,Tyler Shough,-8.0,4.0,0.0,False,False,-1.416,Standard rush won,6
-NO,3,LV,4,3.0,4,Tyler Shough,-10.0,5.0,1.0,False,True,-5.7,QB fault (FTN),6
-NO,3,LV,4,4.0,1,Tyler Shough,-12.0,5.0,1.0,True,True,-4.62,QB fault (FTN),6
-NO,4,ATL,2,1.0,10,Tyler Shough,-7.0,6.0,2.0,False,False,-0.915,Blitz,6
-NO,4,ATL,4,4.0,6,Tyler Shough,-9.0,4.0,0.0,False,False,-3.649,Standard rush won,6
-NO,5,MIN,4,1.0,10,Tyler Shough,-9.0,4.0,0.0,False,False,-1.359,Standard rush won,6
-NO,7,PIT,2,2.0,10,Tyler Shough,-7.0,4.0,0.0,False,True,-1.632,QB fault (FTN),6
-NO,7,PIT,4,3.0,10,Tyler Shough,-8.0,5.0,1.0,False,True,-1.877,QB fault (FTN),6
-NO,9,CLE,1,3.0,8,Tyler Shough,-2.0,5.0,1.0,True,False,-1.271,Extended play,6
-NO,9,CLE,1,3.0,5,Tyler Shough,-9.0,4.0,0.0,True,False,-2.282,Extended play,6
-NO,9,CLE,3,3.0,6,Tyler Shough,-2.0,5.0,1.0,True,False,-1.487,Extended play,6
-NO,9,CLE,3,3.0,8,Tyler Shough,-10.0,6.0,2.0,False,False,-2.124,Blitz,6
-NO,9,CLE,4,2.0,10,Tyler Shough,-6.0,4.0,0.0,False,False,-1.751,Standard rush won,6
-NYG,1,DAL,2,1.0,10,Jaxson Dart,0.0,4.0,0.0,True,False,-0.369,Extended play,6
-NYG,1,DAL,2,1.0,10,Jaxson Dart,-1.0,5.0,1.0,False,False,-0.556,Blitz,6
-NYG,2,LA,2,1.0,10,Jameis Winston,0.0,4.0,0.0,False,False,-0.676,Standard rush won,19
-NYG,2,LA,3,3.0,8,Jameis Winston,-1.0,5.0,1.0,True,True,-1.143,QB fault (FTN),19
-NYG,3,TEN,1,2.0,7,Jameis Winston,-1.0,4.0,0.0,True,True,-0.827,QB fault (FTN),19
-NYG,3,TEN,2,3.0,3,Jameis Winston,-7.0,5.0,1.0,False,False,-2.241,Blitz,19
-NYG,3,TEN,4,3.0,5,Jameis Winston,-10.0,4.0,0.0,False,False,-2.147,Standard rush won,19
-NYG,4,ARI,1,1.0,10,Jameis Winston,-2.0,4.0,0.0,False,True,-1.047,QB fault (FTN),19
-NYG,4,ARI,1,1.0,10,Jameis Winston,-3.0,4.0,0.0,True,True,-1.164,QB fault (FTN),19
-NYG,4,ARI,3,1.0,10,Jameis Winston,-10.0,4.0,0.0,True,True,-1.396,QB fault (FTN),19
-NYG,4,ARI,4,2.0,9,Jameis Winston,-3.0,5.0,1.0,False,True,-1.195,QB fault (FTN),19
-NYG,5,WAS,2,3.0,10,Jameis Winston,-13.0,5.0,1.0,False,False,-1.982,Blitz,19
-NYG,5,WAS,2,2.0,8,Jameis Winston,-8.0,4.0,0.0,False,False,-5.203,Standard rush won,19
-NYG,6,NO,1,3.0,16,Jameis Winston,0.0,4.0,0.0,True,False,-0.9,Extended play,19
-NYG,6,NO,2,2.0,7,Jameis Winston,0.0,5.0,1.0,True,False,-0.692,Extended play,19
-NYG,6,NO,2,3.0,7,Jameis Winston,-1.0,7.0,3.0,True,False,-1.508,Extended play,19
-NYG,6,NO,3,3.0,6,Jameis Winston,-9.0,6.0,2.0,False,False,-2.306,Blitz,19
-NYG,6,NO,4,1.0,15,J.J. McCarthy,-8.0,5.0,1.0,False,False,-1.137,Blitz,18
-NYG,7,HOU,2,1.0,10,J.J. McCarthy,-5.0,5.0,1.0,False,True,-1.254,QB fault (FTN),18
-NYG,7,HOU,3,3.0,8,J.J. McCarthy,-5.0,5.0,1.0,False,True,-2.625,QB fault (FTN),18
-NYG,7,HOU,4,3.0,10,J.J. McCarthy,-10.0,7.0,3.0,False,True,-1.626,QB fault (FTN),18
-NYG,9,PHI,1,3.0,10,J.J. McCarthy,-1.0,5.0,1.0,True,False,-1.444,Extended play,18
-NYG,9,PHI,1,3.0,4,J.J. McCarthy,-10.0,4.0,0.0,True,False,-2.252,Extended play,18
-NYG,9,PHI,2,2.0,10,J.J. McCarthy,-3.0,5.0,1.0,False,False,-1.256,Blitz,18
-NYG,9,PHI,2,2.0,14,J.J. McCarthy,-8.0,4.0,0.0,True,False,-1.337,Extended play,18
-NYG,9,PHI,2,2.0,7,J.J. McCarthy,-7.0,4.0,0.0,False,False,-1.024,Standard rush won,18
-NYG,9,PHI,3,2.0,9,Jameis Winston,-6.0,4.0,0.0,False,False,-1.648,Standard rush won,19
-NYJ,2,GB,1,3.0,13,Geno Smith,-4.0,4.0,0.0,False,False,-1.153,Standard rush won,7
-NYJ,2,GB,4,3.0,17,Geno Smith,-10.0,5.0,1.0,False,False,-1.178,Blitz,7
-NYJ,2,GB,5,1.0,10,Geno Smith,-6.0,5.0,1.0,False,False,-1.281,Blitz,7
-NYJ,2,GB,5,2.0,16,Geno Smith,-9.0,4.0,0.0,False,False,-1.441,Standard rush won,7
-NYJ,3,DET,1,3.0,4,Geno Smith,-5.0,4.0,0.0,False,False,-2.395,Standard rush won,7
-NYJ,3,DET,3,2.0,6,Geno Smith,-8.0,4.0,0.0,False,False,-1.722,Standard rush won,7
-NYJ,3,DET,3,3.0,14,Geno Smith,-9.0,4.0,0.0,False,False,-1.221,Standard rush won,7
-NYJ,3,DET,4,2.0,12,Geno Smith,-5.0,4.0,0.0,False,False,-1.267,Standard rush won,7
-NYJ,3,DET,4,2.0,10,Geno Smith,-17.0,6.0,2.0,False,False,-4.704,Blitz,7
-NYJ,4,CHI,2,3.0,15,Geno Smith,-9.0,4.0,0.0,False,False,-1.381,Standard rush won,7
-NYJ,4,CHI,2,2.0,8,Geno Smith,-4.0,4.0,0.0,True,False,-1.094,Extended play,7
-NYJ,4,CHI,3,3.0,4,Geno Smith,-8.0,6.0,2.0,False,False,-3.23,Blitz,7
-NYJ,5,CLE,1,3.0,11,Geno Smith,-10.0,4.0,0.0,False,False,-2.064,Standard rush won,7
-NYJ,5,CLE,2,1.0,15,Geno Smith,-8.0,4.0,0.0,False,False,-1.519,Standard rush won,7
-NYJ,5,CLE,2,1.0,10,Geno Smith,-9.0,5.0,1.0,False,False,-1.565,Blitz,7
-NYJ,5,CLE,4,1.0,10,Geno Smith,-13.0,5.0,1.0,True,False,-5.845,Extended play,7
-NYJ,6,NE,1,2.0,9,Geno Smith,-7.0,5.0,1.0,False,False,-1.56,Blitz,7
-NYJ,6,NE,1,3.0,16,Geno Smith,-10.0,4.0,0.0,False,False,-1.515,Standard rush won,7
-NYJ,6,NE,3,3.0,5,Geno Smith,-8.0,6.0,2.0,False,False,-1.528,Blitz,7
-NYJ,7,MIA,3,2.0,10,Geno Smith,-6.0,5.0,1.0,False,False,-1.788,Blitz,7
-NYJ,7,MIA,4,3.0,3,Geno Smith,-12.0,3.0,0.0,True,False,-1.894,Extended play,7
-NYJ,8,LV,2,3.0,6,Geno Smith,-10.0,4.0,0.0,False,False,-0.299,Standard rush won,7
-NYJ,8,LV,3,1.0,20,Geno Smith,-7.0,4.0,0.0,False,True,-1.457,QB fault (FTN),7
-NYJ,9,KC,2,3.0,6,Geno Smith,-9.0,4.0,0.0,False,False,-1.431,Standard rush won,7
-NYJ,9,KC,3,2.0,5,Geno Smith,-7.0,4.0,0.0,False,False,-1.828,Standard rush won,7
-NYJ,9,KC,3,3.0,9,Geno Smith,-14.0,5.0,1.0,False,False,-2.374,Blitz,7
-NYJ,9,KC,4,4.0,3,Geno Smith,-6.0,4.0,0.0,False,False,-3.711,Standard rush won,7
-NYJ,9,KC,4,3.0,10,Geno Smith,-6.0,5.0,1.0,False,False,-2.041,Blitz,7
-PHI,1,WAS,1,3.0,12,Jalen Hurts,-9.0,5.0,1.0,False,True,-1.653,QB fault (FTN),1
-PHI,1,WAS,3,1.0,10,Jalen Hurts,-6.0,5.0,1.0,False,True,-1.494,QB fault (FTN),1
-PHI,1,WAS,3,3.0,10,Jalen Hurts,-6.0,5.0,1.0,True,True,-1.956,QB fault (FTN),1
-PHI,2,TEN,2,2.0,8,Jalen Hurts,-1.0,4.0,0.0,True,True,-0.721,QB fault (FTN),1
-PHI,2,TEN,3,3.0,12,Jalen Hurts,-11.0,4.0,0.0,False,False,-1.581,Standard rush won,1
-PHI,2,TEN,4,2.0,12,Jalen Hurts,0.0,4.0,0.0,True,True,-0.837,QB fault (FTN),1
-PHI,3,CHI,3,1.0,10,Jalen Hurts,-2.0,5.0,1.0,True,True,-0.905,QB fault (FTN),1
-PHI,3,CHI,4,2.0,15,Jalen Hurts,-10.0,4.0,0.0,False,False,-1.697,Standard rush won,1
-PHI,4,LA,1,1.0,10,Jalen Hurts,0.0,4.0,0.0,True,False,-0.506,Extended play,1
-PHI,4,LA,2,3.0,14,Jalen Hurts,-10.0,5.0,1.0,False,False,-2.341,Blitz,1
-PHI,4,LA,4,1.0,10,Jalen Hurts,-7.0,4.0,0.0,False,False,-0.482,Standard rush won,1
-PHI,4,LA,4,3.0,17,Jalen Hurts,-8.0,4.0,0.0,False,False,-0.111,Standard rush won,1
-PHI,5,JAX,4,2.0,10,Jalen Hurts,-10.0,5.0,1.0,False,True,-1.351,QB fault (FTN),1
-PHI,6,CAR,1,1.0,10,Tanner McKee,-11.0,4.0,0.0,True,False,-1.915,Extended play,16
-PHI,6,CAR,3,2.0,8,Tanner McKee,-6.0,5.0,1.0,False,False,-1.603,Blitz,16
-PHI,6,CAR,4,1.0,10,Tanner McKee,-11.0,6.0,2.0,False,False,-1.643,Blitz,16
-PHI,7,DAL,3,1.0,17,Tanner McKee,-3.0,4.0,0.0,False,False,-0.675,Standard rush won,16
-PHI,7,DAL,4,2.0,9,Tanner McKee,-8.0,4.0,0.0,False,False,-1.246,Standard rush won,16
-PHI,8,WAS,2,2.0,5,Tanner McKee,-7.0,5.0,1.0,False,False,-1.686,Blitz,16
-PHI,8,WAS,3,1.0,10,Tanner McKee,-5.0,5.0,1.0,True,True,-1.144,QB fault (FTN),16
-PHI,8,WAS,3,3.0,4,Tanner McKee,-3.0,4.0,0.0,False,True,-4.686,QB fault (FTN),16
-PHI,8,WAS,4,3.0,14,Tanner McKee,-11.0,4.0,0.0,False,False,-1.144,Standard rush won,16
-PHI,8,WAS,4,2.0,10,Tanner McKee,-9.0,4.0,0.0,False,False,-1.466,Standard rush won,16
-PHI,9,NYG,1,1.0,10,Joe Milton III,-8.0,4.0,0.0,False,False,-1.374,Standard rush won,14
-PHI,9,NYG,2,3.0,5,Joe Milton III,-8.0,5.0,1.0,False,False,-4.575,Blitz,14
-PHI,9,NYG,2,3.0,10,Joe Milton III,-2.0,6.0,2.0,False,False,-1.716,Blitz,14
-PHI,9,NYG,3,2.0,14,Joe Milton III,-10.0,4.0,0.0,False,False,-1.686,Standard rush won,14
-PHI,9,NYG,4,3.0,10,Joe Milton III,-8.0,4.0,0.0,False,False,-2.031,Standard rush won,14
-PHI,9,NYG,4,1.0,10,Joe Milton III,-1.0,4.0,0.0,True,False,-0.309,Extended play,14
-PHI,9,NYG,4,4.0,2,Joe Milton III,-4.0,5.0,1.0,False,False,-0.075,Blitz,14
-PIT,1,ATL,2,1.0,10,Aaron Rodgers,-7.0,4.0,0.0,True,False,-0.437,Extended play,8
-PIT,1,ATL,4,3.0,5,Aaron Rodgers,-8.0,3.0,0.0,False,False,-2.545,Standard rush won,8
-PIT,2,NE,2,3.0,7,Aaron Rodgers,-8.0,6.0,2.0,False,False,-2.96,Blitz,8
-PIT,2,NE,4,2.0,21,Aaron Rodgers,-11.0,4.0,0.0,False,False,-7.384,Standard rush won,8
-PIT,2,NE,4,3.0,5,Aaron Rodgers,-11.0,5.0,1.0,False,False,-2.431,Blitz,8
-PIT,2,NE,4,1.0,4,Aaron Rodgers,-13.0,4.0,0.0,True,False,-2.271,Extended play,8
-PIT,3,CIN,4,3.0,5,Aaron Rodgers,-9.0,6.0,2.0,False,False,-1.487,Blitz,8
-PIT,3,CIN,4,3.0,5,Aaron Rodgers,-10.0,4.0,0.0,False,True,-1.489,QB fault (FTN),8
-PIT,4,CLE,1,2.0,9,Aaron Rodgers,-7.0,5.0,1.0,False,True,-1.836,QB fault (FTN),8
-PIT,4,CLE,2,3.0,4,Aaron Rodgers,-6.0,5.0,1.0,True,True,-2.097,QB fault (FTN),8
-PIT,4,CLE,3,3.0,5,Aaron Rodgers,-3.0,5.0,1.0,True,True,-2.047,QB fault (FTN),8
-PIT,4,CLE,3,3.0,15,Aaron Rodgers,-10.0,5.0,1.0,False,True,-1.966,QB fault (FTN),8
-PIT,4,CLE,4,1.0,10,Aaron Rodgers,-4.0,4.0,0.0,False,True,-1.102,QB fault (FTN),8
-PIT,5,IND,3,3.0,10,Aaron Rodgers,-10.0,5.0,1.0,False,False,-2.022,Blitz,8
-PIT,6,TB,2,1.0,10,Aaron Rodgers,-8.0,6.0,2.0,True,False,-1.075,Extended play,8
-PIT,6,TB,2,3.0,15,Aaron Rodgers,-8.0,6.0,2.0,False,False,-1.145,Blitz,8
-PIT,6,TB,3,1.0,10,Aaron Rodgers,-11.0,4.0,0.0,False,False,-1.529,Standard rush won,8
-PIT,6,TB,4,2.0,10,Aaron Rodgers,-6.0,4.0,0.0,False,False,-1.534,Standard rush won,8
-PIT,6,TB,4,3.0,4,Aaron Rodgers,-9.0,4.0,0.0,False,False,-2.764,Standard rush won,8
-PIT,7,NO,2,3.0,6,Aaron Rodgers,-4.0,4.0,0.0,False,True,-0.865,QB fault (FTN),8
-PIT,7,NO,3,3.0,10,Aaron Rodgers,-6.0,4.0,0.0,False,True,-1.348,QB fault (FTN),8
-PIT,7,NO,4,3.0,5,Aaron Rodgers,-7.0,5.0,1.0,False,True,-2.121,QB fault (FTN),8
-PIT,8,CLE,2,3.0,8,Aaron Rodgers,-11.0,4.0,0.0,False,False,-1.205,Standard rush won,8
-SEA,1,NE,1,3.0,6,Sam Darnold,-5.0,6.0,2.0,True,False,-2.052,Extended play,14
-SEA,1,NE,2,1.0,10,Drew Lock,-7.0,4.0,0.0,False,False,-1.308,Standard rush won,2
-SEA,2,ARI,2,4.0,1,Drew Lock,-16.0,6.0,2.0,True,False,-0.356,Extended play,2
-SEA,4,LAC,2,1.0,10,Sam Darnold,-8.0,4.0,0.0,False,True,-1.262,QB fault (FTN),14
-SEA,4,LAC,4,2.0,10,Sam Darnold,-3.0,6.0,2.0,True,True,1.054,QB fault (FTN),14
-SEA,4,LAC,4,3.0,8,Sam Darnold,-9.0,8.0,4.0,False,True,-1.562,QB fault (FTN),14
-SEA,5,SF,1,2.0,3,Sam Darnold,-7.0,5.0,1.0,True,True,-1.743,QB fault (FTN),14
-SEA,5,SF,1,2.0,10,Sam Darnold,-5.0,4.0,0.0,False,True,-1.532,QB fault (FTN),14
-SEA,5,SF,2,1.0,10,Sam Darnold,-9.0,4.0,0.0,True,True,-1.597,QB fault (FTN),14
-SEA,5,SF,2,2.0,19,Sam Darnold,-7.0,4.0,0.0,False,True,-1.118,QB fault (FTN),14
-SEA,5,SF,4,3.0,5,Sam Darnold,-5.0,4.0,0.0,True,True,-1.471,QB fault (FTN),14
-SEA,6,DEN,1,2.0,4,Sam Darnold,-6.0,5.0,1.0,False,False,-1.604,Blitz,14
-SEA,6,DEN,1,3.0,10,Sam Darnold,-6.0,5.0,1.0,False,False,-2.218,Blitz,14
-SEA,6,DEN,3,3.0,7,Sam Darnold,-5.0,4.0,0.0,True,False,-1.693,Extended play,14
-SEA,6,DEN,3,3.0,5,Sam Darnold,-14.0,4.0,0.0,False,False,-2.584,Standard rush won,14
-SEA,6,DEN,4,3.0,11,Sam Darnold,-7.0,5.0,1.0,False,False,-1.961,Blitz,14
-SEA,8,CHI,1,1.0,10,Sam Darnold,-6.0,5.0,1.0,False,False,0.793,Blitz,14
-SEA,8,CHI,3,2.0,10,Sam Darnold,-8.0,5.0,1.0,False,False,-1.967,Blitz,14
-SEA,8,CHI,3,1.0,10,Sam Darnold,-3.0,5.0,1.0,False,True,-1.004,QB fault (FTN),14
-SF,5,SEA,1,3.0,1,Brock Purdy,-4.0,4.0,0.0,False,True,-2.601,QB fault (FTN),13
-SF,5,SEA,2,1.0,10,Brock Purdy,-8.0,5.0,1.0,False,True,-1.581,QB fault (FTN),13
-SF,5,SEA,2,3.0,12,Brock Purdy,-2.0,3.0,0.0,True,False,-1.43,Extended play,13
-SF,6,WAS,3,1.0,10,Brock Purdy,-9.0,6.0,2.0,False,False,-1.46,Blitz,13
-SF,6,WAS,4,2.0,4,Brock Purdy,-6.0,6.0,2.0,False,False,-1.347,Blitz,13
-SF,7,ATL,1,1.0,10,Brock Purdy,-7.0,5.0,1.0,False,False,-1.305,Blitz,13
-SF,7,ATL,4,4.0,10,Brock Purdy,-4.0,6.0,2.0,False,False,-3.996,Blitz,13
-SF,9,LV,2,1.0,10,Brock Purdy,-8.0,6.0,2.0,False,False,-0.792,Blitz,13
-TB,1,CIN,1,3.0,9,Baker Mayfield,-7.0,5.0,1.0,True,True,-6.569,QB fault (FTN),6
-TB,1,CIN,1,1.0,10,Baker Mayfield,-4.0,4.0,0.0,True,True,-1.177,QB fault (FTN),6
-TB,1,CIN,3,3.0,6,Baker Mayfield,-9.0,4.0,0.0,False,True,-2.481,QB fault (FTN),6
-TB,1,CIN,4,1.0,15,Baker Mayfield,-3.0,4.0,0.0,False,True,-5.208,QB fault (FTN),6
-TB,2,CLE,1,1.0,10,Baker Mayfield,0.0,4.0,0.0,True,False,-0.603,Extended play,6
-TB,2,CLE,2,3.0,7,Baker Mayfield,0.0,4.0,0.0,True,False,-1.466,Extended play,6
-TB,2,CLE,2,3.0,15,Baker Mayfield,-6.0,4.0,0.0,False,True,-0.953,QB fault (FTN),6
-TB,3,MIN,2,1.0,10,Baker Mayfield,-7.0,5.0,1.0,False,False,-1.499,Blitz,6
-TB,3,MIN,2,1.0,10,Baker Mayfield,-5.0,5.0,1.0,False,False,-0.616,Blitz,6
-TB,3,MIN,3,3.0,7,Baker Mayfield,-1.0,6.0,2.0,True,False,-1.378,Extended play,6
-TB,3,MIN,3,2.0,9,Baker Mayfield,-6.0,5.0,1.0,False,False,-1.411,Blitz,6
-TB,3,MIN,4,3.0,2,Baker Mayfield,-2.0,5.0,1.0,True,False,-1.949,Extended play,6
-TB,3,MIN,4,2.0,19,Baker Mayfield,-10.0,4.0,0.0,False,False,-1.579,Standard rush won,6
-TB,4,GB,1,3.0,2,Jalon Daniels,0.0,5.0,1.0,True,False,-1.76,Extended play,10
-TB,4,GB,3,3.0,8,Jalon Daniels,-8.0,7.0,3.0,False,False,-1.962,Blitz,10
-TB,4,GB,4,2.0,10,Jalon Daniels,-6.0,5.0,1.0,False,False,-0.985,Blitz,10
-TB,5,DAL,3,1.0,10,Jalon Daniels,-11.0,5.0,1.0,False,False,-1.785,Blitz,10
-TB,6,PIT,1,3.0,9,Jalon Daniels,-15.0,5.0,1.0,False,False,-2.671,Blitz,10
-TB,6,PIT,1,1.0,10,Jalon Daniels,-10.0,5.0,1.0,False,False,-1.403,Blitz,10
-TB,6,PIT,2,1.0,10,Jalon Daniels,-1.0,4.0,0.0,True,True,-0.793,QB fault (FTN),10
-TB,6,PIT,4,2.0,10,Jalon Daniels,-5.0,4.0,0.0,True,True,-0.994,QB fault (FTN),10
-TB,6,PIT,5,4.0,8,Jalon Daniels,-11.0,5.0,1.0,False,False,-0.266,Blitz,10
-TB,8,ATL,3,3.0,7,Baker Mayfield,-2.0,5.0,1.0,True,False,-1.796,Extended play,6
-TB,9,CHI,3,3.0,5,Baker Mayfield,-4.0,4.0,0.0,False,False,-1.684,Standard rush won,6
-TB,9,CHI,3,1.0,20,Baker Mayfield,-2.0,5.0,1.0,False,False,-0.658,Blitz,6
-TB,9,CHI,4,1.0,10,Baker Mayfield,-3.0,6.0,2.0,False,False,-0.939,Blitz,6
-TB,9,CHI,4,2.0,13,Baker Mayfield,-8.0,4.0,0.0,False,False,-1.261,Standard rush won,6
-TEN,1,NYJ,1,1.0,10,Cam Ward,-1.0,5.0,1.0,False,True,-0.762,QB fault (FTN),1
-TEN,1,NYJ,3,3.0,8,Cam Ward,-1.0,4.0,0.0,True,True,-1.785,QB fault (FTN),1
-TEN,1,NYJ,4,2.0,14,Cam Ward,-11.0,4.0,0.0,True,False,-1.655,Extended play,1
-TEN,2,PHI,2,2.0,8,Cam Ward,-5.0,4.0,0.0,True,True,-0.742,QB fault (FTN),1
-TEN,2,PHI,4,1.0,9,Cam Ward,-9.0,4.0,0.0,True,False,-1.679,Extended play,1
-TEN,4,BAL,4,2.0,6,Cam Ward,-10.0,4.0,0.0,False,False,-1.469,Standard rush won,1
-TEN,5,HOU,4,1.0,10,Cam Ward,-9.0,6.0,2.0,False,False,-1.704,Blitz,1
-TEN,5,HOU,4,4.0,20,Cam Ward,-14.0,4.0,0.0,False,False,-2.839,Standard rush won,1
-TEN,5,HOU,4,1.0,10,Cam Ward,-4.0,4.0,0.0,False,False,-0.826,Standard rush won,1
-TEN,5,HOU,4,4.0,19,Cam Ward,-13.0,4.0,0.0,False,False,-2.36,Standard rush won,1
-TEN,7,CLE,2,3.0,1,Cam Ward,0.0,7.0,3.0,False,True,-1.134,QB fault (FTN),1
-TEN,8,CIN,3,2.0,7,Cam Ward,-9.0,4.0,0.0,False,False,-6.317,Standard rush won,1
-TEN,8,CIN,4,3.0,3,Cam Ward,-13.0,4.0,0.0,False,False,-1.698,Standard rush won,1
-WAS,1,PHI,4,2.0,8,Jayden Daniels,-1.0,5.0,1.0,True,False,-1.011,Extended play,5
-WAS,3,SEA,2,3.0,8,Marcus Mariota,-2.0,4.0,0.0,False,False,-0.677,Standard rush won,8
-WAS,3,SEA,4,2.0,8,Marcus Mariota,-5.0,4.0,0.0,False,False,-1.455,Standard rush won,8
-WAS,4,IND,1,3.0,5,Marcus Mariota,-6.0,4.0,0.0,False,False,-1.444,Standard rush won,8
-WAS,4,IND,3,3.0,9,Athan Kaliakmanis,-9.0,6.0,2.0,False,False,-2.744,Blitz,16
-WAS,5,NYG,1,2.0,8,Jayden Daniels,-6.0,5.0,1.0,True,False,-1.577,Extended play,5
-WAS,5,NYG,1,3.0,10,Jayden Daniels,-8.0,5.0,1.0,False,False,-1.887,Blitz,5
-WAS,5,NYG,4,3.0,8,Jayden Daniels,-6.0,7.0,3.0,False,False,-1.618,Blitz,5
-WAS,5,NYG,4,2.0,10,Jayden Daniels,-3.0,6.0,2.0,False,False,-0.827,Blitz,5
-WAS,5,NYG,5,2.0,8,Jayden Daniels,0.0,6.0,2.0,True,True,-1.95,QB fault (FTN),5
-WAS,6,SF,1,3.0,9,Jayden Daniels,-6.0,6.0,2.0,False,False,-1.926,Blitz,5
-WAS,6,SF,2,1.0,19,Jayden Daniels,-3.0,4.0,0.0,False,True,-0.779,QB fault (FTN),5
-WAS,6,SF,3,3.0,8,Jayden Daniels,-12.0,4.0,0.0,False,True,-2.138,QB fault (FTN),5
-WAS,6,SF,4,3.0,22,Jayden Daniels,-18.0,3.0,0.0,False,False,-0.77,Standard rush won,5
-WAS,8,PHI,3,3.0,9,Jayden Daniels,-12.0,4.0,0.0,False,False,-2.422,Standard rush won,5
-WAS,8,PHI,4,3.0,6,Jayden Daniels,-1.0,4.0,0.0,True,True,-1.215,QB fault (FTN),5
-WAS,9,LA,2,1.0,20,Jayden Daniels,-4.0,4.0,0.0,True,True,-4.288,QB fault (FTN),5
-WAS,9,LA,4,2.0,9,Jayden Daniels,-5.0,4.0,0.0,False,False,-1.594,Standard rush won,5
-WAS,9,LA,4,2.0,10,Jayden Daniels,0.0,6.0,2.0,True,False,-0.515,Extended play,5
-WAS,9,LA,4,3.0,5,Jayden Daniels,-12.0,3.0,0.0,False,False,-2.29,Standard rush won,5
+ARI,1,LAC,4,3.0,2,Jacoby Brissett,0.0,5.0,1.0,True,False,-1.252,Extended play,7
+ARI,2,SEA,1,3.0,5,Jacoby Brissett,-7.0,4.0,0.0,False,False,-1.823,Standard rush won,7
+ARI,2,SEA,4,3.0,2,Jacoby Brissett,-7.0,4.0,0.0,False,False,-1.992,Standard rush won,7
+ARI,3,SF,3,2.0,8,Jacoby Brissett,0.0,4.0,0.0,True,False,-0.586,Extended play,7
+ARI,3,SF,4,1.0,10,Jacoby Brissett,-8.0,4.0,0.0,False,False,-0.96,Standard rush won,7
+ARI,4,NYG,2,2.0,10,Jacoby Brissett,-8.0,6.0,2.0,False,True,-0.71,QB fault (FTN),7
+ARI,4,NYG,4,3.0,7,Jacoby Brissett,-11.0,5.0,1.0,False,True,-1.777,QB fault (FTN),7
+ARI,5,DET,1,2.0,6,Jacoby Brissett,-1.0,5.0,1.0,True,False,-0.721,Extended play,7
+ARI,5,DET,2,3.0,1,Jacoby Brissett,-8.0,4.0,0.0,True,False,-1.952,Extended play,7
+ARI,5,DET,2,2.0,10,Jacoby Brissett,-9.0,4.0,0.0,False,False,-0.794,Standard rush won,7
+ARI,5,DET,3,2.0,12,Jacoby Brissett,-9.0,5.0,1.0,False,False,-1.364,Blitz,7
+ARI,5,DET,4,4.0,1,Jacoby Brissett,-1.0,6.0,2.0,True,False,-3.152,Extended play,7
+ARI,7,DEN,2,3.0,4,Jacoby Brissett,-6.0,4.0,0.0,False,False,-0.713,Standard rush won,7
+ARI,7,DEN,4,1.0,10,Jacoby Brissett,-3.0,5.0,1.0,False,False,-0.997,Blitz,7
+ARI,7,DEN,4,2.0,1,Jacoby Brissett,-4.0,7.0,3.0,False,False,-1.442,Blitz,7
+ARI,8,DAL,1,2.0,8,Jacoby Brissett,-3.0,4.0,0.0,False,False,-0.907,Standard rush won,7
+ARI,8,DAL,2,3.0,8,Jacoby Brissett,-7.0,5.0,1.0,True,False,-1.748,Extended play,7
+ARI,8,DAL,3,1.0,10,Jacoby Brissett,-10.0,4.0,0.0,False,False,-1.159,Standard rush won,7
+ARI,8,DAL,3,2.0,20,Jacoby Brissett,-16.0,4.0,0.0,False,False,-1.559,Standard rush won,7
+ARI,8,DAL,5,1.0,10,Gardner Minshew,-6.0,4.0,0.0,False,False,-0.965,Standard rush won,15
+ARI,9,SEA,2,3.0,8,Gardner Minshew,-6.0,4.0,0.0,False,False,-1.542,Standard rush won,15
+ARI,9,SEA,2,1.0,10,Gardner Minshew,-6.0,3.0,0.0,False,False,-0.042,Standard rush won,15
+ARI,9,SEA,3,3.0,2,Gardner Minshew,-6.0,4.0,0.0,False,False,-1.839,Standard rush won,15
+ARI,10,LA,1,3.0,2,Carson Beck,-7.0,5.0,1.0,False,False,-2.138,Blitz,19
+ARI,10,LA,2,3.0,4,Carson Beck,-2.0,4.0,0.0,True,False,-1.273,Extended play,19
+ARI,10,LA,2,3.0,6,Carson Beck,-4.0,5.0,1.0,False,False,-1.225,Blitz,19
+ARI,10,LA,2,1.0,10,Carson Beck,-1.0,3.0,0.0,True,True,-0.129,QB fault (FTN),19
+ARI,10,LA,4,2.0,5,Carson Beck,-5.0,4.0,0.0,False,False,-1.107,Standard rush won,19
+ATL,1,PIT,1,3.0,4,Cooper Rush,-7.0,4.0,0.0,False,True,-1.595,QB fault (FTN),13
+ATL,1,PIT,2,1.0,10,Cooper Rush,-2.0,4.0,0.0,True,False,-0.635,Extended play,13
+ATL,1,PIT,3,2.0,11,Cooper Rush,-7.0,4.0,0.0,False,False,-1.332,Standard rush won,13
+ATL,1,PIT,4,3.0,5,Cooper Rush,-9.0,4.0,0.0,False,False,-1.98,Standard rush won,13
+ATL,2,CAR,2,3.0,5,Cooper Rush,-3.0,5.0,1.0,False,False,-1.334,Blitz,13
+ATL,2,CAR,3,2.0,6,Jack Strand,-6.0,4.0,0.0,False,False,-1.296,Standard rush won,18
+ATL,2,CAR,4,2.0,10,Jack Strand,-7.0,5.0,1.0,False,False,-3.909,Blitz,18
+ATL,4,NO,1,3.0,6,Michael Penix Jr.,-8.0,6.0,2.0,False,False,-1.76,Blitz,9
+ATL,5,BAL,2,1.0,10,Michael Penix Jr.,-6.0,4.0,0.0,False,True,-1.065,QB fault (FTN),9
+ATL,5,BAL,3,2.0,10,Michael Penix Jr.,-1.0,4.0,0.0,True,True,-0.769,QB fault (FTN),9
+ATL,5,BAL,4,1.0,10,Michael Penix Jr.,-10.0,4.0,0.0,True,True,-0.709,QB fault (FTN),9
+ATL,6,CHI,2,2.0,10,Michael Penix Jr.,-10.0,5.0,1.0,False,False,-0.538,Blitz,9
+ATL,6,CHI,3,3.0,3,Michael Penix Jr.,-8.0,6.0,2.0,False,False,-2.04,Blitz,9
+ATL,6,CHI,3,2.0,9,Michael Penix Jr.,-6.0,5.0,1.0,False,False,-1.383,Blitz,9
+ATL,6,CHI,3,3.0,6,Michael Penix Jr.,-7.0,4.0,0.0,False,False,-1.634,Standard rush won,9
+ATL,6,CHI,4,3.0,16,Michael Penix Jr.,0.0,6.0,2.0,False,False,-2.321,Blitz,9
+ATL,10,KC,1,2.0,2,Michael Penix Jr.,-8.0,4.0,0.0,True,False,-1.506,Extended play,9
+ATL,10,KC,2,3.0,7,Michael Penix Jr.,-3.0,4.0,0.0,False,False,-1.345,Standard rush won,9
+ATL,10,KC,3,1.0,15,Michael Penix Jr.,-5.0,4.0,0.0,True,False,-0.713,Extended play,9
+BAL,1,IND,2,1.0,10,Lamar Jackson,-15.0,5.0,1.0,False,False,-4.971,Blitz,8
+BAL,1,IND,3,1.0,10,Lamar Jackson,-5.0,4.0,0.0,True,False,-0.883,Extended play,8
+BAL,2,NO,2,2.0,10,Lamar Jackson,-11.0,4.0,0.0,False,False,-1.783,Standard rush won,8
+BAL,2,NO,3,3.0,10,Lamar Jackson,-12.0,4.0,0.0,False,False,-1.749,Standard rush won,8
+BAL,2,NO,3,2.0,18,Lamar Jackson,-8.0,6.0,2.0,False,False,-1.136,Blitz,8
+BAL,4,TEN,1,3.0,10,Lamar Jackson,-8.0,5.0,1.0,False,False,-1.785,Blitz,8
+BAL,4,TEN,2,2.0,10,Lamar Jackson,-5.0,4.0,0.0,True,False,-0.173,Extended play,8
+BAL,5,ATL,1,1.0,10,Tyler Huntley,-9.0,5.0,1.0,False,True,-1.138,QB fault (FTN),5
+BAL,5,ATL,2,1.0,5,Tyler Huntley,0.0,5.0,1.0,True,True,-0.405,QB fault (FTN),5
+BAL,5,ATL,2,2.0,8,Zay Flowers,-2.0,5.0,1.0,True,False,-0.568,Extended play,4
+BAL,5,ATL,3,3.0,4,Tyler Huntley,-7.0,4.0,0.0,True,True,-1.811,QB fault (FTN),5
+BAL,6,CLE,2,1.0,10,Tyler Huntley,0.0,6.0,2.0,True,False,-0.436,Extended play,5
+BAL,6,CLE,2,2.0,10,Tyler Huntley,-8.0,4.0,0.0,False,False,-0.791,Standard rush won,5
+BAL,6,CLE,3,1.0,10,Tyler Huntley,-9.0,6.0,2.0,False,False,-1.402,Blitz,5
+BAL,7,CIN,1,3.0,6,Tyler Huntley,-6.0,5.0,1.0,False,False,-1.427,Blitz,5
+BAL,7,CIN,3,3.0,11,Tyler Huntley,-4.0,4.0,0.0,True,False,-1.375,Extended play,5
+BAL,7,CIN,4,3.0,2,Tyler Huntley,-5.0,7.0,3.0,False,False,-1.772,Blitz,5
+BAL,7,CIN,4,2.0,9,Tyler Huntley,-7.0,4.0,0.0,False,False,-1.217,Standard rush won,5
+BAL,8,BUF,2,3.0,8,Tyler Huntley,-8.0,5.0,1.0,False,True,-4.083,QB fault (FTN),5
+BAL,8,BUF,2,1.0,7,Joe Fagnano,-9.0,5.0,1.0,False,False,-1.606,Blitz,12
+BAL,8,BUF,2,3.0,3,Joe Fagnano,-2.0,5.0,1.0,True,False,-1.332,Extended play,12
+BAL,8,BUF,2,1.0,10,Joe Fagnano,-4.0,4.0,0.0,True,True,-0.502,QB fault (FTN),12
+BAL,9,JAX,2,3.0,9,Joe Fagnano,-2.0,5.0,1.0,False,False,-1.223,Blitz,12
+BAL,10,LAC,1,2.0,11,Jacoby Brissett,-2.0,4.0,0.0,False,True,-0.915,QB fault (FTN),11
+BAL,10,LAC,3,3.0,3,Jacoby Brissett,-7.0,4.0,0.0,False,True,-1.492,QB fault (FTN),11
+BUF,1,HOU,1,2.0,6,Josh Allen,-6.0,4.0,0.0,False,False,-1.519,Standard rush won,17
+BUF,1,HOU,3,2.0,7,Josh Allen,-5.0,4.0,0.0,False,False,-1.346,Standard rush won,17
+BUF,2,DET,1,1.0,10,Josh Allen,-5.0,5.0,1.0,False,True,-0.983,QB fault (FTN),17
+BUF,2,DET,3,1.0,10,Josh Allen,0.0,5.0,1.0,True,False,-0.41,Extended play,17
+BUF,3,LAC,1,3.0,9,Josh Allen,-13.0,5.0,1.0,False,False,-1.674,Blitz,17
+BUF,3,LAC,3,2.0,9,Josh Allen,-4.0,4.0,0.0,False,False,-1.101,Standard rush won,17
+BUF,3,LAC,4,3.0,13,Josh Allen,-6.0,4.0,0.0,False,False,-3.282,Standard rush won,17
+BUF,3,LAC,4,1.0,10,Josh Allen,-7.0,5.0,1.0,True,True,-1.263,QB fault (FTN),17
+BUF,4,NE,1,1.0,10,Josh Allen,-4.0,5.0,1.0,False,False,-0.872,Blitz,17
+BUF,5,LA,1,3.0,7,Josh Allen,-8.0,4.0,0.0,True,True,-1.613,QB fault (FTN),17
+BUF,6,LV,1,3.0,3,Josh Allen,-5.0,6.0,2.0,False,False,-1.583,Blitz,17
+BUF,6,LV,2,3.0,9,Josh Allen,-8.0,3.0,0.0,False,False,-1.296,Standard rush won,17
+BUF,8,BAL,3,3.0,22,Josh Allen,-9.0,4.0,0.0,True,True,-1.09,QB fault (FTN),17
+BUF,9,MIN,1,3.0,14,Josh Allen,-7.0,6.0,2.0,False,False,-1.223,Blitz,17
+BUF,9,MIN,2,1.0,10,Josh Allen,-5.0,6.0,2.0,False,False,-1.177,Blitz,17
+BUF,9,MIN,2,3.0,15,Josh Allen,-8.0,5.0,1.0,False,False,-1.092,Blitz,17
+BUF,9,MIN,3,1.0,10,Josh Allen,-9.0,5.0,1.0,False,False,-1.327,Blitz,17
+BUF,10,NYJ,4,3.0,8,Josh Allen,-8.0,5.0,1.0,False,False,-1.259,Blitz,17
+CAR,1,CHI,1,3.0,7,Bryce Young,-6.0,4.0,0.0,False,False,-1.609,Standard rush won,9
+CAR,1,CHI,3,3.0,3,Bryce Young,-2.0,4.0,0.0,False,False,-1.493,Standard rush won,9
+CAR,2,ATL,2,2.0,12,Bryce Young,-9.0,4.0,0.0,False,False,-1.196,Standard rush won,9
+CAR,2,ATL,2,1.0,10,Bryce Young,-6.0,5.0,1.0,False,False,-0.916,Blitz,9
+CAR,3,CLE,2,4.0,3,Bryce Young,-10.0,4.0,0.0,False,False,-2.388,Standard rush won,9
+CAR,3,CLE,2,3.0,4,Bryce Young,-13.0,4.0,0.0,True,False,-1.409,Extended play,9
+CAR,3,CLE,4,3.0,10,Bryce Young,-6.0,4.0,0.0,False,False,-0.699,Standard rush won,9
+CAR,4,DET,1,3.0,2,Bryce Young,-10.0,4.0,0.0,False,False,-2.268,Standard rush won,9
+CAR,4,DET,4,1.0,10,Bryce Young,-1.0,4.0,0.0,True,False,-0.642,Extended play,9
+CAR,4,DET,4,3.0,6,Bryce Young,0.0,4.0,0.0,True,False,-0.553,Extended play,9
+CAR,6,PHI,1,1.0,10,Bryce Young,-8.0,4.0,0.0,True,False,-1.063,Extended play,9
+CAR,6,PHI,4,1.0,1,Bryce Young,0.0,5.0,1.0,False,False,-0.261,Blitz,9
+CAR,7,TB,2,2.0,13,Bryce Young,-1.0,3.0,0.0,True,False,-0.765,Extended play,9
+CAR,7,TB,2,3.0,14,Bryce Young,-8.0,3.0,0.0,False,False,-6.425,Standard rush won,9
+CAR,7,TB,3,2.0,10,Bryce Young,-9.0,4.0,0.0,False,False,-1.372,Standard rush won,9
+CAR,7,TB,3,3.0,19,Bryce Young,-11.0,4.0,0.0,False,False,-1.525,Standard rush won,9
+CAR,7,TB,3,1.0,10,Bryce Young,-3.0,4.0,0.0,False,False,-0.913,Standard rush won,9
+CAR,8,GB,1,3.0,8,Bryce Young,-6.0,4.0,0.0,False,False,-1.211,Standard rush won,9
+CAR,8,GB,2,1.0,10,Bryce Young,-10.0,4.0,0.0,False,True,-0.641,QB fault (FTN),9
+CAR,8,GB,3,2.0,2,Bryce Young,0.0,6.0,2.0,True,False,-0.612,Extended play,9
+CAR,8,GB,3,3.0,9,Bryce Young,-8.0,4.0,0.0,False,False,-1.583,Standard rush won,9
+CAR,8,GB,4,2.0,8,Bryce Young,-5.0,3.0,0.0,False,False,-1.039,Standard rush won,9
+CAR,8,GB,4,1.0,10,Bryce Young,-4.0,4.0,0.0,True,False,-0.096,Extended play,9
+CAR,9,DEN,4,3.0,10,Bryce Young,-8.0,5.0,1.0,False,False,-1.45,Blitz,9
+CAR,9,DEN,4,3.0,15,Bryce Young,-3.0,4.0,0.0,False,False,-1.438,Standard rush won,9
+CAR,9,DEN,4,1.0,10,Bryce Young,-8.0,4.0,0.0,False,False,-2.902,Standard rush won,9
+CAR,10,NO,1,4.0,2,Bryce Young,0.0,5.0,1.0,True,False,-2.194,Extended play,9
+CAR,10,NO,3,3.0,8,Bryce Young,-6.0,4.0,0.0,False,False,-1.526,Standard rush won,9
+CAR,10,NO,3,3.0,7,Bryce Young,-8.0,6.0,2.0,False,False,-1.448,Blitz,9
+CHI,1,CAR,2,1.0,10,Caleb Williams,-6.0,5.0,1.0,True,False,-0.846,Extended play,18
+CHI,1,CAR,3,3.0,7,Caleb Williams,-2.0,5.0,1.0,False,False,-1.115,Blitz,18
+CHI,2,MIN,2,2.0,3,Caleb Williams,-17.0,4.0,0.0,False,False,-0.399,Standard rush won,18
+CHI,2,MIN,3,1.0,10,Caleb Williams,-3.0,5.0,1.0,False,False,-0.904,Blitz,18
+CHI,2,MIN,4,1.0,6,Caleb Williams,0.0,5.0,1.0,True,False,-0.475,Extended play,18
+CHI,2,MIN,4,4.0,2,Tyson Bagent,-9.0,4.0,0.0,False,False,-2.563,Standard rush won,17
+CHI,4,NYJ,2,1.0,10,Tyson Bagent,-8.0,5.0,1.0,False,False,-0.514,Blitz,17
+CHI,5,GB,1,2.0,9,Tyson Bagent,-11.0,3.0,0.0,True,True,-1.383,QB fault (FTN),17
+CHI,5,GB,2,2.0,4,Tyson Bagent,-6.0,7.0,3.0,False,False,-0.36,Blitz,17
+CHI,5,GB,4,1.0,10,Case Keenum,-2.0,4.0,0.0,False,False,-3.812,Standard rush won,11
+CHI,5,GB,4,2.0,10,Case Keenum,-11.0,4.0,0.0,False,False,-0.592,Standard rush won,11
+CHI,6,ATL,2,2.0,9,Caleb Williams,-9.0,4.0,0.0,False,False,-0.291,Standard rush won,18
+CHI,6,ATL,3,1.0,10,Caleb Williams,-9.0,4.0,0.0,False,False,-1.42,Standard rush won,18
+CHI,6,ATL,4,1.0,10,Caleb Williams,-11.0,4.0,0.0,False,False,-1.303,Standard rush won,18
+CHI,6,ATL,4,3.0,5,Caleb Williams,-6.0,5.0,1.0,True,False,-1.453,Extended play,18
+CHI,7,NE,2,1.0,10,Caleb Williams,-2.0,6.0,2.0,False,False,-0.742,Blitz,18
+CHI,7,NE,2,2.0,10,Caleb Williams,-7.0,5.0,1.0,False,False,-0.997,Blitz,18
+CHI,7,NE,4,3.0,5,Caleb Williams,-10.0,5.0,1.0,True,False,-1.798,Extended play,18
+CHI,8,SEA,4,2.0,10,Caleb Williams,-10.0,4.0,0.0,False,False,-1.293,Standard rush won,18
+CHI,9,TB,4,2.0,3,Caleb Williams,-2.0,5.0,1.0,True,False,-0.856,Extended play,18
+CIN,1,TB,3,3.0,7,Joe Burrow,-9.0,5.0,1.0,False,True,-1.93,QB fault (FTN),9
+CIN,2,HOU,1,3.0,11,Joe Burrow,-6.0,4.0,0.0,False,False,-1.454,Standard rush won,9
+CIN,2,HOU,2,2.0,15,Joe Burrow,-6.0,4.0,0.0,False,False,-0.928,Standard rush won,9
+CIN,2,HOU,2,2.0,10,Joe Burrow,-5.0,4.0,0.0,False,False,-0.284,Standard rush won,9
+CIN,2,HOU,4,2.0,5,Joe Burrow,0.0,5.0,1.0,False,True,-0.664,QB fault (FTN),9
+CIN,2,HOU,4,3.0,8,Joe Burrow,-8.0,5.0,1.0,False,False,-1.278,Blitz,9
+CIN,3,PIT,4,1.0,10,Joe Burrow,-13.0,4.0,0.0,False,False,-3.565,Standard rush won,9
+CIN,4,JAX,2,1.0,10,Joe Burrow,-11.0,4.0,0.0,False,False,-1.582,Standard rush won,9
+CIN,4,JAX,3,1.0,10,Joe Burrow,-3.0,4.0,0.0,False,False,-0.847,Standard rush won,9
+CIN,7,BAL,2,2.0,8,Joe Burrow,-8.0,5.0,1.0,False,False,-0.558,Blitz,9
+CIN,8,TEN,2,2.0,8,Joe Burrow,-2.0,6.0,2.0,False,False,-0.716,Blitz,9
+CIN,8,TEN,2,4.0,2,Joe Burrow,-15.0,5.0,1.0,False,False,-2.746,Blitz,9
+CIN,8,TEN,4,1.0,10,Joe Burrow,-10.0,4.0,0.0,False,False,-1.089,Standard rush won,9
+CIN,9,ATL,4,3.0,1,Joe Burrow,-6.0,5.0,1.0,True,True,-1.993,QB fault (FTN),9
+CIN,9,ATL,4,1.0,10,Joe Burrow,0.0,4.0,0.0,True,False,-0.394,Extended play,9
+CIN,10,PIT,1,1.0,10,Joe Burrow,-3.0,5.0,1.0,True,False,-0.829,Extended play,9
+CLE,1,JAX,1,1.0,10,Deshaun Watson,-1.0,4.0,0.0,True,True,-0.543,QB fault (FTN),4
+CLE,1,JAX,1,3.0,10,Deshaun Watson,-8.0,5.0,1.0,False,False,-1.406,Blitz,4
+CLE,1,JAX,3,1.0,10,Deshaun Watson,-4.0,5.0,1.0,False,True,-0.861,QB fault (FTN),4
+CLE,1,JAX,4,3.0,3,Deshaun Watson,-1.0,5.0,1.0,True,False,-1.364,Extended play,4
+CLE,1,JAX,4,4.0,4,Deshaun Watson,-6.0,6.0,2.0,True,True,-2.593,QB fault (FTN),4
+CLE,2,TB,2,3.0,11,Deshaun Watson,-8.0,4.0,0.0,False,False,-0.997,Standard rush won,4
+CLE,2,TB,2,2.0,18,Deshaun Watson,-7.0,6.0,2.0,False,False,-0.924,Blitz,4
+CLE,3,CAR,3,3.0,6,Deshaun Watson,-7.0,5.0,1.0,False,False,-1.738,Blitz,4
+CLE,3,CAR,4,1.0,10,Deshaun Watson,-10.0,4.0,0.0,False,False,-1.337,Standard rush won,4
+CLE,4,PIT,4,1.0,10,Deshaun Watson,-4.0,4.0,0.0,True,True,-0.863,QB fault (FTN),4
+CLE,4,PIT,4,2.0,4,Deshaun Watson,-4.0,7.0,3.0,True,True,-0.727,QB fault (FTN),4
+CLE,5,NYJ,1,1.0,10,Deshaun Watson,-6.0,5.0,1.0,False,False,-1.072,Blitz,4
+CLE,5,NYJ,2,1.0,10,Deshaun Watson,-6.0,4.0,0.0,False,False,-1.027,Standard rush won,4
+CLE,5,NYJ,2,3.0,7,Deshaun Watson,-7.0,5.0,1.0,False,False,-1.444,Blitz,4
+CLE,5,NYJ,2,2.0,2,Deshaun Watson,-6.0,5.0,1.0,True,False,-0.837,Extended play,4
+CLE,5,NYJ,4,1.0,15,Deshaun Watson,-10.0,4.0,0.0,True,False,-0.947,Extended play,4
+CLE,5,NYJ,4,3.0,30,Deshaun Watson,-8.0,4.0,0.0,False,False,-0.802,Standard rush won,4
+CLE,5,NYJ,4,1.0,10,Deshaun Watson,-9.0,6.0,2.0,False,False,-0.843,Blitz,4
+CLE,5,NYJ,4,4.0,11,Deshaun Watson,-1.0,3.0,0.0,True,False,-2.862,Extended play,4
+CLE,6,BAL,1,3.0,5,Deshaun Watson,-8.0,4.0,0.0,True,False,-2.028,Extended play,4
+CLE,6,BAL,1,2.0,10,Deshaun Watson,0.0,4.0,0.0,True,False,-0.702,Extended play,4
+CLE,6,BAL,2,2.0,10,Deshaun Watson,-5.0,5.0,1.0,False,False,-0.621,Blitz,4
+CLE,6,BAL,3,1.0,10,Deshaun Watson,-5.0,5.0,1.0,False,False,-1.126,Blitz,4
+CLE,6,BAL,3,3.0,4,Deshaun Watson,-2.0,3.0,0.0,True,False,-1.355,Extended play,4
+CLE,7,TEN,3,2.0,5,Deshaun Watson,0.0,4.0,0.0,True,False,-0.71,Extended play,4
+CLE,8,PIT,1,2.0,6,Deshaun Watson,-2.0,6.0,2.0,False,False,-0.83,Blitz,4
+CLE,8,PIT,1,2.0,7,Deshaun Watson,-5.0,5.0,1.0,False,False,-4.207,Blitz,4
+CLE,8,PIT,1,3.0,7,Deshaun Watson,-7.0,4.0,0.0,False,False,-1.499,Standard rush won,4
+CLE,8,PIT,2,2.0,10,Deshaun Watson,-8.0,4.0,0.0,False,False,-0.975,Standard rush won,4
+CLE,8,PIT,4,2.0,10,Deshaun Watson,-8.0,5.0,1.0,False,False,-1.38,Blitz,4
+CLE,8,PIT,4,3.0,18,Deshaun Watson,-4.0,4.0,0.0,False,False,-0.955,Standard rush won,4
+CLE,8,PIT,4,1.0,10,Deshaun Watson,0.0,4.0,0.0,False,False,-0.43,Standard rush won,4
+CLE,8,PIT,4,1.0,10,Deshaun Watson,-7.0,4.0,0.0,True,False,-1.278,Extended play,4
+CLE,9,NO,1,3.0,7,Shedeur Sanders,-7.0,5.0,1.0,False,False,-1.665,Blitz,2
+CLE,9,NO,2,1.0,9,Shedeur Sanders,-6.0,5.0,1.0,True,False,-0.929,Extended play,2
+CLE,9,NO,3,2.0,5,Shedeur Sanders,-7.0,5.0,1.0,False,False,-1.739,Blitz,2
+CLE,9,NO,3,3.0,8,Shedeur Sanders,-9.0,4.0,0.0,True,False,-1.667,Extended play,2
+CLE,9,NO,4,1.0,19,Shedeur Sanders,-8.0,4.0,0.0,True,False,-0.803,Extended play,2
+CLE,10,HOU,3,3.0,5,Deshaun Watson,-10.0,4.0,0.0,False,False,-1.861,Standard rush won,4
+CLE,10,HOU,4,3.0,5,Deshaun Watson,-2.0,4.0,0.0,True,False,-1.332,Extended play,4
+CLE,10,HOU,4,1.0,10,Deshaun Watson,-9.0,4.0,0.0,True,False,-1.203,Extended play,4
+CLE,10,HOU,4,3.0,6,Deshaun Watson,-11.0,4.0,0.0,True,False,-1.568,Extended play,4
+DAL,2,WAS,2,1.0,10,Dak Prescott,-9.0,5.0,1.0,True,True,-1.211,QB fault (FTN),4
+DAL,2,WAS,3,3.0,3,Dak Prescott,-4.0,4.0,0.0,True,True,-1.705,QB fault (FTN),4
+DAL,3,BAL,1,3.0,1,Dak Prescott,-9.0,5.0,1.0,False,True,-3.004,QB fault (FTN),4
+DAL,4,HOU,1,2.0,5,Dak Prescott,0.0,4.0,0.0,True,True,-0.597,QB fault (FTN),4
+DAL,4,HOU,2,2.0,5,Dak Prescott,-2.0,4.0,0.0,False,False,-1.453,Standard rush won,4
+DAL,4,HOU,2,3.0,7,Dak Prescott,-9.0,4.0,0.0,True,False,-0.727,Extended play,4
+DAL,6,GB,4,1.0,10,Dak Prescott,-3.0,4.0,0.0,True,True,-0.991,QB fault (FTN),4
+DAL,8,ARI,2,1.0,10,Dak Prescott,-4.0,4.0,0.0,False,False,-1.008,Standard rush won,4
+DAL,8,ARI,2,2.0,10,Dak Prescott,-10.0,5.0,1.0,False,False,-0.966,Blitz,4
+DAL,8,ARI,4,2.0,10,Dak Prescott,-6.0,5.0,1.0,False,False,-0.69,Blitz,4
+DAL,8,ARI,5,3.0,8,Dak Prescott,-7.0,5.0,1.0,False,False,-1.689,Blitz,4
+DAL,9,IND,1,3.0,8,Dak Prescott,0.0,5.0,1.0,True,False,-3.307,Extended play,4
+DAL,9,IND,2,3.0,16,Dak Prescott,-2.0,4.0,0.0,False,False,-0.847,Standard rush won,4
+DAL,9,IND,3,2.0,13,Dak Prescott,-4.0,4.0,0.0,False,False,-0.949,Standard rush won,4
+DAL,10,SF,4,1.0,10,Dak Prescott,0.0,4.0,0.0,True,False,-0.303,Extended play,4
+DEN,1,KC,1,1.0,10,Bo Nix,-3.0,6.0,2.0,False,False,-0.671,Blitz,10
+DEN,1,KC,2,1.0,10,Bo Nix,-5.0,3.0,0.0,False,True,-0.643,QB fault (FTN),10
+DEN,1,KC,3,2.0,9,Bo Nix,-7.0,4.0,0.0,True,False,-1.406,Extended play,10
+DEN,1,KC,3,3.0,16,Bo Nix,-1.0,4.0,0.0,False,False,-2.731,Standard rush won,10
+DEN,3,LA,2,3.0,2,Bo Nix,-7.0,4.0,0.0,False,False,-1.08,Standard rush won,10
+DEN,5,LAC,2,2.0,20,Bo Nix,-5.0,4.0,0.0,False,False,-1.01,Standard rush won,10
+DEN,6,SEA,4,1.0,10,Bo Nix,-3.0,4.0,0.0,True,True,-0.738,QB fault (FTN),10
+DEN,6,SEA,4,3.0,10,Bo Nix,-10.0,4.0,0.0,True,False,-1.224,Extended play,10
+DEN,7,ARI,1,2.0,8,Bo Nix,-4.0,4.0,0.0,False,False,-1.131,Standard rush won,10
+DEN,8,KC,2,1.0,10,Bo Nix,-5.0,4.0,0.0,False,False,-0.93,Standard rush won,10
+DEN,9,CAR,3,3.0,11,Bo Nix,-7.0,6.0,2.0,False,False,-1.389,Blitz,10
+DET,1,NO,4,1.0,11,Jared Goff,-2.0,4.0,0.0,False,False,-0.501,Standard rush won,16
+DET,2,BUF,1,3.0,8,Jared Goff,-7.0,5.0,1.0,False,True,-1.416,QB fault (FTN),16
+DET,2,BUF,1,2.0,1,Jared Goff,-10.0,5.0,1.0,False,True,-1.955,QB fault (FTN),16
+DET,2,BUF,2,3.0,5,Jared Goff,-13.0,4.0,0.0,False,True,-1.696,QB fault (FTN),16
+DET,2,BUF,4,2.0,10,Jared Goff,-8.0,4.0,0.0,False,True,-1.032,QB fault (FTN),16
+DET,3,NYJ,1,3.0,7,Jared Goff,-10.0,5.0,1.0,False,False,-1.847,Blitz,16
+DET,3,NYJ,1,2.0,10,Jared Goff,-9.0,6.0,2.0,False,False,-1.485,Blitz,16
+DET,4,CAR,4,2.0,7,Jared Goff,-6.0,4.0,0.0,False,False,-0.375,Standard rush won,16
+DET,5,ARI,1,3.0,5,Jared Goff,-12.0,5.0,1.0,False,False,-2.015,Blitz,16
+DET,5,ARI,1,1.0,10,Jared Goff,-8.0,4.0,0.0,False,False,-1.172,Standard rush won,16
+DET,5,ARI,1,2.0,10,Jared Goff,-2.0,4.0,0.0,False,False,-0.943,Standard rush won,16
+DET,7,GB,2,1.0,10,Jared Goff,-7.0,4.0,0.0,False,False,-1.043,Standard rush won,16
+DET,8,MIN,1,1.0,10,Jared Goff,-3.0,6.0,2.0,False,False,-1.002,Blitz,16
+DET,8,MIN,1,3.0,13,Jared Goff,-10.0,6.0,2.0,False,False,-1.164,Blitz,16
+DET,8,MIN,1,2.0,7,Jared Goff,-6.0,6.0,2.0,False,False,-1.315,Blitz,16
+DET,8,MIN,2,3.0,6,Jared Goff,-3.0,4.0,0.0,False,False,-1.6,Standard rush won,16
+DET,9,MIA,1,3.0,4,Jared Goff,-6.0,4.0,0.0,False,False,-1.622,Standard rush won,16
+DET,9,MIA,1,1.0,10,Jared Goff,0.0,4.0,0.0,True,False,-0.443,Extended play,16
+DET,9,MIA,2,3.0,9,Jared Goff,-7.0,5.0,1.0,False,False,-1.361,Blitz,16
+DET,10,NE,1,1.0,10,Jared Goff,-6.0,5.0,1.0,True,True,-1.047,QB fault (FTN),16
+DET,10,NE,2,3.0,6,Jared Goff,-1.0,4.0,0.0,False,False,-1.118,Standard rush won,16
+GB,1,MIN,3,1.0,10,Jordan Love,-10.0,5.0,1.0,False,False,-1.074,Blitz,10
+GB,1,MIN,4,2.0,13,Jordan Love,-4.0,5.0,1.0,False,False,-0.778,Blitz,10
+GB,1,MIN,4,3.0,17,Jordan Love,-15.0,6.0,2.0,False,False,-4.812,Blitz,10
+GB,1,MIN,4,1.0,10,Jordan Love,-5.0,5.0,1.0,False,False,-0.873,Blitz,10
+GB,2,NYJ,1,1.0,10,Jordan Love,-1.0,4.0,0.0,True,True,-0.749,QB fault (FTN),10
+GB,2,NYJ,3,1.0,25,Jordan Love,-3.0,4.0,0.0,False,True,-0.34,QB fault (FTN),10
+GB,2,NYJ,4,4.0,10,Jordan Love,-5.0,4.0,0.0,False,False,-0.217,Standard rush won,10
+GB,3,ATL,3,2.0,10,Jordan Love,-1.0,4.0,0.0,True,True,-1.11,QB fault (FTN),10
+GB,5,CHI,2,1.0,10,Jordan Love,-5.0,4.0,0.0,False,False,-0.926,Standard rush won,10
+GB,5,CHI,2,2.0,20,Jordan Love,-4.0,4.0,0.0,False,False,-0.36,Standard rush won,10
+GB,6,DAL,1,2.0,10,Jordan Love,-3.0,4.0,0.0,True,True,-1.331,QB fault (FTN),10
+GB,6,DAL,1,1.0,10,Jordan Love,-2.0,5.0,1.0,True,True,-0.695,QB fault (FTN),10
+GB,6,DAL,3,3.0,2,Jordan Love,-10.0,4.0,0.0,False,True,-1.884,QB fault (FTN),10
+GB,7,DET,2,1.0,10,Jordan Love,-10.0,6.0,2.0,False,False,-1.053,Blitz,10
+GB,9,NE,2,3.0,5,Jordan Love,-9.0,4.0,0.0,False,False,-1.626,Standard rush won,10
+GB,9,NE,2,2.0,10,Jordan Love,-8.0,4.0,0.0,False,False,-1.182,Standard rush won,10
+GB,9,NE,2,2.0,2,Jordan Love,-6.0,4.0,0.0,False,False,-0.1,Standard rush won,10
+GB,10,MIN,1,3.0,7,Jordan Love,-9.0,4.0,0.0,False,False,-1.773,Standard rush won,10
+GB,10,MIN,2,2.0,10,Jordan Love,-10.0,6.0,2.0,False,False,-1.44,Blitz,10
+GB,10,MIN,2,3.0,20,Jordan Love,-6.0,5.0,1.0,False,False,-1.087,Blitz,10
+GB,10,MIN,2,2.0,10,Jordan Love,-4.0,5.0,1.0,False,False,-0.73,Blitz,10
+GB,10,MIN,2,3.0,14,Jordan Love,-9.0,4.0,0.0,False,False,-0.57,Standard rush won,10
+GB,10,MIN,3,1.0,10,Jordan Love,-6.0,5.0,1.0,False,False,-0.885,Blitz,10
+GB,10,MIN,3,1.0,10,Jordan Love,-10.0,6.0,2.0,False,False,-1.087,Blitz,10
+GB,10,MIN,3,1.0,10,Jordan Love,-5.0,4.0,0.0,False,False,-0.924,Standard rush won,10
+HOU,1,BUF,1,3.0,12,C.J. Stroud,-2.0,4.0,0.0,False,False,-3.258,Standard rush won,7
+HOU,1,BUF,4,1.0,9,C.J. Stroud,-9.0,4.0,0.0,False,False,-1.484,Standard rush won,7
+HOU,1,BUF,4,3.0,18,C.J. Stroud,-6.0,3.0,0.0,False,False,-2.619,Standard rush won,7
+HOU,2,CIN,4,2.0,6,C.J. Stroud,-5.0,4.0,0.0,False,False,-1.258,Standard rush won,7
+HOU,2,CIN,4,2.0,1,C.J. Stroud,-8.0,4.0,0.0,False,False,-1.336,Standard rush won,7
+HOU,2,CIN,4,2.0,10,C.J. Stroud,-7.0,4.0,0.0,True,False,-1.315,Extended play,7
+HOU,2,CIN,4,4.0,17,C.J. Stroud,-19.0,3.0,0.0,True,False,-2.223,Extended play,7
+HOU,3,IND,1,3.0,7,C.J. Stroud,-4.0,4.0,0.0,True,False,-1.451,Extended play,7
+HOU,3,IND,1,3.0,15,C.J. Stroud,-8.0,4.0,0.0,False,False,-1.315,Standard rush won,7
+HOU,3,IND,2,1.0,5,C.J. Stroud,-2.0,4.0,0.0,False,False,-0.496,Standard rush won,7
+HOU,4,DAL,2,3.0,4,C.J. Stroud,-1.0,4.0,0.0,True,False,-1.262,Extended play,7
+HOU,4,DAL,4,3.0,3,C.J. Stroud,-11.0,4.0,0.0,False,False,-1.972,Standard rush won,7
+HOU,5,TEN,1,1.0,10,C.J. Stroud,0.0,4.0,0.0,True,False,-0.38,Extended play,7
+HOU,5,TEN,4,3.0,8,C.J. Stroud,-11.0,4.0,0.0,False,False,-1.938,Standard rush won,7
+HOU,7,NYG,1,3.0,16,C.J. Stroud,0.0,5.0,1.0,True,True,-0.956,QB fault (FTN),7
+HOU,9,LAC,3,2.0,10,C.J. Stroud,-10.0,4.0,0.0,False,False,-1.617,Standard rush won,7
+HOU,10,CLE,3,3.0,10,C.J. Stroud,-9.0,5.0,1.0,False,False,-1.333,Blitz,7
+IND,1,BAL,1,1.0,10,Daniel Jones,-8.0,5.0,1.0,True,False,-1.493,Extended play,17
+IND,1,BAL,4,4.0,11,Daniel Jones,-9.0,6.0,2.0,False,False,-2.401,Blitz,17
+IND,3,HOU,1,1.0,10,Daniel Jones,-3.0,4.0,0.0,False,False,-4.822,Standard rush won,17
+IND,3,HOU,2,3.0,11,Daniel Jones,-5.0,4.0,0.0,False,False,-1.331,Standard rush won,17
+IND,3,HOU,3,3.0,4,Daniel Jones,-9.0,4.0,0.0,False,False,-2.026,Standard rush won,17
+IND,3,HOU,4,2.0,10,Daniel Jones,-7.0,5.0,1.0,False,False,-4.327,Blitz,17
+IND,4,WAS,1,2.0,10,Daniel Jones,-8.0,4.0,0.0,False,True,-4.378,QB fault (FTN),17
+IND,4,WAS,2,2.0,8,Daniel Jones,-6.0,5.0,1.0,False,False,-1.236,Blitz,17
+IND,5,PIT,4,2.0,2,Daniel Jones,-1.0,4.0,0.0,True,False,-0.797,Extended play,17
+IND,6,TEN,2,1.0,10,Daniel Jones,-5.0,4.0,0.0,False,False,-1.096,Standard rush won,17
+IND,6,TEN,2,2.0,10,Daniel Jones,-9.0,6.0,2.0,False,False,-1.68,Blitz,17
+IND,6,TEN,2,2.0,10,Daniel Jones,-6.0,4.0,0.0,False,False,-0.902,Standard rush won,17
+IND,6,TEN,3,3.0,10,Daniel Jones,-7.0,6.0,2.0,False,False,-1.447,Blitz,17
+IND,6,TEN,4,1.0,10,Daniel Jones,-1.0,5.0,1.0,True,True,-0.641,QB fault (FTN),17
+IND,6,TEN,4,3.0,10,Daniel Jones,-7.0,5.0,1.0,False,False,-0.955,Blitz,17
+IND,7,MIN,2,3.0,12,Daniel Jones,-10.0,6.0,2.0,False,False,-1.317,Blitz,17
+IND,7,MIN,2,2.0,14,Daniel Jones,-11.0,5.0,1.0,False,False,-0.673,Blitz,17
+IND,7,MIN,3,1.0,10,Daniel Jones,-10.0,6.0,2.0,False,False,-1.334,Blitz,17
+IND,7,MIN,3,2.0,20,Daniel Jones,-13.0,5.0,1.0,True,False,-1.375,Extended play,17
+IND,8,JAX,1,2.0,6,Daniel Jones,-4.0,4.0,0.0,False,False,-0.887,Standard rush won,17
+IND,8,JAX,2,1.0,10,Daniel Jones,0.0,6.0,2.0,True,False,-0.417,Extended play,17
+IND,8,JAX,3,4.0,3,Daniel Jones,-4.0,4.0,0.0,False,False,-2.498,Standard rush won,17
+IND,8,JAX,4,3.0,2,Anthony Richardson,-10.0,5.0,1.0,False,False,-1.62,Blitz,5
+IND,9,DAL,2,3.0,8,Daniel Jones,-10.0,4.0,0.0,False,False,-1.635,Standard rush won,17
+IND,9,DAL,2,1.0,10,Daniel Jones,-4.0,4.0,0.0,False,False,-0.195,Standard rush won,17
+IND,10,MIA,4,2.0,25,Daniel Jones,-4.0,4.0,0.0,False,False,-0.818,Standard rush won,17
+JAX,1,CLE,2,3.0,1,Trevor Lawrence,-11.0,5.0,1.0,True,False,-1.641,Extended play,16
+JAX,2,DEN,1,2.0,7,Trevor Lawrence,-11.0,4.0,0.0,False,False,-1.961,Standard rush won,16
+JAX,2,DEN,2,3.0,9,Trevor Lawrence,-5.0,4.0,0.0,False,False,-1.18,Standard rush won,16
+JAX,3,NE,3,2.0,7,Trevor Lawrence,-4.0,5.0,1.0,False,False,-1.337,Blitz,16
+JAX,4,CIN,1,2.0,11,Trevor Lawrence,-7.0,4.0,0.0,False,False,-1.026,Standard rush won,16
+JAX,4,CIN,3,1.0,10,Trevor Lawrence,-5.0,5.0,1.0,False,False,-1.046,Blitz,16
+JAX,4,CIN,3,1.0,10,Trevor Lawrence,-3.0,4.0,0.0,False,False,-0.967,Standard rush won,16
+JAX,4,CIN,4,2.0,10,Trevor Lawrence,0.0,4.0,0.0,True,False,-0.291,Extended play,16
+JAX,5,PHI,1,1.0,20,Trevor Lawrence,-15.0,4.0,0.0,False,True,-1.687,QB fault (FTN),16
+JAX,5,PHI,2,2.0,11,Trevor Lawrence,-10.0,4.0,0.0,False,True,-1.309,QB fault (FTN),16
+JAX,8,IND,2,1.0,10,Trevor Lawrence,-10.0,5.0,1.0,False,False,-1.337,Blitz,16
+JAX,8,IND,2,1.0,10,Trevor Lawrence,-10.0,4.0,0.0,False,False,-4.557,Standard rush won,16
+JAX,8,IND,3,3.0,6,Trevor Lawrence,-15.0,4.0,0.0,False,False,-2.037,Standard rush won,16
+JAX,10,TEN,2,3.0,7,Trevor Lawrence,-16.0,4.0,0.0,False,False,-1.742,Standard rush won,16
+KC,1,DEN,3,3.0,5,Patrick Mahomes,-4.0,4.0,0.0,False,False,-1.656,Standard rush won,15
+KC,1,DEN,4,3.0,4,Patrick Mahomes,-8.0,4.0,0.0,False,False,-1.728,Standard rush won,15
+KC,2,IND,2,3.0,2,Patrick Mahomes,-8.0,4.0,0.0,False,False,-0.695,Standard rush won,15
+KC,2,IND,5,2.0,9,Patrick Mahomes,-3.0,4.0,0.0,False,False,-0.976,Standard rush won,15
+KC,4,LV,2,2.0,3,Patrick Mahomes,-7.0,5.0,1.0,True,False,-1.797,Extended play,15
+KC,4,LV,3,2.0,10,Patrick Mahomes,-8.0,5.0,1.0,False,False,-1.31,Blitz,15
+KC,7,SEA,3,3.0,7,Patrick Mahomes,-2.0,4.0,0.0,True,True,-1.242,QB fault (FTN),15
+KC,8,DEN,4,3.0,2,Patrick Mahomes,-6.0,5.0,1.0,True,False,-1.444,Extended play,15
+KC,8,DEN,4,4.0,6,Patrick Mahomes,-6.0,4.0,0.0,True,False,-2.595,Extended play,15
+KC,9,NYJ,2,2.0,4,Patrick Mahomes,-7.0,5.0,1.0,False,False,-1.005,Blitz,15
+KC,9,NYJ,2,2.0,10,Patrick Mahomes,-7.0,4.0,0.0,False,False,-3.249,Standard rush won,15
+KC,10,ATL,3,2.0,9,Patrick Mahomes,-9.0,4.0,0.0,False,False,-1.333,Standard rush won,15
+LA,2,NYG,3,1.0,10,Matthew Stafford,-9.0,4.0,0.0,False,False,-1.134,Standard rush won,9
+LA,3,DEN,1,3.0,5,Matthew Stafford,-4.0,4.0,0.0,False,False,-1.679,Standard rush won,9
+LA,3,DEN,3,1.0,10,Matthew Stafford,-9.0,5.0,1.0,False,False,-1.062,Blitz,9
+LA,3,DEN,4,3.0,5,Matthew Stafford,-10.0,5.0,1.0,False,False,-1.715,Blitz,9
+LA,3,DEN,4,1.0,10,Matthew Stafford,-1.0,4.0,0.0,True,False,-0.642,Extended play,9
+LA,4,PHI,3,1.0,10,Matthew Stafford,-8.0,4.0,0.0,False,False,-1.307,Standard rush won,9
+LA,5,BUF,2,1.0,10,Matthew Stafford,-6.0,5.0,1.0,True,False,-0.8,Extended play,9
+LA,6,ARI,1,3.0,12,Matthew Stafford,-9.0,4.0,0.0,False,False,-1.2,Standard rush won,9
+LA,6,ARI,2,1.0,10,Matthew Stafford,-8.0,5.0,1.0,False,False,-1.213,Blitz,9
+LA,6,ARI,4,1.0,10,Matthew Stafford,-11.0,4.0,0.0,True,True,-1.527,QB fault (FTN),9
+LA,7,LV,1,3.0,5,Matthew Stafford,-8.0,6.0,2.0,False,False,-1.839,Blitz,9
+LA,8,LAC,2,2.0,8,Matthew Stafford,-5.0,4.0,0.0,False,False,-1.078,Standard rush won,9
+LA,9,WAS,2,1.0,10,Matthew Stafford,-9.0,5.0,1.0,False,False,-1.161,Blitz,9
+LA,10,ARI,2,1.0,10,Matthew Stafford,-10.0,5.0,1.0,True,False,-1.601,Extended play,9
+LA,10,ARI,2,2.0,10,Matthew Stafford,-5.0,5.0,1.0,False,False,-1.317,Blitz,9
+LAC,1,ARI,2,4.0,3,Justin Herbert,-10.0,4.0,0.0,False,False,-2.167,Standard rush won,10
+LAC,1,ARI,4,1.0,10,Justin Herbert,-4.0,5.0,1.0,False,False,-0.981,Blitz,10
+LAC,1,ARI,4,1.0,10,Justin Herbert,-8.0,5.0,1.0,False,False,-0.895,Blitz,10
+LAC,2,LV,1,2.0,7,Justin Herbert,-1.0,5.0,1.0,False,False,-0.672,Blitz,10
+LAC,2,LV,4,1.0,10,Justin Herbert,-8.0,5.0,1.0,True,False,-1.457,Extended play,10
+LAC,2,LV,4,3.0,7,Justin Herbert,0.0,4.0,0.0,True,False,-0.4,Extended play,10
+LAC,3,BUF,2,3.0,9,Justin Herbert,-6.0,5.0,1.0,False,False,-1.438,Blitz,10
+LAC,3,BUF,4,2.0,7,Justin Herbert,-3.0,4.0,0.0,False,False,-0.885,Standard rush won,10
+LAC,4,SEA,2,3.0,4,Justin Herbert,-7.0,4.0,0.0,False,True,-1.527,QB fault (FTN),10
+LAC,4,SEA,2,3.0,11,Justin Herbert,-8.0,6.0,2.0,False,True,-0.984,QB fault (FTN),10
+LAC,4,SEA,4,2.0,8,Justin Herbert,-11.0,5.0,1.0,True,True,-1.708,QB fault (FTN),10
+LAC,4,SEA,4,1.0,10,Justin Herbert,-9.0,4.0,0.0,True,True,-3.915,QB fault (FTN),10
+LAC,5,DEN,1,3.0,9,Justin Herbert,-8.0,5.0,1.0,False,False,-1.634,Blitz,10
+LAC,5,DEN,4,3.0,5,Justin Herbert,-4.0,4.0,0.0,True,False,-1.254,Extended play,10
+LAC,5,DEN,4,2.0,10,Justin Herbert,-9.0,4.0,0.0,False,False,-4.332,Standard rush won,10
+LAC,5,DEN,4,2.0,7,Justin Herbert,-11.0,5.0,1.0,False,False,-1.218,Blitz,10
+LAC,5,DEN,4,2.0,10,Justin Herbert,-7.0,5.0,1.0,False,False,-1.027,Blitz,10
+LAC,6,KC,3,2.0,10,Justin Herbert,0.0,4.0,0.0,True,False,-0.528,Extended play,10
+LAC,6,KC,3,2.0,7,Justin Herbert,-6.0,4.0,0.0,False,False,-1.36,Standard rush won,10
+LAC,6,KC,4,1.0,10,Justin Herbert,-8.0,5.0,1.0,False,False,-1.042,Blitz,10
+LAC,6,KC,4,2.0,18,Justin Herbert,-4.0,4.0,0.0,False,False,-0.557,Standard rush won,10
+LAC,8,LA,3,2.0,10,Justin Herbert,-17.0,4.0,0.0,True,False,-1.843,Extended play,10
+LAC,8,LA,4,2.0,8,Justin Herbert,-9.0,4.0,0.0,False,False,-1.397,Standard rush won,10
+LAC,9,HOU,1,2.0,9,Justin Herbert,0.0,4.0,0.0,True,True,-0.662,QB fault (FTN),10
+LAC,9,HOU,2,1.0,10,Justin Herbert,-5.0,4.0,0.0,False,False,-0.939,Standard rush won,10
+LAC,9,HOU,2,3.0,8,Justin Herbert,-6.0,4.0,0.0,False,False,-0.642,Standard rush won,10
+LAC,9,HOU,2,3.0,5,Justin Herbert,-9.0,4.0,0.0,False,False,-0.259,Standard rush won,10
+LAC,9,HOU,3,1.0,10,Justin Herbert,-1.0,5.0,1.0,True,False,-0.616,Extended play,10
+LAC,9,HOU,3,4.0,2,Justin Herbert,-3.0,4.0,0.0,False,True,-2.639,QB fault (FTN),10
+LAC,9,HOU,3,2.0,5,Justin Herbert,-8.0,4.0,0.0,False,False,-1.724,Standard rush won,10
+LAC,9,HOU,4,1.0,10,Justin Herbert,-8.0,4.0,0.0,False,False,-0.942,Standard rush won,10
+LAC,10,BAL,2,2.0,8,Justin Herbert,0.0,4.0,0.0,True,False,-0.758,Extended play,10
+LAC,10,BAL,4,2.0,8,Justin Herbert,-2.0,4.0,0.0,False,True,-0.751,QB fault (FTN),10
+LV,2,LAC,1,1.0,10,Kirk Cousins,-1.0,4.0,0.0,False,False,-0.647,Standard rush won,8
+LV,2,LAC,2,3.0,9,Kirk Cousins,-4.0,4.0,0.0,False,False,-1.157,Standard rush won,8
+LV,3,NO,1,3.0,13,Kirk Cousins,-3.0,4.0,0.0,False,True,-0.691,QB fault (FTN),8
+LV,3,NO,2,1.0,10,Kirk Cousins,-9.0,4.0,0.0,False,True,-0.972,QB fault (FTN),8
+LV,3,NO,4,3.0,5,Kirk Cousins,-9.0,4.0,0.0,True,False,-1.733,Extended play,8
+LV,5,NE,2,3.0,11,Kirk Cousins,-4.0,4.0,0.0,False,False,-1.118,Standard rush won,8
+LV,5,NE,2,1.0,10,Kirk Cousins,-11.0,4.0,0.0,False,False,-0.22,Standard rush won,8
+LV,5,NE,4,1.0,10,Kirk Cousins,-8.0,4.0,0.0,True,True,-1.031,QB fault (FTN),8
+LV,7,LA,4,1.0,10,Kirk Cousins,-6.0,4.0,0.0,False,False,-0.881,Standard rush won,8
+LV,7,LA,4,2.0,16,Kirk Cousins,0.0,4.0,0.0,True,True,-0.665,QB fault (FTN),8
+LV,8,NYJ,1,3.0,2,Kirk Cousins,-9.0,4.0,0.0,False,False,-1.98,Standard rush won,8
+LV,10,SEA,2,1.0,10,Fernando Mendoza,-9.0,5.0,1.0,False,False,-1.171,Blitz,15
+LV,10,SEA,2,2.0,9,Fernando Mendoza,-7.0,4.0,0.0,False,False,-0.648,Standard rush won,15
+LV,10,SEA,4,1.0,10,Fernando Mendoza,-7.0,4.0,0.0,False,False,-1.33,Standard rush won,15
+LV,10,SEA,4,3.0,17,Fernando Mendoza,-4.0,4.0,0.0,False,False,-1.025,Standard rush won,15
+LV,10,SEA,4,3.0,6,Fernando Mendoza,-8.0,4.0,0.0,False,False,-1.599,Standard rush won,15
+LV,10,SEA,4,3.0,10,Fernando Mendoza,-10.0,4.0,0.0,False,False,-1.044,Standard rush won,15
+MIA,1,LV,1,2.0,8,Malik Willis,-7.0,4.0,0.0,False,True,-1.329,QB fault (FTN),2
+MIA,1,LV,3,3.0,5,Malik Willis,-10.0,5.0,1.0,True,True,-1.705,QB fault (FTN),2
+MIA,1,LV,4,3.0,6,Malik Willis,-4.0,4.0,0.0,False,False,-1.245,Standard rush won,2
+MIA,1,LV,4,3.0,10,Malik Willis,-8.0,5.0,1.0,False,False,-1.662,Blitz,2
+MIA,1,LV,4,1.0,16,Malik Willis,-6.0,4.0,0.0,False,False,-0.757,Standard rush won,2
+MIA,2,SF,2,2.0,6,Malik Willis,-4.0,5.0,1.0,True,False,-1.173,Extended play,2
+MIA,2,SF,2,3.0,10,Malik Willis,0.0,4.0,0.0,True,False,-0.869,Extended play,2
+MIA,2,SF,3,2.0,5,Malik Willis,-5.0,6.0,2.0,False,True,-1.018,QB fault (FTN),2
+MIA,2,SF,4,3.0,14,Malik Willis,-6.0,4.0,0.0,True,True,-0.854,QB fault (FTN),2
+MIA,4,MIN,1,3.0,4,Malik Willis,-8.0,4.0,0.0,False,False,-1.989,Standard rush won,2
+MIA,4,MIN,2,2.0,8,Malik Willis,0.0,5.0,1.0,False,False,-3.684,Blitz,2
+MIA,5,CIN,3,2.0,10,Malik Willis,-10.0,5.0,1.0,False,False,-1.673,Blitz,2
+MIA,5,CIN,3,2.0,3,Malik Willis,-8.0,5.0,1.0,True,False,-2.065,Extended play,2
+MIA,5,CIN,4,2.0,10,Malik Willis,-5.0,4.0,0.0,False,False,-3.755,Standard rush won,2
+MIA,7,NYJ,2,2.0,10,Malik Willis,0.0,4.0,0.0,False,False,-0.645,Standard rush won,2
+MIA,7,NYJ,3,3.0,2,Malik Willis,-4.0,4.0,0.0,False,False,-1.789,Standard rush won,2
+MIA,8,NE,1,2.0,5,Malik Willis,-2.0,4.0,0.0,True,False,-0.852,Extended play,2
+MIA,8,NE,1,1.0,10,Malik Willis,-1.0,4.0,0.0,True,False,-0.602,Extended play,2
+MIA,8,NE,1,3.0,10,Malik Willis,-2.0,4.0,0.0,False,False,-1.437,Standard rush won,2
+MIA,8,NE,2,2.0,13,Malik Willis,-6.0,5.0,1.0,True,False,-1.156,Extended play,2
+MIA,8,NE,2,2.0,3,Malik Willis,-5.0,4.0,0.0,False,False,-0.811,Standard rush won,2
+MIA,9,DET,4,1.0,7,Malik Willis,-9.0,4.0,0.0,False,False,-1.569,Standard rush won,2
+MIA,9,DET,4,3.0,12,Malik Willis,-4.0,4.0,0.0,True,True,-0.74,QB fault (FTN),2
+MIA,9,DET,4,2.0,10,Malik Willis,-10.0,4.0,0.0,True,False,-1.19,Extended play,2
+MIA,10,IND,3,1.0,10,Kyle McCord,-10.0,4.0,0.0,False,False,-5.634,Standard rush won,14
+MIA,10,IND,3,2.0,3,Kyle McCord,-10.0,6.0,2.0,True,False,-1.864,Extended play,14
+MIA,10,IND,4,3.0,9,Kyle McCord,-8.0,5.0,1.0,False,False,-1.506,Blitz,14
+MIN,1,GB,2,3.0,4,Carson Wentz,-5.0,4.0,0.0,False,False,-1.264,Standard rush won,11
+MIN,1,GB,2,1.0,10,Carson Wentz,-8.0,5.0,1.0,True,False,-1.116,Extended play,11
+MIN,1,GB,4,2.0,5,Carson Wentz,-6.0,5.0,1.0,False,False,-1.257,Blitz,11
+MIN,2,CHI,2,2.0,10,Carson Wentz,-9.0,4.0,0.0,False,False,-0.386,Standard rush won,11
+MIN,2,CHI,3,3.0,2,Carson Wentz,-1.0,4.0,0.0,False,False,-1.463,Standard rush won,11
+MIN,2,CHI,3,3.0,7,Carson Wentz,-6.0,5.0,1.0,False,False,-1.464,Blitz,11
+MIN,3,TB,2,3.0,5,Kyler Murray,-2.0,5.0,1.0,True,False,-1.141,Extended play,1
+MIN,3,TB,2,3.0,4,Kyler Murray,-9.0,4.0,0.0,False,True,-1.573,QB fault (FTN),1
+MIN,3,TB,4,1.0,10,Kyler Murray,-5.0,4.0,0.0,True,False,-0.994,Extended play,1
+MIN,4,MIA,1,1.0,10,Kyler Murray,-8.0,4.0,0.0,False,False,-1.076,Standard rush won,1
+MIN,4,MIA,2,3.0,11,Kyler Murray,-8.0,4.0,0.0,False,False,-1.646,Standard rush won,1
+MIN,4,MIA,2,1.0,10,Kyler Murray,-7.0,4.0,0.0,False,False,-0.89,Standard rush won,1
+MIN,4,MIA,3,3.0,1,Kyler Murray,-11.0,4.0,0.0,True,False,-2.701,Extended play,1
+MIN,5,NO,1,1.0,10,Kyler Murray,-10.0,5.0,1.0,False,True,-1.487,QB fault (FTN),1
+MIN,5,NO,2,1.0,10,Kyler Murray,-8.0,4.0,0.0,False,True,-1.217,QB fault (FTN),1
+MIN,7,IND,3,2.0,7,Kyler Murray,-1.0,4.0,0.0,True,True,-0.749,QB fault (FTN),1
+MIN,7,IND,4,2.0,10,Kyler Murray,-2.0,4.0,0.0,True,False,-1.136,Extended play,1
+MIN,7,IND,4,1.0,10,Kyler Murray,-8.0,4.0,0.0,False,False,-1.104,Standard rush won,1
+MIN,8,DET,2,2.0,8,Kyler Murray,-9.0,3.0,0.0,False,False,-1.265,Standard rush won,1
+MIN,8,DET,3,1.0,10,Kyler Murray,-7.0,4.0,0.0,False,False,-1.055,Standard rush won,1
+MIN,8,DET,3,3.0,13,Kyler Murray,-9.0,6.0,2.0,True,False,-1.415,Extended play,1
+MIN,9,BUF,2,1.0,15,Carson Wentz,-6.0,5.0,1.0,False,True,-0.675,QB fault (FTN),11
+MIN,9,BUF,4,3.0,3,Max Brosmer,-6.0,4.0,0.0,False,True,-1.6,QB fault (FTN),12
+MIN,10,GB,1,2.0,15,Kirk Cousins,-9.0,4.0,0.0,False,False,-1.02,Standard rush won,8
+MIN,10,GB,2,2.0,10,Kirk Cousins,-5.0,4.0,0.0,False,False,-1.183,Standard rush won,8
+MIN,10,GB,3,3.0,4,Kirk Cousins,-10.0,4.0,0.0,False,False,-1.63,Standard rush won,8
+NE,1,SEA,4,1.0,20,Drake Maye,-1.0,4.0,0.0,False,False,-0.416,Standard rush won,10
+NE,1,SEA,4,2.0,17,Drake Maye,-2.0,5.0,1.0,True,False,-0.514,Extended play,10
+NE,1,SEA,4,1.0,10,Drake Maye,-7.0,4.0,0.0,True,False,-0.822,Extended play,10
+NE,2,PIT,1,1.0,11,Drake Maye,-3.0,4.0,0.0,False,False,-0.665,Standard rush won,10
+NE,2,PIT,2,3.0,10,Drake Maye,-2.0,4.0,0.0,False,False,-1.121,Standard rush won,10
+NE,2,PIT,2,1.0,10,Drake Maye,-12.0,4.0,0.0,False,False,-0.717,Standard rush won,10
+NE,3,JAX,1,1.0,10,Drake Maye,-3.0,5.0,1.0,False,False,-4.543,Blitz,10
+NE,3,JAX,2,3.0,3,Drake Maye,0.0,3.0,0.0,False,False,-1.05,Standard rush won,10
+NE,3,JAX,3,1.0,10,Drake Maye,-8.0,4.0,0.0,False,False,-1.68,Standard rush won,10
+NE,4,BUF,2,2.0,9,Drake Maye,-7.0,5.0,1.0,False,True,-4.249,QB fault (FTN),10
+NE,5,LV,2,1.0,10,Drake Maye,-3.0,4.0,0.0,False,True,-0.69,QB fault (FTN),10
+NE,7,CHI,1,4.0,5,Drake Maye,-1.0,4.0,0.0,False,False,-2.277,Standard rush won,10
+NE,7,CHI,4,2.0,10,Drake Maye,-10.0,6.0,2.0,False,False,-1.301,Blitz,10
+NE,8,MIA,1,3.0,8,Drake Maye,-10.0,4.0,0.0,False,False,-1.711,Standard rush won,10
+NE,8,MIA,2,1.0,10,Drake Maye,-2.0,3.0,0.0,True,False,-0.108,Extended play,10
+NE,8,MIA,3,3.0,6,Drake Maye,-5.0,4.0,0.0,False,False,-1.447,Standard rush won,10
+NE,9,GB,1,3.0,7,Drake Maye,-9.0,5.0,1.0,False,False,-1.808,Blitz,10
+NE,9,GB,3,2.0,5,Drake Maye,-6.0,5.0,1.0,False,False,-1.368,Blitz,10
+NE,9,GB,3,1.0,10,Drake Maye,-2.0,4.0,0.0,True,False,-0.692,Extended play,10
+NE,9,GB,4,3.0,10,Drake Maye,-10.0,5.0,1.0,False,False,-1.672,Blitz,10
+NE,10,DET,1,3.0,13,Drake Maye,-2.0,4.0,0.0,False,False,-0.699,Standard rush won,10
+NE,10,DET,1,3.0,5,Tommy DeVito,-11.0,6.0,2.0,True,False,-2.08,Extended play,16
+NE,10,DET,2,2.0,11,Tommy DeVito,-9.0,4.0,0.0,False,False,-1.189,Standard rush won,16
+NE,10,DET,2,1.0,10,Tommy DeVito,-7.0,4.0,0.0,False,False,-0.861,Standard rush won,16
+NE,10,DET,4,3.0,10,Tommy DeVito,-10.0,5.0,1.0,False,False,-1.408,Blitz,16
+NO,1,DET,2,3.0,6,Tyler Shough,-8.0,4.0,0.0,False,False,-1.395,Standard rush won,6
+NO,1,DET,3,2.0,8,Tyler Shough,-6.0,6.0,2.0,False,False,-1.212,Blitz,6
+NO,1,DET,3,3.0,14,Tyler Shough,-6.0,4.0,0.0,False,False,-3.265,Standard rush won,6
+NO,1,DET,4,2.0,2,Tyler Shough,-10.0,4.0,0.0,False,False,-1.499,Standard rush won,6
+NO,1,DET,5,1.0,10,Tyler Shough,-2.0,5.0,1.0,False,False,-0.914,Blitz,6
+NO,2,BAL,1,3.0,2,Tyler Shough,-7.0,5.0,1.0,True,False,-1.955,Extended play,6
+NO,2,BAL,3,1.0,10,Tyler Shough,-4.0,5.0,1.0,False,False,-1.043,Blitz,6
+NO,2,BAL,3,3.0,19,Tyler Shough,-8.0,4.0,0.0,False,False,-1.099,Standard rush won,6
+NO,3,LV,4,3.0,4,Tyler Shough,-10.0,5.0,1.0,False,True,-4.238,QB fault (FTN),6
+NO,3,LV,4,4.0,1,Tyler Shough,-12.0,5.0,1.0,True,True,-3.397,QB fault (FTN),6
+NO,4,ATL,2,1.0,10,Tyler Shough,-7.0,6.0,2.0,False,False,-0.706,Blitz,6
+NO,4,ATL,4,4.0,6,Tyler Shough,-9.0,4.0,0.0,False,False,-2.785,Standard rush won,6
+NO,5,MIN,4,1.0,10,Tyler Shough,-9.0,4.0,0.0,False,False,-1.057,Standard rush won,6
+NO,7,PIT,2,2.0,10,Tyler Shough,-7.0,4.0,0.0,False,True,-1.494,QB fault (FTN),6
+NO,7,PIT,4,3.0,10,Tyler Shough,-8.0,5.0,1.0,False,True,-1.445,QB fault (FTN),6
+NO,9,CLE,1,3.0,8,Tyler Shough,-2.0,5.0,1.0,True,False,-1.323,Extended play,6
+NO,9,CLE,1,3.0,5,Tyler Shough,-9.0,4.0,0.0,True,False,-1.795,Extended play,6
+NO,9,CLE,3,3.0,6,Tyler Shough,-2.0,5.0,1.0,True,False,-1.584,Extended play,6
+NO,9,CLE,3,3.0,8,Tyler Shough,-10.0,6.0,2.0,False,False,-1.616,Blitz,6
+NO,9,CLE,4,2.0,10,Tyler Shough,-6.0,4.0,0.0,False,False,-1.377,Standard rush won,6
+NO,10,CAR,2,1.0,10,Tyler Shough,-1.0,4.0,0.0,True,False,-0.211,Extended play,6
+NO,10,CAR,2,1.0,10,Tyler Shough,-6.0,4.0,0.0,False,False,-0.298,Standard rush won,6
+NO,10,CAR,3,3.0,10,Tyler Shough,-7.0,4.0,0.0,False,False,-1.732,Standard rush won,6
+NYG,1,DAL,2,1.0,10,Jaxson Dart,0.0,4.0,0.0,True,False,-0.309,Extended play,6
+NYG,1,DAL,2,1.0,10,Jaxson Dart,-1.0,5.0,1.0,False,False,-0.477,Blitz,6
+NYG,2,LA,2,1.0,10,Jameis Winston,0.0,4.0,0.0,False,False,-0.539,Standard rush won,19
+NYG,2,LA,3,3.0,8,Jameis Winston,-1.0,5.0,1.0,True,True,-1.112,QB fault (FTN),19
+NYG,3,TEN,1,2.0,7,Jameis Winston,-1.0,4.0,0.0,True,True,-0.656,QB fault (FTN),19
+NYG,3,TEN,2,3.0,3,Jameis Winston,-7.0,5.0,1.0,False,False,-1.785,Blitz,19
+NYG,3,TEN,4,3.0,5,Jameis Winston,-10.0,4.0,0.0,False,False,-1.671,Standard rush won,19
+NYG,4,ARI,1,1.0,10,Jameis Winston,-2.0,4.0,0.0,False,True,-0.81,QB fault (FTN),19
+NYG,4,ARI,1,1.0,10,Jameis Winston,-3.0,4.0,0.0,True,True,-0.998,QB fault (FTN),19
+NYG,4,ARI,3,1.0,10,Jameis Winston,-10.0,4.0,0.0,True,True,-1.094,QB fault (FTN),19
+NYG,4,ARI,4,2.0,9,Jameis Winston,-3.0,5.0,1.0,False,True,-0.94,QB fault (FTN),19
+NYG,5,WAS,2,3.0,10,Jameis Winston,-13.0,5.0,1.0,False,False,-1.574,Blitz,19
+NYG,5,WAS,2,2.0,8,Jameis Winston,-8.0,4.0,0.0,False,False,-4.187,Standard rush won,19
+NYG,6,NO,1,3.0,16,Jameis Winston,0.0,4.0,0.0,True,False,-0.699,Extended play,19
+NYG,6,NO,2,2.0,7,Jameis Winston,0.0,5.0,1.0,True,False,-0.547,Extended play,19
+NYG,6,NO,2,3.0,7,Jameis Winston,-1.0,7.0,3.0,True,False,-1.2,Extended play,19
+NYG,6,NO,3,3.0,6,Jameis Winston,-9.0,6.0,2.0,False,False,-1.827,Blitz,19
+NYG,6,NO,4,1.0,15,J.J. McCarthy,-8.0,5.0,1.0,False,False,-0.898,Blitz,18
+NYG,7,HOU,2,1.0,10,J.J. McCarthy,-5.0,5.0,1.0,False,True,-0.977,QB fault (FTN),18
+NYG,7,HOU,3,3.0,8,J.J. McCarthy,-5.0,5.0,1.0,False,True,-1.95,QB fault (FTN),18
+NYG,7,HOU,4,3.0,10,J.J. McCarthy,-10.0,7.0,3.0,False,True,-1.27,QB fault (FTN),18
+NYG,9,PHI,1,3.0,10,J.J. McCarthy,-1.0,5.0,1.0,True,False,-1.147,Extended play,18
+NYG,9,PHI,1,3.0,4,J.J. McCarthy,-10.0,4.0,0.0,True,False,-1.909,Extended play,18
+NYG,9,PHI,2,2.0,10,J.J. McCarthy,-3.0,5.0,1.0,False,False,-0.995,Blitz,18
+NYG,9,PHI,2,2.0,14,J.J. McCarthy,-8.0,4.0,0.0,True,False,-1.067,Extended play,18
+NYG,9,PHI,2,2.0,7,J.J. McCarthy,-7.0,4.0,0.0,False,False,-0.791,Standard rush won,18
+NYG,9,PHI,3,2.0,9,Jameis Winston,-6.0,4.0,0.0,False,False,-1.271,Standard rush won,19
+NYG,10,WAS,2,3.0,9,J.J. McCarthy,-10.0,5.0,1.0,False,False,-1.603,Blitz,18
+NYJ,2,GB,1,3.0,13,Geno Smith,-4.0,4.0,0.0,False,False,-0.9,Standard rush won,7
+NYJ,2,GB,4,3.0,17,Geno Smith,-10.0,5.0,1.0,False,False,-0.881,Blitz,7
+NYJ,2,GB,5,1.0,10,Geno Smith,-6.0,5.0,1.0,False,False,-1.061,Blitz,7
+NYJ,2,GB,5,2.0,16,Geno Smith,-9.0,4.0,0.0,False,False,-1.214,Standard rush won,7
+NYJ,3,DET,1,3.0,4,Geno Smith,-5.0,4.0,0.0,False,False,-1.831,Standard rush won,7
+NYJ,3,DET,3,2.0,6,Geno Smith,-8.0,4.0,0.0,False,False,-1.641,Standard rush won,7
+NYJ,3,DET,3,3.0,14,Geno Smith,-9.0,4.0,0.0,False,False,-0.931,Standard rush won,7
+NYJ,3,DET,4,2.0,12,Geno Smith,-5.0,4.0,0.0,False,False,-1.191,Standard rush won,7
+NYJ,3,DET,4,2.0,10,Geno Smith,-17.0,6.0,2.0,False,False,-4.164,Blitz,7
+NYJ,4,CHI,2,3.0,15,Geno Smith,-9.0,4.0,0.0,False,False,-1.081,Standard rush won,7
+NYJ,4,CHI,2,2.0,8,Geno Smith,-4.0,4.0,0.0,True,False,-0.977,Extended play,7
+NYJ,4,CHI,3,3.0,4,Geno Smith,-8.0,6.0,2.0,False,False,-2.444,Blitz,7
+NYJ,5,CLE,1,3.0,11,Geno Smith,-10.0,4.0,0.0,False,False,-1.619,Standard rush won,7
+NYJ,5,CLE,2,1.0,15,Geno Smith,-8.0,4.0,0.0,False,False,-1.201,Standard rush won,7
+NYJ,5,CLE,2,1.0,10,Geno Smith,-9.0,5.0,1.0,False,False,-1.239,Blitz,7
+NYJ,5,CLE,4,1.0,10,Geno Smith,-13.0,5.0,1.0,True,False,-4.743,Extended play,7
+NYJ,6,NE,1,2.0,9,Geno Smith,-7.0,5.0,1.0,False,False,-1.208,Blitz,7
+NYJ,6,NE,1,3.0,16,Geno Smith,-10.0,4.0,0.0,False,False,-1.178,Standard rush won,7
+NYJ,6,NE,3,3.0,5,Geno Smith,-8.0,6.0,2.0,False,False,-1.502,Blitz,7
+NYJ,7,MIA,3,2.0,10,Geno Smith,-6.0,5.0,1.0,False,False,-1.625,Blitz,7
+NYJ,7,MIA,4,3.0,3,Geno Smith,-12.0,3.0,0.0,True,False,-1.853,Extended play,7
+NYJ,8,LV,2,3.0,6,Geno Smith,-10.0,4.0,0.0,False,False,0.006,Standard rush won,7
+NYJ,8,LV,3,1.0,20,Geno Smith,-7.0,4.0,0.0,False,True,-1.131,QB fault (FTN),7
+NYJ,9,KC,2,3.0,6,Geno Smith,-9.0,4.0,0.0,False,False,-1.054,Standard rush won,7
+NYJ,9,KC,3,2.0,5,Geno Smith,-7.0,4.0,0.0,False,False,-1.429,Standard rush won,7
+NYJ,9,KC,3,3.0,9,Geno Smith,-14.0,5.0,1.0,False,False,-1.831,Blitz,7
+NYJ,9,KC,4,4.0,3,Geno Smith,-6.0,4.0,0.0,False,False,-2.555,Standard rush won,7
+NYJ,9,KC,4,3.0,10,Geno Smith,-6.0,5.0,1.0,False,False,-1.612,Blitz,7
+NYJ,10,BUF,2,2.0,8,Geno Smith,-6.0,4.0,0.0,False,False,-1.297,Standard rush won,7
+NYJ,10,BUF,4,1.0,10,Cade Klubnik,-4.0,4.0,0.0,False,False,-0.855,Standard rush won,10
+NYJ,10,BUF,4,3.0,14,Cade Klubnik,-5.0,4.0,0.0,False,False,-1.077,Standard rush won,10
+NYJ,10,BUF,4,2.0,8,Cade Klubnik,-3.0,4.0,0.0,False,False,-0.649,Standard rush won,10
+PHI,1,WAS,1,3.0,12,Jalen Hurts,-9.0,5.0,1.0,False,True,-1.296,QB fault (FTN),1
+PHI,1,WAS,3,1.0,10,Jalen Hurts,-6.0,5.0,1.0,False,True,-1.158,QB fault (FTN),1
+PHI,1,WAS,3,3.0,10,Jalen Hurts,-6.0,5.0,1.0,True,True,-1.549,QB fault (FTN),1
+PHI,2,TEN,2,2.0,8,Jalen Hurts,-1.0,4.0,0.0,True,True,-0.566,QB fault (FTN),1
+PHI,2,TEN,3,3.0,12,Jalen Hurts,-11.0,4.0,0.0,False,False,-1.21,Standard rush won,1
+PHI,2,TEN,4,2.0,12,Jalen Hurts,0.0,4.0,0.0,True,True,-0.677,QB fault (FTN),1
+PHI,3,CHI,3,1.0,10,Jalen Hurts,-2.0,5.0,1.0,True,True,-0.71,QB fault (FTN),1
+PHI,3,CHI,4,2.0,15,Jalen Hurts,-10.0,4.0,0.0,False,False,-1.249,Standard rush won,1
+PHI,4,LA,1,1.0,10,Jalen Hurts,0.0,4.0,0.0,True,False,-0.398,Extended play,1
+PHI,4,LA,2,3.0,14,Jalen Hurts,-10.0,5.0,1.0,False,False,-1.442,Blitz,1
+PHI,4,LA,4,1.0,10,Jalen Hurts,-7.0,4.0,0.0,False,False,-0.423,Standard rush won,1
+PHI,4,LA,4,3.0,17,Jalen Hurts,-8.0,4.0,0.0,False,False,-0.103,Standard rush won,1
+PHI,5,JAX,4,2.0,10,Jalen Hurts,-10.0,5.0,1.0,False,True,-1.074,QB fault (FTN),1
+PHI,6,CAR,1,1.0,10,Tanner McKee,-11.0,4.0,0.0,True,False,-1.48,Extended play,16
+PHI,6,CAR,3,2.0,8,Tanner McKee,-6.0,5.0,1.0,False,False,-1.253,Blitz,16
+PHI,6,CAR,4,1.0,10,Tanner McKee,-11.0,6.0,2.0,False,False,-1.331,Blitz,16
+PHI,7,DAL,3,1.0,17,Tanner McKee,-3.0,4.0,0.0,False,False,-0.544,Standard rush won,16
+PHI,7,DAL,4,2.0,9,Tanner McKee,-8.0,4.0,0.0,False,False,-1.01,Standard rush won,16
+PHI,8,WAS,2,2.0,5,Tanner McKee,-7.0,5.0,1.0,False,False,-1.328,Blitz,16
+PHI,8,WAS,3,1.0,10,Tanner McKee,-5.0,5.0,1.0,True,True,-0.887,QB fault (FTN),16
+PHI,8,WAS,3,3.0,4,Tanner McKee,-3.0,4.0,0.0,False,True,-3.656,QB fault (FTN),16
+PHI,8,WAS,4,3.0,14,Tanner McKee,-11.0,4.0,0.0,False,False,-0.89,Standard rush won,16
+PHI,8,WAS,4,2.0,10,Tanner McKee,-9.0,4.0,0.0,False,False,-1.29,Standard rush won,16
+PHI,9,NYG,1,1.0,10,Joe Milton III,-8.0,4.0,0.0,False,False,-1.079,Standard rush won,14
+PHI,9,NYG,2,3.0,5,Joe Milton III,-8.0,5.0,1.0,False,False,-3.62,Blitz,14
+PHI,9,NYG,2,3.0,10,Joe Milton III,-2.0,6.0,2.0,False,False,-1.352,Blitz,14
+PHI,9,NYG,3,2.0,14,Joe Milton III,-10.0,4.0,0.0,False,False,-1.289,Standard rush won,14
+PHI,9,NYG,4,3.0,10,Joe Milton III,-8.0,4.0,0.0,False,False,-1.593,Standard rush won,14
+PHI,9,NYG,4,1.0,10,Joe Milton III,-1.0,4.0,0.0,True,False,-0.264,Extended play,14
+PHI,9,NYG,4,4.0,2,Joe Milton III,-4.0,5.0,1.0,False,False,-0.074,Blitz,14
+PIT,1,ATL,2,1.0,10,Aaron Rodgers,-7.0,4.0,0.0,True,False,-0.412,Extended play,8
+PIT,1,ATL,4,3.0,5,Aaron Rodgers,-8.0,3.0,0.0,False,False,-1.778,Standard rush won,8
+PIT,2,NE,2,3.0,7,Aaron Rodgers,-8.0,6.0,2.0,False,False,-2.118,Blitz,8
+PIT,2,NE,4,2.0,21,Aaron Rodgers,-11.0,4.0,0.0,False,False,-6.161,Standard rush won,8
+PIT,2,NE,4,3.0,5,Aaron Rodgers,-11.0,5.0,1.0,False,False,-1.91,Blitz,8
+PIT,2,NE,4,1.0,4,Aaron Rodgers,-13.0,4.0,0.0,True,False,-2.152,Extended play,8
+PIT,3,CIN,4,3.0,5,Aaron Rodgers,-9.0,6.0,2.0,False,False,-1.413,Blitz,8
+PIT,3,CIN,4,3.0,5,Aaron Rodgers,-10.0,4.0,0.0,False,True,-1.496,QB fault (FTN),8
+PIT,4,CLE,1,2.0,9,Aaron Rodgers,-7.0,5.0,1.0,False,True,-1.436,QB fault (FTN),8
+PIT,4,CLE,2,3.0,4,Aaron Rodgers,-6.0,5.0,1.0,True,True,-1.642,QB fault (FTN),8
+PIT,4,CLE,3,3.0,5,Aaron Rodgers,-3.0,5.0,1.0,True,True,-1.601,QB fault (FTN),8
+PIT,4,CLE,3,3.0,15,Aaron Rodgers,-10.0,5.0,1.0,False,True,-1.369,QB fault (FTN),8
+PIT,4,CLE,4,1.0,10,Aaron Rodgers,-4.0,4.0,0.0,False,True,-0.932,QB fault (FTN),8
+PIT,5,IND,3,3.0,10,Aaron Rodgers,-10.0,5.0,1.0,False,False,-1.574,Blitz,8
+PIT,6,TB,2,1.0,10,Aaron Rodgers,-8.0,6.0,2.0,True,False,-0.884,Extended play,8
+PIT,6,TB,2,3.0,15,Aaron Rodgers,-8.0,6.0,2.0,False,False,-0.932,Blitz,8
+PIT,6,TB,3,1.0,10,Aaron Rodgers,-11.0,4.0,0.0,False,False,-1.209,Standard rush won,8
+PIT,6,TB,4,2.0,10,Aaron Rodgers,-6.0,4.0,0.0,False,False,-1.433,Standard rush won,8
+PIT,6,TB,4,3.0,4,Aaron Rodgers,-9.0,4.0,0.0,False,False,-2.025,Standard rush won,8
+PIT,7,NO,2,3.0,6,Aaron Rodgers,-4.0,4.0,0.0,False,True,-0.463,QB fault (FTN),8
+PIT,7,NO,3,3.0,10,Aaron Rodgers,-6.0,4.0,0.0,False,True,-1.212,QB fault (FTN),8
+PIT,7,NO,4,3.0,5,Aaron Rodgers,-7.0,5.0,1.0,False,True,-1.622,QB fault (FTN),8
+PIT,8,CLE,2,3.0,8,Aaron Rodgers,-11.0,4.0,0.0,False,False,-1.21,Standard rush won,8
+PIT,10,CIN,2,3.0,8,Aaron Rodgers,-9.0,4.0,0.0,False,False,-0.158,Standard rush won,8
+PIT,10,CIN,3,1.0,10,Aaron Rodgers,-7.0,4.0,0.0,False,False,-1.083,Standard rush won,8
+PIT,10,CIN,3,3.0,17,Aaron Rodgers,-9.0,4.0,0.0,True,False,-0.979,Extended play,8
+SEA,1,NE,1,3.0,6,Sam Darnold,-5.0,6.0,2.0,True,False,-1.591,Extended play,14
+SEA,1,NE,2,1.0,10,Drew Lock,-7.0,4.0,0.0,False,False,-1.022,Standard rush won,2
+SEA,2,ARI,2,4.0,1,Drew Lock,-16.0,6.0,2.0,True,False,-0.35,Extended play,2
+SEA,4,LAC,2,1.0,10,Sam Darnold,-8.0,4.0,0.0,False,True,-0.999,QB fault (FTN),14
+SEA,4,LAC,4,2.0,10,Sam Darnold,-3.0,6.0,2.0,True,True,0.852,QB fault (FTN),14
+SEA,4,LAC,4,3.0,8,Sam Darnold,-9.0,8.0,4.0,False,True,-1.297,QB fault (FTN),14
+SEA,5,SF,1,2.0,3,Sam Darnold,-7.0,5.0,1.0,True,True,-1.355,QB fault (FTN),14
+SEA,5,SF,1,2.0,10,Sam Darnold,-5.0,4.0,0.0,False,True,-1.193,QB fault (FTN),14
+SEA,5,SF,2,1.0,10,Sam Darnold,-9.0,4.0,0.0,True,True,-1.463,QB fault (FTN),14
+SEA,5,SF,2,2.0,19,Sam Darnold,-7.0,4.0,0.0,False,True,-0.826,QB fault (FTN),14
+SEA,5,SF,4,3.0,5,Sam Darnold,-5.0,4.0,0.0,True,True,-1.351,QB fault (FTN),14
+SEA,6,DEN,1,2.0,4,Sam Darnold,-6.0,5.0,1.0,False,False,-1.265,Blitz,14
+SEA,6,DEN,1,3.0,10,Sam Darnold,-6.0,5.0,1.0,False,False,-1.694,Blitz,14
+SEA,6,DEN,3,3.0,7,Sam Darnold,-5.0,4.0,0.0,True,False,-1.526,Extended play,14
+SEA,6,DEN,3,3.0,5,Sam Darnold,-14.0,4.0,0.0,False,False,-2.022,Standard rush won,14
+SEA,6,DEN,4,3.0,11,Sam Darnold,-7.0,5.0,1.0,False,False,-1.485,Blitz,14
+SEA,8,CHI,1,1.0,10,Sam Darnold,-6.0,5.0,1.0,False,False,0.628,Blitz,14
+SEA,8,CHI,3,2.0,10,Sam Darnold,-8.0,5.0,1.0,False,False,-1.514,Blitz,14
+SEA,8,CHI,3,1.0,10,Sam Darnold,-3.0,5.0,1.0,False,True,-0.791,QB fault (FTN),14
+SEA,10,LV,1,2.0,4,Drew Lock,-3.0,6.0,2.0,False,False,-4.46,Blitz,2
+SEA,10,LV,4,1.0,10,Drew Lock,-1.0,5.0,1.0,False,False,-4.483,Blitz,2
+SEA,10,LV,4,3.0,6,Drew Lock,-4.0,4.0,0.0,True,False,-0.919,Extended play,2
+SF,5,SEA,1,3.0,1,Brock Purdy,-4.0,4.0,0.0,False,True,-2.042,QB fault (FTN),13
+SF,5,SEA,2,1.0,10,Brock Purdy,-8.0,5.0,1.0,False,True,-1.25,QB fault (FTN),13
+SF,5,SEA,2,3.0,12,Brock Purdy,-2.0,3.0,0.0,True,False,-1.251,Extended play,13
+SF,6,WAS,3,1.0,10,Brock Purdy,-9.0,6.0,2.0,False,False,-1.149,Blitz,13
+SF,6,WAS,4,2.0,4,Brock Purdy,-6.0,6.0,2.0,False,False,-1.083,Blitz,13
+SF,7,ATL,1,1.0,10,Brock Purdy,-7.0,5.0,1.0,False,False,-1.018,Blitz,13
+SF,7,ATL,4,4.0,10,Brock Purdy,-4.0,6.0,2.0,False,False,-2.646,Blitz,13
+SF,9,LV,2,1.0,10,Brock Purdy,-8.0,6.0,2.0,False,False,-0.632,Blitz,13
+SF,10,DAL,2,1.0,10,Brock Purdy,-2.0,6.0,2.0,True,False,-0.7,Extended play,13
+SF,10,DAL,2,2.0,12,Brock Purdy,-7.0,4.0,0.0,False,False,-1.308,Standard rush won,13
+SF,10,DAL,2,1.0,10,Brock Purdy,-6.0,5.0,1.0,True,False,-0.799,Extended play,13
+SF,10,DAL,2,1.0,10,Brock Purdy,-3.0,4.0,0.0,True,False,-0.523,Extended play,13
+SF,10,DAL,4,2.0,1,Brock Purdy,-1.0,4.0,0.0,False,True,-0.813,QB fault (FTN),13
+TB,1,CIN,1,3.0,9,Baker Mayfield,-7.0,5.0,1.0,True,True,-5.467,QB fault (FTN),6
+TB,1,CIN,1,1.0,10,Baker Mayfield,-4.0,4.0,0.0,True,True,-0.932,QB fault (FTN),6
+TB,1,CIN,3,3.0,6,Baker Mayfield,-9.0,4.0,0.0,False,True,-1.777,QB fault (FTN),6
+TB,1,CIN,4,1.0,15,Baker Mayfield,-3.0,4.0,0.0,False,True,-4.073,QB fault (FTN),6
+TB,2,CLE,1,1.0,10,Baker Mayfield,0.0,4.0,0.0,True,False,-0.477,Extended play,6
+TB,2,CLE,2,3.0,7,Baker Mayfield,0.0,4.0,0.0,True,False,-1.157,Extended play,6
+TB,2,CLE,2,3.0,15,Baker Mayfield,-6.0,4.0,0.0,False,True,-0.775,QB fault (FTN),6
+TB,3,MIN,2,1.0,10,Baker Mayfield,-7.0,5.0,1.0,False,False,-1.211,Blitz,6
+TB,3,MIN,2,1.0,10,Baker Mayfield,-5.0,5.0,1.0,False,False,-0.515,Blitz,6
+TB,3,MIN,3,3.0,7,Baker Mayfield,-1.0,6.0,2.0,True,False,-1.275,Extended play,6
+TB,3,MIN,3,2.0,9,Baker Mayfield,-6.0,5.0,1.0,False,False,-1.093,Blitz,6
+TB,3,MIN,4,3.0,2,Baker Mayfield,-2.0,5.0,1.0,True,False,-1.554,Extended play,6
+TB,3,MIN,4,2.0,19,Baker Mayfield,-10.0,4.0,0.0,False,False,-1.251,Standard rush won,6
+TB,4,GB,1,3.0,2,Jalon Daniels,0.0,5.0,1.0,True,False,-1.374,Extended play,10
+TB,4,GB,3,3.0,8,Jalon Daniels,-8.0,7.0,3.0,False,False,-1.534,Blitz,10
+TB,4,GB,4,2.0,10,Jalon Daniels,-6.0,5.0,1.0,False,False,-0.823,Blitz,10
+TB,5,DAL,3,1.0,10,Jalon Daniels,-11.0,5.0,1.0,False,False,-1.384,Blitz,10
+TB,6,PIT,1,3.0,9,Jalon Daniels,-15.0,5.0,1.0,False,False,-2.027,Blitz,10
+TB,6,PIT,1,1.0,10,Jalon Daniels,-10.0,5.0,1.0,False,False,-1.102,Blitz,10
+TB,6,PIT,2,1.0,10,Jalon Daniels,-1.0,4.0,0.0,True,True,-0.726,QB fault (FTN),10
+TB,6,PIT,4,2.0,10,Jalon Daniels,-5.0,4.0,0.0,True,True,-0.826,QB fault (FTN),10
+TB,6,PIT,5,4.0,8,Jalon Daniels,-11.0,5.0,1.0,False,False,-0.293,Blitz,10
+TB,8,ATL,3,3.0,7,Baker Mayfield,-2.0,5.0,1.0,True,False,-1.403,Extended play,6
+TB,9,CHI,3,3.0,5,Baker Mayfield,-4.0,4.0,0.0,False,False,-1.322,Standard rush won,6
+TB,9,CHI,3,1.0,20,Baker Mayfield,-2.0,5.0,1.0,False,False,-0.524,Blitz,6
+TB,9,CHI,4,1.0,10,Baker Mayfield,-3.0,6.0,2.0,False,False,-0.753,Blitz,6
+TB,9,CHI,4,2.0,13,Baker Mayfield,-8.0,4.0,0.0,False,False,-1.03,Standard rush won,6
+TEN,1,NYJ,1,1.0,10,Cam Ward,-1.0,5.0,1.0,False,True,-0.691,QB fault (FTN),1
+TEN,1,NYJ,3,3.0,8,Cam Ward,-1.0,4.0,0.0,True,True,-1.37,QB fault (FTN),1
+TEN,1,NYJ,4,2.0,14,Cam Ward,-11.0,4.0,0.0,True,False,-1.376,Extended play,1
+TEN,2,PHI,2,2.0,8,Cam Ward,-5.0,4.0,0.0,True,True,-0.596,QB fault (FTN),1
+TEN,2,PHI,4,1.0,9,Cam Ward,-9.0,4.0,0.0,True,False,-1.58,Extended play,1
+TEN,4,BAL,4,2.0,6,Cam Ward,-10.0,4.0,0.0,False,False,-1.128,Standard rush won,1
+TEN,5,HOU,4,1.0,10,Cam Ward,-9.0,6.0,2.0,False,False,-1.354,Blitz,1
+TEN,5,HOU,4,4.0,20,Cam Ward,-14.0,4.0,0.0,False,False,-2.268,Standard rush won,1
+TEN,5,HOU,4,1.0,10,Cam Ward,-4.0,4.0,0.0,False,False,-0.638,Standard rush won,1
+TEN,5,HOU,4,4.0,19,Cam Ward,-13.0,4.0,0.0,False,False,-2.184,Standard rush won,1
+TEN,7,CLE,2,3.0,1,Cam Ward,0.0,7.0,3.0,False,True,-1.014,QB fault (FTN),1
+TEN,8,CIN,3,2.0,7,Cam Ward,-9.0,4.0,0.0,False,False,-4.943,Standard rush won,1
+TEN,8,CIN,4,3.0,3,Cam Ward,-13.0,4.0,0.0,False,False,-1.519,Standard rush won,1
+TEN,10,JAX,3,3.0,5,Cam Ward,-9.0,8.0,4.0,False,False,-1.994,Blitz,1
+WAS,1,PHI,4,2.0,8,Jayden Daniels,-1.0,5.0,1.0,True,False,-0.804,Extended play,5
+WAS,3,SEA,2,3.0,8,Marcus Mariota,-2.0,4.0,0.0,False,False,-0.643,Standard rush won,8
+WAS,3,SEA,4,2.0,8,Marcus Mariota,-5.0,4.0,0.0,False,False,-1.144,Standard rush won,8
+WAS,4,IND,1,3.0,5,Marcus Mariota,-6.0,4.0,0.0,False,False,-1.457,Standard rush won,8
+WAS,4,IND,3,3.0,9,Athan Kaliakmanis,-9.0,6.0,2.0,False,False,-2.147,Blitz,16
+WAS,5,NYG,1,2.0,8,Jayden Daniels,-6.0,5.0,1.0,True,False,-1.23,Extended play,5
+WAS,5,NYG,1,3.0,10,Jayden Daniels,-8.0,5.0,1.0,False,False,-1.495,Blitz,5
+WAS,5,NYG,4,3.0,8,Jayden Daniels,-6.0,7.0,3.0,False,False,-1.314,Blitz,5
+WAS,5,NYG,4,2.0,10,Jayden Daniels,-3.0,6.0,2.0,False,False,-0.678,Blitz,5
+WAS,5,NYG,5,2.0,8,Jayden Daniels,0.0,6.0,2.0,True,True,-1.902,QB fault (FTN),5
+WAS,6,SF,1,3.0,9,Jayden Daniels,-6.0,6.0,2.0,False,False,-1.506,Blitz,5
+WAS,6,SF,2,1.0,19,Jayden Daniels,-3.0,4.0,0.0,False,True,-0.653,QB fault (FTN),5
+WAS,6,SF,3,3.0,8,Jayden Daniels,-12.0,4.0,0.0,False,True,-1.634,QB fault (FTN),5
+WAS,6,SF,4,3.0,22,Jayden Daniels,-18.0,3.0,0.0,False,False,-0.76,Standard rush won,5
+WAS,8,PHI,3,3.0,9,Jayden Daniels,-12.0,4.0,0.0,False,False,-1.898,Standard rush won,5
+WAS,8,PHI,4,3.0,6,Jayden Daniels,-1.0,4.0,0.0,True,True,-1.205,QB fault (FTN),5
+WAS,9,LA,2,1.0,20,Jayden Daniels,-4.0,4.0,0.0,True,True,-3.448,QB fault (FTN),5
+WAS,9,LA,4,2.0,9,Jayden Daniels,-5.0,4.0,0.0,False,False,-1.272,Standard rush won,5
+WAS,9,LA,4,2.0,10,Jayden Daniels,0.0,6.0,2.0,True,False,-0.419,Extended play,5
+WAS,9,LA,4,3.0,5,Jayden Daniels,-12.0,3.0,0.0,False,False,-1.82,Standard rush won,5
+WAS,10,NYG,3,2.0,11,Jayden Daniels,-14.0,4.0,0.0,False,False,-1.505,Standard rush won,5
